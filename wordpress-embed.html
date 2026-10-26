@@ -1,0 +1,167 @@
+<!-- ===================================================================
+     Internships & Jobs board — WordPress "Custom HTML" block
+     Paste this whole file into one Custom HTML block.
+     Data: https://raw.githubusercontent.com/JoeyHartz/design-job-board-feed/main/postings.json
+     (updated every weekday). All styles are scoped to #ijb so they
+     can't affect the rest of the page. Requires a user who can save
+     <script> tags (WordPress administrator / unfiltered_html).
+     =================================================================== -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500;600;700;800&family=Source+Sans+3:wght@400;600;700&display=swap">
+<style>
+#ijb{--navy:#13294B;--orange:#FF5F05;--orange-dk:#C84500;--ink:#1d2230;--body:#3b4252;--muted:#4a5160;--panel:#f4f5f7;--rule:#e3e6ec;--chip-line:#cdd2da;--tag:#e8ebf0;--hl:#ffe3d2;--hl-ink:#8a2f00;--ux:#1D58A7;--white:#fff;--display:Montserrat,"Avenir Next",system-ui,sans-serif;--text:"Source Sans 3",system-ui,sans-serif;
+  font-family:var(--text);font-size:16px;line-height:1.5;color:var(--ink);background:var(--white);-webkit-font-smoothing:antialiased;max-width:1280px;margin:0 auto;text-align:left}
+#ijb *,#ijb *::before,#ijb *::after{box-sizing:border-box}
+#ijb a{color:var(--navy)} #ijb a:hover{color:var(--orange-dk)}
+#ijb [hidden]{display:none!important}
+#ijb .ijb-eyebrow{font:700 13px var(--display);letter-spacing:.12em;color:var(--orange-dk);margin:0}
+#ijb .ijb-h{font:800 clamp(30px,5.5vw,42px)/1.1 var(--display);letter-spacing:-.03em;color:var(--navy);margin:8px 0 12px;padding:0;border:0;text-transform:none}
+#ijb .ijb-lede{font-size:19px;line-height:1.55;color:var(--body);margin:0 0 32px;max-width:720px}
+#ijb .ijb-filters{display:grid;grid-template-columns:repeat(3,minmax(0,1fr)) minmax(240px,1.5fr);gap:14px 16px;align-items:end;padding:20px;background:var(--panel);border-radius:20px}
+#ijb .ijb-field{display:flex;flex-direction:column;gap:6px;min-width:0}
+#ijb .ijb-flabel{font:700 13px var(--display);color:var(--muted);letter-spacing:.02em;margin:0}
+#ijb .ijb-sel{-webkit-appearance:none;appearance:none;width:100%;min-width:0;margin:0;border:1px solid var(--chip-line);background:var(--white) url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8' viewBox='0 0 12 8'%3E%3Cpath d='M1 1.5l5 5 5-5' fill='none' stroke='%2313294B' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E") no-repeat right 14px center/12px 8px;color:var(--navy);padding:7px 38px 7px 16px;font:600 14px var(--display);line-height:1.4;height:auto;border-radius:999px;cursor:pointer;box-shadow:none;transition:all .2s ease}
+#ijb .ijb-sel:hover{border-color:var(--navy)}
+#ijb .ijb-sel.on{background-color:var(--navy);border-color:var(--navy);color:var(--white);background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8' viewBox='0 0 12 8'%3E%3Cpath d='M1 1.5l5 5 5-5' fill='none' stroke='%23ffffff' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E")}
+#ijb .ijb-sel option{color:var(--ink);background:var(--white)}
+#ijb .ijb-sel.sm{width:auto;padding:5px 32px 5px 12px;background-position:right 11px center}
+#ijb .ijb-q{width:100%;min-width:0;margin:0;font:400 15px var(--text);color:var(--ink);background:var(--white);border:1px solid var(--chip-line);border-radius:999px;padding:7px 16px;height:auto;box-shadow:none}
+#ijb .ijb-sel:focus-visible,#ijb .ijb-q:focus-visible,#ijb .ijb-chip:focus-visible,#ijb .ijb-row a:focus-visible{outline:2px solid var(--orange);outline-offset:2px}
+#ijb .ijb-countbar{margin:24px 0 8px}
+#ijb .ijb-count{font:700 16px var(--display);color:var(--navy);margin:0}
+#ijb .ijb-count small{font:400 14px var(--text);color:var(--muted)}
+#ijb .ijb-row{display:flex;justify-content:space-between;gap:16px;flex-wrap:wrap;padding:20px 0;border-top:1px solid var(--rule)}
+#ijb .ijb-main{min-width:0;flex:1 1 420px}
+#ijb .ijb-rt{font:700 19px/1.3 var(--display);color:var(--navy);margin:0;padding:0;letter-spacing:0;text-transform:none}
+#ijb .ijb-rco{font-size:16px;color:var(--body);margin:4px 0 0}
+#ijb .ijb-note{font-size:15px;color:var(--muted);margin:6px 0 0;max-width:70ch}
+#ijb .ijb-tags{display:flex;gap:6px;flex-wrap:wrap;margin-top:10px}
+#ijb .ijb-tag{background:var(--tag);padding:4px 10px;font:700 13px/1.4 var(--text);color:var(--navy)}
+#ijb .ijb-tag.hl{background:var(--hl);color:var(--hl-ink)}
+#ijb .ijb-tag.prog{background:var(--white);border:1px solid var(--chip-line);border-left:5px solid var(--navy);padding:3px 10px 3px 8px}
+#ijb .ijb-tag.p-GD{border-left-color:var(--orange-dk)}
+#ijb .ijb-tag.p-UX{border-left-color:var(--ux)}
+#ijb .ijb-tag.p-Both{box-shadow:inset 4px 0 0 var(--orange-dk)}
+#ijb .ijb-side{display:flex;flex-direction:column;align-items:flex-end;gap:8px;text-align:right}
+#ijb .ijb-date{font-size:14px;color:var(--muted)}
+#ijb .ijb-side a{font:700 14px var(--display);text-decoration:none}
+#ijb .ijb-empty{padding:40px;text-align:center;background:var(--panel);font-size:17px;color:var(--body);border-radius:20px;margin-top:8px}
+#ijb .ijb-pager{display:flex;justify-content:space-between;align-items:center;gap:12px 20px;flex-wrap:wrap;margin-top:8px;padding-top:16px;border-top:1px solid var(--rule)}
+#ijb .ijb-pinfo{font-size:14px;color:var(--muted)}
+#ijb .ijb-pctl{display:flex;align-items:center;gap:6px;flex-wrap:wrap}
+#ijb .ijb-chip{border:1px solid var(--chip-line);background:var(--white);color:var(--navy);padding:6px 14px;margin:0;font:600 14px var(--display);line-height:1.4;cursor:pointer;border-radius:999px;min-width:36px;text-align:center;box-shadow:none;text-transform:none;letter-spacing:0;transition:all .2s ease}
+#ijb .ijb-chip:hover{border-color:var(--navy);background:var(--white);color:var(--navy)}
+#ijb .ijb-chip[aria-current="page"]{background:var(--navy);border-color:var(--navy);color:var(--white)}
+#ijb .ijb-chip:disabled{opacity:.4;cursor:default;border-color:var(--chip-line)}
+#ijb .ijb-gap{color:var(--muted);padding:0 2px}
+#ijb .ijb-psize{display:inline-flex;align-items:center;gap:8px;font-size:14px;color:var(--muted);margin:0}
+#ijb .ijb-foot{margin-top:40px;padding:24px;background:var(--panel);border-radius:20px;font-size:15px;line-height:1.55;color:var(--body)}
+#ijb .ijb-foot strong{font:700 17px var(--display);color:var(--navy);display:block;margin-bottom:4px}
+@media (max-width:900px){#ijb .ijb-filters{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media (max-width:640px){#ijb .ijb-side{align-items:flex-start;text-align:left;flex-direction:row;flex-wrap:wrap;gap:8px 16px;width:100%}}
+@media (max-width:520px){#ijb .ijb-filters{grid-template-columns:1fr}}
+@media (prefers-reduced-motion:reduce){#ijb .ijb-chip,#ijb .ijb-sel{transition:none}}
+</style>
+
+<div id="ijb">
+  <p class="ijb-eyebrow">FOR STUDENTS</p>
+  <h2 class="ijb-h">Internships &amp; Jobs</h2>
+  <p class="ijb-lede">Internships, co-ops and entry-level roles for Industrial Design and Graphic Design students, including UI/UX and digital product design roles, in the US and abroad, checked every weekday morning. Each listing links straight to the employer or the board it came from.</p>
+
+  <div class="ijb-filters" role="group" aria-label="Filter positions">
+    <div class="ijb-field"><label class="ijb-flabel" for="ijb-disc">PROGRAM</label>
+      <select class="ijb-sel" id="ijb-disc"><option value="all">All programs</option><option value="Industrial Design">Industrial Design</option><option value="Graphic Design">Graphic Design</option><option value="UI/UX &amp; Digital Product">UI/UX &amp; Digital Product</option></select></div>
+    <div class="ijb-field"><label class="ijb-flabel" for="ijb-level">TYPE</label>
+      <select class="ijb-sel" id="ijb-level"><option value="all">All types</option><option value="Internship">Internship or co-op</option><option value="Entry-level">Entry-level</option></select></div>
+    <div class="ijb-field"><label class="ijb-flabel" for="ijb-region">WHERE</label>
+      <select class="ijb-sel" id="ijb-region"><option value="all">Anywhere</option><option value="Chicago area">Chicago area</option><option value="Midwest">Midwest</option><option value="Remote">Remote</option><option value="Elsewhere in US">Elsewhere in US</option><option value="International">International</option></select></div>
+    <div class="ijb-field"><label class="ijb-flabel" for="ijb-q">SEARCH</label><input class="ijb-q" type="search" id="ijb-q" placeholder="Company, title or city"></div>
+  </div>
+
+  <div class="ijb-countbar"><p class="ijb-count" id="ijb-count">Loading positions…</p></div>
+  <div id="ijb-list" aria-live="polite"></div>
+  <nav class="ijb-pager" id="ijb-pager" aria-label="Positions pages" hidden>
+    <div class="ijb-pinfo" id="ijb-pinfo"></div>
+    <div class="ijb-pctl" id="ijb-pctl"></div>
+    <label class="ijb-psize" for="ijb-per">Show <select class="ijb-sel sm" id="ijb-per"><option value="10">10</option><option value="25">25</option><option value="50">50</option><option value="100">100</option><option value="0">All</option></select> per page</label>
+  </nav>
+
+  <div class="ijb-foot"><strong>Before you apply</strong>Listings are gathered by an automated search and can close without notice. Confirm dates, pay and eligibility on the employer's site. For roles outside the US, check visa and work-authorization requirements with the employer and with Illinois International before applying. Questions about internship credit or your application materials? Reach out to Industry Relations.</div>
+</div>
+
+<script>
+(function(){
+  var FEED="https://raw.githubusercontent.com/JoeyHartz/design-job-board-feed/main/postings.json";
+  var root=document.getElementById("ijb"); if(!root) return;
+  function $(id){return document.getElementById(id);}
+  var DAY=86400000, PERS=[10,25,50,100,0];
+  var st={items:[],disc:"all",level:"all",region:"all",q:"",page:1,per:25};
+  var KEY={"Industrial Design":"ID","Graphic Design":"GD","UI/UX & Digital Product":"UX","ID + GD":"Both"};
+  function today(){var d=new Date();d.setHours(0,0,0,0);return d;}
+  function parseD(s){if(!s)return null;var p=String(s).slice(0,10).split("-");if(p.length<3)return null;return new Date(+p[0],+p[1]-1,+p[2]);}
+  function fmt(d){return d?d.toLocaleDateString(undefined,{month:"short",day:"numeric"}):"";}
+  function el(t,c,x){var e=document.createElement(t);if(c)e.className=c;if(x!=null)e.textContent=x;return e;}
+  function okPer(n){return PERS.indexOf(n)>-1?n:25;}
+
+  try{var sv=JSON.parse(localStorage.getItem("ijb-filters")||"{}");st.disc=sv.disc||"all";st.level=sv.level||"all";st.region=sv.region||"all";if(sv.per!=null)st.per=okPer(+sv.per);}catch(e){}
+  function save(){try{localStorage.setItem("ijb-filters",JSON.stringify({disc:st.disc,level:st.level,region:st.region,per:st.per}));}catch(e){}}
+  var F=[["ijb-disc","disc"],["ijb-level","level"],["ijb-region","region"]];
+  function sync(){F.forEach(function(f){var s=$(f[0]);var ok=[].some.call(s.options,function(o){return o.value===st[f[1]];});if(!ok)st[f[1]]="all";s.value=st[f[1]];s.classList.toggle("on",st[f[1]]!=="all");});$("ijb-per").value=String(st.per);}
+  F.forEach(function(f){$(f[0]).addEventListener("change",function(e){st[f[1]]=e.target.value;st.page=1;save();sync();render();});});
+  $("ijb-q").addEventListener("input",function(e){st.q=e.target.value.trim().toLowerCase();st.page=1;render();});
+  $("ijb-per").addEventListener("change",function(e){st.per=okPer(+e.target.value);st.page=1;save();render();});
+  sync();
+
+  function matches(p){
+    var t=today(),d=parseD(p.apply_by); if(d&&d<t)return false;
+    if(st.disc!=="all"&&!(p.program===st.disc||(p.program==="ID + GD"&&st.disc!=="UI/UX & Digital Product")))return false;
+    if(st.level==="Internship"&&!(p.type==="Internship"||p.type==="Co-op"))return false;
+    if(st.level==="Entry-level"&&p.type!=="Entry-level")return false;
+    if(st.region!=="all"&&p.region!==st.region)return false;
+    if(st.q){var h=[p.title,p.company,p.location,p.term,p.note].join(" ").toLowerCase();if(h.indexOf(st.q)<0)return false;}
+    return true;
+  }
+  function pageList(p,n){var w=[1,n,p-1,p,p+1].filter(function(x,i,a){return x>=1&&x<=n&&a.indexOf(x)===i;}).sort(function(a,b){return a-b;});var o=[],prev=0;w.forEach(function(x){if(x-prev>1)o.push(null);o.push(x);prev=x;});return o;}
+  function drawPager(total,pg){
+    $("ijb-pager").hidden=total===0;
+    $("ijb-pinfo").textContent=total?("Showing "+(pg.start+1)+"–"+pg.end+" of "+total):"";
+    var c=$("ijb-pctl");c.innerHTML="";if(pg.pages<=1)return;
+    function btn(label,n,aria,cur){var b=el("button","ijb-chip",label);b.type="button";b.setAttribute("aria-label",aria);if(cur)b.setAttribute("aria-current","page");if(n==null)b.disabled=true;else b.addEventListener("click",function(){st.page=n;render();var a=$("ijb-count");if(a&&a.scrollIntoView)a.scrollIntoView({block:"start"});});return b;}
+    c.appendChild(btn("‹ Prev",pg.page>1?pg.page-1:null,"Previous page"));
+    pageList(pg.page,pg.pages).forEach(function(n){if(n==null){c.appendChild(el("span","ijb-gap","…"));return;}c.appendChild(btn(String(n),n===pg.page?null:n,"Page "+n,n===pg.page));});
+    c.appendChild(btn("Next ›",pg.page<pg.pages?pg.page+1:null,"Next page"));
+  }
+  function render(){
+    var t=today();
+    var rows=st.items.filter(matches).sort(function(a,b){return String(b.found||"").localeCompare(String(a.found||""))||String(a.company).localeCompare(String(b.company));});
+    var fresh=st.items.filter(function(p){var f=parseD(p.found);return f&&(t-f)<=7*DAY;}).length;
+    var c=$("ijb-count");c.textContent=rows.length+(rows.length===1?" open position ":" open positions ");
+    var bits=[];if(fresh)bits.push(fresh+" new this week");bits.push("updated every weekday");
+    c.appendChild(el("small",null,"· "+bits.join(" · ")));
+    var per=st.per,pages=per?Math.max(1,Math.ceil(rows.length/per)):1;st.page=Math.min(Math.max(1,st.page),pages);
+    var start=per?(st.page-1)*per:0,end=per?Math.min(rows.length,st.page*per):rows.length;
+    drawPager(rows.length,{page:st.page,pages:pages,start:start,end:end});
+    var list=$("ijb-list");list.innerHTML="";
+    if(!rows.length){list.appendChild(el("div","ijb-empty","No positions match these filters right now. Try another program, type or location."));return;}
+    rows.slice(start,end).forEach(function(p){
+      var r=el("article","ijb-row"),m=el("div","ijb-main");
+      m.appendChild(el("h3","ijb-rt",p.title||""));
+      m.appendChild(el("p","ijb-rco",[p.company,p.location].filter(Boolean).join(" · ")));
+      var extra=[p.term,p.pay].filter(Boolean).join(" · ");if(extra)m.appendChild(el("p","ijb-note",extra));
+      if(p.note)m.appendChild(el("p","ijb-note",p.note));
+      var tg=el("div","ijb-tags"),k=KEY[p.program]||"Both";
+      tg.appendChild(el("span","ijb-tag prog p-"+k,p.program||"ID + GD"));
+      tg.appendChild(el("span","ijb-tag",p.type||"Position"));
+      var f=parseD(p.found);if(f&&(t-f)<=7*DAY)tg.appendChild(el("span","ijb-tag hl","New"));
+      var d=parseD(p.apply_by);if(d){var days=Math.round((d-t)/DAY);tg.appendChild(el("span","ijb-tag"+(days<=14?" hl":""),"Apply by "+fmt(d)));}
+      m.appendChild(tg);
+      var s=el("div","ijb-side");if(f)s.appendChild(el("span","ijb-date","Posted here "+fmt(f)));
+      if(p.link){var a=el("a",null,"View posting ↗");a.href=p.link;a.target="_blank";a.rel="noopener";s.appendChild(a);}
+      r.appendChild(m);r.appendChild(s);list.appendChild(r);
+    });
+  }
+  fetch(FEED,{cache:"no-cache"}).then(function(r){if(!r.ok)throw new Error(r.status);return r.json();})
+    .then(function(data){st.items=Array.isArray(data)?data:[];render();})
+    .catch(function(){$("ijb-count").textContent="Positions couldn't load right now. Please refresh the page or try again later.";});
+})();
+</script>
