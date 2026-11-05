@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "id": "the-james-brand-junior-industrial-designer",
+  "title": "Junior Industrial Designer",
+  "company": "The James Brand",
+  "programs": [
+    "ID"
+  ],
+  "level": "Entry-level",
+  "term": "",
+  "location": "Portland, OR or Oceanside, CA (in office)",
+  "region": "Elsewhere in US",
+  "pay": "",
+  "deadline": "",
+  "url": "https://thejamesbrand.com/blogs/careers/junior-industrial-designer",
+  "source": "The James Brand",
+  "note": "Asks for a BA in Industrial Design and 1–3 years of product design experience; apply by email to workhere@thejamesbrand.com.",
+  "status": "open",
+  "firstSeen": "2026-11-02",
+  "lastUpdated": "2026-11-02",
+  "lastVerified": "2026-11-02",
+  "closedAt": "",
+  "closedReason": "",
+  "statusHistory": [
+    {
+      "date": "2026-11-05",
+      "status": "open",
+      "reason": "imported from artifact"
+    }
+  ],
+  "facts": {},
+  "previousStatus": "",
+  "errorDetail": ""
+}

@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "id": "textron-aviation-id-intern-2027",
+  "title": "2027 Internship – Industrial Design",
+  "company": "Textron Aviation",
+  "programs": [
+    "ID"
+  ],
+  "level": "Internship",
+  "term": "Summer 2027, 10 weeks",
+  "location": "Wichita, KS · on-site",
+  "region": "Midwest",
+  "pay": "Paid + prepaid stipend",
+  "deadline": "2026-10-31",
+  "url": "https://lemanoosh.com/jobs/2027-internship-industrial-design/",
+  "source": "leManoosh",
+  "note": "Aircraft interiors and product. Deadline listed as Oct 31 and may change.",
+  "status": "closed",
+  "firstSeen": "2026-10-22",
+  "lastUpdated": "2026-11-02",
+  "lastVerified": "2026-10-22",
+  "closedAt": "2026-11-02",
+  "closedReason": "imported from artifact",
+  "statusHistory": [
+    {
+      "date": "2026-11-05",
+      "status": "closed",
+      "reason": "imported from artifact"
+    }
+  ],
+  "facts": {},
+  "previousStatus": "",
+  "errorDetail": ""
+}

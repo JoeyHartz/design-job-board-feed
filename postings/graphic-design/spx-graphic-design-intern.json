@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "id": "spx-graphic-design-intern",
+  "title": "Graphic Design Intern",
+  "company": "SPX Technologies",
+  "programs": [
+    "GD"
+  ],
+  "level": "Internship",
+  "term": "",
+  "location": "Willowbrook, IL (on-site)",
+  "region": "Chicago area",
+  "pay": "",
+  "deadline": "",
+  "url": "https://www.linkedin.com/jobs/view/4470181987/",
+  "source": "LinkedIn",
+  "note": "Industrial products company. Graphic design or visual communication majors; a Burr Ridge posting is also listed.",
+  "status": "open",
+  "firstSeen": "2026-10-23",
+  "lastUpdated": "2026-10-23",
+  "lastVerified": "2026-10-23",
+  "closedAt": "",
+  "closedReason": "",
+  "statusHistory": [
+    {
+      "date": "2026-11-05",
+      "status": "open",
+      "reason": "imported from artifact"
+    }
+  ],
+  "facts": {},
+  "previousStatus": "",
+  "errorDetail": ""
+}

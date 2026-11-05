@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "id": "storable-junior-graphic-designer",
+  "title": "Junior Graphic Designer",
+  "company": "Storable",
+  "programs": [
+    "GD"
+  ],
+  "level": "Entry-level",
+  "term": "Full-time",
+  "location": "Bellevue, WA",
+  "region": "Elsewhere in US",
+  "pay": "",
+  "deadline": "",
+  "url": "https://www.linkedin.com/jobs/view/4480482317/",
+  "source": "LinkedIn",
+  "note": "Software company's brand team. About 1 year of experience.",
+  "status": "open",
+  "firstSeen": "2026-10-23",
+  "lastUpdated": "2026-10-23",
+  "lastVerified": "2026-10-23",
+  "closedAt": "",
+  "closedReason": "",
+  "statusHistory": [
+    {
+      "date": "2026-11-05",
+      "status": "open",
+      "reason": "imported from artifact"
+    }
+  ],
+  "facts": {},
+  "previousStatus": "",
+  "errorDetail": ""
+}
