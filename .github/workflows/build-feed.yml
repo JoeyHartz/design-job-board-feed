@@ -1,0 +1,120 @@
+name: Build feed
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "postings/**"
+      - "watchlist/**"
+      - "config/**"
+      - "scripts/**"
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "Override the safety stop (only after checking the log)"
+        type: boolean
+        default: false
+  schedule:
+    - cron: "5 16 * * *"
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: build-feed
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run tests
+        id: tests
+        run: python3 -m unittest discover -s tests -v
+
+      - name: Build feed
+        id: build
+        env:
+          EVENT: ${{ github.event_name }}
+          BEFORE: ${{ github.event.before }}
+          FORCE: ${{ inputs.force }}
+        run: |
+          kind=edit
+          base=HEAD
+          if [ "$EVENT" = "schedule" ]; then kind=daily; fi
+          if [ "$EVENT" = "push" ] && [ -n "$BEFORE" ] && git cat-file -e "$BEFORE^{commit}" 2>/dev/null; then
+            base="$BEFORE"
+          fi
+          args="--kind $kind --base $base"
+          if [ "$FORCE" = "true" ]; then args="$args --force"; fi
+          python3 scripts/build_feed.py $args
+
+      - name: Commit and push
+        if: always() && steps.tests.outcome == 'success' && steps.build.outcome != 'skipped'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898237+github-actions[bot]@users.noreply.github.com"
+          git add -A postings watchlist logs postings.csv postings.json
+          if git diff --cached --quiet; then
+            echo "Nothing to commit."
+            exit 0
+          fi
+          total=$(python3 -c "import json;print(json.load(open('run/last-build.json')).get('feedTotal',''))" 2>/dev/null || echo "?")
+          git commit -m "Build feed: $total open postings ($(TZ=America/Chicago date +%F)) [skip ci]"
+          for i in 1 2 3; do
+            git pull --rebase origin main && git push origin HEAD:main && exit 0
+            sleep $((i * 5))
+          done
+          echo "Push failed after 3 tries." >&2
+          exit 1
+
+      - name: Report problems in an issue
+        if: always()
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            let result = {};
+            try { result = JSON.parse(fs.readFileSync('run/last-build.json', 'utf8')); } catch (e) {}
+            const failed = '${{ job.status }}' !== 'success';
+            const stopped = result.stopped === true;
+            const errors = result.errors || 0;
+            if (!failed && !stopped && errors === 0) return;
+
+            const runUrl = `${context.serverUrl}/${context.repo.owner}/${context.repo.repo}/actions/runs/${context.runId}`;
+            const logUrl = result.logPath
+              ? `${context.serverUrl}/${context.repo.owner}/${context.repo.repo}/blob/main/${result.logPath}`
+              : null;
+            const lines = [];
+            if (stopped) lines.push(`**Safety stop.** ${result.message || ''}`);
+            else if (failed) lines.push('**The build failed** (tests, build, or push).');
+            if (errors) lines.push(`${errors} file(s) have errors and were moved to \`_errors/\`.`);
+            if (result.message && !stopped) lines.push(result.message);
+            lines.push(logUrl ? `Log: ${logUrl}` : 'No log was written; see the run.');
+            lines.push(`Run: ${runUrl}`);
+            const body = lines.join('\n\n') + '\n\n---\n_Opened by the Build feed workflow._';
+
+            const label = 'build-problem';
+            try {
+              await github.rest.issues.getLabel({ ...context.repo, name: label });
+            } catch (e) {
+              await github.rest.issues.createLabel({ ...context.repo, name: label, color: 'd73a4a' });
+            }
+            const open = await github.rest.issues.listForRepo({ ...context.repo, state: 'open', labels: label });
+            if (open.data.length) {
+              await github.rest.issues.createComment({ ...context.repo, issue_number: open.data[0].number, body });
+            } else {
+              await github.rest.issues.create({ ...context.repo, title: 'Job board build needs attention',
+                                                labels: [label], body });
+            }
