@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "id": "fittes-industrial-design-co-op",
+  "title": "Industrial Design Co-op",
+  "company": "Fittes",
+  "programs": [
+    "ID"
+  ],
+  "level": "Co-op",
+  "term": "Winter 2027",
+  "location": "Toronto, ON, Canada",
+  "region": "International",
+  "pay": "CA$18/hr",
+  "deadline": "",
+  "url": "https://www.linkedin.com/jobs/view/4482761109/",
+  "source": "Watchlist · Physical Design Internships",
+  "note": "Consumer product design co-op in Canada; check work-eligibility requirements before applying.",
+  "status": "open",
+  "firstSeen": "2026-10-28",
+  "lastUpdated": "2026-10-28",
+  "lastVerified": "2026-10-28",
+  "closedAt": "",
+  "closedReason": "",
+  "statusHistory": [
+    {
+      "date": "2026-11-05",
+      "status": "open",
+      "reason": "imported from artifact"
+    }
+  ],
+  "facts": {},
+  "previousStatus": "",
+  "errorDetail": ""
+}

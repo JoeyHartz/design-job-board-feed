@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "id": "key-tech-id-early-career",
+  "title": "Industrial Designer (early career)",
+  "company": "Key Tech",
+  "programs": [
+    "ID"
+  ],
+  "level": "Entry-level",
+  "term": "Full-time",
+  "location": "Baltimore, MD",
+  "region": "Elsewhere in US",
+  "pay": "",
+  "deadline": "",
+  "url": "https://lemanoosh.com/jobs/industrial-designer-baltimore-maryland/",
+  "source": "leManoosh",
+  "note": "Product development consultancy, medical and consumer devices.",
+  "status": "open",
+  "firstSeen": "2026-10-22",
+  "lastUpdated": "2026-10-22",
+  "lastVerified": "2026-10-22",
+  "closedAt": "",
+  "closedReason": "",
+  "statusHistory": [
+    {
+      "date": "2026-11-05",
+      "status": "open",
+      "reason": "imported from artifact"
+    }
+  ],
+  "facts": {},
+  "previousStatus": "",
+  "errorDetail": ""
+}

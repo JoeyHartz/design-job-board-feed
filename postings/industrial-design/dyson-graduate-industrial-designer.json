@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "id": "dyson-graduate-industrial-designer",
+  "title": "Graduate Industrial Designer",
+  "company": "Dyson",
+  "programs": [
+    "ID"
+  ],
+  "level": "Entry-level",
+  "term": "Full-time (2-year graduate programme)",
+  "location": "Malmesbury, United Kingdom (on-site)",
+  "region": "International",
+  "pay": "",
+  "deadline": "",
+  "url": "https://careers.dyson.com/en-gb/job-description/graduate-industrial-designer/JR31394",
+  "source": "Watchlist · Dyson",
+  "note": "Rotations in industrial design, CMF, packaging, visualisation and model making; for ID/product design grads with no more than two years' experience.",
+  "status": "open",
+  "firstSeen": "2026-10-30",
+  "lastUpdated": "2026-10-30",
+  "lastVerified": "2026-10-30",
+  "closedAt": "",
+  "closedReason": "",
+  "statusHistory": [
+    {
+      "date": "2026-11-05",
+      "status": "open",
+      "reason": "imported from artifact"
+    }
+  ],
+  "facts": {},
+  "previousStatus": "",
+  "errorDetail": ""
+}

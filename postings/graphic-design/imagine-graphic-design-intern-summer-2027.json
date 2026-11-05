@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "id": "imagine-graphic-design-intern-summer-2027",
+  "title": "Summer 2027 Graphic Design Intern",
+  "company": "Imagine (The Imagine Group)",
+  "programs": [
+    "GD"
+  ],
+  "level": "Internship",
+  "term": "Summer 2027",
+  "location": "Shakopee, MN",
+  "region": "Midwest",
+  "pay": "$20/hr",
+  "deadline": "",
+  "url": "https://www.linkedin.com/jobs/view/4470982757/",
+  "source": "LinkedIn",
+  "note": "Print and marketing communications company. Students or recent grads.",
+  "status": "open",
+  "firstSeen": "2026-10-23",
+  "lastUpdated": "2026-10-23",
+  "lastVerified": "2026-10-23",
+  "closedAt": "",
+  "closedReason": "",
+  "statusHistory": [
+    {
+      "date": "2026-11-05",
+      "status": "open",
+      "reason": "imported from artifact"
+    }
+  ],
+  "facts": {},
+  "previousStatus": "",
+  "errorDetail": ""
+}

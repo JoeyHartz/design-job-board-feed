@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "id": "goteez-jr-graphic-designer",
+  "title": "Jr Graphic Designer",
+  "company": "GoTeez",
+  "programs": [
+    "GD"
+  ],
+  "level": "Entry-level",
+  "term": "Full-time",
+  "location": "Alcoa, TN",
+  "region": "Elsewhere in US",
+  "pay": "",
+  "deadline": "",
+  "url": "https://designproject.io/jobs/jr-graphic-designer-at-goteez-1cidlg",
+  "source": "designproject.io",
+  "note": "Print production art for apparel, signage and promotional products, including screen-print separations; 0–2 years.",
+  "status": "open",
+  "firstSeen": "2026-11-04",
+  "lastUpdated": "2026-11-04",
+  "lastVerified": "2026-11-04",
+  "closedAt": "",
+  "closedReason": "",
+  "statusHistory": [
+    {
+      "date": "2026-11-05",
+      "status": "open",
+      "reason": "imported from artifact"
+    }
+  ],
+  "facts": {},
+  "previousStatus": "",
+  "errorDetail": ""
+}

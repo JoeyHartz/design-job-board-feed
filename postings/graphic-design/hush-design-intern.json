@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "id": "hush-design-intern",
+  "title": "Design Intern",
+  "company": "HUSH",
+  "programs": [
+    "GD"
+  ],
+  "level": "Internship",
+  "term": "3 months minimum, full-time",
+  "location": "Brooklyn, NY",
+  "region": "Elsewhere in US",
+  "pay": "$20/hr",
+  "deadline": "",
+  "url": "https://jobs.lever.co/hush/6ca815d9-3477-4f62-82ab-6d2831b1bf0f",
+  "source": "Lever",
+  "note": "Experiential design studio. Recent graduates only; current students aren't eligible.",
+  "status": "open",
+  "firstSeen": "2026-10-23",
+  "lastUpdated": "2026-10-23",
+  "lastVerified": "2026-10-23",
+  "closedAt": "",
+  "closedReason": "",
+  "statusHistory": [
+    {
+      "date": "2026-11-05",
+      "status": "open",
+      "reason": "imported from artifact"
+    }
+  ],
+  "facts": {},
+  "previousStatus": "",
+  "errorDetail": ""
+}

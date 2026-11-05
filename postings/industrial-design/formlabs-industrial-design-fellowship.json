@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "id": "formlabs-industrial-design-fellowship",
+  "title": "Industrial Design Fellowship",
+  "company": "Formlabs",
+  "programs": [
+    "ID"
+  ],
+  "level": "Entry-level",
+  "term": "Six months, full-time on-site",
+  "location": "Somerville, MA",
+  "region": "Elsewhere in US",
+  "pay": "$1,575–1,950/week",
+  "deadline": "",
+  "url": "https://careers.formlabs.com/job/8028577/apply/?gh_jid=8028577",
+  "source": "Watchlist · Physical Design Internships",
+  "note": "Paid six-month fellowship suited to recent grads.",
+  "status": "open",
+  "firstSeen": "2026-10-22",
+  "lastUpdated": "2026-10-22",
+  "lastVerified": "2026-10-22",
+  "closedAt": "",
+  "closedReason": "",
+  "statusHistory": [
+    {
+      "date": "2026-11-05",
+      "status": "open",
+      "reason": "imported from artifact"
+    }
+  ],
+  "facts": {},
+  "previousStatus": "",
+  "errorDetail": ""
+}

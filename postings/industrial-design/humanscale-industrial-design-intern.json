@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "id": "humanscale-industrial-design-intern",
+  "title": "Industrial Design Intern",
+  "company": "Humanscale",
+  "programs": [
+    "ID"
+  ],
+  "level": "Internship",
+  "term": "",
+  "location": "New York, NY",
+  "region": "Elsewhere in US",
+  "pay": "$22/hr",
+  "deadline": "",
+  "url": "https://careers-humanscale.icims.com/jobs/4133/industrial-design-intern/job",
+  "source": "Watchlist · Humanscale",
+  "note": "Ergonomic office furniture and products; requires at least 3 completed years of an industrial design degree.",
+  "status": "open",
+  "firstSeen": "2026-10-23",
+  "lastUpdated": "2026-10-23",
+  "lastVerified": "2026-10-23",
+  "closedAt": "",
+  "closedReason": "",
+  "statusHistory": [
+    {
+      "date": "2026-11-05",
+      "status": "open",
+      "reason": "imported from artifact"
+    }
+  ],
+  "facts": {},
+  "previousStatus": "",
+  "errorDetail": ""
+}
