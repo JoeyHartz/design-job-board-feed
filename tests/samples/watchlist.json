@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "id": "sample-co",
+  "company": "Sample Co",
+  "programs": ["ID"],
+  "status": "active",
+  "method": "search",
+  "sourceUrl": "",
+  "careersUrl": "",
+  "segment": "Consumer products",
+  "lastChecked": "",
+  "found": 0,
+  "statusHistory": []
+}

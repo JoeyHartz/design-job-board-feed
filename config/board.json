@@ -1,0 +1,79 @@
+{
+  "name": "ID + GD Job Board",
+  "description": "Internships, co-ops and entry-level roles for Industrial Design, Graphic Design and UI/UX students, School of Art & Design, University of Illinois Urbana-Champaign.",
+  "timeZone": "America/Chicago",
+  "timeZoneLabel": "CT",
+  "programs": {
+    "ID": {"label": "Industrial Design", "folder": "industrial-design"},
+    "GD": {"label": "Graphic Design", "folder": "graphic-design"},
+    "UX": {"label": "UI/UX & Digital Product", "folder": "ui-ux"}
+  },
+  "programOrder": ["ID", "GD", "UX"],
+  "comboLabels": [
+    {"requires": ["ID", "GD"], "label": "ID + GD"}
+  ],
+  "multiProgramFolder": "multi-program",
+  "levels": ["Internship", "Co-op", "Entry-level"],
+  "regions": ["Chicago area", "Midwest", "Remote", "Elsewhere in US", "International"],
+  "postingStatuses": ["open", "closed", "hidden", "error"],
+  "archivedPostingStatuses": ["closed", "hidden"],
+  "watchlistStatuses": ["active", "inactive", "error"],
+  "inactiveWatchlistStatuses": ["inactive"],
+  "watchlistMethods": ["greenhouse", "lever", "ashby", "bamboohr", "page", "board", "search"],
+  "paths": {
+    "postings": "postings",
+    "watchlist": "watchlist",
+    "postingsArchive": "_archive",
+    "watchlistInactive": "_inactive",
+    "errors": "_errors",
+    "logs": "logs",
+    "pending": "run/pending.json",
+    "buildResult": "run/last-build.json",
+    "feedCsv": "postings.csv",
+    "feedJson": "postings.json"
+  },
+  "feed": {
+    "csvColumns": [
+      ["Program", "program"],
+      ["Title", "title"],
+      ["Company", "company"],
+      ["Type", "level"],
+      ["Term", "term"],
+      ["Location", "location"],
+      ["Region", "region"],
+      ["Pay", "pay"],
+      ["Apply by", "deadline"],
+      ["Found", "firstSeen"],
+      ["Note", "note"],
+      ["Link", "url"]
+    ],
+    "jsonKeys": [
+      ["id", "id"],
+      ["program", "program"],
+      ["title", "title"],
+      ["company", "company"],
+      ["type", "level"],
+      ["term", "term"],
+      ["location", "location"],
+      ["region", "region"],
+      ["pay", "pay"],
+      ["apply_by", "deadline"],
+      ["found", "firstSeen"],
+      ["note", "note"],
+      ["link", "url"]
+    ],
+    "jsonIndent": 1
+  },
+  "thresholds": {
+    "staleDays": 60,
+    "staleHosts": ["linkedin.com"],
+    "safetyStopFraction": 0.2,
+    "maxNewPerRun": 30
+  },
+  "logKinds": ["collection", "edit", "daily", "import"],
+  "alwaysLogKinds": ["collection", "daily", "import"],
+  "git": {
+    "userName": "JoeyHartz",
+    "userEmail": "hi@joeyhartz.com"
+  }
+}
