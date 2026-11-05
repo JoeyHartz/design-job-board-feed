@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "firebelly-design",
+  "company": "Firebelly Design",
+  "programs": [
+    "GD"
+  ],
+  "status": "active",
+  "method": "page",
+  "sourceUrl": "https://www.firebellydesign.com/careers",
+  "careersUrl": "https://www.firebellydesign.com/careers",
+  "segment": "Branding studio",
+  "lastChecked": "2026-11-05",
+  "found": 0,
+  "statusHistory": [
+    {
+      "date": "2026-11-05",
+      "status": "active",
+      "reason": "imported from artifact"
+    }
+  ]
+}

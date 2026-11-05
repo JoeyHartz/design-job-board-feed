@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "radio-flyer",
+  "company": "Radio Flyer",
+  "programs": [
+    "ID",
+    "GD"
+  ],
+  "status": "active",
+  "method": "page",
+  "sourceUrl": "https://www.builtinchicago.org/company/radio-flyer/jobs",
+  "careersUrl": "https://www.builtinchicago.org/company/radio-flyer/jobs",
+  "segment": "In-house ID + GD",
+  "lastChecked": "2026-11-05",
+  "found": 0,
+  "statusHistory": [
+    {
+      "date": "2026-11-05",
+      "status": "active",
+      "reason": "imported from artifact"
+    }
+  ]
+}

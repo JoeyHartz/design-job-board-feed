@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "bass-pro-shops",
+  "company": "Bass Pro Shops",
+  "programs": [
+    "ID"
+  ],
+  "status": "active",
+  "method": "search",
+  "sourceUrl": "",
+  "careersUrl": "",
+  "segment": "Outdoor retail",
+  "lastChecked": "2026-11-05",
+  "found": 1,
+  "statusHistory": [
+    {
+      "date": "2026-11-05",
+      "status": "active",
+      "reason": "imported from artifact"
+    }
+  ]
+}

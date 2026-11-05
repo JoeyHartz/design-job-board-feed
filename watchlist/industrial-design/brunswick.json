@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "brunswick",
+  "company": "Brunswick",
+  "programs": [
+    "ID"
+  ],
+  "status": "active",
+  "method": "search",
+  "sourceUrl": "",
+  "careersUrl": "",
+  "segment": "Marine and recreation",
+  "lastChecked": "2026-10-29",
+  "found": 0,
+  "statusHistory": [
+    {
+      "date": "2026-11-05",
+      "status": "active",
+      "reason": "imported from artifact"
+    }
+  ]
+}

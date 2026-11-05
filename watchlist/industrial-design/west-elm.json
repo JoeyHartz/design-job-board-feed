@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "west-elm",
+  "company": "West Elm",
+  "programs": [
+    "ID"
+  ],
+  "status": "active",
+  "method": "search",
+  "sourceUrl": "",
+  "careersUrl": "",
+  "segment": "Furniture and home",
+  "lastChecked": "2026-10-28",
+  "found": 0,
+  "statusHistory": [
+    {
+      "date": "2026-11-05",
+      "status": "active",
+      "reason": "imported from artifact"
+    }
+  ]
+}

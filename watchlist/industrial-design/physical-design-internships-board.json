@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "physical-design-internships-board",
+  "company": "Physical Design Internships (job board)",
+  "programs": [
+    "ID"
+  ],
+  "status": "active",
+  "method": "board",
+  "sourceUrl": "https://physical-design-internships.carlyhagins.chatgpt.site/",
+  "careersUrl": "https://physical-design-internships.carlyhagins.chatgpt.site/",
+  "segment": "Curated board · ID internships and co-ops",
+  "lastChecked": "2026-11-05",
+  "found": 100,
+  "statusHistory": [
+    {
+      "date": "2026-11-05",
+      "status": "active",
+      "reason": "imported from artifact"
+    }
+  ]
+}

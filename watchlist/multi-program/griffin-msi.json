@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "griffin-msi",
+  "company": "Griffin Museum of Science and Industry",
+  "programs": [
+    "ID",
+    "GD"
+  ],
+  "status": "active",
+  "method": "page",
+  "sourceUrl": "https://msichicago.applytojob.com/apply",
+  "careersUrl": "https://msichicago.applytojob.com/apply",
+  "segment": "Museum: exhibit design",
+  "lastChecked": "2026-11-05",
+  "found": 0,
+  "statusHistory": [
+    {
+      "date": "2026-11-05",
+      "status": "active",
+      "reason": "imported from artifact"
+    }
+  ]
+}

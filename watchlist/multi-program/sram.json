@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "sram",
+  "company": "SRAM",
+  "programs": [
+    "ID",
+    "GD"
+  ],
+  "status": "active",
+  "method": "page",
+  "sourceUrl": "https://www.builtinchicago.org/company/sram-llc/jobs",
+  "careersUrl": "https://www.sram.com/en/company/careers/current-openings",
+  "segment": "In-house ID + GD",
+  "lastChecked": "2026-11-05",
+  "found": 0,
+  "statusHistory": [
+    {
+      "date": "2026-11-05",
+      "status": "active",
+      "reason": "imported from artifact"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "kraft-heinz",
+  "company": "Kraft Heinz",
+  "programs": [
+    "ID",
+    "GD"
+  ],
+  "status": "active",
+  "method": "search",
+  "sourceUrl": "",
+  "careersUrl": "",
+  "segment": "In-house packaging",
+  "lastChecked": "2026-11-02",
+  "found": 0,
+  "statusHistory": [
+    {
+      "date": "2026-11-05",
+      "status": "active",
+      "reason": "imported from artifact"
+    }
+  ]
+}

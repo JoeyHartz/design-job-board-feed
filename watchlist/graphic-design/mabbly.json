@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "mabbly",
+  "company": "Mabbly",
+  "programs": [
+    "GD"
+  ],
+  "status": "active",
+  "method": "search",
+  "sourceUrl": "",
+  "careersUrl": "",
+  "segment": "Brand and messaging",
+  "lastChecked": "2026-11-02",
+  "found": 0,
+  "statusHistory": [
+    {
+      "date": "2026-11-05",
+      "status": "active",
+      "reason": "imported from artifact"
+    }
+  ]
+}

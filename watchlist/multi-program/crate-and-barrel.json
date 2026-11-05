@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "crate-and-barrel",
+  "company": "Crate & Barrel",
+  "programs": [
+    "ID",
+    "GD"
+  ],
+  "status": "active",
+  "method": "search",
+  "sourceUrl": "",
+  "careersUrl": "https://jobs.crateandbarrel.com/",
+  "segment": "In-house product + GD",
+  "lastChecked": "2026-10-29",
+  "found": 0,
+  "statusHistory": [
+    {
+      "date": "2026-11-05",
+      "status": "active",
+      "reason": "imported from artifact"
+    }
+  ]
+}

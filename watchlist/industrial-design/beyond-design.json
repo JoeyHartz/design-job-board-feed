@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "beyond-design",
+  "company": "Beyond Design",
+  "programs": [
+    "ID"
+  ],
+  "status": "active",
+  "method": "page",
+  "sourceUrl": "https://www.beyonddesign.com/contact",
+  "careersUrl": "https://www.beyonddesign.com/contact",
+  "segment": "ID consultancy",
+  "lastChecked": "2026-11-05",
+  "found": 0,
+  "statusHistory": [
+    {
+      "date": "2026-11-05",
+      "status": "active",
+      "reason": "imported from artifact"
+    }
+  ]
+}

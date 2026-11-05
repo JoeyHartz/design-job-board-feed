@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "shure",
+  "company": "Shure",
+  "programs": [
+    "ID"
+  ],
+  "status": "active",
+  "method": "search",
+  "sourceUrl": "",
+  "careersUrl": "https://careersus-shure.icims.com/jobs/search?ss=1",
+  "segment": "In-house ID",
+  "lastChecked": "2026-11-04",
+  "found": 2,
+  "statusHistory": [
+    {
+      "date": "2026-11-05",
+      "status": "active",
+      "reason": "imported from artifact"
+    }
+  ]
+}

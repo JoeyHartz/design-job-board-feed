@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "field-museum",
+  "company": "Field Museum",
+  "programs": [
+    "ID",
+    "GD"
+  ],
+  "status": "active",
+  "method": "page",
+  "sourceUrl": "https://www.builtinchicago.org/company/field-museum-of-natural-history/jobs",
+  "careersUrl": "https://www.builtinchicago.org/company/field-museum-of-natural-history/jobs",
+  "segment": "Museum: exhibitions",
+  "lastChecked": "2026-11-05",
+  "found": 1,
+  "statusHistory": [
+    {
+      "date": "2026-11-05",
+      "status": "active",
+      "reason": "imported from artifact"
+    }
+  ]
+}

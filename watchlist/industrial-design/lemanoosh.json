@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "lemanoosh",
+  "company": "leManoosh",
+  "programs": [
+    "ID"
+  ],
+  "status": "active",
+  "method": "board",
+  "sourceUrl": "https://lemanoosh.com/jobs/",
+  "careersUrl": "https://lemanoosh.com/jobs/",
+  "segment": "Design job board (international)",
+  "lastChecked": "2026-11-05",
+  "found": 9,
+  "statusHistory": [
+    {
+      "date": "2026-11-05",
+      "status": "active",
+      "reason": "imported from artifact"
+    }
+  ]
+}

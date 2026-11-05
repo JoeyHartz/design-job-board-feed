@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "coroflot",
+  "company": "Coroflot (also IDSA and Core77 job boards)",
+  "programs": [
+    "ID",
+    "GD"
+  ],
+  "status": "inactive",
+  "method": "board",
+  "sourceUrl": "https://www.coroflot.com/design-jobs",
+  "careersUrl": "https://www.coroflot.com/design-jobs",
+  "segment": "Design job board",
+  "lastChecked": "2026-10-30",
+  "found": 5,
+  "statusHistory": [
+    {
+      "date": "2026-11-05",
+      "status": "active",
+      "reason": "imported from artifact"
+    },
+    {
+      "date": "2026-11-05",
+      "status": "inactive",
+      "reason": "Set inactive at import: the one-time Phase 1 test fetch of https://www.coroflot.com/design-jobs returned no listings (error: getaddrinfo ENOTFOUND www.coroflot.com; the host was outside the import session's allowed network)"
+    }
+  ]
+}
