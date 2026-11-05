@@ -855,12 +855,12 @@ class Build:
         if isinstance(wl, list) and wl:
             names = {r.id: r.data.get("company", "") for r in self.watchlist if r.data}
             lines += [f"Entries checked: {len(wl)}.", "",
-                      "| Entry | Company | Result | Postings added |", "|---|---|---|---:|"]
+                      "| Entry | Company | Result | Postings added | Notes |", "|---|---|---|---:|---|"]
             for w in wl:
                 if not isinstance(w, dict):
                     continue
                 lines.append(f"| {md(w.get('id'))} | {md(names.get(w.get('id'), w.get('company', '')))} | "
-                             f"{md(w.get('status'))} | {md(w.get('added', 0))} |")
+                             f"{md(w.get('status'))} | {md(w.get('added', 0))} | {md(w.get('notes'))} |")
             lines.append("")
             if wl_fail:
                 lines += ["### Failures", "", "| Entry | Exact error | Likely cause (a guess) |", "|---|---|---|"]
@@ -884,7 +884,9 @@ class Build:
             lines += ["None reported." if self.kind == "collection" else "Not part of this run.", ""]
         searches = (self.pending or {}).get("searches")
         if isinstance(searches, list) and searches:
-            lines += ["### Searches run", "", "| Query | Mode | Notes |", "|---|---|---|"]
+            wd = (self.pending or {}).get("weekday")
+            lines += ["### Searches run", ""] + ([f"Weekday used for topics: {md(wd)}.", ""] if wd else []) + \
+                     ["| Query | Mode | Notes |", "|---|---|---|"]
             for s in searches:
                 if isinstance(s, dict):
                     lines.append(f"| {md(s.get('query'))} | {md(s.get('mode'))} | {md(s.get('notes', s.get('results', '')))} |")
