@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "id": "cotton-citizen-junior-graphic-designer",
+  "title": "Junior Graphic Designer",
+  "company": "Cotton Citizen",
+  "programs": [
+    "GD"
+  ],
+  "level": "Entry-level",
+  "term": "Full-time",
+  "location": "Los Angeles, CA",
+  "region": "Elsewhere in US",
+  "pay": "",
+  "deadline": "",
+  "url": "https://www.mediabistro.com/jobs/3542756355-junior-graphic-designer",
+  "source": "Mediabistro",
+  "note": "Apparel graphics, prints and production files; portfolio required.",
+  "status": "open",
+  "firstSeen": "2026-11-04",
+  "lastUpdated": "2026-11-04",
+  "lastVerified": "2026-11-04",
+  "closedAt": "",
+  "closedReason": "",
+  "statusHistory": [
+    {
+      "date": "2026-11-05",
+      "status": "open",
+      "reason": "imported from artifact"
+    }
+  ],
+  "facts": {},
+  "previousStatus": "",
+  "errorDetail": ""
+}

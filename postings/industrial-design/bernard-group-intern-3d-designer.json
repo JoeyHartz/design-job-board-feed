@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "id": "bernard-group-intern-3d-designer",
+  "title": "Intern, 3D Designer",
+  "company": "The Bernard Group",
+  "programs": [
+    "ID"
+  ],
+  "level": "Internship",
+  "term": "",
+  "location": "Chanhassen, MN",
+  "region": "Midwest",
+  "pay": "$21/hr",
+  "deadline": "",
+  "url": "https://www.linkedin.com/jobs/view/4483697073/",
+  "source": "LinkedIn",
+  "note": "Retail display and POP design; posting asks for about one year of ID experience or coursework.",
+  "status": "open",
+  "firstSeen": "2026-10-28",
+  "lastUpdated": "2026-10-28",
+  "lastVerified": "2026-10-28",
+  "closedAt": "",
+  "closedReason": "",
+  "statusHistory": [
+    {
+      "date": "2026-11-05",
+      "status": "open",
+      "reason": "imported from artifact"
+    }
+  ],
+  "facts": {},
+  "previousStatus": "",
+  "errorDetail": ""
+}

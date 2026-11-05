@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "id": "anduril-early-career-associate-product-designer",
+  "title": "2027 Early Career Associate Product Designer",
+  "company": "Anduril Industries",
+  "programs": [
+    "UX"
+  ],
+  "level": "Entry-level",
+  "term": "Full-time, 2027 start",
+  "location": "Costa Mesa, CA",
+  "region": "Elsewhere in US",
+  "pay": "",
+  "deadline": "",
+  "url": "https://www.linkedin.com/jobs/view/4479245948/",
+  "source": "LinkedIn",
+  "note": "Defense technology company.",
+  "status": "open",
+  "firstSeen": "2026-10-23",
+  "lastUpdated": "2026-10-23",
+  "lastVerified": "2026-10-23",
+  "closedAt": "",
+  "closedReason": "",
+  "statusHistory": [
+    {
+      "date": "2026-11-05",
+      "status": "open",
+      "reason": "imported from artifact"
+    }
+  ],
+  "facts": {},
+  "previousStatus": "",
+  "errorDetail": ""
+}

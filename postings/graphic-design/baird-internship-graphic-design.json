@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "id": "baird-internship-graphic-design",
+  "title": "Internship – Graphic Design (Year-Round)",
+  "company": "Baird",
+  "programs": [
+    "GD"
+  ],
+  "level": "Internship",
+  "term": "Year-round",
+  "location": "Milwaukee, WI",
+  "region": "Midwest",
+  "pay": "",
+  "deadline": "",
+  "url": "https://www.linkedin.com/jobs/view/4464560772/",
+  "source": "LinkedIn",
+  "note": "In-house marketing design at a financial services firm.",
+  "status": "open",
+  "firstSeen": "2026-10-28",
+  "lastUpdated": "2026-10-28",
+  "lastVerified": "2026-10-28",
+  "closedAt": "",
+  "closedReason": "",
+  "statusHistory": [
+    {
+      "date": "2026-11-05",
+      "status": "open",
+      "reason": "imported from artifact"
+    }
+  ],
+  "facts": {},
+  "previousStatus": "",
+  "errorDetail": ""
+}

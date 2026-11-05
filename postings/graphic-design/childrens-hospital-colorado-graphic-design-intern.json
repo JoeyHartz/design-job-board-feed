@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "id": "childrens-hospital-colorado-graphic-design-intern",
+  "title": "Graphic Design Intern",
+  "company": "Children's Hospital Colorado",
+  "programs": [
+    "GD"
+  ],
+  "level": "Internship",
+  "term": "",
+  "location": "Aurora, CO",
+  "region": "Elsewhere in US",
+  "pay": "$20/hr",
+  "deadline": "",
+  "url": "https://www.linkedin.com/jobs/view/4480301623/",
+  "source": "LinkedIn",
+  "note": "In-house healthcare marketing design; may be extended up to one year.",
+  "status": "open",
+  "firstSeen": "2026-10-28",
+  "lastUpdated": "2026-10-28",
+  "lastVerified": "2026-10-28",
+  "closedAt": "",
+  "closedReason": "",
+  "statusHistory": [
+    {
+      "date": "2026-11-05",
+      "status": "open",
+      "reason": "imported from artifact"
+    }
+  ],
+  "facts": {},
+  "previousStatus": "",
+  "errorDetail": ""
+}

@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "id": "article-student-living-design-intern-summer-2027",
+  "title": "Marketing & Communications – Design Intern",
+  "company": "Article Student Living",
+  "programs": [
+    "GD"
+  ],
+  "level": "Internship",
+  "term": "Summer 2027",
+  "location": "Chicago, IL",
+  "region": "Chicago area",
+  "pay": "$22/hr",
+  "deadline": "",
+  "url": "https://www.linkedin.com/jobs/view/4482408058/",
+  "source": "LinkedIn",
+  "note": "Student-housing company's marketing team. For graphic design majors.",
+  "status": "open",
+  "firstSeen": "2026-10-23",
+  "lastUpdated": "2026-10-23",
+  "lastVerified": "2026-10-23",
+  "closedAt": "",
+  "closedReason": "",
+  "statusHistory": [
+    {
+      "date": "2026-11-05",
+      "status": "open",
+      "reason": "imported from artifact"
+    }
+  ],
+  "facts": {},
+  "previousStatus": "",
+  "errorDetail": ""
+}

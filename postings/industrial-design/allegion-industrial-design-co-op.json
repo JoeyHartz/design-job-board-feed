@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "id": "allegion-industrial-design-co-op",
+  "title": "Industrial Design Co-op",
+  "company": "Allegion",
+  "programs": [
+    "ID"
+  ],
+  "level": "Co-op",
+  "term": "Spring 2027",
+  "location": "Carmel, IN",
+  "region": "Midwest",
+  "pay": "",
+  "deadline": "",
+  "url": "https://allegion.wd5.myworkdayjobs.com/careers/job/Carmel-IN/Industrial-Design-Spring-Co-op_JR37686-1",
+  "source": "Watchlist · Physical Design Internships",
+  "note": "Locks and security hardware.",
+  "status": "open",
+  "firstSeen": "2026-10-22",
+  "lastUpdated": "2026-10-22",
+  "lastVerified": "2026-10-22",
+  "closedAt": "",
+  "closedReason": "",
+  "statusHistory": [
+    {
+      "date": "2026-11-05",
+      "status": "open",
+      "reason": "imported from artifact"
+    }
+  ],
+  "facts": {},
+  "previousStatus": "",
+  "errorDetail": ""
+}

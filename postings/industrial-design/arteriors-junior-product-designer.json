@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "id": "arteriors-junior-product-designer",
+  "title": "Junior Product Designer",
+  "company": "Arteriors Home",
+  "programs": [
+    "ID"
+  ],
+  "level": "Entry-level",
+  "term": "Full-time",
+  "location": "The Colony, TX",
+  "region": "Elsewhere in US",
+  "pay": "",
+  "deadline": "",
+  "url": "https://www.linkedin.com/jobs/view/4476888719/",
+  "source": "LinkedIn",
+  "note": "Lighting and home furnishings. Internship experience counts; AutoCAD.",
+  "status": "open",
+  "firstSeen": "2026-10-23",
+  "lastUpdated": "2026-10-23",
+  "lastVerified": "2026-10-23",
+  "closedAt": "",
+  "closedReason": "",
+  "statusHistory": [
+    {
+      "date": "2026-11-05",
+      "status": "open",
+      "reason": "imported from artifact"
+    }
+  ],
+  "facts": {},
+  "previousStatus": "",
+  "errorDetail": ""
+}

@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "id": "disney-animation-art-story-intern",
+  "title": "Art & Story Intern, Disney Animation",
+  "company": "Walt Disney Animation Studios",
+  "programs": [
+    "GD"
+  ],
+  "level": "Internship",
+  "term": "Winter 2027",
+  "location": "Burbank, CA",
+  "region": "Elsewhere in US",
+  "pay": "$22/hr",
+  "deadline": "",
+  "url": "https://www.linkedin.com/jobs/view/4481703649/",
+  "source": "LinkedIn",
+  "note": "Illustration and visual storytelling. Must be enrolled.",
+  "status": "open",
+  "firstSeen": "2026-10-23",
+  "lastUpdated": "2026-10-23",
+  "lastVerified": "2026-10-23",
+  "closedAt": "",
+  "closedReason": "",
+  "statusHistory": [
+    {
+      "date": "2026-11-05",
+      "status": "open",
+      "reason": "imported from artifact"
+    }
+  ],
+  "facts": {},
+  "previousStatus": "",
+  "errorDetail": ""
+}

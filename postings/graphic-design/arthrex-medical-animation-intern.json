@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "id": "arthrex-medical-animation-intern",
+  "title": "Medical Animation Intern",
+  "company": "Arthrex",
+  "programs": [
+    "GD"
+  ],
+  "level": "Internship",
+  "term": "",
+  "location": "Naples, FL",
+  "region": "Elsewhere in US",
+  "pay": "",
+  "deadline": "",
+  "url": "https://www.linkedin.com/jobs/view/4474570137/",
+  "source": "LinkedIn",
+  "note": "Medical device company's animation team.",
+  "status": "open",
+  "firstSeen": "2026-10-23",
+  "lastUpdated": "2026-10-23",
+  "lastVerified": "2026-10-23",
+  "closedAt": "",
+  "closedReason": "",
+  "statusHistory": [
+    {
+      "date": "2026-11-05",
+      "status": "open",
+      "reason": "imported from artifact"
+    }
+  ],
+  "facts": {},
+  "previousStatus": "",
+  "errorDetail": ""
+}
