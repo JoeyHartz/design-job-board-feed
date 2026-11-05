@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "id": "milwaukee-tool-industrial-design-co-op",
+  "title": "Industrial Design Co-op",
+  "company": "Milwaukee Tool",
+  "programs": [
+    "ID"
+  ],
+  "level": "Co-op",
+  "term": "",
+  "location": "Brookfield, WI",
+  "region": "Midwest",
+  "pay": "Paid",
+  "deadline": "",
+  "url": "https://tti.yello.co/external/requisitions/7uH1zTYt-P3KAapkw5EH5A",
+  "source": "Watchlist · Physical Design Internships",
+  "note": "Power tools.",
+  "status": "open",
+  "firstSeen": "2026-10-22",
+  "lastUpdated": "2026-10-22",
+  "lastVerified": "2026-10-22",
+  "closedAt": "",
+  "closedReason": "",
+  "statusHistory": [
+    {
+      "date": "2026-11-05",
+      "status": "open",
+      "reason": "imported from artifact"
+    }
+  ],
+  "facts": {},
+  "previousStatus": "",
+  "errorDetail": ""
+}

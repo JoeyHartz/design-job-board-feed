@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "id": "matte-projects-junior-graphic-designer",
+  "title": "Junior Graphic Designer",
+  "company": "MATTE Projects",
+  "programs": [
+    "GD"
+  ],
+  "level": "Entry-level",
+  "term": "Full-time",
+  "location": "New York, NY (in office Mon–Thu)",
+  "region": "Elsewhere in US",
+  "pay": "$65,000–75,000",
+  "deadline": "",
+  "url": "https://job-boards.greenhouse.io/matteprojects/jobs/6146127004",
+  "source": "Greenhouse",
+  "note": "Creative agency. Asks for 1–2 years of experience.",
+  "status": "open",
+  "firstSeen": "2026-10-23",
+  "lastUpdated": "2026-10-23",
+  "lastVerified": "2026-10-23",
+  "closedAt": "",
+  "closedReason": "",
+  "statusHistory": [
+    {
+      "date": "2026-11-05",
+      "status": "open",
+      "reason": "imported from artifact"
+    }
+  ],
+  "facts": {},
+  "previousStatus": "",
+  "errorDetail": ""
+}

@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "id": "rejuvenation-2027-design-internship",
+  "title": "2027 Design Internship",
+  "company": "Rejuvenation",
+  "programs": [
+    "ID"
+  ],
+  "level": "Internship",
+  "term": "Summer 2027",
+  "location": "Portland, OR · on-site",
+  "region": "Elsewhere in US",
+  "pay": "",
+  "deadline": "",
+  "url": "https://www.linkedin.com/jobs/view/4462040558/",
+  "source": "Watchlist · Physical Design Internships",
+  "note": "Lighting, hardware and home goods (Williams-Sonoma brand). LinkedIn posting.",
+  "status": "open",
+  "firstSeen": "2026-10-22",
+  "lastUpdated": "2026-10-22",
+  "lastVerified": "2026-10-22",
+  "closedAt": "",
+  "closedReason": "",
+  "statusHistory": [
+    {
+      "date": "2026-11-05",
+      "status": "open",
+      "reason": "imported from artifact"
+    }
+  ],
+  "facts": {},
+  "previousStatus": "",
+  "errorDetail": ""
+}

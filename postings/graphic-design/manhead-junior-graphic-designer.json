@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "id": "manhead-junior-graphic-designer",
+  "title": "Junior Graphic Designer",
+  "company": "Manhead",
+  "programs": [
+    "GD"
+  ],
+  "level": "Entry-level",
+  "term": "Full-time",
+  "location": "Remote (US)",
+  "region": "Remote",
+  "pay": "",
+  "deadline": "",
+  "url": "https://www.builtinnyc.com/job/junior-graphic-designer/11735776",
+  "source": "Built In NYC",
+  "note": "Apparel and merchandise graphics for music tours, e-commerce and retail; asks for some prior apparel/merch graphics experience.",
+  "status": "open",
+  "firstSeen": "2026-10-28",
+  "lastUpdated": "2026-10-28",
+  "lastVerified": "2026-10-28",
+  "closedAt": "",
+  "closedReason": "",
+  "statusHistory": [
+    {
+      "date": "2026-11-05",
+      "status": "open",
+      "reason": "imported from artifact"
+    }
+  ],
+  "facts": {},
+  "previousStatus": "",
+  "errorDetail": ""
+}

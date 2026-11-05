@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "id": "matthews-graphic-design-intern-phx",
+  "title": "Graphic Design Intern (PHX)",
+  "company": "Matthews",
+  "programs": [
+    "GD"
+  ],
+  "level": "Internship",
+  "term": "",
+  "location": "Scottsdale, AZ",
+  "region": "Elsewhere in US",
+  "pay": "",
+  "deadline": "",
+  "url": "https://www.linkedin.com/jobs/view/4460062849/",
+  "source": "LinkedIn",
+  "note": "Brand and packaging graphics company.",
+  "status": "open",
+  "firstSeen": "2026-10-23",
+  "lastUpdated": "2026-10-23",
+  "lastVerified": "2026-10-23",
+  "closedAt": "",
+  "closedReason": "",
+  "statusHistory": [
+    {
+      "date": "2026-11-05",
+      "status": "open",
+      "reason": "imported from artifact"
+    }
+  ],
+  "facts": {},
+  "previousStatus": "",
+  "errorDetail": ""
+}

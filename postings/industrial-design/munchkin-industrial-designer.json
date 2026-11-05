@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "id": "munchkin-industrial-designer",
+  "title": "Industrial Designer",
+  "company": "Munchkin",
+  "programs": [
+    "ID"
+  ],
+  "level": "Entry-level",
+  "term": "",
+  "location": "Van Nuys, Los Angeles, CA",
+  "region": "Elsewhere in US",
+  "pay": "$80,000–95,000/year",
+  "deadline": "",
+  "url": "https://www.builtinsf.com/job/industrial-designer/10737910",
+  "source": "Built In SF",
+  "note": "Baby and toddler products, concept through production; junior role asking for 1–3 years.",
+  "status": "open",
+  "firstSeen": "2026-11-05",
+  "lastUpdated": "2026-11-05",
+  "lastVerified": "2026-11-05",
+  "closedAt": "",
+  "closedReason": "",
+  "statusHistory": [
+    {
+      "date": "2026-11-05",
+      "status": "open",
+      "reason": "imported from artifact"
+    }
+  ],
+  "facts": {},
+  "previousStatus": "",
+  "errorDetail": ""
+}

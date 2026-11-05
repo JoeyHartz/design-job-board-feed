@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "id": "riviera-dining-junior-graphic-designer",
+  "title": "Junior Graphic Designer",
+  "company": "Riviera Dining Group",
+  "programs": [
+    "GD"
+  ],
+  "level": "Entry-level",
+  "term": "Full-time",
+  "location": "Miami, FL",
+  "region": "Elsewhere in US",
+  "pay": "$65,000/yr",
+  "deadline": "",
+  "url": "https://www.linkedin.com/jobs/view/4473391221/",
+  "source": "LinkedIn",
+  "note": "Hospitality brand design; asks for 1–2 years of experience.",
+  "status": "open",
+  "firstSeen": "2026-10-28",
+  "lastUpdated": "2026-10-28",
+  "lastVerified": "2026-10-28",
+  "closedAt": "",
+  "closedReason": "",
+  "statusHistory": [
+    {
+      "date": "2026-11-05",
+      "status": "open",
+      "reason": "imported from artifact"
+    }
+  ],
+  "facts": {},
+  "previousStatus": "",
+  "errorDetail": ""
+}

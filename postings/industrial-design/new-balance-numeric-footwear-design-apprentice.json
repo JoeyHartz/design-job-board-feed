@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "id": "new-balance-numeric-footwear-design-apprentice",
+  "title": "Numeric Footwear Design Apprentice",
+  "company": "New Balance",
+  "programs": [
+    "ID"
+  ],
+  "level": "Entry-level",
+  "term": "Apprenticeship",
+  "location": "Long Beach, CA (hybrid)",
+  "region": "Elsewhere in US",
+  "pay": "$33/hr",
+  "deadline": "",
+  "url": "https://jobs.newbalance.com/global/en/apply?jobSeqNo=NEBAGLOBALR39666EXTERNALENGLOBAL&utm_medium=phenom-feeds&step=1&stepname=personalInformation",
+  "source": "leManoosh",
+  "note": "Skate footwear apprenticeship for BA/BS grads in industrial or product design; Illustrator required.",
+  "status": "open",
+  "firstSeen": "2026-10-23",
+  "lastUpdated": "2026-10-23",
+  "lastVerified": "2026-10-23",
+  "closedAt": "",
+  "closedReason": "",
+  "statusHistory": [
+    {
+      "date": "2026-11-05",
+      "status": "open",
+      "reason": "imported from artifact"
+    }
+  ],
+  "facts": {},
+  "previousStatus": "",
+  "errorDetail": ""
+}
