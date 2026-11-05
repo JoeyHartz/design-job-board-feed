@@ -97,7 +97,7 @@ def md(value):
 
 def md_link(text, url):
     if not url:
-        return md(text)
+        return ""
     safe = str(url).replace(" ", "%20").replace(")", "%29").replace("|", "%7C")
     return f"[{md(text).replace('[', '(').replace(']', ')')}]({safe})"
 
@@ -794,7 +794,7 @@ class Build:
                   f"| Errors | {n_err} |",
                   f"| Warnings | {n_warn} |",
                   f"| Stale | {n_stale} |",
-                  f"| In feed {'(not written)' if self.stopped else ''} | {len(self.feed)} |",
+                  f"| In feed{' (not written)' if self.stopped else ''} | {len(self.feed)} |",
                   f"| Watchlist failures | {len(wl_fail)} |", ""]
         prev_n = len(self.previous_ids)
         lines.append(f"Previous feed: {prev_n} postings. Left the feed as expected: "
