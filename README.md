@@ -20,6 +20,7 @@ This repo is the only source of data. Every posting and every watchlist entry is
 | `watchlist/<program>/`, `watchlist/multi-program/` | Companies and job boards the daily routine checks |
 | `watchlist/_inactive/<program>/` | Watchlist entries that are switched off |
 | `watchlist/_errors/` | Watchlist entries the build couldn't use |
+| `reports/` | Written by the daily maintenance Action: `candidates.md` (new jobs from company job lists), `links.md` (open postings whose links look gone), `digest.md` (the weekly summary) |
 | `logs/YYYY/MM/` | One Markdown log per build that changed something, and one per daily run |
 | `config/board.json` | Programs, allowed values, feed columns, time zone and thresholds |
 | `config/criteria.md` | What counts as a qualifying job |
@@ -95,6 +96,19 @@ Program labels in the feed: both ID and GD → "ID + GD" (even if UX is also lis
 ### The Action
 
 `.github/workflows/build-feed.yml` runs on every push that changes `postings/`, `watchlist/`, `config/` or `scripts/`, when started by hand, and daily at 16:05 UTC. It runs the tests, builds, and commits the results with `[skip ci]`. On a failed build, a safety stop or any file error, it opens an issue labeled `build-problem`, or comments on the one already open, with a link to the log.
+
+### Daily maintenance (no Claude needed)
+
+`.github/workflows/maintenance.yml` runs every day at 11:40 UTC (5:40 AM CST, 6:40 AM CDT), before the 7:35 routine:
+
+1. **Closes postings whose deadline has passed** (`scripts/close_expired.py`), with `closedReason` "deadline passed (date)". Hidden postings are never touched.
+2. **Collects candidate jobs** (`scripts/collect_candidates.py`): reads every watchlist entry that has a public job list and writes `reports/candidates.md` (and `.json`): design-titled jobs not yet on the board, with the date each was first listed. The routine reviews these instead of fetching the lists itself.
+3. **Checks links** (`scripts/check_links.py`): opens every open posting's link (LinkedIn skipped) and writes `reports/links.md` (and `.json`) listing the ones that look gone. It never closes anything: the routine confirms each one first, because some sites answer scripts differently.
+4. **Rebuilds the feed** and commits.
+
+Every Monday it also opens a **weekly digest** issue (label `weekly-digest`; GitHub emails you when it opens, if you watch the repo): jobs added by program, jobs closed, jobs closing in the next 14 days, the latest link check and candidate counts, and any daily runs whose routine checks failed. Last week's digest issue is closed automatically.
+
+You can run it by hand from the **Actions** tab: **Daily maintenance** → **Run workflow**, choosing `daily`, `digest` or `both`. If it fails, it opens or comments on the `build-problem` issue.
 
 ### Run it yourself
 

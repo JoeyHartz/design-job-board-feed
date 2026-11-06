@@ -197,6 +197,18 @@ def run(method, url, show_all=False):
     return shown, total
 
 
+FETCH_ERRORS = (urllib.error.URLError, urllib.error.HTTPError, ValueError, json.JSONDecodeError,
+                TimeoutError, ConnectionError, OSError)
+
+
+def new_jobs(method, url, known=None):
+    """Design-titled jobs not already on the board. Returns (rows, total, hidden)."""
+    shown, total = run(method, url)
+    known = known_keys() if known is None else known
+    kept = [r for r in shown if not (job_keys(r[3]) & known)]
+    return kept, total, len(shown) - len(kept)
+
+
 def main(argv=None):
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("entry", nargs="?", help="watchlist id")
@@ -217,13 +229,12 @@ def main(argv=None):
         print("# ERROR need a watchlist id, or --method and --url")
         return 1
     try:
-        shown, total = run(method, url, a.all)
-        hidden = 0
-        if not (a.all or a.known):
-            known = known_keys()
-            kept = [r for r in shown if not (job_keys(r[3]) & known)]
-            hidden, shown = len(shown) - len(kept), kept
-    except (urllib.error.URLError, urllib.error.HTTPError, ValueError, json.JSONDecodeError, TimeoutError) as exc:
+        if a.all or a.known:
+            shown, total = run(method, url, a.all)
+            hidden = 0
+        else:
+            shown, total, hidden = new_jobs(method, url)
+    except FETCH_ERRORS as exc:
         print(f"# ERROR {type(exc).__name__}: {exc}")
         return 1
     for title, where, posted, link in shown:

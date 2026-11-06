@@ -1,0 +1,126 @@
+name: Daily maintenance
+
+# Runs without Claude. Daily, before the 7:35 AM CT routine:
+#   1. close open postings whose deadline has passed
+#   2. collect new design-titled jobs from every watchlist job list -> reports/candidates.*
+#   3. check every open posting's link -> reports/links.* (flags only; nothing is closed)
+#   4. rebuild the feed
+# Mondays: also open a weekly digest issue.
+
+on:
+  schedule:
+    - cron: "40 11 * * *"   # daily, 5:40 AM CST / 6:40 AM CDT
+    - cron: "17 13 * * 1"   # Mondays, 7:17 AM CST / 8:17 AM CDT: weekly digest
+  workflow_dispatch:
+    inputs:
+      task:
+        description: "What to run"
+        type: choice
+        options: [daily, digest, both]
+        default: daily
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: build-feed          # same group as the Build feed workflow, so they never overlap
+  cancel-in-progress: false
+
+jobs:
+  maintain:
+    runs-on: ubuntu-latest
+    env:
+      DAILY: ${{ github.event.schedule == '40 11 * * *' || inputs.task == 'daily' || inputs.task == 'both' }}
+      DIGEST: ${{ github.event.schedule == '17 13 * * 1' || inputs.task == 'digest' || inputs.task == 'both' }}
+    steps:
+      - name: Check out
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run tests
+        id: tests
+        run: python3 -m unittest discover -s tests
+
+      - name: Close postings whose deadline has passed
+        if: env.DAILY == 'true'
+        run: python3 scripts/close_expired.py
+
+      - name: Collect candidate jobs from watchlist job lists
+        if: env.DAILY == 'true'
+        run: python3 scripts/collect_candidates.py
+
+      - name: Check links of open postings
+        if: env.DAILY == 'true'
+        run: python3 scripts/check_links.py
+
+      - name: Build feed
+        id: build
+        if: env.DAILY == 'true'
+        run: python3 scripts/build_feed.py --kind edit
+
+      - name: Commit and push
+        if: always() && env.DAILY == 'true' && steps.tests.outcome == 'success'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898237+github-actions[bot]@users.noreply.github.com"
+          git add -A postings logs reports postings.csv postings.json
+          if git diff --cached --quiet; then
+            echo "Nothing to commit."
+            exit 0
+          fi
+          closed=$(git diff --cached --name-status -- postings | grep -c '_archive' || true)
+          git commit -m "Daily maintenance: $closed closed, reports updated ($(TZ=America/Chicago date +%F)) [skip ci]"
+          for i in 1 2 3; do
+            git pull --rebase origin main && git push origin HEAD:main && exit 0
+            sleep $((i * 5))
+          done
+          echo "Push failed after 3 tries." >&2
+          exit 1
+
+      - name: Write weekly digest
+        if: env.DIGEST == 'true'
+        run: |
+          git pull --rebase origin main || true
+          python3 scripts/weekly_digest.py --repo-url "${{ github.server_url }}/${{ github.repository }}" > /dev/null
+
+      - name: Open weekly digest issue
+        if: env.DIGEST == 'true'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const body = fs.readFileSync('reports/digest.md', 'utf8') +
+              '\n---\n_Opened by the Daily maintenance workflow. Close it when you\'ve read it; next Monday\'s closes it anyway._';
+            const label = 'weekly-digest';
+            try { await github.rest.issues.getLabel({ ...context.repo, name: label }); }
+            catch (e) { await github.rest.issues.createLabel({ ...context.repo, name: label, color: '0e8a16' }); }
+            const old = await github.rest.issues.listForRepo({ ...context.repo, state: 'open', labels: label });
+            for (const issue of old.data) {
+              await github.rest.issues.update({ ...context.repo, issue_number: issue.number, state: 'closed', state_reason: 'completed' });
+            }
+            const today = new Date().toLocaleDateString('en-CA', { timeZone: 'America/Chicago' });
+            await github.rest.issues.create({ ...context.repo, title: `Job board weekly digest: ${today}`, labels: [label], body });
+
+      - name: Report problems in an issue
+        if: failure()
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const runUrl = `${context.serverUrl}/${context.repo.owner}/${context.repo.repo}/actions/runs/${context.runId}`;
+            const body = `**Daily maintenance failed** (tests, a script, or the push).\n\nRun: ${runUrl}\n\n---\n_Opened by the Daily maintenance workflow._`;
+            const label = 'build-problem';
+            try { await github.rest.issues.getLabel({ ...context.repo, name: label }); }
+            catch (e) { await github.rest.issues.createLabel({ ...context.repo, name: label, color: 'd73a4a' }); }
+            const open = await github.rest.issues.listForRepo({ ...context.repo, state: 'open', labels: label });
+            if (open.data.length) {
+              await github.rest.issues.createComment({ ...context.repo, issue_number: open.data[0].number, body });
+            } else {
+              await github.rest.issues.create({ ...context.repo, title: 'Job board build needs attention', labels: [label], body });
+            }
