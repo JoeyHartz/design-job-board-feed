@@ -531,9 +531,7 @@ class Build:
                                      f"{b.thresholds['staleDays']} days old)",
                                      "left open; kept out of the feed"))
             if rec.data["status"] == "open":
-                missing = [f for f in ("pay", "term") if blank(rec.data.get(f))]
-                if missing:
-                    rec.warnings.append((f"blank {' and '.join(missing)}", "none needed"))
+                rec.blank = [f for f in ("pay", "term") if blank(rec.data.get(f))]
 
         # Feed candidates, with duplicates merged.
         eligible = [r for r in valid_posts if self.feed_state(r.data) == "in feed"]
@@ -586,6 +584,17 @@ class Build:
         self.load_pending()
         self.compute_diff()
 
+        # Blank pay/term: counted for all open postings, listed only for new ones.
+        self.blank_count = sum(1 for r in valid_posts if getattr(r, "blank", None))
+        for rec in self.added:
+            if getattr(rec, "blank", None):
+                rec.warnings.append((f"blank {' and '.join(rec.blank)}", "fill in if the posting states it"))
+            if rec.data["status"] == "open":
+                for flag in self.scope_flags(rec.data):
+                    rec.warnings.append((f"possible off-scope: {flag}",
+                                         'check by hand; set status to "hidden" if it doesn\'t qualify'))
+        self.checks = self.routine_checks() if self.kind == "collection" else []
+
         wrote_files = False
         if not self.stopped and not self.dry_run:
             wrote_files = self.apply(all_recs)
@@ -593,7 +602,8 @@ class Build:
         else:
             feed_changed = self.feed_differs()
         self.something_changed = bool(wrote_files or feed_changed or self.added or self.changes
-                                      or self.closed or any(r.errors or r.broken for r in all_recs))
+                                      or self.closed or self.reverified
+                                      or any(r.errors or r.broken for r in all_recs))
         self.log_path = None
         if not self.dry_run and (self.kind in b.cfg["alwaysLogKinds"] or self.something_changed
                                  or self.stopped):
@@ -666,6 +676,117 @@ class Build:
         except (json.JSONDecodeError, ValueError) as exc:
             self.pending_error = f"{self.board.paths['pending']} could not be read: {exc}"
 
+    # -- scope flags -----------------------------------------------------------
+    def scope_flags(self, d):
+        """Heuristic hints that a posting may not qualify. Never removes anything."""
+        cfg = self.board.cfg.get("scopeFlags", {})
+        title = norm_text(d.get("title"))
+        for phrase in cfg.get("allowedTitlePhrases", []):
+            title = f" {title} ".replace(f" {norm_text(phrase)} ", " ").strip()
+        words = set(title.split())
+        host = url_host(d.get("url"))
+        skip_url = any(host == h or host.endswith("." + h) for h in cfg.get("urlCheckSkipHosts", []))
+        try:
+            path = urlsplit(d.get("url") or "").path.lower()
+        except ValueError:
+            path = ""
+        path_words = set(re.split(r"[^a-z0-9]+", path))
+        flags = []
+        for w in ([] if skip_url else cfg.get("urlWordsNotInTitle", [])):
+            if w in path_words and not any(t.startswith(w[:8]) for t in words):
+                flags.append(f'link mentions "{w}" but the title doesn\'t')
+                break
+        for w in cfg.get("titleWords", []):
+            w = norm_text(w)
+            if (" " in w and f" {w} " in f" {title} ") or w in words:
+                flags.append(f'title says "{w}"')
+        pay = norm_text(d.get("pay")) + " " + norm_text(d.get("note"))
+        for w in cfg.get("payWords", []):
+            if norm_text(w) in pay.split():
+                flags.append(f'pay or note says "{w}"')
+        return flags
+
+    # -- routine checks -----------------------------------------------------------
+    def routine_checks(self):
+        """Compare what the routine reported in run/pending.json with the files.
+
+        Returns rows of (check, passed, detail)."""
+        b, rc, t = self.board, self.board.cfg.get("routineChecks", {}), self.board.thresholds
+        rows = []
+        if self.pending is None:
+            return [("run/pending.json present", False, self.pending_error or "missing")]
+        p = self.pending
+        today = self.today.isoformat()
+        cur = {r.id: r.data for r in self.watchlist if r.valid}
+        base = self.base_watch or cur
+        reported = {}
+        for w in p.get("watchlist", []) if isinstance(p.get("watchlist"), list) else []:
+            if isinstance(w, dict) and w.get("id"):
+                reported[str(w["id"])] = str(w.get("status", "")).lower()
+
+        active = {i: d for i, d in base.items() if d.get("status") == "active"}
+        fetched = sorted(i for i, d in active.items() if d.get("method") in rc.get("fetchedMethods", []))
+        search = sorted((i for i, d in active.items() if d.get("method") == "search"),
+                        key=lambda i: (active[i].get("lastChecked") or "", i))[:rc.get("searchEntriesPerRun", 12)]
+        expected = fetched + search
+        missing = [i for i in expected if i not in reported]
+        rows.append(("Every feed, page and board entry, plus the 12 oldest search entries, is reported",
+                     not missing, f"{len(expected) - len(missing)} of {len(expected)} reported"
+                     + (f"; missing: {', '.join(missing)}" if missing else "")))
+        unknown = [i for i in reported if i not in cur]
+        if unknown:
+            rows.append(("Reported entries exist in the watchlist", False, ", ".join(unknown)))
+        changed = [i for i, d in cur.items() if d.get("lastChecked") != base.get(i, {}).get("lastChecked")]
+        bad_changed = [i for i in changed if reported.get(i) != "ok"]
+        rows.append(("lastChecked changed only on entries reported ok", not bad_changed,
+                     f"{len(changed)} changed" + (f"; not reported ok: {', '.join(bad_changed)}" if bad_changed else "")))
+        ok_not_today = [i for i, s in reported.items() if s == "ok" and i in cur and cur[i].get("lastChecked") != today]
+        rows.append(("Entries reported ok have lastChecked = today", not ok_not_today,
+                     ", ".join(ok_not_today) if ok_not_today else f"{sum(1 for s in reported.values() if s == 'ok')} ok"))
+
+        searches = p.get("searches") if isinstance(p.get("searches"), list) else []
+        lo, hi = rc.get("generalSearchesMin", 14), rc.get("generalSearchesMax", 18)
+        rows.append((f"{lo}–{hi} general searches", lo <= len(searches) <= hi, f"{len(searches)} run"))
+        actual = self.today.strftime("%A")
+        wd = str(p.get("weekday", ""))
+        rows.append(("Weekday matches today's Chicago date", wd.casefold() == actual.casefold(),
+                     f"reported {wd or '(none)'}, today is {actual}"
+                     + (" (use Monday's topics)" if actual in ("Saturday", "Sunday") else "")))
+
+        names = set()
+        for d in cur.values():
+            n = re.sub(r"\s*\([^)]*\)\s*$", "", d.get("company", "")).strip()
+            names.add(f"watchlist · {n}".casefold())
+        bad_src = []
+        for rec in self.added:
+            s = str(rec.data.get("source", ""))
+            if s.lower().startswith("search:") or (s.lower().startswith("watchlist") and s.casefold() not in names):
+                bad_src.append(f"{rec.id} ({s})")
+        rows.append(("New postings use the exact source label", not bad_src,
+                     "; ".join(bad_src) if bad_src else f"{len(self.added)} new"))
+
+        ver = p.get("verified") if isinstance(p.get("verified"), list) else []
+        posts = {r.id: r.data for r in self.postings if r.valid}
+        eligible = [r for r in self.postings if r.valid and r.data["status"] == "open"
+                    and r.id in self.base_posts
+                    and not any(url_host(r.data.get("url")) == h or url_host(r.data.get("url")).endswith("." + h)
+                                for h in t.get("recheckSkipHosts", []))]
+        need = min(t.get("recheckMinimum", 20), len(eligible))
+        rows.append((f"At least {need} postings re-checked", len(ver) >= need, f"{len(ver)} re-checked"))
+        mismatch = []
+        for v in ver:
+            if not isinstance(v, dict):
+                continue
+            d, res = posts.get(str(v.get("id"))), str(v.get("result", "")).lower()
+            if d is None:
+                mismatch.append(f"{v.get('id')} (no such posting)")
+            elif res == "open" and d.get("lastVerified") != today:
+                mismatch.append(f"{v.get('id')} (open but lastVerified not today)")
+            elif res == "closed" and d.get("status") != "closed":
+                mismatch.append(f"{v.get('id')} (reported closed but status is {d.get('status')})")
+        rows.append(("Re-check results match the files", not mismatch, "; ".join(mismatch) or "all match"))
+        return rows
+
     # -- comparison with the base commit -------------------------------------
     def compute_diff(self):
         b = self.board
@@ -677,8 +798,17 @@ class Build:
                 continue
             if isinstance(d, dict) and isinstance(d.get("id"), str):
                 base_posts[d["id"]] = d
+        self.base_watch = {}
+        for path, text in self.git.files_at(self.base, b.paths["watchlist"]).items():
+            try:
+                d = json.loads(text)
+            except json.JSONDecodeError:
+                continue
+            if isinstance(d, dict) and isinstance(d.get("id"), str):
+                self.base_watch[d["id"]] = d
+        self.base_posts = base_posts
         self.base_found = bool(base_posts) or self.git.rev_exists(self.base)
-        self.added, self.changes, self.closed = [], [], []
+        self.added, self.changes, self.closed, self.reverified = [], [], [], []
         for rec in self.postings:
             if rec.data is None or not rec.valid:
                 continue
@@ -688,8 +818,10 @@ class Build:
                 self.added.append(rec)
                 continue
             diffs = []
+            if old.get("lastVerified") != d.get("lastVerified"):
+                self.reverified.append(rec)
             for f in sorted(set(old) | set(d)):
-                if f in ("statusHistory",):
+                if f in ("statusHistory", "lastVerified"):
                     continue
                 a, c = old.get(f, ""), d.get(f, "")
                 if a != c:
@@ -785,17 +917,25 @@ class Build:
         wl_fail = [w for w in (self.pending or {}).get("watchlist", []) if isinstance(w, dict)
                    and str(w.get("status", "")).lower() not in ("ok", "")]
         changed_only = [c for c in self.changes if c[0] not in self.closed]
+        n_scope = sum(1 for p in problems if p[0] == "Warning" and p[2].startswith("possible off-scope"))
+        failed_checks = [c for c in self.checks if not c[1]]
 
         lines += ["## 1. Summary", "",
                   "| Item | Count |", "|---|---:|",
                   f"| Added | {len(self.added)} |",
                   f"| Changed | {len(changed_only)} |",
                   f"| Closed | {len(self.closed)} |",
+                  f"| Re-checked (lastVerified updated) | {len(self.reverified)} |",
                   f"| Errors | {n_err} |",
                   f"| Warnings | {n_warn} |",
+                  f"| Possible off-scope (new postings) | {n_scope} |",
+                  f"| Open postings with blank pay or term | {self.blank_count} |",
                   f"| Stale | {n_stale} |",
                   f"| In feed{' (not written)' if self.stopped else ''} | {len(self.feed)} |",
-                  f"| Watchlist failures | {len(wl_fail)} |", ""]
+                  f"| Watchlist failures | {len(wl_fail)} |"]
+        if self.kind == "collection":
+            lines.append(f"| Routine check problems | {len(failed_checks)} |")
+        lines.append("")
         prev_n = len(self.previous_ids)
         lines.append(f"Previous feed: {prev_n} postings. Left the feed as expected: "
                      f"{len(self.expected_removals)}. Left unexpectedly: {len(self.unexpected)}. "
@@ -827,8 +967,29 @@ class Build:
         else:
             lines.append("None.")
         lines.append("")
+        ver = (self.pending or {}).get("verified")
+        if isinstance(ver, list) and ver:
+            names = {r.id: r.data for r in self.postings if r.data}
+            lines += ["### Re-checked postings", "",
+                      f"{len(ver)} re-checked; lastVerified updated on {len(self.reverified)}.", "",
+                      "| Posting | Company | Result | Note |", "|---|---|---|---|"]
+            for v in ver:
+                if isinstance(v, dict):
+                    d = names.get(str(v.get("id")), {})
+                    lines.append(f"| {md(v.get('id'))} | {md(d.get('company'))} | {md(v.get('result'))} | "
+                                 f"{md(v.get('note') or v.get('error'))} |")
+            lines.append("")
+        elif self.reverified:
+            lines += [f"lastVerified updated on {len(self.reverified)} postings.", ""]
 
         lines += ["## 4. Errors and warnings", ""]
+        lines += [f"Open postings with blank pay or term: {self.blank_count} "
+                  "(listed below only for new postings).", ""]
+        if self.checks:
+            lines += ["### Routine checks", "", "| Check | Result | Detail |", "|---|---|---|"]
+            for name, ok, detail in self.checks:
+                lines.append(f"| {md(name)} | {'pass' if ok else '**FAIL**'} | {md(detail)} |")
+            lines.append("")
         if problems or self.merges or self.pending_error:
             lines += ["| Type | File | Problem | Fix |", "|---|---|---|---|"]
             order = {"Error": 0, "Moved": 1, "Warning": 2}
@@ -895,7 +1056,20 @@ class Build:
             lines.append("")
 
         lines += ["## 7. All current jobs", ""]
-        current = [r for r in self.postings if r.data is not None
+        soon_days = b.thresholds.get("closingSoonDays", 14)
+        horizon = self.today + dt.timedelta(days=soon_days)
+        soon = sorted((r for r in self.feed if parse_date(r.get("deadline")) and parse_date(r["deadline"]) <= horizon),
+                      key=lambda r: (r["deadline"], r["program"], r.get("company", "").casefold()))
+        lines += [f"### Closing in the next {soon_days} days", ""]
+        if soon:
+            lines += ["| Apply by | Program | Company | Title | Link |", "|---|---|---|---|---|"]
+            for r in soon:
+                lines.append(f"| {md(r['deadline'])} | {md(r['program'])} | {md(r.get('company'))} | "
+                             f"{md(r.get('title'))} | {md_link('link', r.get('url'))} |")
+        else:
+            lines.append("None.")
+        lines += ["", "### Every posting not archived", ""]
+        current =[r for r in self.postings if r.data is not None
                    and b.paths["postingsArchive"] not in r.target.parts]
         if current:
             lines += ["| Program | Company | Title | Status | Apply by | Feed |", "|---|---|---|---|---|---|"]
@@ -944,6 +1118,7 @@ class Build:
             "added": len(self.added),
             "closed": len(self.closed),
             "unexpectedRemovals": len(self.unexpected),
+            "routineCheckProblems": sum(1 for c in getattr(self, "checks", []) if not c[1]),
             "logPath": self.log_path.as_posix() if self.log_path else None,
         }
         self.result = result

@@ -10,7 +10,10 @@
   },
   "programOrder": ["ID", "GD", "UX"],
   "comboLabels": [
-    {"requires": ["ID", "GD"], "label": "ID + GD"}
+    {
+      "requires": ["ID", "GD"],
+      "label": "ID + GD"
+    }
   ],
   "multiProgramFolder": "multi-program",
   "levels": ["Internship", "Co-op", "Entry-level"],
@@ -68,12 +71,26 @@
     "staleDays": 60,
     "staleHosts": ["linkedin.com"],
     "safetyStopFraction": 0.2,
-    "maxNewPerRun": 30
+    "maxNewPerRun": 30,
+    "closingSoonDays": 14,
+    "recheckPerRun": 25,
+    "recheckMinimum": 20,
+    "recheckSkipHosts": ["linkedin.com"]
   },
   "logKinds": ["collection", "edit", "daily", "import"],
   "alwaysLogKinds": ["collection", "daily", "import"],
-  "git": {
-    "userName": "JoeyHartz",
-    "userEmail": "hi@joeyhartz.com"
+  "git": {"userName": "JoeyHartz", "userEmail": "hi@joeyhartz.com"},
+  "scopeFlags": {
+    "urlWordsNotInTitle": ["engineer", "engineering"],
+    "titleWords": ["senior", "sr", "lead", "manager", "director", "principal", "head of", "staff"],
+    "payWords": ["unpaid"],
+    "allowedTitlePhrases": ["art director"],
+    "urlCheckSkipHosts": ["wayup.com"]
+  },
+  "routineChecks": {
+    "fetchedMethods": ["greenhouse", "lever", "ashby", "bamboohr", "page", "board"],
+    "searchEntriesPerRun": 12,
+    "generalSearchesMin": 14,
+    "generalSearchesMax": 18
   }
 }

@@ -389,3 +389,131 @@ class LogTests(BoardTest):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class NoiseAndScopeTests(BoardTest):
+    def test_blank_pay_term_only_listed_for_new_postings(self):
+        self.git("init", "-q")
+        self.posting(id="old-blank", pay="", term="", url="https://e.com/jobs/1", title="A")
+        self.git("add", "-A")
+        self.git("commit", "-q", "-m", "x")
+        self.posting(id="new-blank", pay="", url="https://e.com/jobs/2", title="B")
+        b, _ = self.build()
+        warned = [p for p in b.problems() if p[0] == "Warning" and p[2].startswith("blank")]
+        self.assertEqual([p[1].split("/")[-1] for p in warned], ["new-blank.json"])
+        self.assertEqual(b.blank_count, 2)
+        self.assertIn("Open postings with blank pay or term | 2", (self.tmp / b.log_path).read_text(encoding="utf-8"))
+
+    def test_scope_flags(self):
+        board = build_feed.Build(self.tmp, "edit", today=TODAY, now=NOW)
+        flags = board.scope_flags
+        self.assertTrue(flags({"title": "Industrial Design Intern",
+                               "url": "https://co.com/jobs/design-engineering-internship-2027/"}))
+        self.assertFalse(flags({"title": "Design Engineering Intern",
+                                "url": "https://co.com/jobs/design-engineering-internship/"}))
+        self.assertTrue(flags({"title": "Senior Graphic Designer", "url": "https://co.com/1"}))
+        self.assertTrue(flags({"title": "Design Lead", "url": "https://co.com/1"}))
+        self.assertFalse(flags({"title": "Junior Art Director", "url": "https://co.com/1"}))
+        self.assertTrue(flags({"title": "Creative Director", "url": "https://co.com/1"}))
+        self.assertFalse(flags({"title": "UX Designer Intern",
+                                "url": "https://www.wayup.com/i-Engineering-j-UX-Designer-Intern-HDR-1/"}))
+        self.assertTrue(flags({"title": "Design Intern", "url": "https://co.com/1", "pay": "Unpaid"}))
+
+    def test_scope_flag_warns_on_new_posting(self):
+        self.posting(id="maybe-eng", url="https://co.com/jobs/design-engineering-intern/")
+        b, _ = self.build()
+        self.assertTrue(any("possible off-scope" in p[2] for p in b.problems()))
+
+
+class RecheckAndClosingSoonTests(BoardTest):
+    def test_last_verified_only_is_a_recheck_not_a_change(self):
+        self.git("init", "-q")
+        self.posting(id="r1")
+        self.git("add", "-A")
+        self.git("commit", "-q", "-m", "x")
+        p = self.tmp / "postings/industrial-design/r1.json"
+        d = json.loads(p.read_text(encoding="utf-8"))
+        d["lastVerified"] = "2026-11-05"
+        p.write_text(json.dumps(d, indent=2), encoding="utf-8")
+        b, _ = self.build()
+        self.assertEqual(b.changes, [])
+        self.assertEqual([r.id for r in b.reverified], ["r1"])
+        self.assertIsNotNone(b.log_path)
+
+    def test_closing_soon_section(self):
+        self.posting(id="soon", deadline="2026-11-12", url="https://e.com/jobs/1", title="A")
+        self.posting(id="later", deadline="2026-12-30", url="https://e.com/jobs/2", title="B")
+        b, _ = self.build(kind="daily")
+        text = (self.tmp / b.log_path).read_text(encoding="utf-8")
+        section = text.split("### Closing in the next 14 days")[1].split("### Every posting")[0]
+        self.assertIn("2026-11-12", section)
+        self.assertNotIn("2026-12-30", section)
+
+
+class RoutineCheckTests(BoardTest):
+    def setUp(self):
+        super().setUp()
+        self.git("init", "-q")
+        self.put("watchlist/industrial-design/feedco.json",
+                 sample_watch(id="feedco", company="FeedCo", method="greenhouse", lastChecked="2026-11-01"))
+        for i, day in enumerate(["2026-10-01", "2026-10-02"]):
+            self.put(f"watchlist/industrial-design/s{i}.json",
+                     sample_watch(id=f"s{i}", company=f"Search{i}", lastChecked=day))
+        for i in range(3):
+            self.posting(id=f"v{i}", url=f"https://e.com/jobs/{i}", title=f"T{i}", lastVerified="2026-10-20")
+        self.git("add", "-A")
+        self.git("commit", "-q", "-m", "base")
+
+    def set_watch(self, wid, **kw):
+        p = self.tmp / f"watchlist/industrial-design/{wid}.json"
+        d = json.loads(p.read_text(encoding="utf-8"))
+        d.update(kw)
+        p.write_text(json.dumps(d, indent=2), encoding="utf-8")
+
+    def set_post(self, pid, **kw):
+        p = self.tmp / f"postings/industrial-design/{pid}.json"
+        d = json.loads(p.read_text(encoding="utf-8"))
+        d.update(kw)
+        p.write_text(json.dumps(d, indent=2), encoding="utf-8")
+
+    def good_pending(self):
+        return {"weekday": "Thursday",
+                "watchlist": [{"id": "feedco", "status": "ok", "added": 1},
+                              {"id": "s0", "status": "ok", "added": 0},
+                              {"id": "s1", "status": "ok", "added": 0}],
+                "searches": [{"query": f"q{i}", "mode": "standard"} for i in range(15)],
+                "verified": [{"id": f"v{i}", "result": "open"} for i in range(3)]}
+
+    def run_checks(self, pending):
+        self.put("run/pending.json", pending)
+        b, _ = self.build(kind="collection")
+        return {name: (ok, detail) for name, ok, detail in b.checks}, b
+
+    def test_all_pass(self):
+        for w in ("feedco", "s0", "s1"):
+            self.set_watch(w, lastChecked="2026-11-05")
+        for i in range(3):
+            self.set_post(f"v{i}", lastVerified="2026-11-05")
+        self.posting(id="new-one", url="https://e.com/jobs/new", title="New", source="Watchlist · FeedCo")
+        checks, b = self.run_checks(self.good_pending())
+        failed = [k for k, (ok, _) in checks.items() if not ok]
+        self.assertEqual(failed, [])
+        self.assertIn("| Routine check problems | 0 |", (self.tmp / b.log_path).read_text(encoding="utf-8"))
+
+    def test_failures_are_caught(self):
+        self.set_watch("feedco", lastChecked="2026-11-05")
+        self.set_watch("s1", lastChecked="2026-11-05")      # changed but not reported
+        self.posting(id="bad-src", url="https://e.com/jobs/x", title="X",
+                     source="Search: Physical Design Internships board")
+        pending = self.good_pending()
+        pending["watchlist"] = [{"id": "feedco", "status": "ok"}]   # search entries missing
+        pending["weekday"] = "Monday"
+        pending["searches"] = pending["searches"][:2]
+        pending["verified"] = [{"id": "v0", "result": "open"}]        # lastVerified not updated
+        checks, b = self.run_checks(pending)
+        failed = {k for k, (ok, _) in checks.items() if not ok}
+        self.assertEqual(len(failed), 7, failed)
+        log = (self.tmp / b.log_path).read_text(encoding="utf-8")
+        self.assertIn("missing: s0, s1", log)
+        self.assertIn("**FAIL**", log)
+        self.assertEqual(b.result["routineCheckProblems"], 7)
