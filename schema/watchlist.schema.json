@@ -16,7 +16,7 @@
       "items": {"enum": ["ID", "GD", "UX"]}
     },
     "status": {"enum": ["active", "inactive", "error"]},
-    "method": {"enum": ["greenhouse", "lever", "ashby", "bamboohr", "page", "board", "search"]},
+    "method": {"enum": ["greenhouse", "lever", "ashby", "bamboohr", "smartrecruiters", "workday", "page", "board", "search"]},
     "sourceUrl": {"type": "string", "description": "Feed or page the routine fetches. Empty for search entries."},
     "careersUrl": {"type": "string"},
     "segment": {"type": "string"},

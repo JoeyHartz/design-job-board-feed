@@ -22,7 +22,7 @@
   "archivedPostingStatuses": ["closed", "hidden"],
   "watchlistStatuses": ["active", "inactive", "error"],
   "inactiveWatchlistStatuses": ["inactive"],
-  "watchlistMethods": ["greenhouse", "lever", "ashby", "bamboohr", "page", "board", "search"],
+  "watchlistMethods": ["greenhouse", "lever", "ashby", "bamboohr", "smartrecruiters", "workday", "page", "board", "search"],
   "paths": {
     "postings": "postings",
     "watchlist": "watchlist",
@@ -87,8 +87,10 @@
     "allowedTitlePhrases": ["art director"],
     "urlCheckSkipHosts": ["wayup.com"]
   },
+  "jobKeywords": ["design", "designer", "designers", "cmf", "ux", "ui", "graphic", "visual", "creative", "art director", "illustrator", "illustration", "motion", "animation", "animator", "packaging", "industrial design", "sculpt", "sculptor", "sculpting", "model maker", "modeler", "3d artist", "production artist", "brand"],
+  "jobExcludeWords": ["engineer", "engineering", "engineers"],
   "routineChecks": {
-    "fetchedMethods": ["greenhouse", "lever", "ashby", "bamboohr", "page", "board"],
+    "fetchedMethods": ["greenhouse", "lever", "ashby", "bamboohr", "smartrecruiters", "workday", "page", "board"],
     "searchEntriesPerRun": 12,
     "generalSearchesMin": 14,
     "generalSearchesMax": 18

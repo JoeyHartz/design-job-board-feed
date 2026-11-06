@@ -65,7 +65,7 @@ To fix it, open the file in `_errors/`, correct the problem named in `errorDetai
 
 ### Change a watchlist entry
 
-Each entry has a `method` that tells the routine how to check it: `greenhouse`, `lever`, `ashby` or `bamboohr` (a public JSON job feed in `sourceUrl`), `page` (a careers page in `sourceUrl`), `board` (a job board with its own steps in `ROUTINE.md`), or `search` (a web search by company name).
+Each entry has a `method` that tells the routine how to check it: `greenhouse`, `lever`, `ashby`, `bamboohr`, `smartrecruiters` or `workday` (a company job system with a public job list in `sourceUrl`, read by `scripts/fetch_jobs.py`; for Workday, `sourceUrl` is the careers site root such as `https://generalmotors.wd5.myworkdayjobs.com/Careers_GM`), `page` (a careers page in `sourceUrl`), `board` (a job board with its own steps in `ROUTINE.md`), or `search` (a web search by company name).
 
 - **Turn an entry off:** set `"status": "inactive"` and add a `statusHistory` line with the reason. The build moves it to `_inactive/`. Set `"active"` to turn it back on.
 - **Change how it's checked:** edit `method`, `sourceUrl` or `careersUrl`.
@@ -109,6 +109,8 @@ python3 scripts/build_feed.py --dry-run
 ```bash
 python3 scripts/list_index.py
 ```
+
+`python3 scripts/fetch_jobs.py <watchlist id>` prints the design-titled jobs in that entry's job list (`--all` for every job).
 
 `list_index.py` also takes `postings`, `watchlist`, `searches` (the 12 search entries due today) or `recheck` (the postings due for a re-check today).
 
