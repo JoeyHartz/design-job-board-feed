@@ -93,3 +93,42 @@ class OtherSystemsTests(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class RetryTests(unittest.TestCase):
+    def test_retries_temporary_errors(self):
+        import io
+        import urllib.error
+        calls = []
+
+        class Resp(io.BytesIO):
+            def __enter__(self):
+                return self
+
+            def __exit__(self, *a):
+                return False
+
+        def fake_urlopen(req, timeout=None):
+            calls.append(1)
+            if len(calls) < 3:
+                raise urllib.error.HTTPError(req.full_url, 502, "Bad Gateway", {}, None)
+            return Resp(b'{"ok": true}')
+
+        with mock.patch.object(fetch_jobs.urllib.request, "urlopen", fake_urlopen), \
+                mock.patch.object(fetch_jobs.time, "sleep", lambda s: None):
+            self.assertEqual(fetch_jobs.http("https://x"), {"ok": True})
+        self.assertEqual(len(calls), 3)
+
+    def test_does_not_retry_404(self):
+        import urllib.error
+        calls = []
+
+        def fake_urlopen(req, timeout=None):
+            calls.append(1)
+            raise urllib.error.HTTPError(req.full_url, 404, "Not Found", {}, None)
+
+        with mock.patch.object(fetch_jobs.urllib.request, "urlopen", fake_urlopen), \
+                mock.patch.object(fetch_jobs.time, "sleep", lambda s: None):
+            with self.assertRaises(urllib.error.HTTPError):
+                fetch_jobs.http("https://x")
+        self.assertEqual(len(calls), 1)

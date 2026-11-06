@@ -36,6 +36,7 @@ import argparse
 import json
 import re
 import sys
+import time
 import urllib.error
 import urllib.request
 from pathlib import Path
@@ -53,8 +54,17 @@ def http(url, data=None):
         body = json.dumps(data).encode("utf-8")
         headers["Content-Type"] = "application/json"
     req = urllib.request.Request(url, data=body, headers=headers, method="POST" if body else "GET")
-    with urllib.request.urlopen(req, timeout=TIMEOUT) as resp:
-        return json.loads(resp.read().decode("utf-8", errors="replace"))
+    for attempt in range(3):
+        try:
+            with urllib.request.urlopen(req, timeout=TIMEOUT) as resp:
+                return json.loads(resp.read().decode("utf-8", errors="replace"))
+        except urllib.error.HTTPError as exc:
+            if exc.code < 500 and exc.code != 429 or attempt == 2:
+                raise
+        except (urllib.error.URLError, TimeoutError, ConnectionError):
+            if attempt == 2:
+                raise
+        time.sleep(3 * (attempt + 1))   # temporary error: wait and retry
 
 
 def greenhouse(url):
