@@ -231,6 +231,11 @@ class FeedRuleTests(BoardTest):
         self.assertEqual(self.read("postings/industrial-design/expired.json")["status"], "open")
 
     def test_stale_rule(self):
+        # The stale rule is about LinkedIn links, which the real config now blocks; allow them here.
+        cfg_path = self.tmp / "config" / "board.json"
+        cfg = json.loads(cfg_path.read_text(encoding="utf-8"))
+        cfg["blockedUrlHosts"] = []
+        cfg_path.write_text(json.dumps(cfg), encoding="utf-8")
         old = {"firstSeen": "2026-09-01", "lastUpdated": "2026-09-05"}
         self.posting(id="stale-li", title="T1", url="https://www.linkedin.com/jobs/view/111/", **old)
         self.posting(id="li-with-deadline", title="T2", url="https://www.linkedin.com/jobs/view/222/",
@@ -517,3 +522,18 @@ class RoutineCheckTests(BoardTest):
         self.assertIn("missing: s0, s1", log)
         self.assertIn("**FAIL**", log)
         self.assertEqual(b.result["routineCheckProblems"], 7)
+
+
+class BlockedHostTests(BoardTest):
+    def test_open_linkedin_posting_is_an_error(self):
+        self.posting(id="li-open", url="https://www.linkedin.com/jobs/view/123/")
+        b, _ = self.build()
+        d = self.read("postings/_errors/li-open.json")
+        self.assertIn("linkedin.com", d["errorDetail"])
+        self.assertEqual(self.feed(), [])
+
+    def test_closed_linkedin_posting_is_fine(self):
+        self.posting(id="li-closed", url="https://www.linkedin.com/jobs/view/123/", status="closed",
+                     closedAt="2026-11-06", closedReason="removed")
+        self.build()
+        self.assertTrue((self.tmp / "postings/_archive/industrial-design/li-closed.json").exists())

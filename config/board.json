@@ -87,6 +87,7 @@
     "allowedTitlePhrases": ["art director"],
     "urlCheckSkipHosts": ["wayup.com"]
   },
+  "blockedUrlHosts": ["linkedin.com"],
   "jobKeywords": ["design", "designer", "designers", "cmf", "ux", "ui", "graphic", "visual", "creative", "art director", "illustrator", "illustration", "motion", "animation", "animator", "packaging", "industrial design", "sculpt", "sculptor", "sculpting", "model maker", "modeler", "3d artist", "production artist", "brand"],
   "jobExcludeWords": ["engineer", "engineering", "engineers"],
   "routineChecks": {

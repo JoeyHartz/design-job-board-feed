@@ -18,7 +18,7 @@ Many good roles are not titled "industrial designer" or "graphic designer". Coun
 
 Add a posting only if ALL are true:
 
-- **(a)** It's a real, specific posting you opened or saw with its own URL (or, for board listings marked employer-reviewed with an active apply flag, the employer URL the board gives).
+- **(a)** It's a real, specific posting you opened or saw with its own URL (or, for board listings marked employer-reviewed with an active apply flag, the employer URL the board gives). **Never use a LinkedIn link** (or any host in `blockedUrlHosts` in `config/board.json`): LinkedIn can't be opened or re-checked automatically. Find the same job on the employer's site or another readable job page; if you can't, skip it.
 - **(b)** It appears open: no "closed"/"inactive"/"no longer accepting" notice, and no start date or deadline already past.
 - **(c)** It's an internship, co-op, apprenticeship, placement or entry-level role (0–2 years). Reject roles requiring 3+ years, and senior, lead, manager, director or freelance senior roles.
 - **(d)** It's in scope and design is the main job. Skip UX research roles unless they welcome design majors.

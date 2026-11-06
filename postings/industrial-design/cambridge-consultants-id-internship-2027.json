@@ -15,9 +15,9 @@
   "url": "https://www.cambridgeconsultants.com/jobs/cambridgeconsultantslimited/design-engineering-internship-2027-start/?gh_jid=4970056101",
   "source": "Watchlist · Physical Design Internships",
   "note": "Rolling applications, no deadline; portfolio required; UK work rights not stated on the posting.",
-  "status": "open",
+  "status": "hidden",
   "firstSeen": "2026-11-05",
-  "lastUpdated": "2026-11-05",
+  "lastUpdated": "2026-11-06",
   "lastVerified": "2026-11-05",
   "closedAt": "",
   "closedReason": "",
@@ -26,6 +26,11 @@
       "date": "2026-11-05",
       "status": "open",
       "reason": "added"
+    },
+    {
+      "date": "2026-11-06",
+      "status": "hidden",
+      "reason": "removed by Joey: link points to a design engineering role, not in scope"
     }
   ],
   "facts": {

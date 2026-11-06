@@ -331,6 +331,10 @@ def validate(board: Board, rec: Record):
             errs.append(f"url doesn't start with http: {d.get('url')!r}")
         if parse_date(d.get("firstSeen")) is None:
             errs.append(f"firstSeen is not a real YYYY-MM-DD date: {d.get('firstSeen')!r}")
+        host = url_host(d.get("url"))
+        if d.get("status") == "open" and any(host == h or host.endswith("." + h)
+                                             for h in c.get("blockedUrlHosts", [])):
+            errs.append(f"links to {host}, which can't be checked; use the employer's own posting")
     else:
         if blank(d.get("company")):
             errs.append("missing company")

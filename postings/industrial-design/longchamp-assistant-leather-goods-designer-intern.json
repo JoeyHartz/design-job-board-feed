@@ -15,17 +15,22 @@
   "url": "https://www.linkedin.com/jobs/view/4473738540/",
   "source": "Watchlist · Physical Design Internships",
   "note": "Leather goods; posting is in French.",
-  "status": "open",
+  "status": "closed",
   "firstSeen": "2026-10-22",
-  "lastUpdated": "2026-10-22",
+  "lastUpdated": "2026-11-06",
   "lastVerified": "2026-10-22",
-  "closedAt": "",
-  "closedReason": "",
+  "closedAt": "2026-11-06",
+  "closedReason": "removed: LinkedIn link can't be checked",
   "statusHistory": [
     {
       "date": "2026-11-05",
       "status": "open",
       "reason": "imported from artifact"
+    },
+    {
+      "date": "2026-11-06",
+      "status": "closed",
+      "reason": "removed by Joey: LinkedIn links can't be checked automatically"
     }
   ],
   "facts": {},

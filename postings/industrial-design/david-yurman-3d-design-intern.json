@@ -15,17 +15,22 @@
   "url": "https://www.linkedin.com/jobs/view/4482165367/",
   "source": "LinkedIn",
   "note": "Jewelry design in 3D.",
-  "status": "open",
+  "status": "closed",
   "firstSeen": "2026-10-23",
-  "lastUpdated": "2026-10-23",
+  "lastUpdated": "2026-11-06",
   "lastVerified": "2026-10-23",
-  "closedAt": "",
-  "closedReason": "",
+  "closedAt": "2026-11-06",
+  "closedReason": "removed: LinkedIn link can't be checked",
   "statusHistory": [
     {
       "date": "2026-11-05",
       "status": "open",
       "reason": "imported from artifact"
+    },
+    {
+      "date": "2026-11-06",
+      "status": "closed",
+      "reason": "removed by Joey: LinkedIn links can't be checked automatically"
     }
   ],
   "facts": {},
