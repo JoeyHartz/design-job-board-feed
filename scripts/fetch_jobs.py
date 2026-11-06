@@ -6,8 +6,9 @@ system with a public list: greenhouse, lever, ashby, bamboohr, smartrecruiters
 or workday. It replaces fetching those lists with WebFetch, which can't send
 the POST request Workday needs and summarizes long lists.
 
-  python3 scripts/fetch_jobs.py <watchlist id>            # design-related jobs
-  python3 scripts/fetch_jobs.py <watchlist id> --all      # every job
+  python3 scripts/fetch_jobs.py <watchlist id>            # design-related jobs not yet on the board
+  python3 scripts/fetch_jobs.py <watchlist id> --known    # also show design jobs already on the board
+  python3 scripts/fetch_jobs.py <watchlist id> --all      # every job, on the board or not
   python3 scripts/fetch_jobs.py --method workday --url <sourceUrl> [--all]
 
 Output is tab-separated: title, location, posted date (if given), URL.
@@ -143,6 +144,38 @@ def matches(title, words):
     return any(f" {w} " in t for w in include) and not any(f" {w} " in t for w in exclude)
 
 
+def known_keys():
+    """Keys for every posting already in the repo (any status), to hide jobs already on the board."""
+    keys = set()
+    for p in (ROOT / "postings").rglob("*.json"):
+        try:
+            u = json.loads(p.read_text(encoding="utf-8")).get("url") or ""
+        except (ValueError, UnicodeDecodeError, AttributeError):
+            continue
+        keys.update(job_keys(u))
+    return keys
+
+
+def job_keys(url):
+    """A normalized URL, plus any requisition number in it (e.g. JR-202619287, R-102996).
+
+    Requisition numbers match across a company's different career sites, so a job
+    already on the board under one site is recognized on another. Short numbers
+    (under 6 digits) are only matched together with the site's host, to avoid
+    clashes between companies."""
+    try:
+        parts = urlsplit(url.strip())
+    except ValueError:
+        return set()
+    host = (parts.hostname or "").lower().removeprefix("www.")
+    path = parts.path.rstrip("/")
+    keys = {host + path.lower()}
+    for prefix, num in re.findall(r"(?<![a-z])(jr|req|r)[-_]?(\d{4,})(?!\d)", path.lower()):
+        req = f"{prefix.upper()}-{num}"
+        keys.add(f"req:{req}" if len(num) >= 6 else f"{host}:{req}")
+    return keys
+
+
 def run(method, url, show_all=False):
     if method not in METHODS:
         raise ValueError(f"method {method!r} has no public job list; use WebFetch or search")
@@ -170,6 +203,7 @@ def main(argv=None):
     ap.add_argument("--method")
     ap.add_argument("--url")
     ap.add_argument("--all", action="store_true", help="print every job, not just design-related titles")
+    ap.add_argument("--known", action="store_true", help="also print design jobs already on the board")
     a = ap.parse_args(argv)
     method, url = a.method, a.url
     if a.entry:
@@ -184,13 +218,19 @@ def main(argv=None):
         return 1
     try:
         shown, total = run(method, url, a.all)
+        hidden = 0
+        if not (a.all or a.known):
+            known = known_keys()
+            kept = [r for r in shown if not (job_keys(r[3]) & known)]
+            hidden, shown = len(shown) - len(kept), kept
     except (urllib.error.URLError, urllib.error.HTTPError, ValueError, json.JSONDecodeError, TimeoutError) as exc:
         print(f"# ERROR {type(exc).__name__}: {exc}")
         return 1
     for title, where, posted, link in shown:
         print("\t".join(str(x).replace("\t", " ").replace("\n", " ") for x in (title, where, posted, link)))
     scope = "jobs found by design searches" if method == "workday" and not a.all else "jobs in the list"
-    print(f"# {len(shown)} shown of {total} {scope} ({method} {url})")
+    note = f", {hidden} already on the board hidden" if hidden else ""
+    print(f"# {len(shown)} shown{note}, of {total} {scope} ({method} {url})")
     return 0
 
 

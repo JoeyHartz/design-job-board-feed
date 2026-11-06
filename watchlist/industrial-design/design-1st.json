@@ -6,9 +6,9 @@
     "ID"
   ],
   "status": "active",
-  "method": "search",
-  "sourceUrl": "",
-  "careersUrl": "",
+  "method": "page",
+  "sourceUrl": "https://design1st.com/careers/",
+  "careersUrl": "https://design1st.com/careers/",
   "segment": "ID consultancy",
   "lastChecked": "2026-11-06",
   "found": 0,
@@ -17,6 +17,11 @@
       "date": "2026-11-05",
       "status": "active",
       "reason": "imported from artifact"
+    },
+    {
+      "date": "2026-11-06",
+      "status": "active",
+      "reason": "method changed from search to page: reads its careers page directly"
     }
   ]
 }

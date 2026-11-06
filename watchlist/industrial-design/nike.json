@@ -6,9 +6,9 @@
     "ID"
   ],
   "status": "active",
-  "method": "search",
-  "sourceUrl": "",
-  "careersUrl": "",
+  "method": "workday",
+  "sourceUrl": "https://nike.wd1.myworkdayjobs.com/nke",
+  "careersUrl": "https://careers.nike.com",
   "segment": "Footwear and apparel",
   "lastChecked": "2026-11-03",
   "found": 1,
@@ -17,6 +17,11 @@
       "date": "2026-11-05",
       "status": "active",
       "reason": "imported from artifact"
+    },
+    {
+      "date": "2026-11-06",
+      "status": "active",
+      "reason": "method changed from search to workday: reads its public job list directly"
     }
   ]
 }

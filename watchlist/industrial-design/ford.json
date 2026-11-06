@@ -6,9 +6,9 @@
     "ID"
   ],
   "status": "active",
-  "method": "search",
-  "sourceUrl": "",
-  "careersUrl": "",
+  "method": "page",
+  "sourceUrl": "https://www.careers.ford.com/en/search-jobs?k=design",
+  "careersUrl": "https://www.careers.ford.com/en",
   "segment": "Automotive, CMF",
   "lastChecked": "2026-10-30",
   "found": 2,
@@ -17,6 +17,11 @@
       "date": "2026-11-05",
       "status": "active",
       "reason": "imported from artifact"
+    },
+    {
+      "date": "2026-11-06",
+      "status": "active",
+      "reason": "method changed from search to page: reads its careers page directly"
     }
   ]
 }

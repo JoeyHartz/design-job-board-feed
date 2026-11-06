@@ -6,9 +6,9 @@
     "ID"
   ],
   "status": "active",
-  "method": "search",
-  "sourceUrl": "",
-  "careersUrl": "",
+  "method": "page",
+  "sourceUrl": "https://careers-humanscale.icims.com/jobs/search?ss=1&in_iframe=1",
+  "careersUrl": "https://www.humanscale.com/about/company-overview/careers.cfm",
   "segment": "Furniture",
   "lastChecked": "2026-10-30",
   "found": 1,
@@ -17,6 +17,11 @@
       "date": "2026-11-05",
       "status": "active",
       "reason": "imported from artifact"
+    },
+    {
+      "date": "2026-11-06",
+      "status": "active",
+      "reason": "method changed from search to page: reads its careers page directly"
     }
   ]
 }

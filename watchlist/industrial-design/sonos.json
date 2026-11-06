@@ -6,9 +6,9 @@
     "ID"
   ],
   "status": "active",
-  "method": "search",
-  "sourceUrl": "",
-  "careersUrl": "",
+  "method": "workday",
+  "sourceUrl": "https://sonos.wd1.myworkdayjobs.com/Sonos",
+  "careersUrl": "https://sonos.wd1.myworkdayjobs.com/Sonos",
   "segment": "Consumer electronics",
   "lastChecked": "2026-11-04",
   "found": 1,
@@ -17,6 +17,11 @@
       "date": "2026-11-05",
       "status": "active",
       "reason": "imported from artifact"
+    },
+    {
+      "date": "2026-11-06",
+      "status": "active",
+      "reason": "method changed from search to workday: reads its public job list directly"
     }
   ]
 }

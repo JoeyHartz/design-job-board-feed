@@ -26,6 +26,23 @@ class FilterTests(unittest.TestCase):
             self.assertFalse(fetch_jobs.matches(t, self.words), t)
 
 
+class KnownJobTests(unittest.TestCase):
+    def test_requisition_matches_across_sites(self):
+        a = fetch_jobs.job_keys("https://search-careers.gm.com/en/jobs/jr-202621626/summer-2027-intern-industrial-design/")
+        b = fetch_jobs.job_keys("https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren/Summer-2027-Intern_JR-202621626")
+        self.assertTrue(a & b)
+
+    def test_short_requisition_only_matches_same_host(self):
+        a = fetch_jobs.job_keys("https://andersen.wd12.myworkdayjobs.com/x/job/y/Design-Intern_R-8220")
+        b = fetch_jobs.job_keys("https://other.wd1.myworkdayjobs.com/x/job/y/Design-Intern_R-8220")
+        self.assertFalse(a & b)
+
+    def test_same_url_with_slash_and_case(self):
+        a = fetch_jobs.job_keys("https://www.Example.com/jobs/Designer/")
+        b = fetch_jobs.job_keys("https://example.com/jobs/designer")
+        self.assertTrue(a & b)
+
+
 class WorkdayTests(unittest.TestCase):
     def test_paging_and_urls(self):
         pages = [

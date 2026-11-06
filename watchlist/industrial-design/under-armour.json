@@ -6,9 +6,9 @@
     "ID"
   ],
   "status": "active",
-  "method": "search",
-  "sourceUrl": "",
-  "careersUrl": "",
+  "method": "page",
+  "sourceUrl": "https://careers.underarmour.com/go/Corporate/8749200/",
+  "careersUrl": "https://careers.underarmour.com/go/Corporate/8749200/",
   "segment": "Footwear and apparel",
   "lastChecked": "2026-11-04",
   "found": 1,
@@ -17,6 +17,11 @@
       "date": "2026-11-05",
       "status": "active",
       "reason": "imported from artifact"
+    },
+    {
+      "date": "2026-11-06",
+      "status": "active",
+      "reason": "method changed from search to page: reads its careers page directly"
     }
   ]
 }
