@@ -63,6 +63,11 @@ class CloseExpiredTests(Repo):
             self.assertEqual(json.loads(p.read_text(encoding="utf-8"))["status"], "open")
         self.assertEqual(json.loads(hidden.read_text(encoding="utf-8"))["status"], "hidden")
 
+    def test_pending_past_deadline_closes(self):
+        p = self.posting(id="pend", deadline="2026-11-01", status="pending")
+        self.assertEqual([c[0] for c in close_expired.close_expired(self.tmp, TODAY)], ["pend"])
+        self.assertEqual(json.loads(p.read_text(encoding="utf-8"))["status"], "closed")
+
     def test_dry_run_writes_nothing(self):
         p = self.posting(id="past", deadline="2026-11-01")
         before = p.read_text(encoding="utf-8")
@@ -155,6 +160,13 @@ class DigestTests(Repo):
         self.assertIn("1 deadline passed", text)
         self.assertIn("2026-11-12", text)
         self.assertIn("Link check: no report yet", text)
+
+    def test_pending_waiting_long_is_flagged(self):
+        self.posting(id="wait", status="pending", firstSeen="2026-10-25", title="W", url="https://e.com/9")
+        (self.tmp / "postings.json").write_text("[]", encoding="utf-8")
+        text = weekly_digest.digest(self.tmp, TODAY)
+        self.assertIn("| Waiting for your approval | 1 |", text)
+        self.assertIn("for more than 7 days", text)
 
 
 if __name__ == "__main__":

@@ -28,7 +28,7 @@
     "url": {"type": "string", "pattern": "^http"},
     "source": {"type": "string"},
     "note": {"type": "string"},
-    "status": {"enum": ["open", "closed", "hidden", "error"]},
+    "status": {"enum": ["open", "pending", "closed", "hidden", "error"], "description": "pending: found by the routine, waiting for a person to approve it; not published."},
     "firstSeen": {"type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}$"},
     "lastUpdated": {"type": "string"},
     "lastVerified": {"type": "string"},

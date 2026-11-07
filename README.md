@@ -31,6 +31,18 @@ This repo is the only source of data. Every posting and every watchlist entry is
 
 **You don't need to put a file in the right folder.** The build reads the fields and moves the file where it belongs. A file is named `<id>.json`, and the build fixes the name if it doesn't match `id`.
 
+## Approving new jobs
+
+Every job the routine finds starts as **`"pending"`**: it's checked and written up, but not published. You decide what goes on the board.
+
+1. After each routine run, the **"Jobs waiting for approval"** GitHub issue lists every pending job with its program, level, term, location, pay, deadline, note and link. GitHub notifies you (the issue mentions you) when new jobs are added.
+2. Tick **Approve** to publish a job, or **Reject** to keep it off the board for good. You can do this on github.com or in the GitHub phone app. To approve everything listed, tick **Approve all** at the top and tick **Reject** on any you don't want.
+3. About a minute later the **Approvals** Action applies your ticks (approved → `"open"`, rejected → `"hidden"`, each with a dated history line naming you), starts **Build feed** to publish, and refreshes the list. Jobs you leave unticked stay in the list. When nothing is waiting, the issue closes itself.
+
+Only the people listed in `approval.approvers` in `config/board.json` (and repo admins) can approve; ticks by anyone else are ignored. Pending jobs whose deadline passes are closed by the daily maintenance, and jobs waiting more than 7 days are flagged in the weekly digest. You can also approve by hand: change `"pending"` to `"open"` in the file. To turn approval off, set `approval.required` to `false`.
+
+The jobs that were already published when approval was switched on (Nov 7, 2026) stayed published.
+
 ## Editing by hand
 
 Edit files right on GitHub: open the file, click the pencil, change the value, and commit to `main`. The Action runs within a minute or two and updates the feed. Keep the JSON valid: quotes around text, commas between fields, no comma after the last field.

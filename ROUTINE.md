@@ -53,9 +53,11 @@ Qualify each job using `config/criteria.md`. Record every rejected candidate wit
 
 ## 5. Write new postings
 
-Write one file per new posting in its program folder (`postings/industrial-design/`, `graphic-design/`, `ui-ux/`, or `multi-program/` for two or more programs), named `<id>.json`. Use the format in `README.md` and `schema/posting.schema.json`: 2-space indent, UTF-8, non-ASCII characters kept as is. The id is lowercase words joined by hyphens, e.g. `steelcase-id-intern-summer-2027`, and must not match an existing id. Set `firstSeen`, `lastUpdated` and `lastVerified` to today, and add the first `statusHistory` entry: `{"date": "<today>", "status": "open", "reason": "added"}`. Write `facts` in your own short words; never paste the posting's text.
+Write one file per new posting in its program folder (`postings/industrial-design/`, `graphic-design/`, `ui-ux/`, or `multi-program/` for two or more programs), named `<id>.json`. Use the format in `README.md` and `schema/posting.schema.json`: 2-space indent, UTF-8, non-ASCII characters kept as is. The id is lowercase words joined by hyphens, e.g. `steelcase-id-intern-summer-2027`, and must not match an existing id. Set `firstSeen`, `lastUpdated` and `lastVerified` to today, set `"status": "pending"` (never "open": a person approves every new posting before it's published; see `config/board.json` `approval`), and add the first `statusHistory` entry: `{"date": "<today>", "status": "pending", "reason": "added, waiting for approval"}`. Write `facts` in your own short words; never paste the posting's text.
 
 ## 6. Tidy
+
+Apply the rules below to postings with status "open" and to postings still "pending" approval (a pending job can close or change before it's approved). Never approve a posting yourself: only a person does that, by ticking it in the "Jobs waiting for approval" GitHub issue.
 
 - If a posting's deadline is before today, or you confirmed its page or feed no longer lists it, set `status` to "closed", fill `closedAt` (today) and `closedReason`, add a `statusHistory` entry, and update `lastUpdated`. The build moves it to `_archive/`.
 - If you confirm a posting is still open, update `lastVerified`.
@@ -105,4 +107,4 @@ Run `python3 scripts/build_feed.py --kind collection`, then commit everything to
 
 ## 8. Reply
 
-Reply with a short summary: added by program with company and title, marking watchlist and international roles; how many closed (and how many of those from re-checks); how many re-checked; errors; any possible off-scope flags on new postings; watchlist failures; any routine checks that failed; and the log path.
+Reply with a short summary: added (all waiting for approval) by program with company and title, marking watchlist and international roles; how many closed (and how many of those from re-checks); how many re-checked; errors; any possible off-scope flags on new postings; watchlist failures; any routine checks that failed; and the log path.

@@ -2,7 +2,7 @@
 """Close open postings whose deadline has passed (America/Chicago date).
 
 Standard library only. Run by the daily maintenance Action before the build.
-For each posting with status "open" and a deadline before today, it sets
+For each posting with status "open" or "pending" and a deadline before today, it sets
 status "closed", closedAt and closedReason, adds a statusHistory entry and
 updates lastUpdated. Hidden postings and postings without a deadline are never
 touched. The build then moves closed files to _archive/.
@@ -35,7 +35,7 @@ def close_expired(root: Path, today: dt.date, dry_run=False):
             d = json.loads(p.read_text(encoding="utf-8"))
         except (ValueError, UnicodeDecodeError):
             continue
-        if not isinstance(d, dict) or d.get("status") != "open":
+        if not isinstance(d, dict) or d.get("status") not in ("open", "pending"):
             continue
         deadline = parse_date(d.get("deadline"))
         if deadline is None or deadline >= today:

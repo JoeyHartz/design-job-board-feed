@@ -79,6 +79,19 @@ jobs:
           echo "Push failed after 3 tries." >&2
           exit 1
 
+      - name: Refresh the approval list
+        if: always() && steps.tests.outcome == 'success'
+        run: |
+          git pull --rebase origin main || true
+          python3 scripts/approvals.py render --repo-url "${{ github.server_url }}/${{ github.repository }}"
+
+      - name: Update the approval issue
+        if: always() && steps.tests.outcome == 'success'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            await require('./.github/scripts/approval_issue.js')({ github, context });
+
       - name: Report problems in an issue
         if: always()
         uses: actions/github-script@v7

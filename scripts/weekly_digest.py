@@ -62,7 +62,8 @@ def digest(root: Path, today: dt.date, repo_url: str = ""):
              f"| Jobs in the feed now | {len(feed)} |",
              f"| Added this week | {len(added)} |",
              f"| Closed this week | {len(closed)} |",
-             f"| Closing in the next 14 days | {len(soon)} |", ""]
+             f"| Closing in the next 14 days | {len(soon)} |",
+             f"| Waiting for your approval | {sum(1 for d in posts if d.get('status') == 'pending')} |", ""]
 
     by_prog = defaultdict(list)
     for d in added:
@@ -97,6 +98,21 @@ def digest(root: Path, today: dt.date, repo_url: str = ""):
         lines.append("")
     else:
         lines += ["None.", ""]
+
+    stale_days = board.cfg.get("approval", {}).get("staleAfterDays", 7)
+    waiting = sorted((d for d in posts if d.get("status") == "pending"), key=lambda d: d.get("firstSeen", ""))
+    lines += ["## Waiting for approval", ""]
+    if waiting:
+        old = [d for d in waiting if parse_date(d.get("firstSeen")) and (today - parse_date(d["firstSeen"])).days > stale_days]
+        lines.append(f"{len(waiting)} job{'s' if len(waiting) != 1 else ''} waiting"
+                     + (f", **{len(old)} for more than {stale_days} days**" if old else "") + ". Review them in the "
+                     + (f"[approval issue]({repo_url}/issues?q=is%3Aissue+is%3Aopen+label%3A"
+                        f"{board.cfg.get('approval', {}).get('issueLabel', 'pending-approval')})" if repo_url else "approval issue") + ".")
+        for d in old:
+            lines.append(f"- {md(d.get('company'))}: {md(d.get('title'))} (found {md(d.get('firstSeen'))})")
+        lines.append("")
+    else:
+        lines += ["Nothing waiting.", ""]
 
     lines += ["## Automated checks", ""]
     try:

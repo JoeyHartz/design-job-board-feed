@@ -332,7 +332,7 @@ def validate(board: Board, rec: Record):
         if parse_date(d.get("firstSeen")) is None:
             errs.append(f"firstSeen is not a real YYYY-MM-DD date: {d.get('firstSeen')!r}")
         host = url_host(d.get("url"))
-        if d.get("status") == "open" and any(host == h or host.endswith("." + h)
+        if d.get("status") in ("open", "pending") and any(host == h or host.endswith("." + h)
                                              for h in c.get("blockedUrlHosts", [])):
             errs.append(f"links to {host}, which can't be checked; use the employer's own posting")
     else:
@@ -534,7 +534,7 @@ class Build:
                 rec.warnings.append(("stale (LinkedIn link, no deadline, over "
                                      f"{b.thresholds['staleDays']} days old)",
                                      "left open; kept out of the feed"))
-            if rec.data["status"] == "open":
+            if rec.data["status"] in ("open", "pending"):
                 rec.blank = [f for f in ("pay", "term") if blank(rec.data.get(f))]
 
         # Feed candidates, with duplicates merged.
@@ -593,7 +593,7 @@ class Build:
         for rec in self.added:
             if getattr(rec, "blank", None):
                 rec.warnings.append((f"blank {' and '.join(rec.blank)}", "fill in if the posting states it"))
-            if rec.data["status"] == "open":
+            if rec.data["status"] in ("open", "pending"):
                 for flag in self.scope_flags(rec.data):
                     rec.warnings.append((f"possible off-scope: {flag}",
                                          'check by hand; set status to "hidden" if it doesn\'t qualify'))
@@ -766,6 +766,10 @@ class Build:
             s = str(rec.data.get("source", ""))
             if s.lower().startswith("search:") or (s.lower().startswith("watchlist") and s.casefold() not in names):
                 bad_src.append(f"{rec.id} ({s})")
+        if b.cfg.get("approval", {}).get("required"):
+            not_pending = [r.id for r in self.added if r.data.get("status") != "pending"]
+            rows.append(("New postings are saved as pending (approval required)", not not_pending,
+                         ", ".join(not_pending) if not_pending else f"{len(self.added)} new, all pending"))
         rows.append(("New postings use the exact source label", not bad_src,
                      "; ".join(bad_src) if bad_src else f"{len(self.added)} new"))
 
@@ -936,6 +940,7 @@ class Build:
                   f"| Open postings with blank pay or term | {self.blank_count} |",
                   f"| Stale | {n_stale} |",
                   f"| In feed{' (not written)' if self.stopped else ''} | {len(self.feed)} |",
+                  f"| Waiting for approval | {sum(1 for r in self.postings if r.valid and r.data['status'] == 'pending')} |",
                   f"| Watchlist failures | {len(wl_fail)} |"]
         if self.kind == "collection":
             lines.append(f"| Routine check problems | {len(failed_checks)} |")

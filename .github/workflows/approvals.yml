@@ -1,0 +1,105 @@
+name: Approvals
+
+# Runs when someone ticks boxes in the "Jobs waiting for approval" issue.
+# Approved jobs become "open", rejected jobs "hidden". Then it starts the
+# Build feed workflow to publish, and refreshes the issue.
+# Only people listed in config/board.json approval.approvers (or repo admins) count.
+
+on:
+  issues:
+    types: [edited]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+  actions: write
+
+concurrency:
+  group: approvals
+  cancel-in-progress: false
+
+jobs:
+  approve:
+    if: github.event_name == 'workflow_dispatch' || contains(github.event.issue.labels.*.name, 'pending-approval')
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Check who ticked the boxes
+        id: who
+        if: github.event_name == 'issues'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const cfg = JSON.parse(fs.readFileSync('config/board.json', 'utf8')).approval || {};
+            const sender = context.payload.sender.login;
+            let ok = (cfg.approvers || []).includes(sender);
+            if (!ok) {
+              try {
+                const { data } = await github.rest.repos.getCollaboratorPermissionLevel({ ...context.repo, username: sender });
+                ok = data.permission === 'admin';
+              } catch (e) { ok = false; }
+            }
+            if (!ok) core.notice(`Ignored an edit by ${sender}: not an approver.`);
+            core.setOutput('ok', ok ? 'true' : 'false');
+
+      - name: Apply ticked boxes
+        id: apply
+        if: github.event_name == 'issues' && steps.who.outputs.ok == 'true'
+        env:
+          BODY: ${{ github.event.issue.body }}
+          APPROVER: ${{ github.event.sender.login }}
+        run: |
+          printf '%s' "$BODY" > "$RUNNER_TEMP/body.md"
+          summary=$(python3 scripts/approvals.py apply "$RUNNER_TEMP/body.md" --approver "$APPROVER")
+          echo "$summary"
+          echo "summary=$summary" >> "$GITHUB_OUTPUT"
+
+      - name: Commit and push
+        id: push
+        if: steps.apply.outcome == 'success'
+        env:
+          SUMMARY: ${{ steps.apply.outputs.summary }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898237+github-actions[bot]@users.noreply.github.com"
+          git add -A postings
+          if git diff --cached --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          a=$(python3 -c "import json,os;s=json.loads(os.environ['SUMMARY']);print(len(s['approved']))")
+          r=$(python3 -c "import json,os;s=json.loads(os.environ['SUMMARY']);print(len(s['rejected']))")
+          git commit -m "Approvals: $a approved, $r rejected ($(TZ=America/Chicago date +%F)) [skip ci]"
+          for i in 1 2 3; do
+            git pull --rebase origin main && git push origin HEAD:main && echo "changed=true" >> "$GITHUB_OUTPUT" && exit 0
+            sleep $((i * 5))
+          done
+          echo "Push failed after 3 tries." >&2
+          exit 1
+
+      - name: Publish (start Build feed)
+        if: steps.push.outputs.changed == 'true'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            await github.rest.actions.createWorkflowDispatch({ ...context.repo, workflow_id: 'build-feed.yml', ref: 'main' });
+
+      - name: Refresh the approval list
+        if: always()
+        run: python3 scripts/approvals.py render --repo-url "${{ github.server_url }}/${{ github.repository }}"
+
+      - name: Update the approval issue
+        if: always()
+        uses: actions/github-script@v7
+        with:
+          script: |
+            await require('./.github/scripts/approval_issue.js')({ github, context });

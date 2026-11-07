@@ -499,7 +499,8 @@ class RoutineCheckTests(BoardTest):
             self.set_watch(w, lastChecked="2026-11-05")
         for i in range(3):
             self.set_post(f"v{i}", lastVerified="2026-11-05")
-        self.posting(id="new-one", url="https://e.com/jobs/new", title="New", source="Watchlist · FeedCo")
+        self.posting(id="new-one", url="https://e.com/jobs/new", title="New", source="Watchlist · FeedCo",
+                     status="pending")
         checks, b = self.run_checks(self.good_pending())
         failed = [k for k, (ok, _) in checks.items() if not ok]
         self.assertEqual(failed, [])
@@ -517,11 +518,11 @@ class RoutineCheckTests(BoardTest):
         pending["verified"] = [{"id": "v0", "result": "open"}]        # lastVerified not updated
         checks, b = self.run_checks(pending)
         failed = {k for k, (ok, _) in checks.items() if not ok}
-        self.assertEqual(len(failed), 7, failed)
+        self.assertEqual(len(failed), 8, failed)   # includes "saved as pending": bad-src was added as open
         log = (self.tmp / b.log_path).read_text(encoding="utf-8")
         self.assertIn("missing: s0, s1", log)
         self.assertIn("**FAIL**", log)
-        self.assertEqual(b.result["routineCheckProblems"], 7)
+        self.assertEqual(b.result["routineCheckProblems"], 8)
 
 
 class BlockedHostTests(BoardTest):
@@ -537,3 +538,18 @@ class BlockedHostTests(BoardTest):
                      closedAt="2026-11-06", closedReason="removed")
         self.build()
         self.assertTrue((self.tmp / "postings/_archive/industrial-design/li-closed.json").exists())
+
+
+
+class PendingTests(BoardTest):
+    def test_pending_posting_is_not_published(self):
+        self.posting(id="waiting", status="pending")
+        b, _ = self.build()
+        self.assertEqual(self.feed(), [])
+        self.assertTrue((self.tmp / "postings/industrial-design/waiting.json").exists())
+        self.assertIn("| Waiting for approval | 1 |", (self.tmp / b.log_path).read_text(encoding="utf-8"))
+
+    def test_pending_linkedin_is_an_error(self):
+        self.posting(id="li-pending", status="pending", url="https://www.linkedin.com/jobs/view/9/")
+        self.build()
+        self.assertTrue((self.tmp / "postings/_errors/li-pending.json").exists())
