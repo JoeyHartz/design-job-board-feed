@@ -1,6 +1,6 @@
 {
- "date": "2026-11-06",
- "generated": "2026-11-06T12:34-06:00",
+ "date": "2026-11-07",
+ "generated": "2026-11-07T10:58-06:00",
  "entries": [
   {
    "id": "adobe",
@@ -9,7 +9,7 @@
    "sourceUrl": "https://adobe.wd5.myworkdayjobs.com/external_experienced",
    "status": "ok",
    "error": "",
-   "total": 212,
+   "total": 211,
    "hiddenKnown": 0,
    "jobs": [
     {
@@ -36,7 +36,7 @@
     {
      "title": "Program Manager, Workplace Design",
      "location": "London",
-     "posted": "Posted 7 Days Ago",
+     "posted": "Posted 8 Days Ago",
      "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/London/Program-Manager--Workplace-Design_R172266",
      "firstListed": "2026-11-06"
     },
@@ -85,7 +85,7 @@
     {
      "title": "Senior Product Designer, AI-powered Experiences (Adobe Experience Platform)",
      "location": "Bucharest",
-     "posted": "Posted 7 Days Ago",
+     "posted": "Posted 8 Days Ago",
      "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bucharest/Senior-Product-Designer--AI-powered-Experiences--Adobe-Experience-Platform-_R173026-1",
      "firstListed": "2026-11-06"
     },
@@ -113,7 +113,7 @@
     {
      "title": "2027 Intern - Brand Creative",
      "location": "San Francisco",
-     "posted": "Posted 2 Days Ago",
+     "posted": "Posted 3 Days Ago",
      "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/XMLNAME-2027-Intern---Brand-Creative_R173411",
      "firstListed": "2026-11-06"
     },
@@ -176,16 +176,9 @@
    "sourceUrl": "https://boards-api.greenhouse.io/v1/boards/vsapartners/jobs",
    "status": "ok",
    "error": "",
-   "total": 7,
+   "total": 6,
    "hiddenKnown": 0,
    "jobs": [
-    {
-     "title": "Freelance Associate Director, Design",
-     "location": "US",
-     "posted": "2026-11-04",
-     "url": "https://job-boards.greenhouse.io/vsapartners/jobs/6237953004",
-     "firstListed": "2026-11-06"
-    },
     {
      "title": " Freelance Creative Director, Design",
      "location": "USA",
@@ -229,7 +222,7 @@
     {
      "title": "Lead UX Designer",
      "location": "US, Minnesota, Maplewood",
-     "posted": "Posted Today",
+     "posted": "Posted Yesterday",
      "url": "https://3m.wd1.myworkdayjobs.com/Search/job/US-Minnesota-Maplewood/Lead-UX-Designer_R01172449",
      "firstListed": "2026-11-06"
     },
@@ -257,42 +250,42 @@
     {
      "title": "Lead Design Operations Project Manager",
      "location": "MX, Mexico City",
-     "posted": "Posted 8 Days Ago",
+     "posted": "Posted 9 Days Ago",
      "url": "https://3m.wd1.myworkdayjobs.com/Search/job/MX-Mexico-City/Lead-Design-Operations-Project-Manager_R01171712",
      "firstListed": "2026-11-06"
     },
     {
      "title": "ELPGO - Packaging Graphics Lead",
      "location": "PH, Taguig",
-     "posted": "Posted 22 Days Ago",
+     "posted": "Posted 23 Days Ago",
      "url": "https://3m.wd1.myworkdayjobs.com/Search/job/PH-Taguig/ELPGO---Packaging-Graphics-Lead_R01172099",
      "firstListed": "2026-11-06"
     },
     {
      "title": "Laboratory Technician (3M CRPL Rapid Prototyping and Design Center)",
      "location": "US, Minnesota, Maplewood",
-     "posted": "Posted 24 Days Ago",
+     "posted": "Posted 25 Days Ago",
      "url": "https://3m.wd1.myworkdayjobs.com/Search/job/US-Minnesota-Maplewood/Laboratory-Technician--3M-CRPL-Rapid-Prototyping-and-Design-Center-_R01172278",
      "firstListed": "2026-11-06"
     },
     {
      "title": "Internship - 2027 Undergraduate 3M Industrial Design Intern - Safety & Industrial Business Group (SIBG)",
      "location": "2 Locations",
-     "posted": "Posted 25 Days Ago",
+     "posted": "Posted 26 Days Ago",
      "url": "https://3m.wd1.myworkdayjobs.com/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-3M-Industrial-Design-Intern---Safety---Industrial-Business-Group--SIBG-_R01172241",
      "firstListed": "2026-11-06"
     },
     {
      "title": "Internship - 2027 Undergraduate 3M Brand Design Intern - Safety & Industrial Business Group (SIBG)",
      "location": "2 Locations",
-     "posted": "Posted 25 Days Ago",
+     "posted": "Posted 26 Days Ago",
      "url": "https://3m.wd1.myworkdayjobs.com/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-3M-Brand-Design-Intern---Safety---Industrial-Business-Group--SIBG-_R01172458",
      "firstListed": "2026-11-06"
     },
     {
      "title": "Internship - 2027 Undergraduate 3M UX/UI Design Intern - Safety & Industrial Business Group (SIBG)",
      "location": "2 Locations",
-     "posted": "Posted 25 Days Ago",
+     "posted": "Posted 26 Days Ago",
      "url": "https://3m.wd1.myworkdayjobs.com/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-3M-UX-UI-Design-Intern---Safety---Industrial-Business-Group--SIBG-_R01172459",
      "firstListed": "2026-11-06"
     },
@@ -312,27 +305,27 @@
    "sourceUrl": "https://abbott.wd5.myworkdayjobs.com/abbottcareers",
    "status": "ok",
    "error": "",
-   "total": 289,
+   "total": 288,
    "hiddenKnown": 0,
    "jobs": [
     {
      "title": "Director Product & Design",
      "location": "United States - California - Pleasanton",
-     "posted": "Posted 4 Days Ago",
+     "posted": "Posted 5 Days Ago",
      "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---California---Pleasanton/Director-Product---Design_31163866-1",
      "firstListed": "2026-11-06"
     },
     {
      "title": "Designer I CAD",
      "location": "United States - Minnesota - Plymouth",
-     "posted": "Posted Yesterday",
+     "posted": "Posted 2 Days Ago",
      "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Minnesota---Plymouth/Designer-I-CAD_31166599-1",
      "firstListed": "2026-11-06"
     },
     {
      "title": "Manager Commercial Execution Design",
      "location": "United States - New Jersey - Princeton",
-     "posted": "Posted Yesterday",
+     "posted": "Posted 2 Days Ago",
      "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---New-Jersey---Princeton/Manager-Commercial-Execution-Design_31160305-1",
      "firstListed": "2026-11-06"
     },
@@ -346,14 +339,14 @@
     {
      "title": "Senior Product/UX Designer",
      "location": "United States - Illinois - Lake Forest",
-     "posted": "Posted 3 Days Ago",
+     "posted": "Posted 4 Days Ago",
      "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Illinois---Lake-Forest/Senior-Product-UX-Designer_31166473-1",
      "firstListed": "2026-11-06"
     },
     {
      "title": "Senior Product/UX Designer",
      "location": "United States - Illinois - Lake Forest",
-     "posted": "Posted 3 Days Ago",
+     "posted": "Posted 4 Days Ago",
      "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Illinois---Lake-Forest/Senior-Product-UX-Designer_31166585-1",
      "firstListed": "2026-11-06"
     },
@@ -388,14 +381,14 @@
     {
      "title": "Ops Label & Kit Design Associate IV",
      "location": "United States > Madison : 650 Forward Dr",
-     "posted": "Posted 8 Days Ago",
+     "posted": "Posted 9 Days Ago",
      "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States--Madison--650-Forward-Dr/Ops-Label---Kit-Design-Associate-IV_31164754-1",
      "firstListed": "2026-11-06"
     },
     {
      "title": "Senior AutoCAD Designer - Fire Protection & Facilities",
      "location": "United States - Illinois - Abbott Park",
-     "posted": "Posted 8 Days Ago",
+     "posted": "Posted 9 Days Ago",
      "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Illinois---Abbott-Park/Senior-AutoCAD-Designer---Fire-Protection---Facilities_31165982-1",
      "firstListed": "2026-11-06"
     },
@@ -409,21 +402,21 @@
     {
      "title": "Brand Manager - Pediatric Marketing Design  - Nutrition - Columbus, OH",
      "location": "United States - Ohio - Columbus",
-     "posted": "Posted 8 Days Ago",
+     "posted": "Posted 9 Days Ago",
      "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Ohio---Columbus/Brand-Manager---Pediatric-Marketing-Design----Nutrition---Columbus--OH_31165915-1",
      "firstListed": "2026-11-06"
     },
     {
      "title": "Automation and Informatics Consultant, Technical Solution Design - Central Atlantic",
      "location": "5 Locations",
-     "posted": "Posted Yesterday",
+     "posted": "Posted 2 Days Ago",
      "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States-of-America--Remote/Automation-and-Informatics-Consultant---Central-Atlantic_31166193-1",
      "firstListed": "2026-11-06"
     },
     {
      "title": "HBO/WO Stage: Design to Value Assessment of Strategic Packing",
      "location": "Netherlands - Zwolle",
-     "posted": "Posted 2 Days Ago",
+     "posted": "Posted 3 Days Ago",
      "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Netherlands---Zwolle/HBO-WO-Stage--Design-to-Value-Assessment-of-Strategic-Packing_31164498",
      "firstListed": "2026-11-06"
     },
@@ -435,17 +428,17 @@
      "firstListed": "2026-11-06"
     },
     {
-     "title": "Qualification and Validation Internship: Simplifying Packaging Materials",
-     "location": "Netherlands - Zwolle",
-     "posted": "Posted 21 Days Ago",
-     "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Netherlands---Zwolle/Qualification-and-Validation-Internship--Simplifying-Packaging-Materials_31164501",
-     "firstListed": "2026-11-06"
-    },
-    {
      "title": "Nutrition Brand Management Intern - Infant and Adult - Summer 2027",
      "location": "United States - Ohio - Columbus",
      "posted": "Posted 30+ Days Ago",
      "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Ohio---Columbus/Nutrition-Brand-Management-Intern---Infant-and-Adult---Summer-2027_31160729",
+     "firstListed": "2026-11-06"
+    },
+    {
+     "title": "Qualification and Validation Internship: Simplifying Packaging Materials",
+     "location": "Netherlands - Zwolle",
+     "posted": "Posted 22 Days Ago",
+     "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Netherlands---Zwolle/Qualification-and-Validation-Internship--Simplifying-Packaging-Materials_31164501",
      "firstListed": "2026-11-06"
     },
     {
@@ -470,28 +463,28 @@
     {
      "title": "Sr Industrial Designer",
      "location": "Springfield, MO (Tracker Marine Base Camp)",
-     "posted": "Posted 3 Days Ago",
+     "posted": "Posted 4 Days Ago",
      "url": "https://basspro.wd1.myworkdayjobs.com/careers/job/Springfield-MO-Tracker-Marine-Base-Camp/Sr-Industrial-Designer_R253333",
      "firstListed": "2026-11-06"
     },
     {
      "title": "Design Architect",
      "location": "Springfield, MO (Bass Pro Shops Base Camp)",
-     "posted": "Posted 4 Days Ago",
+     "posted": "Posted 5 Days Ago",
      "url": "https://basspro.wd1.myworkdayjobs.com/careers/job/Springfield-MO-Bass-Pro-Shops-Base-Camp/Design-Architect_R265720",
      "firstListed": "2026-11-06"
     },
     {
      "title": "Technical Designer - Athletic & Performance Apparel",
      "location": "Springfield, MO (Bass Pro Shops Base Camp)",
-     "posted": "Posted 7 Days Ago",
+     "posted": "Posted 8 Days Ago",
      "url": "https://basspro.wd1.myworkdayjobs.com/careers/job/Springfield-MO-Bass-Pro-Shops-Base-Camp/Technical-Designer---Athletic---Performance-Apparel_R271602",
      "firstListed": "2026-11-06"
     },
     {
      "title": "Web Design & Content Specialist",
      "location": "Ridgedale, MO (Big Cedar Lodge)",
-     "posted": "Posted 7 Days Ago",
+     "posted": "Posted 8 Days Ago",
      "url": "https://basspro.wd1.myworkdayjobs.com/careers/job/Ridgedale-MO-Big-Cedar-Lodge/Web-Design---Content-Specialist_R265357",
      "firstListed": "2026-11-06"
     }
@@ -510,14 +503,14 @@
     {
      "title": "Associate, Packaging - 1st Shift (Monday to Friday 6:30am-3:00pm)",
      "location": "Skaneateles, NY",
-     "posted": "Posted Yesterday",
+     "posted": "Posted 2 Days Ago",
      "url": "https://baxter.wd1.myworkdayjobs.com/baxter/job/Skaneateles-NY/Associate--Packaging---1st-Shift--Monday-to-Friday-6-30am-3-00pm-_JR-212872-1",
      "firstListed": "2026-11-06"
     },
     {
      "title": "Associate, Packaging - 3rd Shift (Sun night- Fri Morning 11:20pm-7:50am)",
      "location": "Skaneateles, NY",
-     "posted": "Posted 16 Days Ago",
+     "posted": "Posted 17 Days Ago",
      "url": "https://baxter.wd1.myworkdayjobs.com/baxter/job/Skaneateles-NY/Associate--Packaging---3rd-Shift--Sun-night--Fri-Morning-11-20pm-7-50am-_JR-212106-2",
      "firstListed": "2026-11-06"
     },
@@ -537,13 +530,13 @@
    "sourceUrl": "https://belkin.wd5.myworkdayjobs.com/belkin_careers",
    "status": "ok",
    "error": "",
-   "total": 23,
+   "total": 24,
    "hiddenKnown": 0,
    "jobs": [
     {
      "title": "Graphic Designer",
      "location": "Hemel Hempstead",
-     "posted": "Posted 6 Days Ago",
+     "posted": "Posted 7 Days Ago",
      "url": "https://belkin.wd5.myworkdayjobs.com/belkin_careers/job/Hemel-Hempstead/Graphic-Designer_10013098",
      "firstListed": "2026-11-06"
     }
@@ -556,7 +549,7 @@
    "sourceUrl": "https://api.smartrecruiters.com/v1/companies/BoschGroup/postings",
    "status": "ok",
    "error": "",
-   "total": 5062,
+   "total": 5068,
    "hiddenKnown": 0,
    "jobs": [
     {
@@ -1183,14 +1176,14 @@
     {
      "title": "Senior Global Process Owner – Design to Launch",
      "location": "2 Locations",
-     "posted": "Posted 18 Days Ago",
+     "posted": "Posted 19 Days Ago",
      "url": "https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Senior-Global-Process-Owner---Design-to-Launch_R29161",
      "firstListed": "2026-11-06"
     },
     {
      "title": "Creative Director, Brand & Campaign",
      "location": "US, NY - Manhattan",
-     "posted": "Posted Yesterday",
+     "posted": "Posted 2 Days Ago",
      "url": "https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-NY---Manhattan/Creative-Director--Brand---Campaign_R29139",
      "firstListed": "2026-11-06"
     },
@@ -1223,14 +1216,14 @@
     {
      "title": "CAD Designer",
      "location": "Merritt Island, FL",
-     "posted": "Posted 14 Days Ago",
+     "posted": "Posted 15 Days Ago",
      "url": "https://brunswick.wd1.myworkdayjobs.com/search/job/Merritt-Island-FL/CAD-Designer_JR-051199-1",
      "firstListed": "2026-11-06"
     },
     {
      "title": "CAD Designer I",
      "location": "Edgewater, FL",
-     "posted": "Posted Yesterday",
+     "posted": "Posted 2 Days Ago",
      "url": "https://brunswick.wd1.myworkdayjobs.com/search/job/Edgewater-FL/CAD-Designer-II_JR-051100",
      "firstListed": "2026-11-06"
     },
@@ -1244,14 +1237,14 @@
     {
      "title": "Brand Service Specialist",
      "location": "Knoxville, TN",
-     "posted": "Posted 17 Days Ago",
+     "posted": "Posted 18 Days Ago",
      "url": "https://brunswick.wd1.myworkdayjobs.com/search/job/Knoxville-TN/Brand-Service-Specialist_JR-051899",
      "firstListed": "2026-11-06"
     },
     {
      "title": "Brand Service Specialist",
      "location": "2 Locations",
-     "posted": "Posted 17 Days Ago",
+     "posted": "Posted 18 Days Ago",
      "url": "https://brunswick.wd1.myworkdayjobs.com/search/job/Knoxville-TN/Brand-Service-Specialist_JR-051900",
      "firstListed": "2026-11-06"
     }
@@ -1264,13 +1257,13 @@
    "sourceUrl": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers",
    "status": "ok",
    "error": "",
-   "total": 263,
+   "total": 268,
    "hiddenKnown": 0,
    "jobs": [
     {
      "title": "Engine Design Architect",
      "location": "Peterborough, United Kingdom",
-     "posted": "Posted 10 Days Ago",
+     "posted": "Posted 11 Days Ago",
      "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Peterborough-United-Kingdom/Engine-Design-Architect_R0000402099",
      "firstListed": "2026-11-06"
     },
@@ -1284,14 +1277,14 @@
     {
      "title": "Logistics Teamleiter (Process Design) (m/w/d)",
      "location": "Kiel, Schleswig-Holstein",
-     "posted": "Posted 24 Days Ago",
+     "posted": "Posted 25 Days Ago",
      "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Kiel-Schleswig-Holstein/Logistics-Teamleiter--Process-Design---m-w-d-_R0000396291",
      "firstListed": "2026-11-06"
     },
     {
      "title": "Senior Product UI Designer （高级工业软件UI设计师）",
      "location": "2 Locations",
-     "posted": "Posted 2 Days Ago",
+     "posted": "Posted 3 Days Ago",
      "url": "https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Wuxi-Jiangsu/Senior-Product-UI-Designer--UI-_R0000403234",
      "firstListed": "2026-11-06"
     }
@@ -1304,13 +1297,13 @@
    "sourceUrl": "https://masco.wd1.myworkdayjobs.com/masco",
    "status": "ok",
    "error": "",
-   "total": 127,
+   "total": 128,
    "hiddenKnown": 0,
    "jobs": [
     {
      "title": "Manager, Brand Content Operations",
      "location": "US - Indiana - Indianapolis",
-     "posted": "Posted 7 Days Ago",
+     "posted": "Posted 8 Days Ago",
      "url": "https://masco.wd1.myworkdayjobs.com/masco/job/US---Indiana---Indianapolis/Manager--Brand-Content-Operations_REQ54736",
      "firstListed": "2026-11-06"
     },
@@ -1330,35 +1323,28 @@
    "sourceUrl": "https://dickssportinggoods.wd1.myworkdayjobs.com/DSG",
    "status": "ok",
    "error": "",
-   "total": 259,
+   "total": 261,
    "hiddenKnown": 0,
    "jobs": [
     {
      "title": "Field Visual Merchandiser - House of Sport - Sacramento, CA & San Jose, CA",
      "location": "2 Locations",
-     "posted": "Posted Today",
+     "posted": "Posted Yesterday",
      "url": "https://dickssportinggoods.wd1.myworkdayjobs.com/DSG/job/Store1626-Sacramento-CA/Field-Visual-Merchandiser---House-of-Sport---Sacramento--CA---San-Jose--CA_202642212-1",
      "firstListed": "2026-11-06"
     },
     {
      "title": "Field Visual Merchandiser - House of Sport - Springfield, MO & St. Louis, MO",
      "location": "Store1673 Springfield MO",
-     "posted": "Posted Today",
+     "posted": "Posted Yesterday",
      "url": "https://dickssportinggoods.wd1.myworkdayjobs.com/DSG/job/Store1673-Springfield-MO/Field-Visual-Merchandiser---House-of-Sport---Springfield--MO---St-Louis--MO_202642154",
      "firstListed": "2026-11-06"
     },
     {
      "title": "Field Visual Merchandiser - House of Sport - Springfield, MO & St. Louis, MO",
      "location": "2 Locations",
-     "posted": "Posted Today",
+     "posted": "Posted Yesterday",
      "url": "https://dickssportinggoods.wd1.myworkdayjobs.com/DSG/job/Store1680-St-Louis-MO/Field-Visual-Merchandiser---House-of-Sport---Springfield--MO---St-Louis--MO_202642187",
-     "firstListed": "2026-11-06"
-    },
-    {
-     "title": "Visual Merchandising - Associate",
-     "location": "Customer Support Center",
-     "posted": "Posted 3 Days Ago",
-     "url": "https://dickssportinggoods.wd1.myworkdayjobs.com/DSG/job/Customer-Support-Center/Visual-Merchandising---Associate_202641884",
      "firstListed": "2026-11-06"
     }
    ]
@@ -1370,13 +1356,13 @@
    "sourceUrl": "https://haier.wd3.myworkdayjobs.com/GE_Appliances",
    "status": "ok",
    "error": "",
-   "total": 153,
+   "total": 150,
    "hiddenKnown": 0,
    "jobs": [
     {
      "title": "Senior Creative Designer",
      "location": "USA, Louisville, KY",
-     "posted": "Posted 10 Days Ago",
+     "posted": "Posted 11 Days Ago",
      "url": "https://haier.wd3.myworkdayjobs.com/GE_Appliances/job/USA-Louisville-KY/Senior-Creative-Designer_REQ-27103",
      "firstListed": "2026-11-06"
     }
@@ -1389,13 +1375,13 @@
    "sourceUrl": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM",
    "status": "ok",
    "error": "",
-   "total": 268,
+   "total": 264,
    "hiddenKnown": 5,
    "jobs": [
     {
      "title": "(Designer / Senior Designer) Creative Design — Visualization & UX/UI",
      "location": "Shanghai, China",
-     "posted": "Posted 28 Days Ago",
+     "posted": "Posted 29 Days Ago",
      "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Shanghai-China/XMLNAME--Designer---Senior-Designer--Creative-Design---Visualization---UX-UI_JR-202622105",
      "firstListed": "2026-11-06"
     },
@@ -1407,24 +1393,24 @@
      "firstListed": "2026-11-06"
     },
     {
-     "title": "Senior creative designer - exteriors",
-     "location": "Warren, Michigan, United States of America",
+     "title": "Cadillac Art Designer",
+     "location": "GM Global Technical Center - Sloan Engineering Center",
      "posted": "Posted 30+ Days Ago",
-     "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Senior-creative-designer---exteriors_JR-202612324-1",
+     "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/GM-Global-Technical-Center---Sloan-Engineering-Center/Cadillac-Art-Designer_JR-202523984-1",
      "firstListed": "2026-11-06"
     },
     {
      "title": "Lead Interior Designer",
      "location": "Shanghai, China",
-     "posted": "Posted 28 Days Ago",
+     "posted": "Posted 29 Days Ago",
      "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Shanghai-China/Lead-Interior-Designer_JR-202613018",
      "firstListed": "2026-11-06"
     },
     {
-     "title": "Lead Exterior Creative Designer – Performance Studio",
-     "location": "Warren, Michigan, United States of America",
+     "title": "Design Visualization Supervisor",
+     "location": "Shanghai, China",
      "posted": "Posted 30+ Days Ago",
-     "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Lead-Exterior-Creative-Designer---Performance-Studio_JR-202615864",
+     "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Shanghai-China/Design-Visualization-Supervisor_JR-202614540",
      "firstListed": "2026-11-06"
     },
     {
@@ -1432,6 +1418,48 @@
      "location": "Shanghai, China",
      "posted": "Posted 30+ Days Ago",
      "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Shanghai-China/Lead-Exterior-Designer_JR-202617742",
+     "firstListed": "2026-11-06"
+    },
+    {
+     "title": "Senior Interior Designer",
+     "location": "Shanghai, China",
+     "posted": "Posted 30+ Days Ago",
+     "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Shanghai-China/Senior-Interior-Designer_JR-202618583",
+     "firstListed": "2026-11-06"
+    },
+    {
+     "title": "Senior Interior Designer",
+     "location": "Shanghai, China",
+     "posted": "Posted 30+ Days Ago",
+     "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Shanghai-China/Senior-Interior-Designer_JR-202618584",
+     "firstListed": "2026-11-06"
+    },
+    {
+     "title": "Designer - In Vehicle",
+     "location": "Warren, Michigan, United States of America",
+     "posted": "Posted 30+ Days Ago",
+     "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Designer---In-Vehicle_JR-202618502",
+     "firstListed": "2026-11-06"
+    },
+    {
+     "title": "Sr. Design Manager",
+     "location": "Warren, Michigan, United States of America",
+     "posted": "Posted 30+ Days Ago",
+     "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Sr-Design-Manager_JR-202620710",
+     "firstListed": "2026-11-06"
+    },
+    {
+     "title": "Senior creative designer - exteriors",
+     "location": "Warren, Michigan, United States of America",
+     "posted": "Posted 30+ Days Ago",
+     "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Senior-creative-designer---exteriors_JR-202612324-1",
+     "firstListed": "2026-11-06"
+    },
+    {
+     "title": "Lead Exterior Creative Designer – Performance Studio",
+     "location": "Warren, Michigan, United States of America",
+     "posted": "Posted 30+ Days Ago",
+     "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Lead-Exterior-Creative-Designer---Performance-Studio_JR-202615864",
      "firstListed": "2026-11-06"
     },
     {
@@ -1456,48 +1484,6 @@
      "firstListed": "2026-11-06"
     },
     {
-     "title": "Senior Interior Designer",
-     "location": "Shanghai, China",
-     "posted": "Posted 30+ Days Ago",
-     "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Shanghai-China/Senior-Interior-Designer_JR-202618583",
-     "firstListed": "2026-11-06"
-    },
-    {
-     "title": "Senior Interior Designer",
-     "location": "Shanghai, China",
-     "posted": "Posted 30+ Days Ago",
-     "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Shanghai-China/Senior-Interior-Designer_JR-202618584",
-     "firstListed": "2026-11-06"
-    },
-    {
-     "title": "Cadillac Art Designer",
-     "location": "GM Global Technical Center - Sloan Engineering Center",
-     "posted": "Posted 30+ Days Ago",
-     "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/GM-Global-Technical-Center---Sloan-Engineering-Center/Cadillac-Art-Designer_JR-202523984-1",
-     "firstListed": "2026-11-06"
-    },
-    {
-     "title": "Design Visualization Supervisor",
-     "location": "Shanghai, China",
-     "posted": "Posted 30+ Days Ago",
-     "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Shanghai-China/Design-Visualization-Supervisor_JR-202614540",
-     "firstListed": "2026-11-06"
-    },
-    {
-     "title": "Designer - In Vehicle",
-     "location": "Warren, Michigan, United States of America",
-     "posted": "Posted 30+ Days Ago",
-     "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Designer---In-Vehicle_JR-202618502",
-     "firstListed": "2026-11-06"
-    },
-    {
-     "title": "Sr. Design Manager",
-     "location": "Warren, Michigan, United States of America",
-     "posted": "Posted 30+ Days Ago",
-     "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Sr-Design-Manager_JR-202620710",
-     "firstListed": "2026-11-06"
-    },
-    {
      "title": "Advanced UX Insight Designer",
      "location": "Warren, Michigan, United States of America",
      "posted": "Posted 30+ Days Ago",
@@ -1505,23 +1491,9 @@
      "firstListed": "2026-11-06"
     },
     {
-     "title": "Assistant Design Lead - Engine",
-     "location": "Warren, Michigan, United States of America",
-     "posted": "Posted 8 Days Ago",
-     "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Assistant-Design-Lead---Engine_JR-202622974-1",
-     "firstListed": "2026-11-06"
-    },
-    {
-     "title": "Advanced CMF and Brand Designer",
-     "location": "Shanghai, China",
-     "posted": "Posted 30+ Days Ago",
-     "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Shanghai-China/Advanced-CMF-and-Brand-Designer_JR-202618116",
-     "firstListed": "2026-11-06"
-    },
-    {
      "title": "Design Group Manager- Upper Structures",
      "location": "Warren, Michigan, United States of America",
-     "posted": "Posted 18 Days Ago",
+     "posted": "Posted 19 Days Ago",
      "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Design-Group-Manager--Upper-Structures_JR-202611122",
      "firstListed": "2026-11-06"
     },
@@ -1533,9 +1505,16 @@
      "firstListed": "2026-11-06"
     },
     {
+     "title": "Advanced CMF and Brand Designer",
+     "location": "Shanghai, China",
+     "posted": "Posted 30+ Days Ago",
+     "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Shanghai-China/Advanced-CMF-and-Brand-Designer_JR-202618116",
+     "firstListed": "2026-11-06"
+    },
+    {
      "title": "Power Electronics Hardware Design Lead",
      "location": "Warren, Michigan, United States of America",
-     "posted": "Posted 15 Days Ago",
+     "posted": "Posted 16 Days Ago",
      "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Power-Electronics-Hardware-Design-Lead_JR-202620894-1",
      "firstListed": "2026-11-06"
     },
@@ -1549,14 +1528,14 @@
     {
      "title": "Business Solution Designer – People Service Center",
      "location": "Sao Caetano do Sul, Sao Paulo, Brazil",
-     "posted": "Posted Yesterday",
+     "posted": "Posted 2 Days Ago",
      "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sao-Caetano-do-Sul-Sao-Paulo-Brazil/Business-Solution-Designer---People-Service-Center_JR-202623085",
      "firstListed": "2026-11-06"
     },
     {
      "title": "2027 Summer Intern – AV Sensor Design, Release and Integration",
      "location": "Warren, Michigan, United States of America",
-     "posted": "Posted 10 Days Ago",
+     "posted": "Posted 11 Days Ago",
      "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---AV-Sensor-Design--Release-and-Integration_JR-202621993",
      "firstListed": "2026-11-06"
     }
@@ -1607,14 +1586,14 @@
     {
      "title": "Creative & Design Operations Intern",
      "location": "Cork, Ireland",
-     "posted": "Posted 10 Days Ago",
+     "posted": "Posted 11 Days Ago",
      "url": "https://logitech.wd5.myworkdayjobs.com/Logitech/job/Cork-Ireland/Creative---Design-Operations-Intern_148584",
      "firstListed": "2026-11-06"
     },
     {
      "title": "Senior Manager, Logitech G Design, C4C",
      "location": "Shanghai, China",
-     "posted": "Posted 10 Days Ago",
+     "posted": "Posted 11 Days Ago",
      "url": "https://logitech.wd5.myworkdayjobs.com/Logitech/job/Shanghai-China/Senior-Manager--Logitech-G-Design--C4C_148608",
      "firstListed": "2026-11-06"
     },
@@ -1628,21 +1607,21 @@
     {
      "title": "CMF Design Lead (Fixed-Term Contract)",
      "location": "Hsinchu, Taiwan",
-     "posted": "Posted 8 Days Ago",
+     "posted": "Posted 9 Days Ago",
      "url": "https://logitech.wd5.myworkdayjobs.com/Logitech/job/Hsinchu-Taiwan/CMF-Design-Lead--Fixed-Term-Contract-_148609",
      "firstListed": "2026-11-06"
     },
     {
      "title": "Spring Internship Program - Industrial Design Intern",
      "location": "Hsinchu, Taiwan",
-     "posted": "Posted 8 Days Ago",
+     "posted": "Posted 9 Days Ago",
      "url": "https://logitech.wd5.myworkdayjobs.com/Logitech/job/Hsinchu-Taiwan/Spring-Internship-Program---Industrial-Design-Intern_148623",
      "firstListed": "2026-11-06"
     },
     {
      "title": "Sr. Creative Producer",
      "location": "Cork, Ireland",
-     "posted": "Posted 17 Days Ago",
+     "posted": "Posted 18 Days Ago",
      "url": "https://logitech.wd5.myworkdayjobs.com/Logitech/job/Cork-Ireland/Sr-Creative-Producer_148565",
      "firstListed": "2026-11-06"
     },
@@ -1683,7 +1662,7 @@
    "sourceUrl": "https://api.smartrecruiters.com/v1/companies/MattelInc/postings",
    "status": "ok",
    "error": "",
-   "total": 290,
+   "total": 289,
    "hiddenKnown": 0,
    "jobs": [
     {
@@ -1839,167 +1818,174 @@
    "sourceUrl": "https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll",
    "status": "ok",
    "error": "",
-   "total": 157,
+   "total": 158,
    "hiddenKnown": 0,
    "jobs": [
     {
+     "title": "Design Specialist-Larkspur Larkspur Landing",
+     "location": "CA - Larkspur",
+     "posted": "Posted Yesterday",
+     "url": "https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll/job/CA---Larkspur/Design-Specialist-Larkspur-Larkspur-Landing_JR109587",
+     "firstListed": "2026-11-07"
+    },
+    {
      "title": "Sales & Design Specialist-Costa Mesa South Coast Plaza",
      "location": "CA - Costa Mesa",
-     "posted": "Posted Today",
+     "posted": "Posted Yesterday",
      "url": "https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll/job/CA---Costa-Mesa/Sales---Design-Specialist-Costa-Mesa-South-Coast-Plaza_JR110034",
      "firstListed": "2026-11-06"
     },
     {
      "title": "Sales & Design Specialist-Berkeley Fourth St",
      "location": "CA - Berkeley",
-     "posted": "Posted Today",
+     "posted": "Posted Yesterday",
      "url": "https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll/job/CA---Berkeley/Sales---Design-Specialist-Berkeley-Fourth-St_JR110039",
      "firstListed": "2026-11-06"
     },
     {
      "title": "Design Specialist-Birmingham Maple Road",
      "location": "MI - Birmingham",
-     "posted": "Posted Today",
+     "posted": "Posted Yesterday",
      "url": "https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll/job/MI---Birmingham/Design-Specialist-Birmingham-Maple-Road_JR109963",
      "firstListed": "2026-11-06"
     },
     {
      "title": "Sales & Design Specialist Supervisor-Costa Mesa South Coast Plaza",
      "location": "CA - Costa Mesa",
-     "posted": "Posted Yesterday",
+     "posted": "Posted 2 Days Ago",
      "url": "https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll/job/CA---Costa-Mesa/Sales---Design-Specialist-Supervisor-Costa-Mesa-South-Coast-Plaza_JR110035",
      "firstListed": "2026-11-06"
     },
     {
      "title": "Design Specialist-Palo Alto University Ave",
      "location": "CA - Palo Alto",
-     "posted": "Posted Yesterday",
+     "posted": "Posted 2 Days Ago",
      "url": "https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll/job/CA---Palo-Alto/Design-Specialist-Palo-Alto-University-Ave_JR109961",
      "firstListed": "2026-11-06"
     },
     {
      "title": "Sales & Design Specialist - Sarasota",
      "location": "2 Locations",
-     "posted": "Posted Yesterday",
+     "posted": "Posted 2 Days Ago",
      "url": "https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll/job/FL---Sarasota-University-Town-Center/Design-Specialist---Sarasota_JR109744-1",
      "firstListed": "2026-11-06"
     },
     {
      "title": "Sales & Design Specialist-Pittsburgh Smallman Street",
      "location": "PA - Pittsburgh",
-     "posted": "Posted 2 Days Ago",
+     "posted": "Posted 3 Days Ago",
      "url": "https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll/job/PA---Pittsburgh/Design-Specialist-Pittsburgh-Smallman-Street_JR109682",
      "firstListed": "2026-11-06"
     },
     {
      "title": "Design Specialist-MD Annapolis Towne Center Blvd",
      "location": "MD - Annapolis",
-     "posted": "Posted 2 Days Ago",
+     "posted": "Posted 3 Days Ago",
      "url": "https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll/job/MD---Annapolis/Design-Specialist-MD-Annapolis-Towne-Center-Blvd_JR109021",
      "firstListed": "2026-11-06"
     },
     {
      "title": "Sales & Design Specialist Supervisor-New York City Park Ave",
      "location": "NY - New York City",
-     "posted": "Posted 4 Days Ago",
+     "posted": "Posted 5 Days Ago",
      "url": "https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll/job/NY---New-York-City/Sales---Design-Specialist-Supervisor-New-York-City-Park-Ave_JR110002",
      "firstListed": "2026-11-06"
     },
     {
      "title": "Sales and Design Specialist-Houston Six Pines Dr",
      "location": "TX - Houston",
-     "posted": "Posted 4 Days Ago",
+     "posted": "Posted 5 Days Ago",
      "url": "https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll/job/TX---Houston/Sales-and-Design-Specialist-Houston-Six-Pines-Dr_JR109693",
      "firstListed": "2026-11-06"
     },
     {
      "title": "Intern Design",
      "location": "DK - Copenhagen",
-     "posted": "Posted 4 Days Ago",
+     "posted": "Posted 5 Days Ago",
      "url": "https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll/job/DK---Copenhagen/Intern-Design_JR109952",
      "firstListed": "2026-11-06"
     },
     {
      "title": "Product Pricing Modeler",
      "location": "MI - Zeeland",
-     "posted": "Posted 7 Days Ago",
+     "posted": "Posted 8 Days Ago",
      "url": "https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll/job/MI---Zeeland/Product-Pricing-Modeler_JR109409",
      "firstListed": "2026-11-06"
     },
     {
      "title": "Designer - Product Applications",
      "location": "MI - Holland",
-     "posted": "Posted 8 Days Ago",
+     "posted": "Posted 9 Days Ago",
      "url": "https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll/job/MI---Holland/Designer---Product-Applications_JR109965-1",
      "firstListed": "2026-11-06"
     },
     {
      "title": "Sales & Design Specialist-Woodbury Hudson Rd 9000",
      "location": "MN - Woodbury",
-     "posted": "Posted 9 Days Ago",
+     "posted": "Posted 10 Days Ago",
      "url": "https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll/job/MN---Woodbury/Sales---Design-Specialist-Woodbury-Hudson-Rd-9000_JR109837",
      "firstListed": "2026-11-06"
     },
     {
      "title": "Design Specialist-Las Vegas South Rampart Blvd",
      "location": "NV - Las Vegas",
-     "posted": "Posted 10 Days Ago",
+     "posted": "Posted 11 Days Ago",
      "url": "https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll/job/NV---Las-Vegas/Design-Specialist-Las-Vegas-South-Rampart-Blvd_JR109947",
      "firstListed": "2026-11-06"
     },
     {
      "title": "Sales & Design Specialist (PT)-Seattle 1st Ave 1924",
      "location": "WA - Seattle",
-     "posted": "Posted 14 Days Ago",
+     "posted": "Posted 15 Days Ago",
      "url": "https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll/job/WA---Seattle/Sales---Design-Specialist--PT--Seattle-1st-Ave-1924_JR109719",
      "firstListed": "2026-11-06"
     },
     {
      "title": "Design Specialist-New York City Park Ave",
      "location": "NY - New York City",
-     "posted": "Posted 14 Days Ago",
+     "posted": "Posted 15 Days Ago",
      "url": "https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll/job/NY---New-York-City/Design-Specialist-New-York-City-Park-Ave_JR109918",
      "firstListed": "2026-11-06"
     },
     {
      "title": "Design Specialist-Pasadena Green St",
      "location": "CA - Pasadena",
-     "posted": "Posted 17 Days Ago",
+     "posted": "Posted 18 Days Ago",
      "url": "https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll/job/CA---Pasadena/Design-Specialist-Pasadena-Green-St_JR109767",
      "firstListed": "2026-11-06"
     },
     {
      "title": "Sales & Design Specialist-Walnut Creek Broadway",
      "location": "CA - Walnut Creek",
-     "posted": "Posted 17 Days Ago",
+     "posted": "Posted 18 Days Ago",
      "url": "https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll/job/CA---Walnut-Creek/Sales---Design-Specialist-Walnut-Creek-Broadway_JR109929",
      "firstListed": "2026-11-06"
     },
     {
      "title": "Design Specialist-Scottsdale Scottsdale Rd",
      "location": "AZ - Scottsdale",
-     "posted": "Posted 17 Days Ago",
+     "posted": "Posted 18 Days Ago",
      "url": "https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll/job/AZ---Scottsdale/Design-Specialist-Scottsdale-Scottsdale-Rd_JR109594",
      "firstListed": "2026-11-06"
     },
     {
      "title": "Design Specialist-Stamford Canal St 711",
      "location": "CT - Stamford",
-     "posted": "Posted 18 Days Ago",
+     "posted": "Posted 19 Days Ago",
      "url": "https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll/job/CT---Stamford/Design-Specialist-Stamford-Canal-St-711_JR109750",
      "firstListed": "2026-11-06"
     },
     {
      "title": "Sales & Design Specialist-  Jacksonville",
      "location": "FL - Jacksonville",
-     "posted": "Posted 22 Days Ago",
+     "posted": "Posted 23 Days Ago",
      "url": "https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll/job/FL---Jacksonville/Sales---Design-Specialist-Jacksonville-River-City-4818_JR109329",
      "firstListed": "2026-11-06"
     },
     {
      "title": "Sales & Design Specialist-Columbus Townsfair Way",
      "location": "OH - Columbus",
-     "posted": "Posted 24 Days Ago",
+     "posted": "Posted 25 Days Ago",
      "url": "https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll/job/OH---Columbus/Sales---Design-Specialist-Columbus-Townsfair-Way_JR109901",
      "firstListed": "2026-11-06"
     },
@@ -2060,7 +2046,7 @@
     {
      "title": "Senior Mechanical Designer",
      "location": "Vancouver, Canada",
-     "posted": "Posted 21 Days Ago",
+     "posted": "Posted 22 Days Ago",
      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Vancouver-Canada/Senior-Mechanical-Designer_R68291",
      "firstListed": "2026-11-06"
     },
@@ -2081,35 +2067,35 @@
     {
      "title": "AI-Native UX Designer",
      "location": "Krakow, Poland",
-     "posted": "Posted 18 Days Ago",
+     "posted": "Posted 19 Days Ago",
      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/AI-Native-UX-Designer_R68646",
      "firstListed": "2026-11-06"
     },
     {
      "title": "Mechanical Designer (Fresh Graduate)",
      "location": "Penang, Malaysia",
-     "posted": "Posted Today",
+     "posted": "Posted Yesterday",
      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Penang-Malaysia/Mechanical-Designer--Fresh-Graduate-_R68700",
      "firstListed": "2026-11-06"
     },
     {
      "title": "Senior UX Writer / Content Designer",
      "location": "Krakow, Poland, More...",
-     "posted": "Posted 11 Days Ago",
+     "posted": "Posted 12 Days Ago",
      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/Senior-UX-Writer---Content-Designer_R70052",
      "firstListed": "2026-11-06"
     },
     {
      "title": "Senior Futures Design Strategist (US Remote)",
      "location": "Chicago, IL, More...",
-     "posted": "Posted Today",
+     "posted": "Posted Yesterday",
      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Senior-Futures-Design-Strategist--US-Remote-_R69796",
      "firstListed": "2026-11-06"
     },
     {
      "title": "UX Manager",
      "location": "Krakow, Poland",
-     "posted": "Posted 15 Days Ago",
+     "posted": "Posted 16 Days Ago",
      "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/UX-Manager_R69809",
      "firstListed": "2026-11-06"
     }
@@ -2122,258 +2108,272 @@
    "sourceUrl": "https://nike.wd1.myworkdayjobs.com/nke",
    "status": "ok",
    "error": "",
-   "total": 220,
+   "total": 216,
    "hiddenKnown": 0,
    "jobs": [
     {
-     "title": "Senior Expert, Retail Execution Partners Design NA",
+     "title": "Director, Visual Merchandising NSO NA",
      "location": "Beaverton, Oregon",
-     "posted": "Posted Today",
-     "url": "https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Senior-Expert--Retail-Execution-Partners-Design-NA_R-88898",
-     "firstListed": "2026-11-06"
+     "posted": "Posted Yesterday",
+     "url": "https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Director--Visual-Merchandising-NSO-NA_R-92575",
+     "firstListed": "2026-11-07"
+    },
+    {
+     "title": "Designer II, Basketball NBA/WNBA Apparel Graphic Designer",
+     "location": "Beaverton, Oregon",
+     "posted": "Posted Yesterday",
+     "url": "https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Designer-II--Basketball-NBA-WNBA-Apparel-Graphic-Designer_R-97071",
+     "firstListed": "2026-11-07"
+    },
+    {
+     "title": "Director, Global Brand Art Direction & Design - Global Football",
+     "location": "Beaverton, Oregon",
+     "posted": "Posted Yesterday",
+     "url": "https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Director--Global-Brand-Art-Direction---Design---Global-Football_R-96764",
+     "firstListed": "2026-11-07"
     },
     {
      "title": "Senior Creative Director, Global Running, Brand Design",
      "location": "Beaverton, Oregon",
-     "posted": "Posted Yesterday",
+     "posted": "Posted 2 Days Ago",
      "url": "https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Senior-Creative-Director--Global-Running--Brand-Design_R-96765",
      "firstListed": "2026-11-06"
     },
     {
      "title": "Senior Manager, Bras & Leggings Apparel Product Design",
      "location": "Beaverton, Oregon",
-     "posted": "Posted 2 Days Ago",
+     "posted": "Posted 3 Days Ago",
      "url": "https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Senior-Manager--Bras---Leggings-Apparel-Product-Design_R-74763",
      "firstListed": "2026-11-06"
     },
     {
      "title": "Senior Designer, Field Sports Footwear Graphic Design",
      "location": "Beaverton, Oregon",
-     "posted": "Posted 2 Days Ago",
+     "posted": "Posted 3 Days Ago",
      "url": "https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Senior-Designer--Field-Sports-Footwear-Graphic-Design_R-89248",
      "firstListed": "2026-11-06"
     },
     {
      "title": "Designer II, Energy Footwear & Apparel Graphic Design",
      "location": "Beaverton, Oregon",
-     "posted": "Posted 2 Days Ago",
+     "posted": "Posted 3 Days Ago",
      "url": "https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Designer-II--Energy-Footwear---Apparel-Graphic-Design_R-76111",
      "firstListed": "2026-11-06"
     },
     {
      "title": "Lead, Apparel Designer, NSW, Create, Local Creation NA",
      "location": "Beaverton, Oregon",
-     "posted": "Posted 2 Days Ago",
+     "posted": "Posted 3 Days Ago",
      "url": "https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Lead--Apparel-Designer--NSW--Create--Local-Creation-NA_R-92740",
      "firstListed": "2026-11-06"
     },
     {
      "title": "Senior Manager, Apparel Designer, Create, Local Creation NA",
      "location": "Beaverton, Oregon",
-     "posted": "Posted 2 Days Ago",
+     "posted": "Posted 3 Days Ago",
      "url": "https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Senior-Manager--Apparel-Designer--Create--Local-Creation-NA_R-92741",
      "firstListed": "2026-11-06"
     },
     {
      "title": "Footwear Design Director, Nike Basketball Signature Athlete",
      "location": "Beaverton, Oregon",
-     "posted": "Posted 3 Days Ago",
+     "posted": "Posted 4 Days Ago",
      "url": "https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Footwear-Design-Director--Nike-Basketball-Signature-Athlete_R-89110",
      "firstListed": "2026-11-06"
     },
     {
      "title": "Senior Materials Designer, Flyknit",
      "location": "Beaverton, Oregon",
-     "posted": "Posted 3 Days Ago",
+     "posted": "Posted 4 Days Ago",
      "url": "https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Senior-Materials-Designer--Flyknit_R-95891",
      "firstListed": "2026-11-06"
     },
     {
      "title": "Lead Footwear Materials Developer - Jordan Brand (Multiple Openings)",
      "location": "Beaverton, Oregon",
-     "posted": "Posted 3 Days Ago",
+     "posted": "Posted 4 Days Ago",
      "url": "https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Lead-Footwear-Materials-Developer---Jordan-Brand--Multiple-Openings-_R-96873",
      "firstListed": "2026-11-06"
     },
     {
      "title": "Senior, 3D Designer, Innovation",
      "location": "Beaverton, Oregon",
-     "posted": "Posted 3 Days Ago",
+     "posted": "Posted 4 Days Ago",
      "url": "https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Senior--3D-Designer--Innovation_R-96866",
      "firstListed": "2026-11-06"
     },
     {
      "title": "Lead Designer, Core Studio Performance Footwear Color Design",
      "location": "Beaverton, Oregon",
-     "posted": "Posted 3 Days Ago",
+     "posted": "Posted 4 Days Ago",
      "url": "https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Lead-Designer--Core-Studio-Performance-Footwear-Color-Design_R-96002",
      "firstListed": "2026-11-06"
     },
     {
      "title": "Senior Technical Designer, Global Sportswear Apparel",
      "location": "Beaverton, Oregon",
-     "posted": "Posted 3 Days Ago",
+     "posted": "Posted 4 Days Ago",
      "url": "https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Senior-Technical-Designer--Global-Sportswear-Apparel_R-96845",
      "firstListed": "2026-11-06"
     },
     {
      "title": "Visual Merchansiding & Styling Specialist Nike - H / F - CDD/Stretch",
      "location": "Paris, France",
-     "posted": "Posted 3 Days Ago",
+     "posted": "Posted 4 Days Ago",
      "url": "https://nike.wd1.myworkdayjobs.com/nke/job/Paris-France/Visual-Merchansiding---Styling-Specialist-Nike---H---F---CDD-Stretch_R-96833",
      "firstListed": "2026-11-06"
     },
     {
      "title": "Senior Professional, Energy Brand Management, Jordan France",
      "location": "Paris, France",
-     "posted": "Posted 3 Days Ago",
+     "posted": "Posted 4 Days Ago",
      "url": "https://nike.wd1.myworkdayjobs.com/nke/job/Paris-France/Senior-Professional--Energy-Brand-Management--Jordan-France_R-95962",
      "firstListed": "2026-11-06"
     },
     {
      "title": "Senior Creative Director, Energy, Global Jordan",
      "location": "Beaverton, Oregon",
-     "posted": "Posted 4 Days Ago",
+     "posted": "Posted 5 Days Ago",
      "url": "https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Senior-Creative-Director--Energy--Global-Jordan_R-83455",
      "firstListed": "2026-11-06"
     },
     {
      "title": "Designer II, NSW Print & Pattern Graphic Design",
      "location": "Beaverton, Oregon",
-     "posted": "Posted 4 Days Ago",
+     "posted": "Posted 5 Days Ago",
      "url": "https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Designer-II--NSW-Print---Pattern-Graphic-Design_R-92200",
      "firstListed": "2026-11-06"
     },
     {
      "title": "Lead, Apparel Designer, Jordan, Local Creation NA",
      "location": "Beaverton, Oregon",
-     "posted": "Posted 4 Days Ago",
+     "posted": "Posted 5 Days Ago",
      "url": "https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Lead--Apparel-Designer--Jordan--Local-Creation-NA_R-92739",
      "firstListed": "2026-11-06"
     },
     {
      "title": "Lead Designer, Streetwear Looks Of Footwear Product Design, Global Jordan",
      "location": "Beaverton, Oregon",
-     "posted": "Posted 7 Days Ago",
+     "posted": "Posted 8 Days Ago",
      "url": "https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Lead-Designer--Streetwear-Looks-Of-Footwear-Product-Design--Global-Jordan_R-96363",
      "firstListed": "2026-11-06"
     },
     {
      "title": "Senior, Footwear Color & Materials Designer, Local Creation GC",
      "location": "Shanghai, China Mainland",
-     "posted": "Posted 7 Days Ago",
+     "posted": "Posted 8 Days Ago",
      "url": "https://nike.wd1.myworkdayjobs.com/nke/job/Shanghai-China-Mainland/Senior--Footwear-Color---Materials-Designer--Local-Creation-GC_R-96649",
      "firstListed": "2026-11-06"
     },
     {
      "title": "Lead Technical Designer, Global Apparel (Multiple Openings)",
      "location": "Beaverton, Oregon",
-     "posted": "Posted 8 Days Ago",
+     "posted": "Posted 9 Days Ago",
      "url": "https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Lead-Technical-Designer--Global-Apparel--Multiple-Openings-_R-96630",
      "firstListed": "2026-11-06"
     },
     {
      "title": "Senior, Visual Merchandising Nike Value Stores, North America",
      "location": "Beaverton, Oregon",
-     "posted": "Posted 8 Days Ago",
+     "posted": "Posted 9 Days Ago",
      "url": "https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Senior--Visual-Merchandising-Nike-Value-Stores--North-America_R-88905-1",
      "firstListed": "2026-11-06"
     },
     {
      "title": "Director, Core Studio Color Design",
      "location": "Beaverton, Oregon",
-     "posted": "Posted 9 Days Ago",
+     "posted": "Posted 10 Days Ago",
      "url": "https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Director--Core-Studio-Color-Design_R-95741",
      "firstListed": "2026-11-06"
     },
     {
      "title": "Expert Basketball Apparel Designer, Global Jordan",
      "location": "Beaverton, Oregon",
-     "posted": "Posted 9 Days Ago",
+     "posted": "Posted 10 Days Ago",
      "url": "https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Expert-Designer--Basketball-Apparel-Product-Design--Global-Jordan_R-92074",
      "firstListed": "2026-11-06"
     },
     {
      "title": "Designer II, Kids Sport Apparel Graphic Design",
      "location": "Beaverton, Oregon",
-     "posted": "Posted 10 Days Ago",
+     "posted": "Posted 11 Days Ago",
      "url": "https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Designer-II--Kids-Sport-Apparel-Graphic-Design_R-96102",
      "firstListed": "2026-11-06"
     },
     {
      "title": "Senior Principal, Digital Product Design, Nike Direct Experience",
      "location": "Beaverton, Oregon",
-     "posted": "Posted 10 Days Ago",
+     "posted": "Posted 11 Days Ago",
      "url": "https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Senior-Principal--Digital-Product-Design--Nike-Direct-Experience_R-92372",
      "firstListed": "2026-11-06"
     },
     {
      "title": "Expert Global Brand Design",
      "location": "Beaverton, Oregon",
-     "posted": "Posted 11 Days Ago",
+     "posted": "Posted 12 Days Ago",
      "url": "https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Expert-Global-Brand-Design_R-96089-1",
      "firstListed": "2026-11-06"
     },
     {
      "title": "Senior Technical Design, Global Tennis Apparel",
      "location": "Beaverton, Oregon",
-     "posted": "Posted 15 Days Ago",
+     "posted": "Posted 16 Days Ago",
      "url": "https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Senior-Technical-Design--Global-Tennis-Apparel_R-96206",
      "firstListed": "2026-11-06"
     },
     {
      "title": "Senior Manager, FBAT & Golf Footwear Color Design, Global Jordan",
      "location": "Beaverton, Oregon",
-     "posted": "Posted 21 Days Ago",
+     "posted": "Posted 22 Days Ago",
      "url": "https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Senior-Manager--FBAT---Golf-Footwear-Color-Design--Global-Jordan_R-94651",
      "firstListed": "2026-11-06"
     },
     {
      "title": "Lead, Digital Product Designer, Marketplace Partners",
      "location": "Beaverton, Oregon",
-     "posted": "Posted 24 Days Ago",
+     "posted": "Posted 25 Days Ago",
      "url": "https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Lead--Digital-Product-Design--Agile-Experience-Studio_R-94955-1",
      "firstListed": "2026-11-06"
     },
     {
      "title": "Senior, Digital Product Designer, Marketplace Partners",
      "location": "Beaverton, Oregon",
-     "posted": "Posted 24 Days Ago",
+     "posted": "Posted 25 Days Ago",
      "url": "https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Senior--Digital-Product-Designer--Marketplace-Partners_R-94957-1",
      "firstListed": "2026-11-06"
     },
     {
      "title": "Lead, Energy Whitespace Materials Design",
      "location": "Beaverton, Oregon",
-     "posted": "Posted 28 Days Ago",
+     "posted": "Posted 29 Days Ago",
      "url": "https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Lead--Energy-Whitespace-Materials-Design_R-94722",
      "firstListed": "2026-11-06"
     },
     {
      "title": "Senior Digital Designer, Design Systems",
      "location": "Beaverton, Oregon",
-     "posted": "Posted 28 Days Ago",
+     "posted": "Posted 29 Days Ago",
      "url": "https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Senior-Digital-Designer--Systems_R-94956",
      "firstListed": "2026-11-06"
     },
     {
      "title": "Director, Olympics Apparel Product Design",
      "location": "Beaverton, Oregon",
-     "posted": "Posted 28 Days Ago",
+     "posted": "Posted 29 Days Ago",
      "url": "https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Director--Olympics-Apparel-Product-Design_R-87932-1",
      "firstListed": "2026-11-06"
     },
     {
      "title": "Expert Designer, Speed Footwear Product Design",
      "location": "Beaverton, Oregon",
-     "posted": "Posted 29 Days Ago",
+     "posted": "Posted 30 Days Ago",
      "url": "https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Expert-Designer--Speed-Footwear-Product-Design_R-95018",
      "firstListed": "2026-11-06"
     },
     {
      "title": "Designer Color Design",
      "location": "Beaverton, Oregon",
-     "posted": "Posted 30 Days Ago",
+     "posted": "Posted 30+ Days Ago",
      "url": "https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Designer-Color-Design_R-94851-1",
      "firstListed": "2026-11-06"
     },
@@ -2406,38 +2406,24 @@
      "firstListed": "2026-11-06"
     },
     {
+     "title": "Manager, Brand Marketing LA/West - Jordan NA",
+     "location": "Los Angeles, California",
+     "posted": "Posted Yesterday",
+     "url": "https://nike.wd1.myworkdayjobs.com/nke/job/Los-Angeles-California/Manager--Brand-Marketing-LA-West---Jordan-NA_R-97053",
+     "firstListed": "2026-11-07"
+    },
+    {
      "title": "Specialist II, Retail Brand Marketing GC",
      "location": "Shanghai, China Mainland",
-     "posted": "Posted Today",
+     "posted": "Posted Yesterday",
      "url": "https://nike.wd1.myworkdayjobs.com/nke/job/Shanghai-China-Mainland/Specialist-II--Retail-Brand-Marketing-GC_R-97031",
      "firstListed": "2026-11-06"
     },
     {
      "title": "Visual Merchandising Associate",
      "location": "Melbourne, Victoria",
-     "posted": "Posted Yesterday",
+     "posted": "Posted 2 Days Ago",
      "url": "https://nike.wd1.myworkdayjobs.com/nke/job/Melbourne-Victoria/Visual-Merchandising-Associate_R-96883",
-     "firstListed": "2026-11-06"
-    },
-    {
-     "title": "Specialist II, Visual Merchandising and Styling, Frankfurt region (m/f/d)",
-     "location": "Berlin, Germany",
-     "posted": "Posted 3 Days Ago",
-     "url": "https://nike.wd1.myworkdayjobs.com/nke/job/Berlin-Germany/Specialist-II--Visual-Merchandising-and-Styling--m-f-d-_R-92028",
-     "firstListed": "2026-11-06"
-    },
-    {
-     "title": "Specialist II, Visual Merchandising and Styling, Düsseldorf region (m/f/d)",
-     "location": "Berlin, Germany",
-     "posted": "Posted 3 Days Ago",
-     "url": "https://nike.wd1.myworkdayjobs.com/nke/job/Berlin-Germany/Specialist-II--Visual-Merchandising-and-Styling--m-f-d-_R-92027",
-     "firstListed": "2026-11-06"
-    },
-    {
-     "title": "Specialist II, Visual Merchandising and Styling, Berlin (m/f/d)",
-     "location": "Berlin, Germany",
-     "posted": "Posted 3 Days Ago",
-     "url": "https://nike.wd1.myworkdayjobs.com/nke/job/Berlin-Germany/Specialist-II--Visual-Merchandising-and-Styling--Berlin--m-f-d-_R-92026",
      "firstListed": "2026-11-06"
     }
    ]
@@ -2462,7 +2448,7 @@
     {
      "title": "Design Technologist (Murrysville, PA)",
      "location": "Murrysville, Pennsylvania, United States",
-     "posted": "Posted 17 Days Ago",
+     "posted": "Posted 18 Days Ago",
      "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Murrysville-Pennsylvania-United-States/UX-Designer--Murrysville--PA-_585168",
      "firstListed": "2026-11-06"
     },
@@ -2476,28 +2462,28 @@
     {
      "title": "IGTS Usability Design Intern",
      "location": "Shanghai",
-     "posted": "Posted Yesterday",
+     "posted": "Posted 2 Days Ago",
      "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Shanghai/IGTS-Usability-Design-Intern_592631",
      "firstListed": "2026-11-06"
     },
     {
      "title": "Software Designer 3D Imaging & Algorithms",
      "location": "Best",
-     "posted": "Posted 2 Days Ago",
+     "posted": "Posted 3 Days Ago",
      "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Best/Software-Designer-3D-Imaging---Algorithms_592880-2",
      "firstListed": "2026-11-06"
     },
     {
      "title": "Senior Forward Deployed UX Designer (Asheville, NC or Nashville, TN)",
      "location": "3 Locations",
-     "posted": "Posted 11 Days Ago",
+     "posted": "Posted 12 Days Ago",
      "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/United-States-of-America---Remote-Based-United-States/Senior-Forward-Deployed-UX-Designer--Nashville--TN-_590807",
      "firstListed": "2026-11-06"
     },
     {
      "title": "Senior Usability Designer – Diagnostic X-ray (DXR)",
      "location": "Pune",
-     "posted": "Posted Today",
+     "posted": "Posted Yesterday",
      "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Pune/Senior-Usability-Designer---Diagnostic-X-ray--DXR-_593529",
      "firstListed": "2026-11-06"
     },
@@ -2518,14 +2504,14 @@
     {
      "title": "Intern - Industrial Design - Murrysville, PA - Summer 2027",
      "location": "Murrysville, Pennsylvania, United States",
-     "posted": "Posted 8 Days Ago",
+     "posted": "Posted 9 Days Ago",
      "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Murrysville-Pennsylvania-United-States/Intern---Industrial-Design---Murrysville--PA---Summer-2027_593133",
      "firstListed": "2026-11-06"
     },
     {
      "title": "Internship: Philips Communications & Brand",
      "location": "4 Locations",
-     "posted": "Posted 8 Days Ago",
+     "posted": "Posted 9 Days Ago",
      "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Amsterdam/Internship--Philips-Communications---Brand_594772",
      "firstListed": "2026-11-06"
     }
@@ -2558,7 +2544,7 @@
     {
      "title": "Senior Manager, Brand Design / Strategy - Plano, TX (onsite)",
      "location": "6625 Excellence Way, Plano, TX, USA",
-     "posted": "Posted Yesterday",
+     "posted": "Posted 2 Days Ago",
      "url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Sr-Brand-Manager--Corporate-Marketing---Plano--TX_R121389",
      "firstListed": "2026-11-06"
     },
@@ -2572,14 +2558,14 @@
     {
      "title": "Sr. Manager, Creative Marketing Management – Builder Channel",
      "location": "6625 Excellence Way, Plano, TX, USA",
-     "posted": "Posted 10 Days Ago",
+     "posted": "Posted 11 Days Ago",
      "url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Sr-Manager--Creative-Marketing-Management---Builder-Channel_R121439",
      "firstListed": "2026-11-06"
     },
     {
      "title": "Senior Manager, Co-Brand Growth Marketing - Samsung Galaxy Card",
      "location": "One Pennsylvania Plaza, 26th Floor, New York, NY, USA",
-     "posted": "Posted 8 Days Ago",
+     "posted": "Posted 9 Days Ago",
      "url": "https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/One-Pennsylvania-Plaza-26th-Floor-New-York-NY-USA/Senior-Manager--Co-Brand-Growth-Marketing---Samsung-Galaxy-Card_R121247",
      "firstListed": "2026-11-06"
     }
@@ -2598,14 +2584,14 @@
     {
      "title": "Principal PCB Designer",
      "location": "Penang, MY",
-     "posted": "Posted Yesterday",
+     "posted": "Posted 2 Days Ago",
      "url": "https://sonos.wd1.myworkdayjobs.com/Sonos/job/Penang-MY/Principal-PCB-Designer_R2899",
      "firstListed": "2026-11-06"
     },
     {
      "title": "Brand Design Intern (New York)",
      "location": "New York, NY",
-     "posted": "Posted 9 Days Ago",
+     "posted": "Posted 10 Days Ago",
      "url": "https://sonos.wd1.myworkdayjobs.com/Sonos/job/New-York-NY/Brand-Design-Intern--New-York-_R2877-1",
      "firstListed": "2026-11-06"
     },
@@ -2631,7 +2617,7 @@
     {
      "title": "Graphic Designer,Packaging",
      "location": "Shizheng Rd, Taichung, Taiwan",
-     "posted": "Posted 22 Days Ago",
+     "posted": "Posted 23 Days Ago",
      "url": "https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Shizheng-Rd-Taichung-Taiwan/Industrial-Designer---3D-Surfacing_REQ-1000051878",
      "firstListed": "2026-11-06"
     },
@@ -2645,21 +2631,21 @@
     {
      "title": "Manager, Design Assurance",
      "location": "Towson, MD, United States",
-     "posted": "Posted 28 Days Ago",
+     "posted": "Posted 29 Days Ago",
      "url": "https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Manager--Design-Assurance_REQ-1000052752",
      "firstListed": "2026-11-06"
     },
     {
      "title": "Sr. Design Assurance Manager",
      "location": "Suzhou, China",
-     "posted": "Posted 7 Days Ago",
+     "posted": "Posted 8 Days Ago",
      "url": "https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Suzhou-China/Sr-Design-Assurance-Manager_REQ-1000046419",
      "firstListed": "2026-11-06"
     },
     {
      "title": "UX/UI Design Intern - Summer 2027",
      "location": "Valley City, OH, United States",
-     "posted": "Posted 13 Days Ago",
+     "posted": "Posted 14 Days Ago",
      "url": "https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Valley-City-OH-United-States/UX-UI-Design-Intern---Summer-2027_REQ-1000052835",
      "firstListed": "2026-11-06"
     },
@@ -2673,21 +2659,21 @@
     {
      "title": "Brand Marketing Activation Intern",
      "location": "Mississauga, Ontario, Canada",
-     "posted": "Posted 7 Days Ago",
+     "posted": "Posted 8 Days Ago",
      "url": "https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Mississauga-Ontario-Canada/Brand-Marketing-Activation-Intern_REQ-1000053367-1",
      "firstListed": "2026-11-06"
     },
     {
      "title": "Set Packaging Operator",
      "location": "Taichung, Taiwan",
-     "posted": "Posted Today",
+     "posted": "Posted Yesterday",
      "url": "https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Taichung-Taiwan/Set-Packaging-Operator_REQ-1000053894",
      "firstListed": "2026-11-06"
     },
     {
      "title": "Group Brand Manager, Independent Dealer Marketing",
      "location": "Valley City, OH, United States",
-     "posted": "Posted 23 Days Ago",
+     "posted": "Posted 24 Days Ago",
      "url": "https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Valley-City-OH-United-States/Group-Brand-Manager--Independent-Dealer-Marketing_REQ-1000052639",
      "firstListed": "2026-11-06"
     }
@@ -2700,7 +2686,7 @@
    "sourceUrl": "https://api.smartrecruiters.com/v1/companies/SteelcaseInc/postings",
    "status": "ok",
    "error": "",
-   "total": 30,
+   "total": 31,
    "hiddenKnown": 0,
    "jobs": [
     {
@@ -2733,7 +2719,7 @@
    "sourceUrl": "https://tricorbraun.wd115.myworkdayjobs.com/Careers",
    "status": "ok",
    "error": "",
-   "total": 36,
+   "total": 35,
    "hiddenKnown": 0,
    "jobs": [
     {
@@ -2774,14 +2760,14 @@
     {
      "title": "Packaging Consultant",
      "location": "Miami",
-     "posted": "Posted 9 Days Ago",
+     "posted": "Posted 10 Days Ago",
      "url": "https://tricorbraun.wd115.myworkdayjobs.com/Careers/job/Miami/Packaging-Consultant_R-101914",
      "firstListed": "2026-11-06"
     },
     {
      "title": "Packaging Consultant",
      "location": "San Antonio",
-     "posted": "Posted 4 Days Ago",
+     "posted": "Posted 5 Days Ago",
      "url": "https://tricorbraun.wd115.myworkdayjobs.com/Careers/job/San-Antonio/Packaging-Consultant_R-101941-1",
      "firstListed": "2026-11-06"
     },
@@ -2874,11 +2860,208 @@
    "company": "Kraft Heinz",
    "method": "workday",
    "sourceUrl": "https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers",
-   "status": "failed",
-   "error": "HTTPError: HTTP Error 502: Bad Gateway",
-   "total": 0,
+   "status": "ok",
+   "error": "",
+   "total": 287,
    "hiddenKnown": 0,
-   "jobs": []
+   "jobs": [
+    {
+     "title": "Graphic Designer",
+     "location": "Freshwater",
+     "posted": "Posted 30+ Days Ago",
+     "url": "https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Freshwater/Graphic-Designer_R-104704",
+     "firstListed": "2026-11-07"
+    },
+    {
+     "title": "Analyst II, Design",
+     "location": "Ahmedabad - Venus Stratum GCC",
+     "posted": "Posted 30+ Days Ago",
+     "url": "https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Ahmedabad---Venus-Stratum-GCC/Analyst-II--Design_R-96081",
+     "firstListed": "2026-11-07"
+    },
+    {
+     "title": "Senior Graphic Designer",
+     "location": "Freshwater",
+     "posted": "Posted 30+ Days Ago",
+     "url": "https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Freshwater/Senior-Graphic-Designer_R-102691-1",
+     "firstListed": "2026-11-07"
+    },
+    {
+     "title": "MEA Artwork Designer",
+     "location": "El Tagamoa El Khames Commercial Office",
+     "posted": "Posted 30+ Days Ago",
+     "url": "https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/El-Tagamoa-El-Khames-Commercial-Office/MEA-Artwork-Designer_R-106230",
+     "firstListed": "2026-11-07"
+    },
+    {
+     "title": "Analyst II, GTM Strategy & Design",
+     "location": "Ahmedabad - Venus Stratum GCC",
+     "posted": "Posted 30+ Days Ago",
+     "url": "https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Ahmedabad---Venus-Stratum-GCC/Analyst-II--Marketing-Ops_R-98362",
+     "firstListed": "2026-11-07"
+    },
+    {
+     "title": "Senior R&D Transformation Solutions Designer",
+     "location": "Nijmegen",
+     "posted": "Posted 30+ Days Ago",
+     "url": "https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Nijmegen/Senior-R-D-Transformation-Solutions-Designer_R-104430",
+     "firstListed": "2026-11-07"
+    },
+    {
+     "title": "Packaging Lab Assistant",
+     "location": "Nijmegen",
+     "posted": "Posted 26 Days Ago",
+     "url": "https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Nijmegen/Packaging-Lab-Assistant_R-107254",
+     "firstListed": "2026-11-07"
+    },
+    {
+     "title": "Senior Packaging Technologist",
+     "location": "Nijmegen",
+     "posted": "Posted 30+ Days Ago",
+     "url": "https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Nijmegen/Senior-Packaging-Technologist_R-103108",
+     "firstListed": "2026-11-07"
+    },
+    {
+     "title": "Senior Packaging Technologist",
+     "location": "Nijmegen",
+     "posted": "Posted 30+ Days Ago",
+     "url": "https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Nijmegen/Senior-Packaging-Technologist_R-103168",
+     "firstListed": "2026-11-07"
+    },
+    {
+     "title": "Sr Sci, R&D - Packaging Dev",
+     "location": "Glenview, IL",
+     "posted": "Posted 30+ Days Ago",
+     "url": "https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Glenview-IL/Sr-Sci--R-D---Packaging-Dev_R-103302",
+     "firstListed": "2026-11-07"
+    },
+    {
+     "title": "Sr Sci, R&D - Packaging Dev",
+     "location": "Glenview, IL",
+     "posted": "Posted 30+ Days Ago",
+     "url": "https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Glenview-IL/Sr-Sci--R-D---Packaging-Dev_R-104572",
+     "firstListed": "2026-11-07"
+    },
+    {
+     "title": "Sr Sci, R&D - Packaging Dev",
+     "location": "2 Locations",
+     "posted": "Posted 30+ Days Ago",
+     "url": "https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Warrendale-PA/Sr-Sci--R-D---Packaging-Dev_R-106024",
+     "firstListed": "2026-11-07"
+    },
+    {
+     "title": "Scientist, R&D - Packaging Dev",
+     "location": "2 Locations",
+     "posted": "Posted 30+ Days Ago",
+     "url": "https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Glenview-IL/Scientist--R-D---Packaging-Dev_R-106023",
+     "firstListed": "2026-11-07"
+    },
+    {
+     "title": "Associate Senior Packaging Technologist",
+     "location": "Alfaro",
+     "posted": "Posted 30+ Days Ago",
+     "url": "https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Alfaro/Associate-Senior-Packaging-Technologist_R-106993",
+     "firstListed": "2026-11-07"
+    },
+    {
+     "title": "Packaging Manager",
+     "location": "Nijmegen",
+     "posted": "Posted 22 Days Ago",
+     "url": "https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Nijmegen/Packaging-Manager_R-107722-1",
+     "firstListed": "2026-11-07"
+    },
+    {
+     "title": "Senior Scientist, R&D - Packaging Development, Global Disruptive Innovation",
+     "location": "Glenview, IL",
+     "posted": "Posted 15 Days Ago",
+     "url": "https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Glenview-IL/Senior-Scientist--R-D---Packaging-Development--Global-Disruptive-Innovation_R-107933",
+     "firstListed": "2026-11-07"
+    },
+    {
+     "title": "Scientist, R&D - Packaging Development",
+     "location": "Glenview, IL",
+     "posted": "Posted Yesterday",
+     "url": "https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Glenview-IL/Scientist--R-D---Packaging-Development_R-108283-1",
+     "firstListed": "2026-11-07"
+    },
+    {
+     "title": "Manager, R&D – Packaging Margin Enhancement",
+     "location": "Glenview, IL",
+     "posted": "Posted 30+ Days Ago",
+     "url": "https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Glenview-IL/Manager--R-D---Packaging-Margin-Enhancement_R-102088",
+     "firstListed": "2026-11-07"
+    },
+    {
+     "title": "Manager, R&D - Packaging Dev",
+     "location": "Glenview, IL",
+     "posted": "Posted 30+ Days Ago",
+     "url": "https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Glenview-IL/Manager--R-D---Packaging-Dev_R-105767",
+     "firstListed": "2026-11-07"
+    },
+    {
+     "title": "Associate Sci, R&D - Packaging Dev",
+     "location": "Glenview, IL",
+     "posted": "Posted 11 Days Ago",
+     "url": "https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Glenview-IL/Associate-Sci--R-D---Packaging-Dev_R-108027",
+     "firstListed": "2026-11-07"
+    },
+    {
+     "title": "Assoc Sci, R&D - Packaging Dev",
+     "location": "Glenview, IL",
+     "posted": "Posted 11 Days Ago",
+     "url": "https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Glenview-IL/Assoc-Sci--R-D---Packaging-Dev_R-108026",
+     "firstListed": "2026-11-07"
+    },
+    {
+     "title": "Value Creation Packaging Intern",
+     "location": "Nijmegen",
+     "posted": "Posted 12 Days Ago",
+     "url": "https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Nijmegen/Value-Creation-Packaging-Intern_R-107975",
+     "firstListed": "2026-11-07"
+    },
+    {
+     "title": "Packaging Development & Technology  Intern",
+     "location": "Nijmegen",
+     "posted": "Posted 30+ Days Ago",
+     "url": "https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Nijmegen/Packaging-Development---Technology--Intern_R-102107-1",
+     "firstListed": "2026-11-07"
+    },
+    {
+     "title": "Packaging R&D Co-op",
+     "location": "2 Locations",
+     "posted": "Posted 30+ Days Ago",
+     "url": "https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Glenview-IL/Packaging-R-D-Co-op_R-96278",
+     "firstListed": "2026-11-07"
+    },
+    {
+     "title": "Procurement Operation Packaging",
+     "location": "Menara Mandiri",
+     "posted": "Posted 30+ Days Ago",
+     "url": "https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Menara-Mandiri/Procurement-Operation-Packaging_R-100868",
+     "firstListed": "2026-11-07"
+    },
+    {
+     "title": "Sr. Manager, Packaging - Business Planning",
+     "location": "Chicago, IL",
+     "posted": "Posted 18 Days Ago",
+     "url": "https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Chicago-IL/Sr-Manager--Packaging---Business-Planning_R-107811",
+     "firstListed": "2026-11-07"
+    },
+    {
+     "title": "Brand Activation Associate Manager - Africa Export",
+     "location": "El Tagamoa El Khames Commercial Office",
+     "posted": "Posted 30+ Days Ago",
+     "url": "https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/El-Tagamoa-El-Khames-Commercial-Office/Brand-Activation-Associate-Manager---Africa-Export_R-103537",
+     "firstListed": "2026-11-07"
+    },
+    {
+     "title": "Brand Build Activation Analyst",
+     "location": "San Jose, Costa Rica Local Office",
+     "posted": "Posted 9 Days Ago",
+     "url": "https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/San-Jose-Costa-Rica-Local-Office/Brand-Build-Activation-Analyst_R-108074",
+     "firstListed": "2026-11-07"
+    }
+   ]
   }
  ]
 }

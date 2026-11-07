@@ -1,6 +1,6 @@
-# Link check: 2026-11-06
+# Link check: 2026-11-07
 
-Generated 2026-11-06T12:36-06:00 by the daily maintenance Action. 315 open postings: 155 ok, **43 look gone**, 12 couldn't be checked, 105 skipped (LinkedIn). Nothing is closed automatically: the routine opens each "look gone" posting and closes it only if it's really gone.
+Generated 2026-11-07T11:00-06:00 by the daily maintenance Action. 209 open postings: 151 ok, **44 look gone**, 14 couldn't be checked, 0 skipped (LinkedIn). Nothing is closed automatically: the routine opens each "look gone" posting and closes it only if it's really gone.
 
 ## Look gone (routine: confirm and close)
 
@@ -25,6 +25,7 @@ Generated 2026-11-06T12:36-06:00 by the daily maintenance Action. 315 open posti
 | matte-projects-junior-graphic-designer | MATTE Projects | Junior Graphic Designer | redirected to https://job-boards.greenhouse.io/matteprojects?error=true | [link](https://job-boards.greenhouse.io/matteprojects/jobs/6146127004) |
 | allegion-industrial-design-co-op | Allegion | Industrial Design Co-op | Workday no longer lists this job (HTTP 404) | [link](https://allegion.wd5.myworkdayjobs.com/careers/job/Carmel-IN/Industrial-Design-Spring-Co-op_JR37686-1) |
 | bass-pro-shops-junior-industrial-designer | Bass Pro Shops (White River Marine Group) | Junior Industrial Designer | HTTP 410 | [link](https://www.mediabistro.com/jobs/3536096547-junior-industrial-designer) |
+| deeplocal-design-intern-winter-spring-2027 | Deeplocal | Design Intern – Winter/Spring 2027 | redirected to https://job-boards.greenhouse.io/deeplocal?error=true | [link](https://job-boards.greenhouse.io/deeplocal/jobs/8147967) |
 | disney-retail-store-design-intern-spring-2027 | Disney Experiences | Retail Store Design Intern, Spring 2027 | HTTP 404 | [link](https://www.disneycareers.com/en/job/kissimmee/retail-store-design-intern-spring-2027/391/102182417904) |
 | dyson-graduate-industrial-designer | Dyson | Graduate Industrial Designer | HTTP 404 | [link](https://careers.dyson.com/en-gb/job-description/graduate-industrial-designer/JR31394) |
 | foco-product-designer-i-plush-toys-junior | FOCO | Product Designer I – Plush & Toys, Junior | HTTP 410 | [link](https://www.mediabistro.com/jobs/3397512535-product-designer-i-plush-toys-junior) |
@@ -59,11 +60,13 @@ Generated 2026-11-06T12:36-06:00 by the daily maintenance Action. 315 open posti
 | humanscale-industrial-design-intern | Humanscale | Industrial Design Intern | HTTP 410, blocked by the site's bot protection | [link](https://careers-humanscale.icims.com/jobs/4133/industrial-design-intern/job) |
 | polaris-cmf-graphics-intern | Polaris | CMF & Graphics Intern - Advanced Digital & Material Focus | HTTP 403, blocked by the site's bot protection | [link](https://www.careerbuilder.com/job-details/cmf-graphics-intern-advanced-digital-material-focus-medina-mn--19a324c4-9ab9-4ece-8427-8b65f51143b4) |
 | priority-designs-spring-semester-2027-industrial-design-co-op | Priority Designs | Spring Semester 2027 Industrial Design Co-op | HTTP 403 | [link](https://www.simplyhired.com/job/s8irLeJ_7UJNunvcZPVKqY_tfCuOTWG2BG-g-ORAv_BF0ITPR8TFfg) |
+| stellantis-2027-product-design-office-pdo-auto-design-internship | Stellantis | 2027 Product Design Office (PDO) – Auto Design Internship | HTTP 403 | [link](https://careers.stellantis.com/job/23787233/2027-product-design-office-pdo-auto-design-internship-auburn-hills-mi/) |
 | tesla-internship-cmf-design-design-studio-winter-spring-2027 | Tesla | Internship, CMF Design, Design Studio (Winter/Spring 2027) | HTTP 403, blocked by the site's bot protection | [link](https://www.tesla.com/careers/search/job/internship-cmf-design-design-studio-winter-spring-2027-279012) |
 | tesla-internship-design-quality-design-studio-winter-spring-2027 | Tesla | Internship, Design Quality, Design Studio (Winter/Spring 2027) | HTTP 403, blocked by the site's bot protection | [link](https://www.tesla.com/careers/search/job/internship-design-quality-design-studio-winter-spring-2027-279014) |
 | tesla-internship-exterior-vehicle-design-design-studio-winter-spring-2027 | Tesla | Internship, Exterior Vehicle Design, Design Studio (Winter/Spring 2027) | HTTP 403, blocked by the site's bot protection | [link](https://www.tesla.com/careers/search/job/internship-exterior-vehicle-design-design-studio-winter-spring-2027-279013) |
 | tesla-internship-industrial-design-design-studio-winter-spring-2027 | Tesla | Internship, Industrial Design, Design Studio (Winter/Spring 2027) | HTTP 403, blocked by the site's bot protection | [link](https://www.tesla.com/careers/search/job/internship-industrial-design-design-studio-winter-spring-2027-279019) |
 | tesla-internship-soft-trim-and-seat-design-design-studio-winter-spring-2027 | Tesla | Internship, Soft Trim & Seat Design, Design Studio (Winter/Spring 2027) | HTTP 403, blocked by the site's bot protection | [link](https://www.tesla.com/careers/search/job/internship-soft-trim-seat-design-design-studio-winter-spring-2027-279022) |
 | the-james-brand-junior-industrial-designer | The James Brand | Junior Industrial Designer | HTTP 404, blocked by the site's bot protection | [link](https://thejamesbrand.com/blogs/careers/junior-industrial-designer) |
+| stellantis-2027-pdo-design-visual-communication-internship | Stellantis | 2027 Product Design Office (PDO) – Design Visual Communication Internship | HTTP 403 | [link](https://careers.stellantis.com/job/23787236/2027-product-design-office-pdo-design-visual-communication-internship) |
 | solace-associate-product-designer-college-grad-2027 | Solace | Associate Product Designer (College Grad 2027) | HTTP 404, blocked by the site's bot protection | [link](https://jobs.ashbyhq.com/Solace/8c77b80c-957a-4861-87f9-63b05f09f5be) |
 
