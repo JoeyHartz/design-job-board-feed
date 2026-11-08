@@ -1,6 +1,6 @@
 {
- "date": "2026-11-07",
- "generated": "2026-11-07T11:00-06:00",
+ "date": "2026-11-08",
+ "generated": "2026-11-08T11:14-06:00",
  "postings": [
   {
    "id": "abercrombie-assistant-graphic-designer-creative-marketing",
@@ -197,8 +197,8 @@
    "title": "Brand Design Intern (Winter 2027)",
    "url": "https://job-boards.greenhouse.io/gemini/jobs/8243097",
    "lastVerified": "2026-10-23",
-   "result": "gone",
-   "detail": "redirected to a general page: https://www.gemini.com/careers"
+   "result": "unreachable",
+   "detail": "HTTP 429"
   },
   {
    "id": "glantz-junior-graphic-designer",
@@ -1268,8 +1268,8 @@
    "title": "2027 Product Design Office (PDO) – Auto Design Internship",
    "url": "https://careers.stellantis.com/job/23787233/2027-product-design-office-pdo-auto-design-internship-auburn-hills-mi/",
    "lastVerified": "2026-10-22",
-   "result": "unreachable",
-   "detail": "HTTP 403"
+   "result": "ok",
+   "detail": "HTTP 200"
   },
   {
    "id": "stellantis-transportation-product-design-intern-velizy",
@@ -1466,8 +1466,8 @@
    "title": "Intern, Packaging Design",
    "url": "https://jobs.lever.co/elfbeauty/8ce110a9-75ff-44a1-8ef2-2d9aa570aeee",
    "lastVerified": "2026-10-26",
-   "result": "gone",
-   "detail": "HTTP 404"
+   "result": "unreachable",
+   "detail": "HTTP 502"
   },
   {
    "id": "gm-id-intern-summer-2027",
@@ -1520,8 +1520,8 @@
    "title": "2027 Product Design Office (PDO) – Design Visual Communication Internship",
    "url": "https://careers.stellantis.com/job/23787236/2027-product-design-office-pdo-design-visual-communication-internship",
    "lastVerified": "2026-10-23",
-   "result": "unreachable",
-   "detail": "HTTP 403"
+   "result": "ok",
+   "detail": "HTTP 200"
   },
   {
    "id": "target-designer-intern-owned-brands-2027",

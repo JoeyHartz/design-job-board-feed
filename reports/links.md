@@ -1,6 +1,6 @@
-# Link check: 2026-11-07
+# Link check: 2026-11-08
 
-Generated 2026-11-07T11:00-06:00 by the daily maintenance Action. 209 open postings: 151 ok, **44 look gone**, 14 couldn't be checked, 0 skipped (LinkedIn). Nothing is closed automatically: the routine opens each "look gone" posting and closes it only if it's really gone.
+Generated 2026-11-08T11:14-06:00 by the daily maintenance Action. 209 open postings: 153 ok, **42 look gone**, 14 couldn't be checked, 0 skipped (LinkedIn). Nothing is closed automatically: the routine opens each "look gone" posting and closes it only if it's really gone.
 
 ## Look gone (routine: confirm and close)
 
@@ -17,7 +17,6 @@ Generated 2026-11-07T11:00-06:00 by the daily maintenance Action. 209 open posti
 | disney-experiences-graphic-design-intern-spring-2027 | Disney Experiences | Disney Experiences Graphic Design Intern, Spring 2027 | HTTP 404 | [link](https://www.disneycareers.com/en/job/kissimmee/disney-experiences-graphic-design-intern-spring-2027/391/102182417952) |
 | disney-retail-creative-graphic-design-intern-spring-2027 | Disney Consumer Products | Retail Creative Graphic Design Intern, Spring 2027 | HTTP 404 | [link](https://www.disneycareers.com/en/job/kissimmee/disney-consumer-products-retail-creative-graphic-design-intern-spring-2027/391/102182417920) |
 | flare-energy-graphic-designer-junior | Flare Energy Services | Graphic Designer Junior | HTTP 410 | [link](https://designproject.io/jobs/graphic-designer-junior-at-flare-energy-services-del40f) |
-| gemini-brand-design-intern-winter-2027 | Gemini | Brand Design Intern (Winter 2027) | redirected to a general page: https://www.gemini.com/careers | [link](https://job-boards.greenhouse.io/gemini/jobs/8243097) |
 | goteez-jr-graphic-designer | GoTeez | Jr Graphic Designer | HTTP 410 | [link](https://designproject.io/jobs/jr-graphic-designer-at-goteez-1cidlg) |
 | jak-creative-design-junior-graphic-designer | JAK Creative Design | Junior Graphic Designer – Digital + Print | HTTP 404 | [link](https://www.coroflot.com/design-jobs/Junior-Graphic-Designer-Digital-Print-Jak-Creative-Design-Downers-Grove-IL-681545) |
 | kaleidoscope-junior-designer | Kaleidoscope | Junior Designer | HTTP 404 | [link](https://jobs.lever.co/kaleidoscopeimaging/84b4ca7d-f917-45ba-8a93-688fc0271230) |
@@ -41,7 +40,6 @@ Generated 2026-11-07T11:00-06:00 by the daily maintenance Action. 209 open posti
 | wdi-theme-lighting-design-intern-spring-2027 | Walt Disney Imagineering | WDI Theme Lighting Design Intern, Spring 2027 | redirected to a general page: https://join.disneycareers.com/global/en | [link](https://jobs.disneycareers.com/job/glendale/wdi-theme-lighting-design-intern-spring-2027/391/99655059600) |
 | woom-intern-product-design | woom | Intern Product Design (6 months, full-time) | redirected to a general page: https://woom.bamboohr.com/careers | [link](https://woom.bamboohr.com/careers/181) |
 | black-ink-junior-product-packaging-designer | Black Ink Projects | Junior Product & Packaging Designer, Creative Production | redirected to a general page: https://lemanoosh.com/jobs/?query=Junior%20Product%20&%20Packaging%20Designer,%20Creative%20Production | [link](https://lemanoosh.com/jobs/junior-product-packaging-designer-creative-production-2/) |
-| elf-beauty-intern-packaging-design | e.l.f. Beauty | Intern, Packaging Design | HTTP 404 | [link](https://jobs.lever.co/elfbeauty/8ce110a9-75ff-44a1-8ef2-2d9aa570aeee) |
 | meijer-retail-design-intern-summer-2027 | Meijer | Retail Design Intern, Summer 2027 | HTTP 410 | [link](https://jobs.meijer.com/job/retail-design-intern-summer-2027/grand-rapids-mi/R000699033/) |
 | nike-jordan-design-undergraduate-internship | Nike | Jordan Design Undergraduate Internship | HTTP 404 | [link](https://careers.nike.com/de/jordan-design-undergraduate-internship/job/R-74446) |
 | manulife-summer-intern-2027-product-design-ux | Manulife | Summer Intern 2027 – Product Design (UX) | Workday no longer lists this job (HTTP 404) | [link](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---Product-Design--UX-_JR26080533) |
@@ -55,18 +53,18 @@ Generated 2026-11-07T11:00-06:00 by the daily maintenance Action. 209 open posti
 
 | Posting | Company | Title | Detail | Link |
 |---|---|---|---|---|
+| gemini-brand-design-intern-winter-2027 | Gemini | Brand Design Intern (Winter 2027) | HTTP 429 | [link](https://job-boards.greenhouse.io/gemini/jobs/8243097) |
 | deckel-moneypenny-exhibit-design-intern | Deckel & Moneypenny | Exhibit Design Intern, Winter/Spring 2027 | RemoteDisconnected: Remote end closed connection without response | [link](https://deckelmoneypenny.com/job/exhibit-design-intern-winter-spring-2027/) |
 | fluid-design-industrial-design-internship-march-2027 | FLUID Design | Industrial Design Internship (March 2027) | HTTP 410, blocked by the site's bot protection | [link](https://join.com/companies/fluid/16814413-internship-industrial-design-march-2027-m-f-d) |
 | humanscale-industrial-design-intern | Humanscale | Industrial Design Intern | HTTP 410, blocked by the site's bot protection | [link](https://careers-humanscale.icims.com/jobs/4133/industrial-design-intern/job) |
 | polaris-cmf-graphics-intern | Polaris | CMF & Graphics Intern - Advanced Digital & Material Focus | HTTP 403, blocked by the site's bot protection | [link](https://www.careerbuilder.com/job-details/cmf-graphics-intern-advanced-digital-material-focus-medina-mn--19a324c4-9ab9-4ece-8427-8b65f51143b4) |
 | priority-designs-spring-semester-2027-industrial-design-co-op | Priority Designs | Spring Semester 2027 Industrial Design Co-op | HTTP 403 | [link](https://www.simplyhired.com/job/s8irLeJ_7UJNunvcZPVKqY_tfCuOTWG2BG-g-ORAv_BF0ITPR8TFfg) |
-| stellantis-2027-product-design-office-pdo-auto-design-internship | Stellantis | 2027 Product Design Office (PDO) – Auto Design Internship | HTTP 403 | [link](https://careers.stellantis.com/job/23787233/2027-product-design-office-pdo-auto-design-internship-auburn-hills-mi/) |
 | tesla-internship-cmf-design-design-studio-winter-spring-2027 | Tesla | Internship, CMF Design, Design Studio (Winter/Spring 2027) | HTTP 403, blocked by the site's bot protection | [link](https://www.tesla.com/careers/search/job/internship-cmf-design-design-studio-winter-spring-2027-279012) |
 | tesla-internship-design-quality-design-studio-winter-spring-2027 | Tesla | Internship, Design Quality, Design Studio (Winter/Spring 2027) | HTTP 403, blocked by the site's bot protection | [link](https://www.tesla.com/careers/search/job/internship-design-quality-design-studio-winter-spring-2027-279014) |
 | tesla-internship-exterior-vehicle-design-design-studio-winter-spring-2027 | Tesla | Internship, Exterior Vehicle Design, Design Studio (Winter/Spring 2027) | HTTP 403, blocked by the site's bot protection | [link](https://www.tesla.com/careers/search/job/internship-exterior-vehicle-design-design-studio-winter-spring-2027-279013) |
 | tesla-internship-industrial-design-design-studio-winter-spring-2027 | Tesla | Internship, Industrial Design, Design Studio (Winter/Spring 2027) | HTTP 403, blocked by the site's bot protection | [link](https://www.tesla.com/careers/search/job/internship-industrial-design-design-studio-winter-spring-2027-279019) |
 | tesla-internship-soft-trim-and-seat-design-design-studio-winter-spring-2027 | Tesla | Internship, Soft Trim & Seat Design, Design Studio (Winter/Spring 2027) | HTTP 403, blocked by the site's bot protection | [link](https://www.tesla.com/careers/search/job/internship-soft-trim-seat-design-design-studio-winter-spring-2027-279022) |
 | the-james-brand-junior-industrial-designer | The James Brand | Junior Industrial Designer | HTTP 404, blocked by the site's bot protection | [link](https://thejamesbrand.com/blogs/careers/junior-industrial-designer) |
-| stellantis-2027-pdo-design-visual-communication-internship | Stellantis | 2027 Product Design Office (PDO) – Design Visual Communication Internship | HTTP 403 | [link](https://careers.stellantis.com/job/23787236/2027-product-design-office-pdo-design-visual-communication-internship) |
+| elf-beauty-intern-packaging-design | e.l.f. Beauty | Intern, Packaging Design | HTTP 502 | [link](https://jobs.lever.co/elfbeauty/8ce110a9-75ff-44a1-8ef2-2d9aa570aeee) |
 | solace-associate-product-designer-college-grad-2027 | Solace | Associate Product Designer (College Grad 2027) | HTTP 404, blocked by the site's bot protection | [link](https://jobs.ashbyhq.com/Solace/8c77b80c-957a-4861-87f9-63b05f09f5be) |
 
