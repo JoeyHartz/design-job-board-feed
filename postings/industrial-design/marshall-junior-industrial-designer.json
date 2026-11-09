@@ -15,17 +15,22 @@
   "url": "https://careers.marshall.com/jobs/7152055-junior-industrial-designer",
   "source": "Marshall Group careers",
   "note": "Audio/consumer electronics brand; asks for 0–2 years of product or industrial design experience.",
-  "status": "open",
+  "status": "closed",
   "firstSeen": "2026-10-23",
-  "lastUpdated": "2026-10-23",
+  "lastUpdated": "2026-11-09",
   "lastVerified": "2026-10-23",
-  "closedAt": "",
-  "closedReason": "",
+  "closedAt": "2026-11-09",
+  "closedReason": "no longer listed (link check 2026-11-08, confirmed 2026-11-09)",
   "statusHistory": [
     {
       "date": "2026-11-05",
       "status": "open",
       "reason": "imported from artifact"
+    },
+    {
+      "date": "2026-11-09",
+      "status": "closed",
+      "reason": "no longer listed (link check 2026-11-08, confirmed 2026-11-09)"
     }
   ],
   "facts": {},

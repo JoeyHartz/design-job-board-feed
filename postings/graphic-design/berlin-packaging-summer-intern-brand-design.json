@@ -15,17 +15,22 @@
   "url": "https://job-boards.greenhouse.io/berlinpackaging/jobs/4669079008",
   "source": "Berlin Packaging careers (Greenhouse)",
   "note": "Branding and packaging graphics in the in-house studio; for students pursuing a BS or BFA in a design field; no visa sponsorship.",
-  "status": "open",
+  "status": "closed",
   "firstSeen": "2026-10-26",
-  "lastUpdated": "2026-10-26",
+  "lastUpdated": "2026-11-09",
   "lastVerified": "2026-10-26",
-  "closedAt": "",
-  "closedReason": "",
+  "closedAt": "2026-11-09",
+  "closedReason": "no longer listed (link check 2026-11-08, confirmed 2026-11-09)",
   "statusHistory": [
     {
       "date": "2026-11-05",
       "status": "open",
       "reason": "imported from artifact"
+    },
+    {
+      "date": "2026-11-09",
+      "status": "closed",
+      "reason": "no longer listed (link check 2026-11-08, confirmed 2026-11-09)"
     }
   ],
   "facts": {},

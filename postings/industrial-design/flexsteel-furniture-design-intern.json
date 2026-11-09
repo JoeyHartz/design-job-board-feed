@@ -15,17 +15,22 @@
   "url": "https://allergan.dejobs.org/dubuque-ia/furniture-design-intern/9EA8EE9316994030AACD5E4FAD2549FC/job/",
   "source": "Watchlist · Physical Design Internships",
   "note": "Residential and commercial furniture.",
-  "status": "open",
+  "status": "closed",
   "firstSeen": "2026-10-22",
-  "lastUpdated": "2026-10-22",
+  "lastUpdated": "2026-11-09",
   "lastVerified": "2026-10-22",
-  "closedAt": "",
-  "closedReason": "",
+  "closedAt": "2026-11-09",
+  "closedReason": "no longer listed (re-checked 2026-11-09)",
   "statusHistory": [
     {
       "date": "2026-11-05",
       "status": "open",
       "reason": "imported from artifact"
+    },
+    {
+      "date": "2026-11-09",
+      "status": "closed",
+      "reason": "no longer listed (re-checked 2026-11-09)"
     }
   ],
   "facts": {},
