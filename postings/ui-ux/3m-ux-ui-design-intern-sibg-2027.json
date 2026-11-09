@@ -15,7 +15,7 @@
   "url": "https://3m.wd1.myworkdayjobs.com/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-3M-UX-UI-Design-Intern---Safety---Industrial-Business-Group--SIBG-_R01172459",
   "source": "Watchlist · 3M",
   "note": "UX/UI design for 3M's Safety & Industrial group; 10–12 week internship. Must be authorized to work in the US without sponsorship.",
-  "status": "pending",
+  "status": "open",
   "firstSeen": "2026-11-09",
   "lastUpdated": "2026-11-09",
   "lastVerified": "2026-11-09",
@@ -26,6 +26,11 @@
       "date": "2026-11-09",
       "status": "pending",
       "reason": "added, waiting for approval"
+    },
+    {
+      "date": "2026-11-09",
+      "status": "open",
+      "reason": "approved by JoeyHartz"
     }
   ],
   "facts": {

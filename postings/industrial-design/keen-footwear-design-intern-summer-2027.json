@@ -15,7 +15,7 @@
   "url": "https://job-boards.greenhouse.io/keenfootwear/jobs/4751551005",
   "source": "Watchlist · leManoosh",
   "note": "For students in industrial design or related fields; must be eligible to work in the US without sponsorship.",
-  "status": "pending",
+  "status": "open",
   "firstSeen": "2026-11-09",
   "lastUpdated": "2026-11-09",
   "lastVerified": "2026-11-09",
@@ -26,6 +26,11 @@
       "date": "2026-11-09",
       "status": "pending",
       "reason": "added, waiting for approval"
+    },
+    {
+      "date": "2026-11-09",
+      "status": "open",
+      "reason": "approved by JoeyHartz"
     }
   ],
   "facts": {

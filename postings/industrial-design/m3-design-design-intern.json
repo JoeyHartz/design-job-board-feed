@@ -15,7 +15,7 @@
   "url": "https://www.m3design.com/careers/",
   "source": "Watchlist · M3 Design",
   "note": "Apply by email to resume@m3design.com with \"Design Intern\" in the subject; for industrial or product design students or recent grads.",
-  "status": "pending",
+  "status": "open",
   "firstSeen": "2026-11-09",
   "lastUpdated": "2026-11-09",
   "lastVerified": "2026-11-09",
@@ -26,6 +26,11 @@
       "date": "2026-11-09",
       "status": "pending",
       "reason": "added, waiting for approval"
+    },
+    {
+      "date": "2026-11-09",
+      "status": "open",
+      "reason": "approved by JoeyHartz"
     }
   ],
   "facts": {

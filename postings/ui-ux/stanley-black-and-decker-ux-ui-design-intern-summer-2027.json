@@ -15,7 +15,7 @@
   "url": "https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Valley-City-OH-United-States/UX-UI-Design-Intern---Summer-2027_REQ-1000052835",
   "source": "Watchlist · Stanley Black & Decker",
   "note": "UX/UI for physical products (controls and interfaces) across DEWALT, CRAFTSMAN and other tool brands.",
-  "status": "pending",
+  "status": "open",
   "firstSeen": "2026-11-09",
   "lastUpdated": "2026-11-09",
   "lastVerified": "2026-11-09",
@@ -26,6 +26,11 @@
       "date": "2026-11-09",
       "status": "pending",
       "reason": "added, waiting for approval"
+    },
+    {
+      "date": "2026-11-09",
+      "status": "open",
+      "reason": "approved by JoeyHartz"
     }
   ],
   "facts": {
