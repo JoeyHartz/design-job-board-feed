@@ -1,6 +1,6 @@
 # Candidate jobs: 2026-11-10
 
-Generated 2026-11-10T12:32-06:00 by the daily maintenance Action. 77 job lists checked, 0 failed, 819 design-titled jobs not yet on the board, **447 first listed today**. Titles are only a first filter: the routine qualifies each one, starting with jobs first listed since its last run.
+Generated 2026-11-10T12:48-06:00 by the daily maintenance Action. 77 job lists checked, 0 failed, 819 design-titled jobs not yet on the board, **447 first listed today**. Titles are only a first filter: the routine qualifies each one, starting with jobs first listed since its last run.
 
 | Entry | Company | Result | New jobs | Already on board |
 |---|---|---|---:|---:|

@@ -1,6 +1,6 @@
 {
  "date": "2026-11-10",
- "generated": "2026-11-10T12:32-06:00",
+ "generated": "2026-11-10T12:48-06:00",
  "entries": [
   {
    "id": "abelsontaylor",
@@ -359,7 +359,7 @@
    "sourceUrl": "https://clearchanneloutdoor.wd5.myworkdayjobs.com/CCO",
    "status": "ok",
    "error": "",
-   "total": 108,
+   "total": 107,
    "hiddenKnown": 0,
    "jobs": [
     {
@@ -418,7 +418,7 @@
    "sourceUrl": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site",
    "status": "ok",
    "error": "",
-   "total": 230,
+   "total": 231,
    "hiddenKnown": 0,
    "jobs": [
     {
@@ -1105,7 +1105,7 @@
    "sourceUrl": "https://api.smartrecruiters.com/v1/companies/BoschGroup/postings",
    "status": "ok",
    "error": "",
-   "total": 5102,
+   "total": 5103,
    "hiddenKnown": 0,
    "jobs": [
     {
@@ -2073,7 +2073,7 @@
    "sourceUrl": "https://masco.wd1.myworkdayjobs.com/masco",
    "status": "ok",
    "error": "",
-   "total": 124,
+   "total": 125,
    "hiddenKnown": 0,
    "jobs": [
     {
@@ -2523,7 +2523,7 @@
    "sourceUrl": "https://justidjobs.com/jobs?level=internship%2Centry",
    "status": "ok",
    "error": "",
-   "total": 235,
+   "total": 234,
    "hiddenKnown": 29,
    "jobs": [
     {
@@ -4513,7 +4513,7 @@
    "sourceUrl": "https://newbalance.wd1.myworkdayjobs.com/Careers",
    "status": "ok",
    "error": "",
-   "total": 150,
+   "total": 151,
    "hiddenKnown": 0,
    "jobs": [
     {
@@ -6090,7 +6090,7 @@
    "sourceUrl": "https://mars.wd3.myworkdayjobs.com/External",
    "status": "ok",
    "error": "",
-   "total": 223,
+   "total": 224,
    "hiddenKnown": 0,
    "jobs": [
     {
@@ -6449,7 +6449,7 @@
    "sourceUrl": "https://api.smartrecruiters.com/v1/companies/ServiceNow/postings",
    "status": "ok",
    "error": "",
-   "total": 743,
+   "total": 745,
    "hiddenKnown": 0,
    "jobs": [
     {
