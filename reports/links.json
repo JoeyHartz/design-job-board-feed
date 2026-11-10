@@ -1,6 +1,6 @@
 {
- "date": "2026-11-09",
- "generated": "2026-11-09T15:38-06:00",
+ "date": "2026-11-10",
+ "generated": "2026-11-10T12:35-06:00",
  "postings": [
   {
    "id": "3m-brand-design-intern-sibg-2027",
@@ -84,6 +84,15 @@
    "detail": "HTTP 200"
   },
   {
+   "id": "disney-graphic-design-communications-intern-spring-2027",
+   "company": "Disney (Walt Disney World Resort)",
+   "title": "Graphic Design & Communications Intern, Spring 2027",
+   "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/Graphic-Design---Communications-Intern--Spring-2027_10158440",
+   "lastVerified": "2026-11-10",
+   "result": "ok",
+   "detail": "HTTP 200"
+  },
+  {
    "id": "field-museum-scientific-illustrator-intern",
    "company": "Field Museum",
    "title": "Scientific Illustrator (16-week internship)",
@@ -109,15 +118,6 @@
    "lastVerified": "2026-10-27",
    "result": "ok",
    "detail": "HTTP 200"
-  },
-  {
-   "id": "gemini-brand-design-intern-winter-2027",
-   "company": "Gemini",
-   "title": "Brand Design Intern (Winter 2027)",
-   "url": "https://job-boards.greenhouse.io/gemini/jobs/8243097",
-   "lastVerified": "2026-10-23",
-   "result": "gone",
-   "detail": "redirected to a general page: https://www.gemini.com/careers"
   },
   {
    "id": "glantz-junior-graphic-designer",
@@ -197,15 +197,6 @@
    "title": "Graphic Designer",
    "url": "https://builtin.com/job/graphic-designer/11469404",
    "lastVerified": "2026-11-03",
-   "result": "ok",
-   "detail": "HTTP 200"
-  },
-  {
-   "id": "rush-street-gd-intern-spring-2027",
-   "company": "Rush Street Interactive",
-   "title": "Graphic Design Internship – Spring 2027",
-   "url": "https://www.builtinseattle.com/job/graphic-design-internship-spring-2027/11102698",
-   "lastVerified": "2026-10-22",
    "result": "ok",
    "detail": "HTTP 200"
   },
@@ -395,8 +386,8 @@
    "title": "Exhibit Design Intern, Winter/Spring 2027",
    "url": "https://deckelmoneypenny.com/job/exhibit-design-intern-winter-spring-2027/",
    "lastVerified": "2026-10-28",
-   "result": "ok",
-   "detail": "HTTP 202"
+   "result": "unreachable",
+   "detail": "RemoteDisconnected: Remote end closed connection without response"
   },
   {
    "id": "dimensional-innovations-design-intern-summer-2027",
@@ -451,6 +442,15 @@
    "lastVerified": "2026-11-05",
    "result": "ok",
    "detail": "HTTP 200"
+  },
+  {
+   "id": "ford-junior-designer-vehicle-design-long-beach",
+   "company": "Ford",
+   "title": "Junior Designer",
+   "url": "https://apply.ford.com/en/sites/CX_1/job/70670/apply/email",
+   "lastVerified": "2026-11-10",
+   "result": "unreachable",
+   "detail": "URLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1011)"
   },
   {
    "id": "formlabs-industrial-design-fellowship",
@@ -592,7 +592,7 @@
    "company": "industrialpartners",
    "title": "Product Design / Product Development Internship",
    "url": "https://industrialpartners.de/en/jobs/",
-   "lastVerified": "2026-10-22",
+   "lastVerified": "2026-11-10",
    "result": "ok",
    "detail": "HTTP 200"
   },
@@ -637,7 +637,7 @@
    "company": "Kohl's",
    "title": "Home Product Design Intern",
    "url": "https://careers.kohls.com/internships/design-art-creative",
-   "lastVerified": "2026-10-22",
+   "lastVerified": "2026-11-10",
    "result": "ok",
    "detail": "HTTP 200"
   },
@@ -700,7 +700,7 @@
    "company": "Milwaukee Tool",
    "title": "Design Researcher Intern",
    "url": "https://tti.yello.co/external/requisitions/El5jv1-bGG07TZ3dKEbM9g",
-   "lastVerified": "2026-10-22",
+   "lastVerified": "2026-11-10",
    "result": "ok",
    "detail": "HTTP 200"
   },
@@ -718,7 +718,7 @@
    "company": "Milwaukee Tool",
    "title": "Industrial Design Co-op",
    "url": "https://tti.yello.co/external/requisitions/7uH1zTYt-P3KAapkw5EH5A",
-   "lastVerified": "2026-10-22",
+   "lastVerified": "2026-11-10",
    "result": "ok",
    "detail": "HTTP 200"
   },
@@ -727,7 +727,7 @@
    "company": "Milwaukee Tool",
    "title": "Industrial Design Intern",
    "url": "https://tti.yello.co/external/requisitions/E6Iarspa1WmwK_kYCleqrg",
-   "lastVerified": "2026-10-22",
+   "lastVerified": "2026-11-10",
    "result": "ok",
    "detail": "HTTP 200"
   },
@@ -736,7 +736,7 @@
    "company": "MNML",
    "title": "Industrial Design Intern",
    "url": "https://mnml.com/careers-2026-industrial-design-intern",
-   "lastVerified": "2026-10-22",
+   "lastVerified": "2026-11-10",
    "result": "ok",
    "detail": "HTTP 200"
   },
@@ -754,7 +754,7 @@
    "company": "Munchkin",
    "title": "Industrial Design Intern",
    "url": "https://lemanoosh.com/jobs/industrial-design-intern-35/",
-   "lastVerified": "2026-10-22",
+   "lastVerified": "2026-11-10",
    "result": "ok",
    "detail": "HTTP 200"
   },
@@ -790,7 +790,7 @@
    "company": "Newell Brands",
    "title": "2027 Intern – Industrial Design",
    "url": "https://jobs.newellbrands.com/job/Sandy-Springs-2027-Newell-Brands-Intern-Industrial-Design-Geor/1440145300/",
-   "lastVerified": "2026-10-22",
+   "lastVerified": "2026-11-10",
    "result": "ok",
    "detail": "HTTP 200"
   },
@@ -826,7 +826,7 @@
    "company": "Oshkosh Corporation",
    "title": "Industrial Design Intern",
    "url": "https://lemanoosh.com/jobs/industrial-design-intern-34/",
-   "lastVerified": "2026-10-22",
+   "lastVerified": "2026-11-10",
    "result": "ok",
    "detail": "HTTP 200"
   },
@@ -862,7 +862,7 @@
    "company": "Pilotfish",
    "title": "Industrial Design Intern",
    "url": "https://www.pilotfish.eu/career#industrial-design-intern",
-   "lastVerified": "2026-10-22",
+   "lastVerified": "2026-11-10",
    "result": "ok",
    "detail": "HTTP 200"
   },
@@ -871,7 +871,7 @@
    "company": "Plexus",
    "title": "Intern – User Centered Design (Summer 2027)",
    "url": "https://builtin.com/job/intern-user-centered-design-summer-2027/10969290",
-   "lastVerified": "2026-10-22",
+   "lastVerified": "2026-11-10",
    "result": "ok",
    "detail": "HTTP 200"
   },
@@ -889,7 +889,7 @@
    "company": "Polaris Inc.",
    "title": "Sculpting Intern",
    "url": "https://lemanoosh.com/jobs/sculpting-intern/",
-   "lastVerified": "2026-10-22",
+   "lastVerified": "2026-11-10",
    "result": "ok",
    "detail": "HTTP 200"
   },
@@ -1020,6 +1020,15 @@
    "detail": "Workday lists this job"
   },
   {
+   "id": "steelcase-industrial-design-intern-summer-2027-grand-rapids",
+   "company": "Steelcase",
+   "title": "2027 Summer Industrial Design Intern",
+   "url": "https://careers.steelcase.com/external/JobDescription?folderId=10686&source=Smart+Recruiter",
+   "lastVerified": "2026-11-10",
+   "result": "ok",
+   "detail": "HTTP 200"
+  },
+  {
    "id": "stellantis-2027-product-design-office-pdo-auto-design-internship",
    "company": "Stellantis",
    "title": "2027 Product Design Office (PDO) – Auto Design Internship",
@@ -1128,15 +1137,6 @@
    "detail": "HTTP 403, blocked by the site's bot protection"
   },
   {
-   "id": "the-james-brand-junior-industrial-designer",
-   "company": "The James Brand",
-   "title": "Junior Industrial Designer",
-   "url": "https://thejamesbrand.com/blogs/careers/junior-industrial-designer",
-   "lastVerified": "2026-11-02",
-   "result": "gone",
-   "detail": "HTTP 404"
-  },
-  {
    "id": "toshiba-gcs-id-intern-spring-2027",
    "company": "Toshiba Global Commerce Solutions",
    "title": "Industrial Design Intern (Spring 2027)",
@@ -1180,15 +1180,6 @@
    "lastVerified": "2026-10-23",
    "result": "ok",
    "detail": "Workday lists this job"
-  },
-  {
-   "id": "elf-beauty-intern-packaging-design",
-   "company": "e.l.f. Beauty",
-   "title": "Intern, Packaging Design",
-   "url": "https://jobs.lever.co/elfbeauty/8ce110a9-75ff-44a1-8ef2-2d9aa570aeee",
-   "lastVerified": "2026-10-26",
-   "result": "gone",
-   "detail": "HTTP 404"
   },
   {
    "id": "gm-id-intern-summer-2027",
