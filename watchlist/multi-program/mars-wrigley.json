@@ -7,8 +7,8 @@
     "GD"
   ],
   "status": "active",
-  "method": "search",
-  "sourceUrl": "",
+  "method": "workday",
+  "sourceUrl": "https://mars.wd3.myworkdayjobs.com/External",
   "careersUrl": "https://careers.mars.com/us/en",
   "segment": "In-house packaging and brand, Chicago",
   "lastChecked": "",
@@ -18,6 +18,11 @@
       "date": "2026-11-10",
       "status": "active",
       "reason": "added at Joey's request"
+    },
+    {
+      "date": "2026-11-10",
+      "status": "active",
+      "reason": "method changed from search to workday: reads its public job list directly"
     }
   ]
 }

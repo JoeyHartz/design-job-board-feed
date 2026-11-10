@@ -6,8 +6,8 @@
     "ID"
   ],
   "status": "active",
-  "method": "search",
-  "sourceUrl": "",
+  "method": "greenhouse",
+  "sourceUrl": "https://boards-api.greenhouse.io/v1/boards/formlabs/jobs",
   "careersUrl": "https://careers.formlabs.com/",
   "segment": "3D printers and materials",
   "lastChecked": "",
@@ -17,6 +17,11 @@
       "date": "2026-11-10",
       "status": "active",
       "reason": "added at Joey's request"
+    },
+    {
+      "date": "2026-11-10",
+      "status": "active",
+      "reason": "method changed from search to greenhouse: reads its public job list directly"
     }
   ]
 }

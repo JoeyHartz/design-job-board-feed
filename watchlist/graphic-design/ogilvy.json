@@ -6,8 +6,8 @@
     "GD"
   ],
   "status": "active",
-  "method": "search",
-  "sourceUrl": "",
+  "method": "greenhouse",
+  "sourceUrl": "https://boards-api.greenhouse.io/v1/boards/ogilvy/jobs",
   "careersUrl": "https://www.ogilvy.com/careers",
   "segment": "Ad agency, Chicago",
   "lastChecked": "",
@@ -17,6 +17,11 @@
       "date": "2026-11-10",
       "status": "active",
       "reason": "added at Joey's request"
+    },
+    {
+      "date": "2026-11-10",
+      "status": "active",
+      "reason": "method changed from search to greenhouse: reads its public job list directly"
     }
   ]
 }

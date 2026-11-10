@@ -6,8 +6,8 @@
     "ID"
   ],
   "status": "active",
-  "method": "search",
-  "sourceUrl": "",
+  "method": "page",
+  "sourceUrl": "https://www.speckdesign.com/careers",
   "careersUrl": "https://www.speckdesign.com/careers",
   "segment": "ID consultancy",
   "lastChecked": "",
@@ -17,6 +17,11 @@
       "date": "2026-11-10",
       "status": "active",
       "reason": "added at Joey's request"
+    },
+    {
+      "date": "2026-11-10",
+      "status": "active",
+      "reason": "method changed from search to page: reads its careers page directly"
     }
   ]
 }

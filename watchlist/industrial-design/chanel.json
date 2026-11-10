@@ -6,8 +6,8 @@
     "ID"
   ],
   "status": "active",
-  "method": "search",
-  "sourceUrl": "",
+  "method": "workday",
+  "sourceUrl": "https://cc.wd3.myworkdayjobs.com/ChanelCareers",
   "careersUrl": "https://www.chanel.com/us/careers/",
   "segment": "Fashion and jewelry design",
   "lastChecked": "",
@@ -17,6 +17,11 @@
       "date": "2026-11-10",
       "status": "active",
       "reason": "added at Joey's request"
+    },
+    {
+      "date": "2026-11-10",
+      "status": "active",
+      "reason": "method changed from search to workday: reads its public job list directly"
     }
   ]
 }

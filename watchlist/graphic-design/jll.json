@@ -6,8 +6,8 @@
     "GD"
   ],
   "status": "active",
-  "method": "search",
-  "sourceUrl": "",
+  "method": "workday",
+  "sourceUrl": "https://jll.wd1.myworkdayjobs.com/jllcareers",
   "careersUrl": "https://www.jll.com/en-us/careers",
   "segment": "Real estate marketing design, Chicago",
   "lastChecked": "",
@@ -17,6 +17,11 @@
       "date": "2026-11-10",
       "status": "active",
       "reason": "added at Joey's request"
+    },
+    {
+      "date": "2026-11-10",
+      "status": "active",
+      "reason": "method changed from search to workday: reads its public job list directly"
     }
   ]
 }

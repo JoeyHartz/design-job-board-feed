@@ -6,8 +6,8 @@
     "ID"
   ],
   "status": "active",
-  "method": "search",
-  "sourceUrl": "",
+  "method": "workday",
+  "sourceUrl": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh",
   "careersUrl": "https://careers.oshkoshcorp.com/us/en/home",
   "segment": "Specialty vehicles",
   "lastChecked": "",
@@ -17,6 +17,11 @@
       "date": "2026-11-10",
       "status": "active",
       "reason": "added at Joey's request"
+    },
+    {
+      "date": "2026-11-10",
+      "status": "active",
+      "reason": "method changed from search to workday: reads its public job list directly"
     }
   ]
 }

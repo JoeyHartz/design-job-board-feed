@@ -6,8 +6,8 @@
     "GD"
   ],
   "status": "active",
-  "method": "search",
-  "sourceUrl": "",
+  "method": "page",
+  "sourceUrl": "https://capsule.us/contact#work-with-us",
   "careersUrl": "https://capsule.us/contact#work-with-us",
   "segment": "Branding and packaging studio",
   "lastChecked": "",
@@ -17,6 +17,11 @@
       "date": "2026-11-10",
       "status": "active",
       "reason": "added at Joey's request"
+    },
+    {
+      "date": "2026-11-10",
+      "status": "active",
+      "reason": "method changed from search to page: reads its careers page directly"
     }
   ]
 }

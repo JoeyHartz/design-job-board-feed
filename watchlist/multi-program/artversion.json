@@ -7,8 +7,8 @@
     "UX"
   ],
   "status": "active",
-  "method": "search",
-  "sourceUrl": "",
+  "method": "page",
+  "sourceUrl": "https://artversion.com/careers/",
   "careersUrl": "https://artversion.com/careers/",
   "segment": "Branding and digital agency, Chicago",
   "lastChecked": "",
@@ -18,6 +18,11 @@
       "date": "2026-11-10",
       "status": "active",
       "reason": "added at Joey's request"
+    },
+    {
+      "date": "2026-11-10",
+      "status": "active",
+      "reason": "method changed from search to page: reads its careers page directly"
     }
   ]
 }

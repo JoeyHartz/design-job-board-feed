@@ -6,8 +6,8 @@
     "ID"
   ],
   "status": "active",
-  "method": "search",
-  "sourceUrl": "",
+  "method": "bamboohr",
+  "sourceUrl": "https://pvcoho.bamboohr.com/careers/list",
   "careersUrl": "https://www.wovenworksglobal.com/careers",
   "segment": "Packaging and product design",
   "lastChecked": "",
@@ -17,6 +17,11 @@
       "date": "2026-11-10",
       "status": "active",
       "reason": "added at Joey's request"
+    },
+    {
+      "date": "2026-11-10",
+      "status": "active",
+      "reason": "method changed from search to bamboohr: reads its public job list directly"
     }
   ]
 }

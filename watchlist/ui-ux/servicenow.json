@@ -6,8 +6,8 @@
     "UX"
   ],
   "status": "active",
-  "method": "search",
-  "sourceUrl": "",
+  "method": "smartrecruiters",
+  "sourceUrl": "https://api.smartrecruiters.com/v1/companies/ServiceNow/postings",
   "careersUrl": "https://careers.servicenow.com/",
   "segment": "Software: product design",
   "lastChecked": "",
@@ -17,6 +17,11 @@
       "date": "2026-11-10",
       "status": "active",
       "reason": "added at Joey's request"
+    },
+    {
+      "date": "2026-11-10",
+      "status": "active",
+      "reason": "method changed from search to smartrecruiters: reads its public job list directly"
     }
   ]
 }

@@ -6,8 +6,8 @@
     "UX"
   ],
   "status": "active",
-  "method": "search",
-  "sourceUrl": "",
+  "method": "workday",
+  "sourceUrl": "https://wonder.wd1.myworkdayjobs.com/Grubhub_Careers",
   "careersUrl": "https://careers.grubhub.com/",
   "segment": "Software: product design, Chicago",
   "lastChecked": "",
@@ -17,6 +17,11 @@
       "date": "2026-11-10",
       "status": "active",
       "reason": "added at Joey's request"
+    },
+    {
+      "date": "2026-11-10",
+      "status": "active",
+      "reason": "method changed from search to workday: reads its public job list directly"
     }
   ]
 }

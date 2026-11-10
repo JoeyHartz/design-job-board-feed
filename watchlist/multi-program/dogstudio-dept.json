@@ -7,8 +7,8 @@
     "UX"
   ],
   "status": "active",
-  "method": "search",
-  "sourceUrl": "",
+  "method": "greenhouse",
+  "sourceUrl": "https://boards-api.greenhouse.io/v1/boards/dept/jobs",
   "careersUrl": "https://dogstudio.co/careers/",
   "segment": "Digital agency, Chicago",
   "lastChecked": "",
@@ -18,6 +18,11 @@
       "date": "2026-11-10",
       "status": "active",
       "reason": "added at Joey's request"
+    },
+    {
+      "date": "2026-11-10",
+      "status": "active",
+      "reason": "method changed from search to greenhouse: reads its public job list directly"
     }
   ]
 }
