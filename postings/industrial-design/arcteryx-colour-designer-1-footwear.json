@@ -15,7 +15,7 @@
   "url": "https://jobs.lever.co/arcteryx.com/d13eb8f4-c1a1-42a5-b27c-6326ac92a8a5",
   "source": "Watchlist · Just ID Jobs",
   "note": "Footwear color and materials (CMF) for outdoor footwear.",
-  "status": "pending",
+  "status": "open",
   "firstSeen": "2026-11-10",
   "lastUpdated": "2026-11-10",
   "lastVerified": "2026-11-10",
@@ -26,6 +26,11 @@
       "date": "2026-11-10",
       "status": "pending",
       "reason": "added, waiting for approval"
+    },
+    {
+      "date": "2026-11-10",
+      "status": "open",
+      "reason": "approved by JoeyHartz"
     }
   ],
   "facts": {

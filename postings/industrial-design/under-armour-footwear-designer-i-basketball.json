@@ -15,7 +15,7 @@
   "url": "https://careers.underarmour.com/job/Baltimore-Footwear-Designer-I%2C-Basketball-MD-21230/1420795700/",
   "source": "Watchlist · Under Armour",
   "note": "Basketball footwear design; 1+ years of experience.",
-  "status": "pending",
+  "status": "open",
   "firstSeen": "2026-11-10",
   "lastUpdated": "2026-11-10",
   "lastVerified": "2026-11-10",
@@ -26,6 +26,11 @@
       "date": "2026-11-10",
       "status": "pending",
       "reason": "added, waiting for approval"
+    },
+    {
+      "date": "2026-11-10",
+      "status": "open",
+      "reason": "approved by JoeyHartz"
     }
   ],
   "facts": {},

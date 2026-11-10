@@ -15,7 +15,7 @@
   "url": "https://designcentral.com/careers",
   "source": "Watchlist · Design Central",
   "note": "Product design consultancy; 0–4 years of experience, apply by email with a portfolio.",
-  "status": "pending",
+  "status": "open",
   "firstSeen": "2026-11-10",
   "lastUpdated": "2026-11-10",
   "lastVerified": "2026-11-10",
@@ -26,6 +26,11 @@
       "date": "2026-11-10",
       "status": "pending",
       "reason": "added, waiting for approval"
+    },
+    {
+      "date": "2026-11-10",
+      "status": "open",
+      "reason": "approved by JoeyHartz"
     }
   ],
   "facts": {

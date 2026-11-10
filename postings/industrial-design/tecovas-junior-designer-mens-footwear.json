@@ -15,7 +15,7 @@
   "url": "https://job-boards.greenhouse.io/tecovas/jobs/8756968002",
   "source": "Watchlist · Just ID Jobs",
   "note": "Western boots and footwear; must live in or move to Austin.",
-  "status": "pending",
+  "status": "open",
   "firstSeen": "2026-11-10",
   "lastUpdated": "2026-11-10",
   "lastVerified": "2026-11-10",
@@ -26,6 +26,11 @@
       "date": "2026-11-10",
       "status": "pending",
       "reason": "added, waiting for approval"
+    },
+    {
+      "date": "2026-11-10",
+      "status": "open",
+      "reason": "approved by JoeyHartz"
     }
   ],
   "facts": {

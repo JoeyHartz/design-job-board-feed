@@ -15,7 +15,7 @@
   "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4720355006",
   "source": "Watchlist · Just ID Jobs",
   "note": "Industrial design for home appliances.",
-  "status": "pending",
+  "status": "open",
   "firstSeen": "2026-11-10",
   "lastUpdated": "2026-11-10",
   "lastVerified": "2026-11-10",
@@ -26,6 +26,11 @@
       "date": "2026-11-10",
       "status": "pending",
       "reason": "added, waiting for approval"
+    },
+    {
+      "date": "2026-11-10",
+      "status": "open",
+      "reason": "approved by JoeyHartz"
     }
   ],
   "facts": {

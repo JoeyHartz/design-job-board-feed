@@ -15,7 +15,7 @@
   "url": "https://puma.wd502.myworkdayjobs.com/Jobs_at_Puma/job/PUMA-Boston-International-Office/Designer-I-Running-Footwear---TEMP_R44068",
   "source": "Watchlist · Just ID Jobs",
   "note": "Running footwear design; temporary role that may convert.",
-  "status": "pending",
+  "status": "open",
   "firstSeen": "2026-11-10",
   "lastUpdated": "2026-11-10",
   "lastVerified": "2026-11-10",
@@ -26,6 +26,11 @@
       "date": "2026-11-10",
       "status": "pending",
       "reason": "added, waiting for approval"
+    },
+    {
+      "date": "2026-11-10",
+      "status": "open",
+      "reason": "approved by JoeyHartz"
     }
   ],
   "facts": {

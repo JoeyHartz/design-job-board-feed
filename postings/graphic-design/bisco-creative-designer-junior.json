@@ -15,7 +15,7 @@
   "url": "https://biscodentalproducts.applytojob.com/apply/8p8gcuDEGY/Creative-Designer-Junior",
   "source": "Web search",
   "note": "Dental products company; marketing and packaging design.",
-  "status": "pending",
+  "status": "open",
   "firstSeen": "2026-11-10",
   "lastUpdated": "2026-11-10",
   "lastVerified": "2026-11-10",
@@ -26,6 +26,11 @@
       "date": "2026-11-10",
       "status": "pending",
       "reason": "added, waiting for approval"
+    },
+    {
+      "date": "2026-11-10",
+      "status": "open",
+      "reason": "approved by JoeyHartz"
     }
   ],
   "facts": {
