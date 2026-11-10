@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "launchpad-lab",
+  "company": "LaunchPad Lab",
+  "programs": [
+    "UX"
+  ],
+  "status": "active",
+  "method": "search",
+  "sourceUrl": "",
+  "careersUrl": "https://launchpadlab.com/careers/",
+  "segment": "Digital product studio, Chicago",
+  "lastChecked": "",
+  "found": 0,
+  "statusHistory": [
+    {
+      "date": "2026-11-10",
+      "status": "active",
+      "reason": "added at Joey's request"
+    }
+  ]
+}

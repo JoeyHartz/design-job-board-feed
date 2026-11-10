@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "textron-aviation",
+  "company": "Textron Aviation",
+  "programs": [
+    "ID"
+  ],
+  "status": "active",
+  "method": "search",
+  "sourceUrl": "",
+  "careersUrl": "https://txtav.com/en/careers",
+  "segment": "Aircraft interiors",
+  "lastChecked": "",
+  "found": 0,
+  "statusHistory": [
+    {
+      "date": "2026-11-10",
+      "status": "active",
+      "reason": "added at Joey's request"
+    }
+  ]
+}

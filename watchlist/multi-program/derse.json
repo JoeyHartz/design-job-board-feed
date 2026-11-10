@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "derse",
+  "company": "Derse",
+  "programs": [
+    "ID",
+    "GD"
+  ],
+  "status": "active",
+  "method": "search",
+  "sourceUrl": "",
+  "careersUrl": "https://derse.com/careers",
+  "segment": "Exhibit and trade-show design",
+  "lastChecked": "",
+  "found": 0,
+  "statusHistory": [
+    {
+      "date": "2026-11-10",
+      "status": "active",
+      "reason": "added at Joey's request"
+    }
+  ]
+}

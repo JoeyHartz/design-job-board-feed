@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "haleon",
+  "company": "Haleon",
+  "programs": [
+    "ID"
+  ],
+  "status": "active",
+  "method": "search",
+  "sourceUrl": "",
+  "careersUrl": "https://www.haleon.com/careers",
+  "segment": "Consumer health packaging",
+  "lastChecked": "",
+  "found": 0,
+  "statusHistory": [
+    {
+      "date": "2026-11-10",
+      "status": "active",
+      "reason": "added at Joey's request"
+    }
+  ]
+}

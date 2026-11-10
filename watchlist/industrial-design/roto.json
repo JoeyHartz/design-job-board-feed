@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "roto",
+  "company": "Roto",
+  "programs": [
+    "ID"
+  ],
+  "status": "active",
+  "method": "search",
+  "sourceUrl": "",
+  "careersUrl": "https://roto.com/careers",
+  "segment": "Experience and exhibit design",
+  "lastChecked": "",
+  "found": 0,
+  "statusHistory": [
+    {
+      "date": "2026-11-10",
+      "status": "active",
+      "reason": "added at Joey's request"
+    }
+  ]
+}

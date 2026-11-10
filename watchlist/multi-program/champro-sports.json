@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "champro-sports",
+  "company": "CHAMPRO Sports",
+  "programs": [
+    "ID",
+    "GD"
+  ],
+  "status": "active",
+  "method": "search",
+  "sourceUrl": "",
+  "careersUrl": "https://champrosports.com/topic/careers",
+  "segment": "Sporting goods",
+  "lastChecked": "",
+  "found": 0,
+  "statusHistory": [
+    {
+      "date": "2026-11-10",
+      "status": "active",
+      "reason": "added at Joey's request"
+    }
+  ]
+}

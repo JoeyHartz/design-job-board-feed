@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "chicago-fire-fc",
+  "company": "Chicago Fire FC",
+  "programs": [
+    "GD"
+  ],
+  "status": "active",
+  "method": "search",
+  "sourceUrl": "",
+  "careersUrl": "https://www.teamworkonline.com/soccer-jobs/chicago-fire-fc/chicago-fire",
+  "segment": "Sports team creative",
+  "lastChecked": "",
+  "found": 0,
+  "statusHistory": [
+    {
+      "date": "2026-11-10",
+      "status": "active",
+      "reason": "added at Joey's request"
+    }
+  ]
+}

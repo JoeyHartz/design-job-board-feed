@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "stihl",
+  "company": "STIHL",
+  "programs": [
+    "ID"
+  ],
+  "status": "active",
+  "method": "search",
+  "sourceUrl": "",
+  "careersUrl": "https://jobs.stihl.com/",
+  "segment": "Power tools and outdoor equipment",
+  "lastChecked": "",
+  "found": 0,
+  "statusHistory": [
+    {
+      "date": "2026-11-10",
+      "status": "active",
+      "reason": "added at Joey's request"
+    }
+  ]
+}

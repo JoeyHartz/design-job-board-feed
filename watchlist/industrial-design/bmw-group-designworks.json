@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "bmw-group-designworks",
+  "company": "BMW Group Designworks",
+  "programs": [
+    "ID"
+  ],
+  "status": "active",
+  "method": "search",
+  "sourceUrl": "",
+  "careersUrl": "https://www.bmwgroup.jobs/en/jobfinder.html",
+  "segment": "Design consultancy (BMW Group)",
+  "lastChecked": "",
+  "found": 0,
+  "statusHistory": [
+    {
+      "date": "2026-11-10",
+      "status": "active",
+      "reason": "added at Joey's request"
+    }
+  ]
+}

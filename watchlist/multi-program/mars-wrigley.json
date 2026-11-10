@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "mars-wrigley",
+  "company": "Mars Wrigley",
+  "programs": [
+    "ID",
+    "GD"
+  ],
+  "status": "active",
+  "method": "search",
+  "sourceUrl": "",
+  "careersUrl": "https://careers.mars.com/us/en",
+  "segment": "In-house packaging and brand, Chicago",
+  "lastChecked": "",
+  "found": 0,
+  "statusHistory": [
+    {
+      "date": "2026-11-10",
+      "status": "active",
+      "reason": "added at Joey's request"
+    }
+  ]
+}

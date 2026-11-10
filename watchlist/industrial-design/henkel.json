@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "henkel",
+  "company": "Henkel",
+  "programs": [
+    "ID"
+  ],
+  "status": "active",
+  "method": "search",
+  "sourceUrl": "",
+  "careersUrl": "https://www.henkel.com/careers",
+  "segment": "Consumer brands",
+  "lastChecked": "",
+  "found": 0,
+  "statusHistory": [
+    {
+      "date": "2026-11-10",
+      "status": "active",
+      "reason": "added at Joey's request"
+    }
+  ]
+}

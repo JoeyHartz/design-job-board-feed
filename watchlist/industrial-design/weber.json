@@ -6,9 +6,9 @@
     "ID"
   ],
   "status": "active",
-  "method": "search",
-  "sourceUrl": "",
-  "careersUrl": "",
+  "method": "workday",
+  "sourceUrl": "https://weber.wd115.myworkdayjobs.com/WB",
+  "careersUrl": "https://weber.wd115.myworkdayjobs.com/WB",
   "segment": "In-house ID",
   "lastChecked": "2026-11-05",
   "found": 0,
@@ -17,6 +17,11 @@
       "date": "2026-11-05",
       "status": "active",
       "reason": "imported from artifact"
+    },
+    {
+      "date": "2026-11-10",
+      "status": "active",
+      "reason": "method changed from search to workday: reads the job list Joey supplied"
     }
   ]
 }

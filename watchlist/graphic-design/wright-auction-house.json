@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "wright-auction-house",
+  "company": "Wright Auction House",
+  "programs": [
+    "GD"
+  ],
+  "status": "active",
+  "method": "search",
+  "sourceUrl": "",
+  "careersUrl": "https://www.ragoarts.com/contact/opportunities",
+  "segment": "Auction catalog design, Chicago",
+  "lastChecked": "",
+  "found": 0,
+  "statusHistory": [
+    {
+      "date": "2026-11-10",
+      "status": "active",
+      "reason": "added at Joey's request"
+    }
+  ]
+}

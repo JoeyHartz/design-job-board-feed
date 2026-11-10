@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "cambridge-consultants",
+  "company": "Cambridge Consultants",
+  "programs": [
+    "ID"
+  ],
+  "status": "active",
+  "method": "greenhouse",
+  "sourceUrl": "https://boards-api.greenhouse.io/v1/boards/cambridgeconsultantslimited/jobs",
+  "careersUrl": "https://job-boards.eu.greenhouse.io/cambridgeconsultantslimited",
+  "segment": "Product development consultancy",
+  "lastChecked": "",
+  "found": 0,
+  "statusHistory": [
+    {
+      "date": "2026-11-10",
+      "status": "active",
+      "reason": "added at Joey's request"
+    }
+  ]
+}

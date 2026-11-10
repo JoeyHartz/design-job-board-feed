@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "expedia-group",
+  "company": "Expedia Group",
+  "programs": [
+    "UX"
+  ],
+  "status": "active",
+  "method": "search",
+  "sourceUrl": "",
+  "careersUrl": "https://careers.expediagroup.com/",
+  "segment": "Software: product design",
+  "lastChecked": "",
+  "found": 0,
+  "statusHistory": [
+    {
+      "date": "2026-11-10",
+      "status": "active",
+      "reason": "added at Joey's request"
+    }
+  ]
+}

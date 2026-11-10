@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "deeplocal",
+  "company": "Deeplocal",
+  "programs": [
+    "ID"
+  ],
+  "status": "active",
+  "method": "page",
+  "sourceUrl": "https://deeplocal.applytojob.com/apply",
+  "careersUrl": "https://deeplocal.applytojob.com/apply",
+  "segment": "Experiential design and fabrication",
+  "lastChecked": "",
+  "found": 0,
+  "statusHistory": [
+    {
+      "date": "2026-11-10",
+      "status": "active",
+      "reason": "added at Joey's request"
+    }
+  ]
+}

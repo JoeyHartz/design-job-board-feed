@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "universal-orlando",
+  "company": "Universal Orlando",
+  "programs": [
+    "GD"
+  ],
+  "status": "active",
+  "method": "search",
+  "sourceUrl": "",
+  "careersUrl": "https://jobs.universalparks.com/universal-orlando-resort/",
+  "segment": "Theme park creative",
+  "lastChecked": "",
+  "found": 0,
+  "statusHistory": [
+    {
+      "date": "2026-11-10",
+      "status": "active",
+      "reason": "added at Joey's request"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "clear-channel-outdoor",
+  "company": "Clear Channel Outdoor",
+  "programs": [
+    "GD"
+  ],
+  "status": "active",
+  "method": "search",
+  "sourceUrl": "",
+  "careersUrl": "https://clearchanneloutdoor.com/careers/",
+  "segment": "Outdoor advertising",
+  "lastChecked": "",
+  "found": 0,
+  "statusHistory": [
+    {
+      "date": "2026-11-10",
+      "status": "active",
+      "reason": "added at Joey's request"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "klein-tools",
+  "company": "Klein Tools",
+  "programs": [
+    "ID"
+  ],
+  "status": "active",
+  "method": "search",
+  "sourceUrl": "",
+  "careersUrl": "https://www.kleintools.com/careers",
+  "segment": "Hand tools",
+  "lastChecked": "",
+  "found": 0,
+  "statusHistory": [
+    {
+      "date": "2026-11-10",
+      "status": "active",
+      "reason": "added at Joey's request"
+    }
+  ]
+}

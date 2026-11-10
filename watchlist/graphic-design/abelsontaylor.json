@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "abelsontaylor",
+  "company": "AbelsonTaylor",
+  "programs": [
+    "GD"
+  ],
+  "status": "active",
+  "method": "greenhouse",
+  "sourceUrl": "https://boards-api.greenhouse.io/v1/boards/abelsontaylor/jobs",
+  "careersUrl": "https://job-boards.greenhouse.io/abelsontaylor",
+  "segment": "Healthcare ad agency",
+  "lastChecked": "",
+  "found": 0,
+  "statusHistory": [
+    {
+      "date": "2026-11-10",
+      "status": "active",
+      "reason": "added at Joey's request"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "fuzzy-math",
+  "company": "Fuzzy Math",
+  "programs": [
+    "UX"
+  ],
+  "status": "active",
+  "method": "search",
+  "sourceUrl": "",
+  "careersUrl": "https://fuzzymath.com/about/careers/",
+  "segment": "UX consultancy, Chicago",
+  "lastChecked": "",
+  "found": 0,
+  "statusHistory": [
+    {
+      "date": "2026-11-10",
+      "status": "active",
+      "reason": "added at Joey's request"
+    }
+  ]
+}

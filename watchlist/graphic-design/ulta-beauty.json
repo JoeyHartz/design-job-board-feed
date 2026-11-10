@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "ulta-beauty",
+  "company": "Ulta Beauty",
+  "programs": [
+    "GD"
+  ],
+  "status": "active",
+  "method": "search",
+  "sourceUrl": "",
+  "careersUrl": "https://careers.ulta.com/careers",
+  "segment": "Retail brand and marketing design, Chicago area",
+  "lastChecked": "",
+  "found": 0,
+  "statusHistory": [
+    {
+      "date": "2026-11-10",
+      "status": "active",
+      "reason": "added at Joey's request"
+    }
+  ]
+}

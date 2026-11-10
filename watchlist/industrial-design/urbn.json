@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "urbn",
+  "company": "URBN (Anthropologie / Urban Outfitters Home)",
+  "programs": [
+    "ID"
+  ],
+  "status": "active",
+  "method": "search",
+  "sourceUrl": "",
+  "careersUrl": "https://homeoffice-na-urbn.icims.com/",
+  "segment": "Furniture and home goods",
+  "lastChecked": "",
+  "found": 0,
+  "statusHistory": [
+    {
+      "date": "2026-11-10",
+      "status": "active",
+      "reason": "added at Joey's request"
+    }
+  ]
+}

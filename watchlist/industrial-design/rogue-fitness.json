@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "rogue-fitness",
+  "company": "Rogue Fitness",
+  "programs": [
+    "ID"
+  ],
+  "status": "active",
+  "method": "search",
+  "sourceUrl": "",
+  "careersUrl": "https://www.roguefitness.com/about-us/join-our-team",
+  "segment": "Fitness equipment",
+  "lastChecked": "",
+  "found": 0,
+  "statusHistory": [
+    {
+      "date": "2026-11-10",
+      "status": "active",
+      "reason": "added at Joey's request"
+    }
+  ]
+}

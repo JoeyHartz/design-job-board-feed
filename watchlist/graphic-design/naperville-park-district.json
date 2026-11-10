@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "naperville-park-district",
+  "company": "Naperville Park District",
+  "programs": [
+    "GD"
+  ],
+  "status": "active",
+  "method": "search",
+  "sourceUrl": "",
+  "careersUrl": "https://napervilleparks.org/employment",
+  "segment": "Public agency marketing design",
+  "lastChecked": "",
+  "found": 0,
+  "statusHistory": [
+    {
+      "date": "2026-11-10",
+      "status": "active",
+      "reason": "added at Joey's request"
+    }
+  ]
+}

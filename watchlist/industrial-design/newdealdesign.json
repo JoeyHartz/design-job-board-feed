@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "newdealdesign",
+  "company": "NewDealDesign",
+  "programs": [
+    "ID"
+  ],
+  "status": "active",
+  "method": "bamboohr",
+  "sourceUrl": "https://mediadesign.bamboohr.com/careers/list",
+  "careersUrl": "https://mediadesign.bamboohr.com/jobs/",
+  "segment": "ID consultancy",
+  "lastChecked": "",
+  "found": 0,
+  "statusHistory": [
+    {
+      "date": "2026-11-10",
+      "status": "active",
+      "reason": "added at Joey's request"
+    }
+  ]
+}

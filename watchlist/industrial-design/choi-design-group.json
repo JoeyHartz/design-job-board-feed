@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "choi-design-group",
+  "company": "CHOI Design Group",
+  "programs": [
+    "ID"
+  ],
+  "status": "active",
+  "method": "search",
+  "sourceUrl": "",
+  "careersUrl": "https://choidesign.com/careers",
+  "segment": "Design consultancy",
+  "lastChecked": "",
+  "found": 0,
+  "statusHistory": [
+    {
+      "date": "2026-11-10",
+      "status": "active",
+      "reason": "added at Joey's request"
+    }
+  ]
+}

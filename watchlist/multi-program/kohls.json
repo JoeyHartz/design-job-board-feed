@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "kohls",
+  "company": "Kohl's",
+  "programs": [
+    "ID",
+    "GD"
+  ],
+  "status": "active",
+  "method": "search",
+  "sourceUrl": "",
+  "careersUrl": "https://careers.kohls.com/",
+  "segment": "Retail: product and marketing design",
+  "lastChecked": "",
+  "found": 0,
+  "statusHistory": [
+    {
+      "date": "2026-11-10",
+      "status": "active",
+      "reason": "added at Joey's request"
+    }
+  ]
+}

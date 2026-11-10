@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "jll",
+  "company": "JLL",
+  "programs": [
+    "GD"
+  ],
+  "status": "active",
+  "method": "search",
+  "sourceUrl": "",
+  "careersUrl": "https://www.jll.com/en-us/careers",
+  "segment": "Real estate marketing design, Chicago",
+  "lastChecked": "",
+  "found": 0,
+  "statusHistory": [
+    {
+      "date": "2026-11-10",
+      "status": "active",
+      "reason": "added at Joey's request"
+    }
+  ]
+}

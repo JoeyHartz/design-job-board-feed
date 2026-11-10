@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "newell-brands",
+  "company": "Newell Brands",
+  "programs": [
+    "ID"
+  ],
+  "status": "active",
+  "method": "search",
+  "sourceUrl": "",
+  "careersUrl": "https://careers.newellbrands.com/index",
+  "segment": "Consumer products",
+  "lastChecked": "",
+  "found": 0,
+  "statusHistory": [
+    {
+      "date": "2026-11-10",
+      "status": "active",
+      "reason": "added at Joey's request"
+    }
+  ]
+}

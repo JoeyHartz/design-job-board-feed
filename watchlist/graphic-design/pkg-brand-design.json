@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "pkg-brand-design",
+  "company": "PKG Brand Design",
+  "programs": [
+    "GD"
+  ],
+  "status": "active",
+  "method": "search",
+  "sourceUrl": "",
+  "careersUrl": "https://www.pkgbranding.com/careers-apply",
+  "segment": "Packaging and brand design, Chicago",
+  "lastChecked": "",
+  "found": 0,
+  "statusHistory": [
+    {
+      "date": "2026-11-10",
+      "status": "active",
+      "reason": "added at Joey's request"
+    }
+  ]
+}

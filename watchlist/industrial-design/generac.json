@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "generac",
+  "company": "Generac",
+  "programs": [
+    "ID"
+  ],
+  "status": "active",
+  "method": "search",
+  "sourceUrl": "",
+  "careersUrl": "https://careers.generac.com/en/",
+  "segment": "Generators and power equipment",
+  "lastChecked": "",
+  "found": 0,
+  "statusHistory": [
+    {
+      "date": "2026-11-10",
+      "status": "active",
+      "reason": "added at Joey's request"
+    }
+  ]
+}

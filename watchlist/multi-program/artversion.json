@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "artversion",
+  "company": "ArtVersion",
+  "programs": [
+    "GD",
+    "UX"
+  ],
+  "status": "active",
+  "method": "search",
+  "sourceUrl": "",
+  "careersUrl": "https://artversion.com/careers/",
+  "segment": "Branding and digital agency, Chicago",
+  "lastChecked": "",
+  "found": 0,
+  "statusHistory": [
+    {
+      "date": "2026-11-10",
+      "status": "active",
+      "reason": "added at Joey's request"
+    }
+  ]
+}

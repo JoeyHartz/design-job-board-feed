@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "topstep",
+  "company": "Topstep",
+  "programs": [
+    "UX"
+  ],
+  "status": "active",
+  "method": "greenhouse",
+  "sourceUrl": "https://boards-api.greenhouse.io/v1/boards/topsteptrader/jobs",
+  "careersUrl": "https://job-boards.greenhouse.io/topsteptrader",
+  "segment": "Fintech: product design, Chicago",
+  "lastChecked": "",
+  "found": 0,
+  "statusHistory": [
+    {
+      "date": "2026-11-10",
+      "status": "active",
+      "reason": "added at Joey's request"
+    }
+  ]
+}

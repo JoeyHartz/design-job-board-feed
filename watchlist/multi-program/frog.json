@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "frog",
+  "company": "frog",
+  "programs": [
+    "ID",
+    "UX"
+  ],
+  "status": "active",
+  "method": "search",
+  "sourceUrl": "",
+  "careersUrl": "https://www.frog.co/careers",
+  "segment": "Design consultancy",
+  "lastChecked": "",
+  "found": 0,
+  "statusHistory": [
+    {
+      "date": "2026-11-10",
+      "status": "active",
+      "reason": "added at Joey's request"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "ddb-chicago",
+  "company": "DDB Chicago",
+  "programs": [
+    "GD"
+  ],
+  "status": "active",
+  "method": "greenhouse",
+  "sourceUrl": "https://boards-api.greenhouse.io/v1/boards/ddbchicago/jobs",
+  "careersUrl": "https://job-boards.greenhouse.io/ddbchicago",
+  "segment": "Ad agency, Chicago",
+  "lastChecked": "",
+  "found": 0,
+  "statusHistory": [
+    {
+      "date": "2026-11-10",
+      "status": "active",
+      "reason": "added at Joey's request"
+    }
+  ]
+}

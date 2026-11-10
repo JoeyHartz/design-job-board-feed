@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "battelle",
+  "company": "Battelle",
+  "programs": [
+    "ID"
+  ],
+  "status": "active",
+  "method": "search",
+  "sourceUrl": "",
+  "careersUrl": "https://jobs.battelle.org/",
+  "segment": "Medical device and human factors design",
+  "lastChecked": "",
+  "found": 0,
+  "statusHistory": [
+    {
+      "date": "2026-11-10",
+      "status": "active",
+      "reason": "added at Joey's request"
+    }
+  ]
+}

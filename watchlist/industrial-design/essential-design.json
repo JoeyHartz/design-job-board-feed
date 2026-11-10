@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "essential-design",
+  "company": "Essential Design (PA Consulting)",
+  "programs": [
+    "ID"
+  ],
+  "status": "active",
+  "method": "search",
+  "sourceUrl": "",
+  "careersUrl": "https://www.paconsulting.com/careers/design-and-engineering",
+  "segment": "Product design consultancy",
+  "lastChecked": "",
+  "found": 0,
+  "statusHistory": [
+    {
+      "date": "2026-11-10",
+      "status": "active",
+      "reason": "added at Joey's request"
+    }
+  ]
+}

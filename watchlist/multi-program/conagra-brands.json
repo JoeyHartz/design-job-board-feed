@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "conagra-brands",
+  "company": "Conagra Brands",
+  "programs": [
+    "ID",
+    "GD"
+  ],
+  "status": "active",
+  "method": "search",
+  "sourceUrl": "",
+  "careersUrl": "https://careers.conagrabrands.com/chicago",
+  "segment": "In-house packaging and brand, Chicago",
+  "lastChecked": "",
+  "found": 0,
+  "statusHistory": [
+    {
+      "date": "2026-11-10",
+      "status": "active",
+      "reason": "added at Joey's request"
+    }
+  ]
+}

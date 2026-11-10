@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "loves-travel-stops",
+  "company": "Love's Travel Stops",
+  "programs": [
+    "GD"
+  ],
+  "status": "active",
+  "method": "search",
+  "sourceUrl": "",
+  "careersUrl": "https://jobs.loves.com/",
+  "segment": "In-house marketing design",
+  "lastChecked": "",
+  "found": 0,
+  "statusHistory": [
+    {
+      "date": "2026-11-10",
+      "status": "active",
+      "reason": "added at Joey's request"
+    }
+  ]
+}

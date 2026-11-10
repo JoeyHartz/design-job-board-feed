@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "national-presto-industries",
+  "company": "National Presto Industries",
+  "programs": [
+    "ID"
+  ],
+  "status": "active",
+  "method": "search",
+  "sourceUrl": "",
+  "careersUrl": "https://recruiting.paylocity.com/recruiting/jobs/All/7005f470-37bb-4adb-aa28-e2ca06060e6f/National-Presto-Industries",
+  "segment": "Small appliances",
+  "lastChecked": "",
+  "found": 0,
+  "statusHistory": [
+    {
+      "date": "2026-11-10",
+      "status": "active",
+      "reason": "added at Joey's request"
+    }
+  ]
+}

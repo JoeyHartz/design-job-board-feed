@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "grubhub",
+  "company": "Grubhub",
+  "programs": [
+    "UX"
+  ],
+  "status": "active",
+  "method": "search",
+  "sourceUrl": "",
+  "careersUrl": "https://careers.grubhub.com/",
+  "segment": "Software: product design, Chicago",
+  "lastChecked": "",
+  "found": 0,
+  "statusHistory": [
+    {
+      "date": "2026-11-10",
+      "status": "active",
+      "reason": "added at Joey's request"
+    }
+  ]
+}

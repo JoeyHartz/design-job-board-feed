@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "rush-street-interactive",
+  "company": "Rush Street Interactive",
+  "programs": [
+    "GD",
+    "UX"
+  ],
+  "status": "active",
+  "method": "search",
+  "sourceUrl": "",
+  "careersUrl": "https://www.rushstreetinteractive.com/careers",
+  "segment": "Online gaming, Chicago",
+  "lastChecked": "",
+  "found": 0,
+  "statusHistory": [
+    {
+      "date": "2026-11-10",
+      "status": "active",
+      "reason": "added at Joey's request"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "menasha",
+  "company": "Menasha",
+  "programs": [
+    "ID"
+  ],
+  "status": "active",
+  "method": "search",
+  "sourceUrl": "",
+  "careersUrl": "https://www.menasha.com/careers/",
+  "segment": "Structural packaging and displays",
+  "lastChecked": "",
+  "found": 0,
+  "statusHistory": [
+    {
+      "date": "2026-11-10",
+      "status": "active",
+      "reason": "added at Joey's request"
+    }
+  ]
+}

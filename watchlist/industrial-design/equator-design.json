@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "equator-design",
+  "company": "Equator Design (Chicago)",
+  "programs": [
+    "ID"
+  ],
+  "status": "active",
+  "method": "search",
+  "sourceUrl": "",
+  "careersUrl": "https://equator-design.com/about/careers/",
+  "segment": "Design consultancy, Chicago",
+  "lastChecked": "",
+  "found": 0,
+  "statusHistory": [
+    {
+      "date": "2026-11-10",
+      "status": "active",
+      "reason": "added at Joey's request"
+    }
+  ]
+}

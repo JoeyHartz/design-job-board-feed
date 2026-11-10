@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "accenture-song",
+  "company": "Accenture Song",
+  "programs": [
+    "GD",
+    "UX"
+  ],
+  "status": "active",
+  "method": "search",
+  "sourceUrl": "",
+  "careersUrl": "https://www.accenture.com/us-en/careers/explore-careers/area-of-interest/song-careers",
+  "segment": "Creative and digital agency",
+  "lastChecked": "",
+  "found": 0,
+  "statusHistory": [
+    {
+      "date": "2026-11-10",
+      "status": "active",
+      "reason": "added at Joey's request"
+    }
+  ]
+}

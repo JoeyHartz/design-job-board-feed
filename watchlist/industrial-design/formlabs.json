@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "formlabs",
+  "company": "Formlabs",
+  "programs": [
+    "ID"
+  ],
+  "status": "active",
+  "method": "search",
+  "sourceUrl": "",
+  "careersUrl": "https://careers.formlabs.com/",
+  "segment": "3D printers and materials",
+  "lastChecked": "",
+  "found": 0,
+  "statusHistory": [
+    {
+      "date": "2026-11-10",
+      "status": "active",
+      "reason": "added at Joey's request"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "sgs-and-co",
+  "company": "SGS & Co (formerly Schawk)",
+  "programs": [
+    "GD"
+  ],
+  "status": "active",
+  "method": "search",
+  "sourceUrl": "",
+  "careersUrl": "https://www.sgsco.com/careers",
+  "segment": "Packaging graphics and brand",
+  "lastChecked": "",
+  "found": 0,
+  "statusHistory": [
+    {
+      "date": "2026-11-10",
+      "status": "active",
+      "reason": "added at Joey's request"
+    }
+  ]
+}

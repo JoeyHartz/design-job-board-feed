@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "nextcapital",
+  "company": "NextCapital",
+  "programs": [
+    "UX"
+  ],
+  "status": "active",
+  "method": "search",
+  "sourceUrl": "",
+  "careersUrl": "https://www.goldmansachs.com/careers/index.html",
+  "segment": "Fintech: product design, Chicago",
+  "lastChecked": "",
+  "found": 0,
+  "statusHistory": [
+    {
+      "date": "2026-11-10",
+      "status": "active",
+      "reason": "added at Joey's request"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "uline",
+  "company": "Uline",
+  "programs": [
+    "GD",
+    "UX"
+  ],
+  "status": "active",
+  "method": "search",
+  "sourceUrl": "",
+  "careersUrl": "https://www.uline.jobs/",
+  "segment": "Catalog and digital design",
+  "lastChecked": "",
+  "found": 0,
+  "statusHistory": [
+    {
+      "date": "2026-11-10",
+      "status": "active",
+      "reason": "added at Joey's request"
+    }
+  ]
+}

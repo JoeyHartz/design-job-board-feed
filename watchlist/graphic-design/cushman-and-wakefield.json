@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "cushman-and-wakefield",
+  "company": "Cushman & Wakefield",
+  "programs": [
+    "GD"
+  ],
+  "status": "active",
+  "method": "search",
+  "sourceUrl": "",
+  "careersUrl": "https://www.cushmanwakefield.com/careers",
+  "segment": "Real estate marketing design",
+  "lastChecked": "",
+  "found": 0,
+  "statusHistory": [
+    {
+      "date": "2026-11-10",
+      "status": "active",
+      "reason": "added at Joey's request"
+    }
+  ]
+}

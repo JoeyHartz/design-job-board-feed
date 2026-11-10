@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "smart-design",
+  "company": "Smart Design",
+  "programs": [
+    "ID",
+    "UX"
+  ],
+  "status": "active",
+  "method": "search",
+  "sourceUrl": "",
+  "careersUrl": "https://smartdesignworldwide.com/jobs/",
+  "segment": "Design consultancy",
+  "lastChecked": "",
+  "found": 0,
+  "statusHistory": [
+    {
+      "date": "2026-11-10",
+      "status": "active",
+      "reason": "added at Joey's request"
+    }
+  ]
+}

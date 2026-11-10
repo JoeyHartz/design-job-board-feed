@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "saris",
+  "company": "Saris",
+  "programs": [
+    "ID"
+  ],
+  "status": "active",
+  "method": "search",
+  "sourceUrl": "",
+  "careersUrl": "https://saris.com/pages/career-opportunities-at-saris",
+  "segment": "Bike racks and fitness",
+  "lastChecked": "",
+  "found": 0,
+  "statusHistory": [
+    {
+      "date": "2026-11-10",
+      "status": "active",
+      "reason": "added at Joey's request"
+    }
+  ]
+}

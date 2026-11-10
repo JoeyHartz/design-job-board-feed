@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "deloitte",
+  "company": "Deloitte",
+  "programs": [
+    "UX"
+  ],
+  "status": "active",
+  "method": "search",
+  "sourceUrl": "",
+  "careersUrl": "https://apply.deloitte.com/en_US/careers",
+  "segment": "Consulting: digital and experience design",
+  "lastChecked": "",
+  "found": 0,
+  "statusHistory": [
+    {
+      "date": "2026-11-10",
+      "status": "active",
+      "reason": "added at Joey's request"
+    }
+  ]
+}

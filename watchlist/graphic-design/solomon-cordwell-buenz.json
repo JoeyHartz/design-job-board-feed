@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "solomon-cordwell-buenz",
+  "company": "Solomon Cordwell Buenz",
+  "programs": [
+    "GD"
+  ],
+  "status": "active",
+  "method": "search",
+  "sourceUrl": "",
+  "careersUrl": "https://scb.com/careers/",
+  "segment": "Architecture: environmental graphics, Chicago",
+  "lastChecked": "",
+  "found": 0,
+  "statusHistory": [
+    {
+      "date": "2026-11-10",
+      "status": "active",
+      "reason": "added at Joey's request"
+    }
+  ]
+}

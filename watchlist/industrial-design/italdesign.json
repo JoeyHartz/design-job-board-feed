@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "italdesign",
+  "company": "Italdesign",
+  "programs": [
+    "ID"
+  ],
+  "status": "active",
+  "method": "search",
+  "sourceUrl": "",
+  "careersUrl": "https://www.italdesign.it/en/work-with-us/",
+  "segment": "Automotive design studio",
+  "lastChecked": "",
+  "found": 0,
+  "statusHistory": [
+    {
+      "date": "2026-11-10",
+      "status": "active",
+      "reason": "added at Joey's request"
+    }
+  ]
+}

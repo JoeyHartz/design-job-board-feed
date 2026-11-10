@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "rightpoint",
+  "company": "Rightpoint",
+  "programs": [
+    "UX"
+  ],
+  "status": "active",
+  "method": "search",
+  "sourceUrl": "",
+  "careersUrl": "https://www.genpact.com/careers/experience",
+  "segment": "Digital agency, Chicago",
+  "lastChecked": "",
+  "found": 0,
+  "statusHistory": [
+    {
+      "date": "2026-11-10",
+      "status": "active",
+      "reason": "added at Joey's request"
+    }
+  ]
+}
