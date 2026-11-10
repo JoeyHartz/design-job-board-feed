@@ -15,7 +15,7 @@
   "url": "https://careers.steelcase.com/external/JobDescription?folderId=10686&source=Smart+Recruiter",
   "source": "Watchlist · Physical Design Internships",
   "note": "Office furniture; undergrad or grad in industrial, product or furniture design; portfolio and US work authorization required (no sponsorship).",
-  "status": "pending",
+  "status": "open",
   "firstSeen": "2026-11-10",
   "lastUpdated": "2026-11-10",
   "lastVerified": "2026-11-10",
@@ -26,6 +26,11 @@
       "date": "2026-11-10",
       "status": "pending",
       "reason": "added, waiting for approval"
+    },
+    {
+      "date": "2026-11-10",
+      "status": "open",
+      "reason": "approved by JoeyHartz"
     }
   ],
   "facts": {},
