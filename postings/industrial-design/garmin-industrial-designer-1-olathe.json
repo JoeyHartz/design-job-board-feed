@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "garmin-industrial-designer-1-olathe",
+  "title": "Industrial Designer 1",
+  "company": "Garmin",
+  "programs": [
+    "ID"
+  ],
+  "level": "Entry-level",
+  "term": "Full-time",
+  "location": "Olathe, KS",
+  "region": "Midwest",
+  "pay": "",
+  "deadline": "",
+  "url": "https://careers.garmin.com/jobs/18646?lang=en-us",
+  "source": "Watchlist · Just ID Jobs",
+  "note": "Consumer electronics and wearables at Garmin HQ; GPA 3.0+ expected.",
+  "status": "pending",
+  "firstSeen": "2026-11-10",
+  "lastUpdated": "2026-11-10",
+  "lastVerified": "2026-11-10",
+  "closedAt": "",
+  "closedReason": "",
+  "statusHistory": [
+    {
+      "date": "2026-11-10",
+      "status": "pending",
+      "reason": "added, waiting for approval"
+    }
+  ],
+  "facts": {
+    "summary": "Entry-level ID role designing wearables, cycling, outdoor and marine devices.",
+    "duties": "Explores design options, models in SolidWorks and OnShape, and builds appearance models with the prototype shop.",
+    "requirements": "ID or product design degree, strong hand sketching, GPA 3.0 or higher.",
+    "apply": "Apply through Garmin's iCIMS link on the careers page."
+  },
+  "previousStatus": "",
+  "errorDetail": ""
+}

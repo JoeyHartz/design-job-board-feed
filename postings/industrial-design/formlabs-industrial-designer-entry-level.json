@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "formlabs-industrial-designer-entry-level",
+  "title": "Industrial Designer - Entry Level",
+  "company": "Formlabs",
+  "programs": [
+    "ID"
+  ],
+  "level": "Entry-level",
+  "term": "Full-time",
+  "location": "Boston, MA",
+  "region": "Elsewhere in US",
+  "pay": "$90,000–$120,000 a year plus equity",
+  "deadline": "",
+  "url": "https://careers.formlabs.com/job/8249032/apply/?gh_jid=8249032",
+  "source": "Watchlist · Formlabs",
+  "note": "3D printer hardware; needs an ID degree and a portfolio.",
+  "status": "pending",
+  "firstSeen": "2026-11-10",
+  "lastUpdated": "2026-11-10",
+  "lastVerified": "2026-11-10",
+  "closedAt": "",
+  "closedReason": "",
+  "statusHistory": [
+    {
+      "date": "2026-11-10",
+      "status": "pending",
+      "reason": "added, waiting for approval"
+    }
+  ],
+  "facts": {
+    "summary": "Entry-level industrial designer on the hardware team for Formlabs 3D printers.",
+    "duties": "Takes products from concept to production: sketching, prototyping, user testing, CAD and cosmetic specs.",
+    "requirements": "ID degree, strong sketching, 3D CAD, KeyShot and Adobe CC skills, and some feel for manufacturing constraints.",
+    "apply": "Apply on Formlabs' Greenhouse page and include a portfolio."
+  },
+  "previousStatus": "",
+  "errorDetail": ""
+}

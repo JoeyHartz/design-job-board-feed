@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "id": "design-central-product-industrial-designer",
+  "title": "Product/Industrial Designer",
+  "company": "Design Central",
+  "programs": [
+    "ID"
+  ],
+  "level": "Entry-level",
+  "term": "Full-time",
+  "location": "Columbus, OH (in person)",
+  "region": "Midwest",
+  "pay": "",
+  "deadline": "",
+  "url": "https://designcentral.com/careers",
+  "source": "Watchlist · Design Central",
+  "note": "Product design consultancy; 0–4 years of experience, apply by email with a portfolio.",
+  "status": "pending",
+  "firstSeen": "2026-11-10",
+  "lastUpdated": "2026-11-10",
+  "lastVerified": "2026-11-10",
+  "closedAt": "",
+  "closedReason": "",
+  "statusHistory": [
+    {
+      "date": "2026-11-10",
+      "status": "pending",
+      "reason": "added, waiting for approval"
+    }
+  ],
+  "facts": {
+    "apply": "Send resume and portfolio by email (no separate job page; the listing anchor is a placeholder)"
+  },
+  "previousStatus": "",
+  "errorDetail": ""
+}

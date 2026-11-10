@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "garmin-industrial-designer-1-portland",
+  "title": "Industrial Designer 1",
+  "company": "Garmin",
+  "programs": [
+    "ID"
+  ],
+  "level": "Entry-level",
+  "term": "Full-time",
+  "location": "Portland, OR",
+  "region": "Elsewhere in US",
+  "pay": "",
+  "deadline": "",
+  "url": "https://careers.garmin.com/jobs/18738?lang=en-us",
+  "source": "Watchlist · Just ID Jobs",
+  "note": "Consumer electronics and wearables; GPA 3.0+ expected.",
+  "status": "pending",
+  "firstSeen": "2026-11-10",
+  "lastUpdated": "2026-11-10",
+  "lastVerified": "2026-11-10",
+  "closedAt": "",
+  "closedReason": "",
+  "statusHistory": [
+    {
+      "date": "2026-11-10",
+      "status": "pending",
+      "reason": "added, waiting for approval"
+    }
+  ],
+  "facts": {
+    "summary": "Same Designer 1 role at Garmin's Portland office.",
+    "duties": "Creates concepts and CAD for consumer devices and works with engineering and the prototype team.",
+    "requirements": "ID or product design degree, sketching, SolidWorks/OnShape/KeyShot/Adobe, GPA 3.0 or higher.",
+    "apply": "Apply through Garmin's iCIMS link on the careers page."
+  },
+  "previousStatus": "",
+  "errorDetail": ""
+}

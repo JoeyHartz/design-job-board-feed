@@ -2,7 +2,7 @@
 
 Open internships, co-ops and entry-level jobs for Industrial Design, Graphic Design and UI/UX students in the School of Art & Design at the University of Illinois Urbana-Champaign.
 
-**172 open jobs** · updated Nov 10, 2026 · download as [CSV](postings.csv) or [JSON](postings.json)
+**171 open jobs** · updated Nov 10, 2026 · download as [CSV](postings.csv) or [JSON](postings.json)
 
 > Every job here was checked against our criteria and approved by a person before it was listed, but jobs can close without notice. Always confirm the details on the employer's site before you apply.
 
@@ -10,7 +10,7 @@ Open internships, co-ops and entry-level jobs for Industrial Design, Graphic Des
 
 - [Closing soon](#closing-soon) (6)
 - [New this week](#new-this-week) (35)
-- **[Industrial Design](#industrial-design)** (104): [Chicago area](#industrial-design--chicago-area) (3) · [Midwest](#industrial-design--midwest) (33) · [Elsewhere in US](#industrial-design--elsewhere-in-us) (43) · [International](#industrial-design--international) (25)
+- **[Industrial Design](#industrial-design)** (103): [Chicago area](#industrial-design--chicago-area) (3) · [Midwest](#industrial-design--midwest) (33) · [Elsewhere in US](#industrial-design--elsewhere-in-us) (42) · [International](#industrial-design--international) (25)
 - **[Graphic Design](#graphic-design)** (26): [Chicago area](#graphic-design--chicago-area) (2) · [Midwest](#graphic-design--midwest) (6) · [Remote](#graphic-design--remote) (3) · [Elsewhere in US](#graphic-design--elsewhere-in-us) (13) · [International](#graphic-design--international) (2)
 - **[UI/UX & Digital Product](#uiux--digital-product)** (36): [Chicago area](#uiux--digital-product--chicago-area) (1) · [Midwest](#uiux--digital-product--midwest) (10) · [Remote](#uiux--digital-product--remote) (4) · [Elsewhere in US](#uiux--digital-product--elsewhere-in-us) (21)
 - **[ID + GD](#id--gd)** (6): [Midwest](#id--gd--midwest) (4) · [International](#id--gd--international) (2)
@@ -214,7 +214,7 @@ _Footwear design; asks for 1+ year of experience, and internships and school pro
 
 ## Industrial Design
 
-104 jobs: [Chicago area](#industrial-design--chicago-area) (3) · [Midwest](#industrial-design--midwest) (33) · [Elsewhere in US](#industrial-design--elsewhere-in-us) (43) · [International](#industrial-design--international) (25)
+103 jobs: [Chicago area](#industrial-design--chicago-area) (3) · [Midwest](#industrial-design--midwest) (33) · [Elsewhere in US](#industrial-design--elsewhere-in-us) (42) · [International](#industrial-design--international) (25)
 
 ### Industrial Design · Chicago area
 
@@ -507,11 +507,6 @@ Disney Consumer Products · Internship · Spring 2027 (January–June)
 Orlando area, FL (on-site) · Pay: $23/hr · Found Oct 23  
 _3D character modeling for consumer products and 3D printing; juniors/seniors in animation, fine arts, graphic design or related; portfolio required._
 
-**[Industrial Design Intern](https://careers-humanscale.icims.com/jobs/4133/industrial-design-intern/job)**  
-Humanscale · Internship  
-New York, NY · Pay: $22/hr · Found Oct 23  
-_Ergonomic office furniture and products; requires at least 3 completed years of an industrial design degree._
-
 **[Numeric Footwear Design Apprentice](https://jobs.newbalance.com/global/en/apply?jobSeqNo=NEBAGLOBALR39666EXTERNALENGLOBAL&utm_medium=phenom-feeds&step=1&stepname=personalInformation)**  
 New Balance · Entry-level · Apprenticeship  
 Long Beach, CA (hybrid) · Pay: $33/hr · Found Oct 23  
@@ -573,7 +568,7 @@ _Consumer brands; housing stipend or relocation support._
 
 **[Industrial Designer (early career)](https://lemanoosh.com/jobs/industrial-designer-baltimore-maryland/)**  
 Key Tech · Entry-level · Full-time  
-Baltimore, MD · Pay: not listed · Found Oct 22  
+Baltimore, MD · Pay: Interns $24–$28/hour; full-time $65,000–$95,000 a year · Found Oct 22  
 _Product development consultancy, medical and consumer devices._
 
 **[Industrial Design Intern](https://lemanoosh.com/jobs/industrial-design-intern-35/)**  
