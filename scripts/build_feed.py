@@ -885,6 +885,17 @@ class Build:
             if not p.exists() or p.read_text(encoding="utf-8") != text:
                 p.write_text(text, encoding="utf-8")
                 changed = True
+        md_name = self.board.paths.get("feedMarkdown")
+        if md_name:
+            # The public page changes daily (date, closing soon), so it doesn't count as a feed change.
+            if str(Path(__file__).resolve().parent) not in sys.path:
+                sys.path.insert(0, str(Path(__file__).resolve().parent))
+            import feed_markdown
+            text = feed_markdown.render(self.feed, self.board.cfg, self.today,
+                                        Path(self.board.paths["feedCsv"]).name, Path(self.board.paths["feedJson"]).name)
+            p = self.root / md_name
+            if not p.exists() or p.read_text(encoding="utf-8") != text:
+                p.write_text(text, encoding="utf-8")
         return changed
 
     # -- log ------------------------------------------------------------------

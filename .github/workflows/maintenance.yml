@@ -70,7 +70,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898237+github-actions[bot]@users.noreply.github.com"
-          git add -A postings logs reports postings.csv postings.json
+          git add -A postings logs reports postings.csv postings.json postings.md
           if git diff --cached --quiet; then
             echo "Nothing to commit."
             exit 0

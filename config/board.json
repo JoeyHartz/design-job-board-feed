@@ -33,7 +33,8 @@
     "pending": "run/pending.json",
     "buildResult": "run/last-build.json",
     "feedCsv": "postings.csv",
-    "feedJson": "postings.json"
+    "feedJson": "postings.json",
+    "feedMarkdown": "postings.md"
   },
   "feed": {
     "csvColumns": [
@@ -65,7 +66,17 @@
       ["note", "note"],
       ["link", "url"]
     ],
-    "jsonIndent": 1
+    "jsonIndent": 1,
+    "markdown": {
+      "title": "ID + GD Job Board",
+      "intro": "Open internships, co-ops and entry-level jobs for Industrial Design, Graphic Design and UI/UX students in the School of Art & Design at the University of Illinois Urbana-Champaign.",
+      "notice": "Every job here was checked against our criteria and approved by a person before it was listed, but jobs can close without notice. Always confirm the details on the employer's site before you apply.",
+      "newDays": 7,
+      "about": [
+        "This list is updated every weekday. Jobs are found on company career sites and design job boards, checked against the board's criteria (design is the main job; internship, co-op or 0–2 years of experience), and approved by a person before they appear. Jobs are removed when their deadline passes or the posting closes.",
+        "Questions or a job to suggest? Contact the School of Art & Design professional preparation office."
+      ]
+    }
   },
   "thresholds": {
     "staleDays": 60,

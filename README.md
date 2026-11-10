@@ -4,7 +4,8 @@ Open internships, co-ops and entry-level roles for Industrial Design, Graphic De
 
 **The published feed:**
 
-- `postings.csv` and `postings.json` list open postings only. Columns: Program, Title, Company, Type, Term, Location, Region, Pay, Apply by, Found, Note, Link.
+- **[Browse the open jobs →](postings.md)** `postings.md` is the readable page: jobs closing soon, new this week, then every job by program and region, with a table of contents.
+- `postings.csv` and `postings.json` list the same open postings as data. Columns: Program, Title, Company, Type, Term, Location, Region, Pay, Apply by, Found, Note, Link.
 - Listings are gathered automatically and can close without notice. Confirm details on the employer's site before applying.
 
 This repo is the only source of data. Every posting and every watchlist entry is one small JSON file. A GitHub Action rebuilds the feed whenever a file changes, and once a day.
@@ -95,7 +96,7 @@ The daily routine never adds, removes, renames or changes the status of watchlis
 3. **Find duplicates:** same id, same job URL, or same company + title + term. A shared general careers page only counts when the titles also match. Duplicates are merged into one feed entry with the programs combined; the most recently committed file wins, and fields that disagree are logged. No file is edited or deleted.
 4. **Build the feed:** postings with status `open`, whose deadline is empty or today or later, and that aren't stale. Dates use Chicago time. Newest `firstSeen` first, then company. A posting is **stale** when its link is on linkedin.com, it has no deadline, and more than 60 days have passed since the later of `firstSeen` and `lastUpdated`. It stays open in its folder but leaves the feed.
 5. **Safety stop:** if more than 20% of the previous feed would disappear for any reason other than a passed deadline or the stale rule, the build writes no feed files and moves nothing, writes the log, and fails. The Action opens an issue. After checking the log, a person can override it from the Actions tab: run **Build feed** by hand with **force** ticked.
-6. **Write** `postings.csv`, `postings.json` and the log.
+6. **Write** `postings.csv`, `postings.json`, the public page `postings.md` (from `scripts/feed_markdown.py`; its title and text are in `feed.markdown` in `config/board.json`) and the log.
 
 **Possible off-scope hints** flag a new posting for a quick look by hand, never removing it: the link mentions engineering but the title doesn't, the title says senior, lead, manager, director, principal, head of or staff ("art director" is allowed), or the pay or note says unpaid. The word lists are in `scopeFlags` in `config/board.json`.
 
