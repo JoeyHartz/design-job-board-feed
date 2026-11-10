@@ -2,17 +2,17 @@
 
 Open internships, co-ops and entry-level jobs for Industrial Design, Graphic Design and UI/UX students in the School of Art & Design at the University of Illinois Urbana-Champaign.
 
-**171 open jobs** · updated Nov 10, 2026 · download as [CSV](postings.csv) or [JSON](postings.json)
+**200 open jobs** · updated Nov 10, 2026 · download as [CSV](postings.csv) or [JSON](postings.json)
 
 > Every job here was checked against our criteria and approved by a person before it was listed, but jobs can close without notice. Always confirm the details on the employer's site before you apply.
 
 ## Contents
 
-- [Closing soon](#closing-soon) (6)
-- [New this week](#new-this-week) (35)
-- **[Industrial Design](#industrial-design)** (103): [Chicago area](#industrial-design--chicago-area) (3) · [Midwest](#industrial-design--midwest) (33) · [Elsewhere in US](#industrial-design--elsewhere-in-us) (42) · [International](#industrial-design--international) (25)
-- **[Graphic Design](#graphic-design)** (26): [Chicago area](#graphic-design--chicago-area) (2) · [Midwest](#graphic-design--midwest) (6) · [Remote](#graphic-design--remote) (3) · [Elsewhere in US](#graphic-design--elsewhere-in-us) (13) · [International](#graphic-design--international) (2)
-- **[UI/UX & Digital Product](#uiux--digital-product)** (36): [Chicago area](#uiux--digital-product--chicago-area) (1) · [Midwest](#uiux--digital-product--midwest) (10) · [Remote](#uiux--digital-product--remote) (4) · [Elsewhere in US](#uiux--digital-product--elsewhere-in-us) (21)
+- [Closing soon](#closing-soon) (9)
+- [New this week](#new-this-week) (64)
+- **[Industrial Design](#industrial-design)** (124): [Chicago area](#industrial-design--chicago-area) (3) · [Midwest](#industrial-design--midwest) (36) · [Elsewhere in US](#industrial-design--elsewhere-in-us) (59) · [International](#industrial-design--international) (26)
+- **[Graphic Design](#graphic-design)** (31): [Chicago area](#graphic-design--chicago-area) (4) · [Midwest](#graphic-design--midwest) (9) · [Remote](#graphic-design--remote) (3) · [Elsewhere in US](#graphic-design--elsewhere-in-us) (13) · [International](#graphic-design--international) (2)
+- **[UI/UX & Digital Product](#uiux--digital-product)** (39): [Chicago area](#uiux--digital-product--chicago-area) (1) · [Midwest](#uiux--digital-product--midwest) (11) · [Remote](#uiux--digital-product--remote) (4) · [Elsewhere in US](#uiux--digital-product--elsewhere-in-us) (23)
 - **[ID + GD](#id--gd)** (6): [Midwest](#id--gd--midwest) (4) · [International](#id--gd--international) (2)
 - [About this list](#about-this-list)
 
@@ -23,8 +23,11 @@ Jobs with an apply-by date in the next 14 days, soonest first.
 | Apply by | Job | Company | Program |
 |---|---|---|---|
 | Nov 10 | [Industrial Design Internship (Spring 2027)](https://lemanoosh.com/jobs/internship-spring-2027-aarhus-denmark/) | Swift Creatives | Industrial Design |
+| Nov 11 | [Transportation Design Intern](https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Portland-OR-US/Transportation-Design-Intern_DT-20434) | Daimler Truck North America | Industrial Design |
+| Nov 12 | [Industrial Design Intern](https://fiskars.wd3.myworkdayjobs.com/FiskarsGroup/job/Middleton/Industrial-Design-Intern-_JR-009428) | Fiskars | Industrial Design |
 | Nov 13 | [2027 Summer Graphic Design Internship](https://www.wayup.com/i-Banking-j-2027-Summer-Graphic-Design-Internship-KeyBank-380186093006550/) | KeyBank | Graphic Design |
 | Nov 15 | [Product Design Student Intern, Summer 2027](https://jobs.lever.co/theathletic/b542eab4-22f0-4130-ba24-c8c04acc16f2) | The Athletic (New York Times) | UI/UX & Digital Product |
+| Nov 20 | [Industrial Design Intern – Product Design Cabin](https://ag.wd3.myworkdayjobs.com/Airbus/job/Hamburg-Area/Industrial-Design-Intern---Product-Design-Cabin-Hamburg--d-f-m-_JR10454867) | Airbus | Industrial Design |
 | Nov 22 | [FOX News Media Internship – Graphic Design (Spring 2027)](https://www.wayup.com/i-Broadcast-Media-j-Spring-2027-FOX-News-Media-Internship-Program-Graphic-Design-New-York-FOX-Corporation-837858992313442/) | FOX Corporation | Graphic Design |
 | Nov 23 | [Exhibit Design Intern, Winter/Spring 2027](https://deckelmoneypenny.com/job/exhibit-design-intern-winter-spring-2027/) | Deckel & Moneypenny | Industrial Design |
 | Nov 23 | [Scientific Illustrator (16-week internship)](https://www.builtinchicago.org/job/scientific-illustrator/11756726) | Field Museum | Graphic Design |
@@ -35,20 +38,165 @@ Jobs with an apply-by date in the next 14 days, soonest first.
 
 Added in the last 7 days, newest first.
 
+**[Industrial Design Intern – Product Design Cabin](https://ag.wd3.myworkdayjobs.com/Airbus/job/Hamburg-Area/Industrial-Design-Intern---Product-Design-Cabin-Hamburg--d-f-m-_JR10454867)**  
+Airbus · Industrial Design · Internship · Six months from March 2027  
+Hamburg, Germany · Pay: €750 a month · **Apply by Nov 20, 2026** · Found Nov 10  
+_Aircraft cabin design; needs current enrollment, apply by Nov 20._
+
+**[Summer Intern - User Experience (UX)](https://allegion.wd5.myworkdayjobs.com/careers/job/Golden-CO/Summer-Intern---User-Experience--UX-_JR37673-1)**  
+Allegion · UI/UX & Digital Product · Internship · Summer 2027  
+Golden, CO (hybrid) · Pay: $25–$26/hour · Found Nov 10  
+_UX for security and access products; no visa sponsorship._
+
+**[Graphic Design Intern](https://andersen.wd12.myworkdayjobs.com/Andersen_External_Career_Site/job/Bayport-MN/Graphic-Design-Intern_R-8369)**  
+Andersen · Graphic Design · Internship · Summer 2027  
+Bayport, MN · Pay: $22–$24/hour · Found Nov 10  
+_Windows and doors brand; summer intern cohort._
+
+**[Colour Designer 1, Footwear](https://jobs.lever.co/arcteryx.com/d13eb8f4-c1a1-42a5-b27c-6326ac92a8a5)**  
+Arc'teryx · Industrial Design · Entry-level · Full-time  
+Portland, OR (on-site) · Pay: $70,000–$92,000 a year · Found Nov 10  
+_Footwear color and materials (CMF) for outdoor footwear._
+
+**[Creative Designer, Junior](https://biscodentalproducts.applytojob.com/apply/8p8gcuDEGY/Creative-Designer-Junior)**  
+BISCO Inc. · Graphic Design · Entry-level · Full-time  
+Schaumburg, IL (hybrid) · Pay: $55,000–$64,000 a year · Found Nov 10  
+_Dental products company; marketing and packaging design._
+
+**[Creative Graphic Designer](https://careers.jobscore.com/careers/champrosports/jobs/creative-graphic-designer-b02ZvwtfHlBPBjNaSSsh97)**  
+CHAMPRO Sports · Graphic Design · Entry-level · Full-time  
+Bannockburn, IL (hybrid) · Pay: $25–$28/hour · Found Nov 10  
+_Sports uniforms and equipment graphics; asks for 2+ years of experience._
+
+**[Transportation Design Intern](https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Portland-OR-US/Transportation-Design-Intern_DT-20434)**  
+Daimler Truck North America · Industrial Design · Internship · Summer 2027  
+Portland, OR (on-site) · Pay: $21–$29/hour plus housing and transportation stipend · **Apply by Nov 11, 2026** · Found Nov 10  
+_Truck design studio; for transportation design students or recent grads, closes Nov 11._
+
+**[3D Design Intern](https://davidyurman.wd1.myworkdayjobs.com/DavidYurmanCareers/job/New-York-NY/XMLNAME-3D-Design-Intern_R-101152-1)**  
+David Yurman · Industrial Design · Internship · Summer 2027 (June 7 – August 6)  
+New York, NY (hybrid) · Pay: $25/hour · Found Nov 10  
+_3D modeling for jewelry design._
+
+**[Product/Industrial Designer](https://designcentral.com/careers)**  
+Design Central · Industrial Design · Entry-level · Full-time  
+Columbus, OH (in person) · Pay: not listed · Found Nov 10  
+_Product design consultancy; 0–4 years of experience, apply by email with a portfolio._
+
 **[Graphic Design & Communications Intern, Spring 2027](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Lake-Buena-Vista-FL-USA/Graphic-Design---Communications-Intern--Spring-2027_10158440)**  
 Disney (Walt Disney World Resort) · Graphic Design · Internship · January–June 2027, about 40 hours/week  
 Lake Buena Vista, FL · on-site · Pay: $22.50/hour · Found Nov 10  
 _Marketing materials, logos and branding; enrolled students, portfolio link required, own Orlando-area housing._
+
+**[Associate Designer, Cook & Dine](https://earthbound.bamboohr.com/careers/281)**  
+Earthbound Brands · Industrial Design · Entry-level · Full-time  
+New York, NY (hybrid) · Pay: $60,000–$70,000 a year · Found Nov 10  
+_Housewares design for retail private-label brands; 1–2 years of experience._
+
+**[Industrial Design Intern](https://fiskars.wd3.myworkdayjobs.com/FiskarsGroup/job/Middleton/Industrial-Design-Intern-_JR-009428)**  
+Fiskars · Industrial Design · Internship · Summer 2027  
+Middleton, WI (hybrid) · Pay: not listed · **Apply by Nov 12, 2026** · Found Nov 10  
+_Consumer products studio; for current ID/product design undergrads, apply by Nov 12._
 
 **[Junior Designer](https://apply.ford.com/en/sites/CX_1/job/70670/apply/email)**  
 Ford · Industrial Design · Entry-level · Full-time  
 Long Beach, CA · hybrid (4+ days on-site) · Pay: not listed · Found Nov 10  
 _Customer-experience concepts and prototypes; degree in industrial or transportation design plus some internship or entry-level experience._
 
+**[Industrial Designer - Entry Level](https://careers.formlabs.com/job/8249032/apply/?gh_jid=8249032)**  
+Formlabs · Industrial Design · Entry-level · Full-time  
+Boston, MA · Pay: $90,000–$120,000 a year plus equity · Found Nov 10  
+_3D printer hardware; needs an ID degree and a portfolio._
+
+**[Industrial Designer 1](https://careers.garmin.com/jobs/18738?lang=en-us)**  
+Garmin · Industrial Design · Entry-level · Full-time  
+Portland, OR · Pay: not listed · Found Nov 10  
+_Consumer electronics and wearables; GPA 3.0+ expected._
+
+**[Associate Designer Hardgoods](https://llbean.wd1.myworkdayjobs.com/LLBean_Careers/job/Freeport-ME/Associate-Designer-Hardgoods_JR11239)**  
+L.L.Bean · Industrial Design · Entry-level · Full-time  
+Freeport, ME (hybrid) · Pay: $65,800–$82,200 a year · Found Nov 10  
+_Outdoor hard goods; asks for 1–3 years of experience and relocation to Maine._
+
+**[Industrial Designer I](https://job-boards.greenhouse.io/laskoproducts/jobs/5272267007)**  
+Lasko Products · Industrial Design · Entry-level · Full-time  
+West Chester, PA · Pay: not listed · Found Nov 10  
+_Home comfort appliances (fans, heaters); 0–2 years of experience._
+
+**[Footwear Color Designer I](https://newbalance.wd1.myworkdayjobs.com/Careers/job/Lawrence-MA-Corp/Footwear-Color-Designer-I_R41517)**  
+New Balance · Industrial Design · Entry-level · Full-time  
+Lawrence, MA (hybrid) · Pay: $86,800–$137,200 a year · Found Nov 10  
+_Footwear color and materials; asks for 1–3 years of experience._
+
+**[Digital Animation Intern](https://polaris.wd5.myworkdayjobs.com/PolarisJobs/job/Medina-MN-USA/Digital-Animation-Intern_R31552)**  
+Polaris · Graphic Design · Internship  
+Medina, MN · Pay: $19.50–$30.75/hour · Found Nov 10  
+_2D/3D animation and visualization in the Polaris design studio; must be a U.S. person._
+
+**[Digital Product Design Intern](https://polaris.wd5.myworkdayjobs.com/PolarisJobs/job/Novi-MI-USA/Digital-Product-Design-Intern_R31548)**  
+Polaris · UI/UX & Digital Product · Internship  
+Novi, MI or Medina, MN (on-site) · Pay: $19.50–$30.75/hour · Found Nov 10  
+_Digital UX/UI for in-vehicle screens, apps and web; ID majors also accepted._
+
+**[Designer I Running Footwear - TEMP](https://puma.wd502.myworkdayjobs.com/Jobs_at_Puma/job/PUMA-Boston-International-Office/Designer-I-Running-Footwear---TEMP_R44068)**  
+PUMA · Industrial Design · Entry-level · Six-month temp, may become permanent  
+Somerville, MA (on-site) · Pay: $25–$30/hour · Found Nov 10  
+_Running footwear design; temporary role that may convert._
+
+**[Associate Industrial Designer](https://revelyst.wd1.myworkdayjobs.com/EXTERNAL_REVELYST/job/Irvine-CA/Associate-Industrial-Designer_R0013444)**  
+Revelyst (Giro) · Industrial Design · Entry-level · Full-time  
+Irvine, CA · Pay: $65,000–$75,000 a year · Found Nov 10  
+_Cycling helmets and gear; 0–2 years of experience._
+
+**[Junior Graphic Designer](https://roguefitness.wd1.myworkdayjobs.com/RogueFitness_External_Careers/job/Columbus-Ohio/Junior-Graphic-Designer_R-102974)**  
+Rogue Fitness · Graphic Design · Entry-level · Full-time  
+Columbus, OH (on-site) · Pay: not listed · Found Nov 10  
+_Fitness equipment brand; asks for 1–3 years of experience._
+
+**[Spring 2027: CMF Industrial Design Co-op (January through June)](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4722306006)**  
+SharkNinja · Industrial Design · Co-op · January–June 2027  
+Needham, MA (on-site) · Pay: $28–$34/hour · Found Nov 10  
+_Color, materials and finish for home appliances._
+
+**[Summer 2027: Industrial Design Intern (May through August)](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4720355006)**  
+SharkNinja · Industrial Design · Internship · May–August 2027  
+Needham, MA (on-site) · Pay: $28–$34/hour · Found Nov 10  
+_Industrial design for home appliances._
+
+**[Industrial Design Engineering Intern – Summer 2027](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Industrial-Design-Engineering-Intern---Summer-2027_REQ-1000052666)**  
+Stanley Black & Decker · Industrial Design · Internship · Summer 2027  
+Towson, MD · Pay: $38,600–$62,200 annualized · Found Nov 10  
+_Industrial design for power tools despite the title; for ID majors, no visa sponsorship._
+
 **[2027 Summer Industrial Design Intern](https://careers.steelcase.com/external/JobDescription?folderId=10686&source=Smart+Recruiter)**  
 Steelcase · Industrial Design · Internship · May–August 2027 (possible extension)  
 Grand Rapids, MI · on-site · Pay: Competitive (rate not listed) · Found Nov 10  
 _Office furniture; undergrad or grad in industrial, product or furniture design; portfolio and US work authorization required (no sponsorship)._
+
+**[Summer 2027 Internship - Interaction Design - Washington](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Redmond-Washington/Summer-2027-Internship---Interaction-Design---Washington_R572870)**  
+Stryker · UI/UX & Digital Product · Internship · Summer 2027  
+Redmond, WA (on-site) · Pay: $20–$35/hour plus housing or stipend · Found Nov 10  
+_Interaction design for medical technology products._
+
+**[Junior Designer, Men's Footwear](https://job-boards.greenhouse.io/tecovas/jobs/8756968002)**  
+Tecovas · Industrial Design · Entry-level · Full-time  
+Austin, TX (on-site) · Pay: $65,000–$70,000 a year · Found Nov 10  
+_Western boots and footwear; must live in or move to Austin._
+
+**[2027 Summer Internship, Design (Apparel and Footwear)](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Design-%28Apparel-and-Footwear%29-MD-21230/1434389000/)**  
+Under Armour · Industrial Design · Internship · Summer 2027  
+Baltimore, MD (hybrid or in office) · Pay: not listed · Found Nov 10  
+_Footwear and apparel design internship; applications reviewed on a rolling basis._
+
+**[Footwear Designer I, Basketball](https://careers.underarmour.com/job/Baltimore-Footwear-Designer-I%2C-Basketball-MD-21230/1420795700/)**  
+Under Armour · Industrial Design · Entry-level · Full-time  
+Baltimore, MD (hybrid) · Pay: $65,000–$90,000 a year · Found Nov 10  
+_Basketball footwear design; 1+ years of experience._
+
+**[Associate Industrial Designer - Lacrosse](https://newbalance.wd1.myworkdayjobs.com/Warrior_Careers/job/Shelby-Township-MI---Warrior-Headquarters/Associate-Industrial-Designer--Lacrosse_R41397)**  
+Warrior Sports · Industrial Design · Entry-level · Full-time  
+Shelby Township, MI · Pay: not listed · Found Nov 10  
+_Lacrosse equipment (sporting goods); asks for 1–3 years of experience._
 
 **[Internship - 2027 Undergraduate 3M Brand Design Intern (SIBG)](https://3m.wd1.myworkdayjobs.com/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-3M-Brand-Design-Intern---Safety---Industrial-Business-Group--SIBG-_R01172458)**  
 3M · Graphic Design · Internship · Summer 2027  
@@ -214,7 +362,7 @@ _Footwear design; asks for 1+ year of experience, and internships and school pro
 
 ## Industrial Design
 
-103 jobs: [Chicago area](#industrial-design--chicago-area) (3) · [Midwest](#industrial-design--midwest) (33) · [Elsewhere in US](#industrial-design--elsewhere-in-us) (42) · [International](#industrial-design--international) (25)
+124 jobs: [Chicago area](#industrial-design--chicago-area) (3) · [Midwest](#industrial-design--midwest) (36) · [Elsewhere in US](#industrial-design--elsewhere-in-us) (59) · [International](#industrial-design--international) (26)
 
 ### Industrial Design · Chicago area
 
@@ -237,10 +385,25 @@ _Audio products; undergrad and grad students, portfolio required._
 
 ### Industrial Design · Midwest
 
+**[Product/Industrial Designer](https://designcentral.com/careers)**  
+Design Central · Entry-level · Full-time  
+Columbus, OH (in person) · Pay: not listed · Found Nov 10  
+_Product design consultancy; 0–4 years of experience, apply by email with a portfolio._
+
+**[Industrial Design Intern](https://fiskars.wd3.myworkdayjobs.com/FiskarsGroup/job/Middleton/Industrial-Design-Intern-_JR-009428)**  
+Fiskars · Internship · Summer 2027  
+Middleton, WI (hybrid) · Pay: not listed · **Apply by Nov 12, 2026** · Found Nov 10  
+_Consumer products studio; for current ID/product design undergrads, apply by Nov 12._
+
 **[2027 Summer Industrial Design Intern](https://careers.steelcase.com/external/JobDescription?folderId=10686&source=Smart+Recruiter)**  
 Steelcase · Internship · May–August 2027 (possible extension)  
 Grand Rapids, MI · on-site · Pay: Competitive (rate not listed) · Found Nov 10  
 _Office furniture; undergrad or grad in industrial, product or furniture design; portfolio and US work authorization required (no sponsorship)._
+
+**[Associate Industrial Designer - Lacrosse](https://newbalance.wd1.myworkdayjobs.com/Warrior_Careers/job/Shelby-Township-MI---Warrior-Headquarters/Associate-Industrial-Designer--Lacrosse_R41397)**  
+Warrior Sports · Entry-level · Full-time  
+Shelby Township, MI · Pay: not listed · Found Nov 10  
+_Lacrosse equipment (sporting goods); asks for 1–3 years of experience._
 
 **[Colors, Materials & Finishes (CMF) Industrial Design Intern](https://careers.haworth.com/job/Holland-Colors-Materials-Finishes-%28CMF%29-Industrial-Design-Intern-MI-49423/1446335800/)**  
 Haworth · Internship · Summer 2027 (12 weeks, May–Aug)  
@@ -402,10 +565,95 @@ _Medical devices. Sketching, prototyping, CAD and user research; must still be e
 
 ### Industrial Design · Elsewhere in US
 
+**[Colour Designer 1, Footwear](https://jobs.lever.co/arcteryx.com/d13eb8f4-c1a1-42a5-b27c-6326ac92a8a5)**  
+Arc'teryx · Entry-level · Full-time  
+Portland, OR (on-site) · Pay: $70,000–$92,000 a year · Found Nov 10  
+_Footwear color and materials (CMF) for outdoor footwear._
+
+**[Transportation Design Intern](https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Portland-OR-US/Transportation-Design-Intern_DT-20434)**  
+Daimler Truck North America · Internship · Summer 2027  
+Portland, OR (on-site) · Pay: $21–$29/hour plus housing and transportation stipend · **Apply by Nov 11, 2026** · Found Nov 10  
+_Truck design studio; for transportation design students or recent grads, closes Nov 11._
+
+**[3D Design Intern](https://davidyurman.wd1.myworkdayjobs.com/DavidYurmanCareers/job/New-York-NY/XMLNAME-3D-Design-Intern_R-101152-1)**  
+David Yurman · Internship · Summer 2027 (June 7 – August 6)  
+New York, NY (hybrid) · Pay: $25/hour · Found Nov 10  
+_3D modeling for jewelry design._
+
+**[Associate Designer, Cook & Dine](https://earthbound.bamboohr.com/careers/281)**  
+Earthbound Brands · Entry-level · Full-time  
+New York, NY (hybrid) · Pay: $60,000–$70,000 a year · Found Nov 10  
+_Housewares design for retail private-label brands; 1–2 years of experience._
+
 **[Junior Designer](https://apply.ford.com/en/sites/CX_1/job/70670/apply/email)**  
 Ford · Entry-level · Full-time  
 Long Beach, CA · hybrid (4+ days on-site) · Pay: not listed · Found Nov 10  
 _Customer-experience concepts and prototypes; degree in industrial or transportation design plus some internship or entry-level experience._
+
+**[Industrial Designer - Entry Level](https://careers.formlabs.com/job/8249032/apply/?gh_jid=8249032)**  
+Formlabs · Entry-level · Full-time  
+Boston, MA · Pay: $90,000–$120,000 a year plus equity · Found Nov 10  
+_3D printer hardware; needs an ID degree and a portfolio._
+
+**[Industrial Designer 1](https://careers.garmin.com/jobs/18738?lang=en-us)**  
+Garmin · Entry-level · Full-time  
+Portland, OR · Pay: not listed · Found Nov 10  
+_Consumer electronics and wearables; GPA 3.0+ expected._
+
+**[Associate Designer Hardgoods](https://llbean.wd1.myworkdayjobs.com/LLBean_Careers/job/Freeport-ME/Associate-Designer-Hardgoods_JR11239)**  
+L.L.Bean · Entry-level · Full-time  
+Freeport, ME (hybrid) · Pay: $65,800–$82,200 a year · Found Nov 10  
+_Outdoor hard goods; asks for 1–3 years of experience and relocation to Maine._
+
+**[Industrial Designer I](https://job-boards.greenhouse.io/laskoproducts/jobs/5272267007)**  
+Lasko Products · Entry-level · Full-time  
+West Chester, PA · Pay: not listed · Found Nov 10  
+_Home comfort appliances (fans, heaters); 0–2 years of experience._
+
+**[Footwear Color Designer I](https://newbalance.wd1.myworkdayjobs.com/Careers/job/Lawrence-MA-Corp/Footwear-Color-Designer-I_R41517)**  
+New Balance · Entry-level · Full-time  
+Lawrence, MA (hybrid) · Pay: $86,800–$137,200 a year · Found Nov 10  
+_Footwear color and materials; asks for 1–3 years of experience._
+
+**[Designer I Running Footwear - TEMP](https://puma.wd502.myworkdayjobs.com/Jobs_at_Puma/job/PUMA-Boston-International-Office/Designer-I-Running-Footwear---TEMP_R44068)**  
+PUMA · Entry-level · Six-month temp, may become permanent  
+Somerville, MA (on-site) · Pay: $25–$30/hour · Found Nov 10  
+_Running footwear design; temporary role that may convert._
+
+**[Associate Industrial Designer](https://revelyst.wd1.myworkdayjobs.com/EXTERNAL_REVELYST/job/Irvine-CA/Associate-Industrial-Designer_R0013444)**  
+Revelyst (Giro) · Entry-level · Full-time  
+Irvine, CA · Pay: $65,000–$75,000 a year · Found Nov 10  
+_Cycling helmets and gear; 0–2 years of experience._
+
+**[Spring 2027: CMF Industrial Design Co-op (January through June)](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4722306006)**  
+SharkNinja · Co-op · January–June 2027  
+Needham, MA (on-site) · Pay: $28–$34/hour · Found Nov 10  
+_Color, materials and finish for home appliances._
+
+**[Summer 2027: Industrial Design Intern (May through August)](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4720355006)**  
+SharkNinja · Internship · May–August 2027  
+Needham, MA (on-site) · Pay: $28–$34/hour · Found Nov 10  
+_Industrial design for home appliances._
+
+**[Industrial Design Engineering Intern – Summer 2027](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Industrial-Design-Engineering-Intern---Summer-2027_REQ-1000052666)**  
+Stanley Black & Decker · Internship · Summer 2027  
+Towson, MD · Pay: $38,600–$62,200 annualized · Found Nov 10  
+_Industrial design for power tools despite the title; for ID majors, no visa sponsorship._
+
+**[Junior Designer, Men's Footwear](https://job-boards.greenhouse.io/tecovas/jobs/8756968002)**  
+Tecovas · Entry-level · Full-time  
+Austin, TX (on-site) · Pay: $65,000–$70,000 a year · Found Nov 10  
+_Western boots and footwear; must live in or move to Austin._
+
+**[2027 Summer Internship, Design (Apparel and Footwear)](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Design-%28Apparel-and-Footwear%29-MD-21230/1434389000/)**  
+Under Armour · Internship · Summer 2027  
+Baltimore, MD (hybrid or in office) · Pay: not listed · Found Nov 10  
+_Footwear and apparel design internship; applications reviewed on a rolling basis._
+
+**[Footwear Designer I, Basketball](https://careers.underarmour.com/job/Baltimore-Footwear-Designer-I%2C-Basketball-MD-21230/1420795700/)**  
+Under Armour · Entry-level · Full-time  
+Baltimore, MD (hybrid) · Pay: $65,000–$90,000 a year · Found Nov 10  
+_Basketball footwear design; 1+ years of experience._
 
 **[Footwear Design Intern (Summer 2027)](https://job-boards.greenhouse.io/keenfootwear/jobs/4751551005)**  
 KEEN Footwear · Internship · Summer 2027 (June 14–August 20)  
@@ -613,6 +861,11 @@ _Second-year coursework completed; apply by email with resume and portfolio._
 
 ### Industrial Design · International
 
+**[Industrial Design Intern – Product Design Cabin](https://ag.wd3.myworkdayjobs.com/Airbus/job/Hamburg-Area/Industrial-Design-Intern---Product-Design-Cabin-Hamburg--d-f-m-_JR10454867)**  
+Airbus · Internship · Six months from March 2027  
+Hamburg, Germany · Pay: €750 a month · **Apply by Nov 20, 2026** · Found Nov 10  
+_Aircraft cabin design; needs current enrollment, apply by Nov 20._
+
 **[Design Intern](https://lemanoosh.com/jobs/design-intern-4/)**  
 Muuto · Internship · At least 4 months from February 1, 2027  
 Copenhagen, Denmark · Pay: not listed · Found Nov 5  
@@ -742,9 +995,19 @@ _Power tools and outdoor equipment; posting is in German._
 
 ## Graphic Design
 
-26 jobs: [Chicago area](#graphic-design--chicago-area) (2) · [Midwest](#graphic-design--midwest) (6) · [Remote](#graphic-design--remote) (3) · [Elsewhere in US](#graphic-design--elsewhere-in-us) (13) · [International](#graphic-design--international) (2)
+31 jobs: [Chicago area](#graphic-design--chicago-area) (4) · [Midwest](#graphic-design--midwest) (9) · [Remote](#graphic-design--remote) (3) · [Elsewhere in US](#graphic-design--elsewhere-in-us) (13) · [International](#graphic-design--international) (2)
 
 ### Graphic Design · Chicago area
+
+**[Creative Designer, Junior](https://biscodentalproducts.applytojob.com/apply/8p8gcuDEGY/Creative-Designer-Junior)**  
+BISCO Inc. · Entry-level · Full-time  
+Schaumburg, IL (hybrid) · Pay: $55,000–$64,000 a year · Found Nov 10  
+_Dental products company; marketing and packaging design._
+
+**[Creative Graphic Designer](https://careers.jobscore.com/careers/champrosports/jobs/creative-graphic-designer-b02ZvwtfHlBPBjNaSSsh97)**  
+CHAMPRO Sports · Entry-level · Full-time  
+Bannockburn, IL (hybrid) · Pay: $25–$28/hour · Found Nov 10  
+_Sports uniforms and equipment graphics; asks for 2+ years of experience._
 
 **[Entry-Level Graphic Designer – Marketing & Print](https://www.mediabistro.com/jobs/3539867741-trope-publishing-co-is-hiring-entry-level-graphic-designer-marketing-print)**  
 Trope Publishing Co. · Entry-level · Full-time  
@@ -759,6 +1022,21 @@ _For current students or recent grads in scientific illustration, fine arts, gra
 [Back to top](#id--gd-job-board)
 
 ### Graphic Design · Midwest
+
+**[Graphic Design Intern](https://andersen.wd12.myworkdayjobs.com/Andersen_External_Career_Site/job/Bayport-MN/Graphic-Design-Intern_R-8369)**  
+Andersen · Internship · Summer 2027  
+Bayport, MN · Pay: $22–$24/hour · Found Nov 10  
+_Windows and doors brand; summer intern cohort._
+
+**[Digital Animation Intern](https://polaris.wd5.myworkdayjobs.com/PolarisJobs/job/Medina-MN-USA/Digital-Animation-Intern_R31552)**  
+Polaris · Internship  
+Medina, MN · Pay: $19.50–$30.75/hour · Found Nov 10  
+_2D/3D animation and visualization in the Polaris design studio; must be a U.S. person._
+
+**[Junior Graphic Designer](https://roguefitness.wd1.myworkdayjobs.com/RogueFitness_External_Careers/job/Columbus-Ohio/Junior-Graphic-Designer_R-102974)**  
+Rogue Fitness · Entry-level · Full-time  
+Columbus, OH (on-site) · Pay: not listed · Found Nov 10  
+_Fitness equipment brand; asks for 1–3 years of experience._
 
 **[Internship - 2027 Undergraduate 3M Brand Design Intern (SIBG)](https://3m.wd1.myworkdayjobs.com/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-3M-Brand-Design-Intern---Safety---Industrial-Business-Group--SIBG-_R01172458)**  
 3M · Internship · Summer 2027  
@@ -896,7 +1174,7 @@ _Print and stationery company. Entry level; design degree expected._
 
 ## UI/UX & Digital Product
 
-36 jobs: [Chicago area](#uiux--digital-product--chicago-area) (1) · [Midwest](#uiux--digital-product--midwest) (10) · [Remote](#uiux--digital-product--remote) (4) · [Elsewhere in US](#uiux--digital-product--elsewhere-in-us) (21)
+39 jobs: [Chicago area](#uiux--digital-product--chicago-area) (1) · [Midwest](#uiux--digital-product--midwest) (11) · [Remote](#uiux--digital-product--remote) (4) · [Elsewhere in US](#uiux--digital-product--elsewhere-in-us) (23)
 
 ### UI/UX & Digital Product · Chicago area
 
@@ -908,6 +1186,11 @@ _12-week program designing software for Shure audio products; undergrad and grad
 [Back to top](#id--gd-job-board)
 
 ### UI/UX & Digital Product · Midwest
+
+**[Digital Product Design Intern](https://polaris.wd5.myworkdayjobs.com/PolarisJobs/job/Novi-MI-USA/Digital-Product-Design-Intern_R31548)**  
+Polaris · Internship  
+Novi, MI or Medina, MN (on-site) · Pay: $19.50–$30.75/hour · Found Nov 10  
+_Digital UX/UI for in-vehicle screens, apps and web; ID majors also accepted._
 
 **[Internship - 2027 Undergraduate 3M UX/UI Design Intern (SIBG)](https://3m.wd1.myworkdayjobs.com/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-3M-UX-UI-Design-Intern---Safety---Industrial-Business-Group--SIBG-_R01172459)**  
 3M · Internship · Summer 2027  
@@ -986,6 +1269,16 @@ _Sports media app. Juniors and seniors preferred; Figma required._
 [Back to top](#id--gd-job-board)
 
 ### UI/UX & Digital Product · Elsewhere in US
+
+**[Summer Intern - User Experience (UX)](https://allegion.wd5.myworkdayjobs.com/careers/job/Golden-CO/Summer-Intern---User-Experience--UX-_JR37673-1)**  
+Allegion · Internship · Summer 2027  
+Golden, CO (hybrid) · Pay: $25–$26/hour · Found Nov 10  
+_UX for security and access products; no visa sponsorship._
+
+**[Summer 2027 Internship - Interaction Design - Washington](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Redmond-Washington/Summer-2027-Internship---Interaction-Design---Washington_R572870)**  
+Stryker · Internship · Summer 2027  
+Redmond, WA (on-site) · Pay: $20–$35/hour plus housing or stipend · Found Nov 10  
+_Interaction design for medical technology products._
 
 **[UX Designer Intern – Summer 2027](https://www.wayup.com/i-Technology-j-UX-Designer-Intern-Summer-2027-Amazon-367965568582926/)**  
 Amazon · Internship · Summer 2027 (up to 12 weeks)  
