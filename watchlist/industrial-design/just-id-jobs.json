@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "just-id-jobs",
+  "company": "Just ID Jobs",
+  "programs": [
+    "ID"
+  ],
+  "status": "active",
+  "method": "justidjobs",
+  "sourceUrl": "https://justidjobs.com/jobs?level=internship%2Centry",
+  "careersUrl": "https://justidjobs.com/jobs",
+  "segment": "Design job board · industrial design roles",
+  "lastChecked": "",
+  "found": 0,
+  "statusHistory": [
+    {
+      "date": "2026-11-10",
+      "status": "active",
+      "reason": "added at Joey's request (internship and entry-level listings)"
+    }
+  ]
+}

@@ -132,3 +132,23 @@ class RetryTests(unittest.TestCase):
             with self.assertRaises(urllib.error.HTTPError):
                 fetch_jobs.http("https://x")
         self.assertEqual(len(calls), 1)
+
+
+class JustIdJobsTests(unittest.TestCase):
+    PAGE = ('<html><script>self.__next_f.push([1,"'
+            '{\\"id\\":\\"11111111-1111-1111-1111-111111111111\\",\\"title\\":\\"ID Intern\\",\\"company\\":\\"Acme\\",'
+            '\\"location\\":\\"Chicago, IL\\",\\"level\\":\\"internship\\",\\"status\\":\\"live\\",\\"expired_at\\":null,'
+            '\\"apply_url\\":\\"https://acme.com/jobs/1\\",\\"date_posted\\":\\"2026-11-01\\"}'
+            '{\\"id\\":\\"22222222-2222-2222-2222-222222222222\\",\\"title\\":\\"Senior Designer\\",\\"company\\":\\"Acme\\",'
+            '\\"location\\":\\"Remote\\",\\"level\\":\\"senior\\",\\"status\\":\\"live\\",\\"apply_url\\":\\"https://acme.com/jobs/2\\"}'
+            '{\\"id\\":\\"33333333-3333-3333-3333-333333333333\\",\\"title\\":\\"Junior Designer\\",\\"company\\":\\"Beta\\",'
+            '\\"location\\":\\"NYC\\",\\"level\\":\\"entry\\",\\"status\\":\\"live\\",\\"apply_url\\":null,\\"created_at\\":\\"2026-11-02T10:00:00\\"}'
+            '"])</script></html>')
+
+    def test_levels_from_link_and_fallback_url(self):
+        with mock.patch.object(fetch_jobs, "http_text", return_value=self.PAGE):
+            rows = list(fetch_jobs.justidjobs("https://justidjobs.com/jobs?level=internship%2Centry"))
+        self.assertEqual([r[0] for r in rows], ["ID Intern", "Junior Designer"])
+        self.assertEqual(rows[0][3], "https://acme.com/jobs/1")
+        self.assertEqual(rows[1][3], "https://justidjobs.com/jobs/33333333-3333-3333-3333-333333333333")
+        self.assertEqual(rows[1][2], "2026-11-02")

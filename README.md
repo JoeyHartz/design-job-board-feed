@@ -79,7 +79,7 @@ To fix it, open the file in `_errors/`, correct the problem named in `errorDetai
 
 ### Change a watchlist entry
 
-Each entry has a `method` that tells the routine how to check it: `greenhouse`, `lever`, `ashby`, `bamboohr`, `smartrecruiters` or `workday` (a company job system with a public job list in `sourceUrl`, read by `scripts/fetch_jobs.py`; for Workday, `sourceUrl` is the careers site root such as `https://generalmotors.wd5.myworkdayjobs.com/Careers_GM`), `page` (a careers page in `sourceUrl`), `board` (a job board with its own steps in `ROUTINE.md`), or `search` (a web search by company name).
+Each entry has a `method` that tells the routine how to check it: `greenhouse`, `lever`, `ashby`, `bamboohr`, `smartrecruiters` or `workday` (a company job system with a public job list in `sourceUrl`, read by `scripts/fetch_jobs.py`; for Workday, `sourceUrl` is the careers site root such as `https://generalmotors.wd5.myworkdayjobs.com/Careers_GM`), `justidjobs` (the Just ID Jobs board, whose page carries its job data; read by `scripts/fetch_jobs.py`, keeping the levels named in the link), `page` (a careers page in `sourceUrl`), `board` (a job board with its own steps in `ROUTINE.md`), or `search` (a web search by company name).
 
 - **Turn an entry off:** set `"status": "inactive"` and add a `statusHistory` line with the reason. The build moves it to `_inactive/`. Set `"active"` to turn it back on.
 - **Change how it's checked:** edit `method`, `sourceUrl` or `careersUrl`.

@@ -28,6 +28,8 @@ sourceUrl formats:
   bamboohr         https://<company>.bamboohr.com/careers/list
   smartrecruiters  https://api.smartrecruiters.com/v1/companies/<company>/postings
   workday          https://<tenant>.<wdN>.myworkdayjobs.com/<site>   (the public careers site URL)
+  justidjobs       https://justidjobs.com/jobs?level=internship%2Centry  (levels in the link are kept;
+                   the URL shown is the employer apply link the board gives, often LinkedIn)
 """
 
 from __future__ import annotations
@@ -138,7 +140,52 @@ def workday(url, search="", cap=2000):
             break
 
 
-METHODS = {"greenhouse": greenhouse, "lever": lever, "ashby": ashby, "bamboohr": bamboohr,
+def http_text(url):
+    """GET a web page as text, with the same retries as http()."""
+    req = urllib.request.Request(url, headers={"User-Agent": UA, "Accept": "text/html"})
+    for attempt in range(3):
+        try:
+            with urllib.request.urlopen(req, timeout=TIMEOUT) as resp:
+                return resp.read().decode("utf-8", errors="replace")
+        except urllib.error.HTTPError as exc:
+            if exc.code < 500 and exc.code != 429 or attempt == 2:
+                raise
+        except (urllib.error.URLError, TimeoutError, ConnectionError):
+            if attempt == 2:
+                raise
+        time.sleep(3 * (attempt + 1))
+
+
+def justidjobs_jobs(page_html):
+    """Every job object embedded in a justidjobs.com page (the site ships its data in the HTML)."""
+    text = page_html.replace('\\"', '"')
+    dec, jobs = json.JSONDecoder(), {}
+    for m in re.finditer(r'\{"id":"[0-9a-f]{8}-[0-9a-f-]{27}","title"', text):
+        try:
+            obj, _ = dec.raw_decode(text, m.start())
+        except ValueError:
+            continue
+        if isinstance(obj, dict):
+            jobs[obj["id"]] = obj
+    return list(jobs.values())
+
+
+def justidjobs(url):
+    """https://justidjobs.com/jobs?level=internship%2Centry : keeps the levels named in the link."""
+    from urllib.parse import parse_qs
+    levels = {x.strip() for v in parse_qs(urlsplit(url).query).get("level", []) for x in v.split(",") if x.strip()}
+    base = f"{urlsplit(url).scheme}://{urlsplit(url).netloc}"
+    for j in justidjobs_jobs(http_text(url)):
+        if j.get("status", "live") != "live" or j.get("expired_at"):
+            continue
+        if levels and j.get("level") not in levels:
+            continue
+        link = j.get("apply_url") or f"{base}/jobs/{j['id']}"
+        yield (j.get("title", ""), j.get("location") or j.get("place") or "",
+               (j.get("date_posted") or j.get("created_at") or "")[:10], link)
+
+
+METHODS = {"greenhouse": greenhouse, "lever": lever, "ashby": ashby, "bamboohr": bamboohr, "justidjobs": justidjobs,
            "smartrecruiters": smartrecruiters, "workday": workday}
 
 
