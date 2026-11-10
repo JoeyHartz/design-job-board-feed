@@ -15,17 +15,22 @@
   "url": "https://www.builtinseattle.com/job/graphic-design-internship-spring-2027/11102698",
   "source": "Built In",
   "note": "Chicago-headquartered company; posting is remote.",
-  "status": "open",
+  "status": "closed",
   "firstSeen": "2026-10-22",
-  "lastUpdated": "2026-10-22",
+  "lastUpdated": "2026-11-10",
   "lastVerified": "2026-10-22",
-  "closedAt": "",
-  "closedReason": "",
+  "closedAt": "2026-11-10",
+  "closedReason": "no longer listed (re-checked 2026-11-10)",
   "statusHistory": [
     {
       "date": "2026-11-05",
       "status": "open",
       "reason": "imported from artifact"
+    },
+    {
+      "date": "2026-11-10",
+      "status": "closed",
+      "reason": "no longer listed (re-checked 2026-11-10)"
     }
   ],
   "facts": {},

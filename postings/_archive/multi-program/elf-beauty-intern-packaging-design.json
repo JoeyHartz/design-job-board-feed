@@ -16,17 +16,22 @@
   "url": "https://jobs.lever.co/elfbeauty/8ce110a9-75ff-44a1-8ef2-2d9aa570aeee",
   "source": "e.l.f. Beauty careers (Lever)",
   "note": "Cosmetics packaging concepts and graphics; for graduating seniors in graphic, packaging or industrial design; portfolio required.",
-  "status": "open",
+  "status": "closed",
   "firstSeen": "2026-10-26",
-  "lastUpdated": "2026-10-26",
+  "lastUpdated": "2026-11-10",
   "lastVerified": "2026-10-26",
-  "closedAt": "",
-  "closedReason": "",
+  "closedAt": "2026-11-10",
+  "closedReason": "no longer listed (link check 2026-11-09, confirmed 2026-11-10)",
   "statusHistory": [
     {
       "date": "2026-11-05",
       "status": "open",
       "reason": "imported from artifact"
+    },
+    {
+      "date": "2026-11-10",
+      "status": "closed",
+      "reason": "no longer listed (link check 2026-11-09, confirmed 2026-11-10)"
     }
   ],
   "facts": {},
