@@ -15,7 +15,7 @@
   "url": "https://builtin.com/job/graphic-design-intern/11658786",
   "source": "Built In",
   "note": "Paid 10-week internship on Fossil's Global Creative team for graphic/communication design students graduating Spring 2027–Spring 2028; portfolio required.",
-  "status": "pending",
+  "status": "open",
   "firstSeen": "2026-11-11",
   "lastUpdated": "2026-11-11",
   "lastVerified": "2026-11-11",
@@ -26,6 +26,11 @@
       "date": "2026-11-11",
       "status": "pending",
       "reason": "added, waiting for approval"
+    },
+    {
+      "date": "2026-11-11",
+      "status": "open",
+      "reason": "approved by JoeyHartz"
     }
   ],
   "facts": {

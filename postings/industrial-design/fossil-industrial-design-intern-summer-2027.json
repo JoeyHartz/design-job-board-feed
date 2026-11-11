@@ -15,7 +15,7 @@
   "url": "https://builtin.com/job/industrial-design-intern/11658761",
   "source": "Watchlist · Just ID Jobs",
   "note": "Paid summer watch-design internship for ID/product design majors graduating Spring 2027–Spring 2028; portfolio required.",
-  "status": "pending",
+  "status": "open",
   "firstSeen": "2026-11-11",
   "lastUpdated": "2026-11-11",
   "lastVerified": "2026-11-11",
@@ -26,6 +26,11 @@
       "date": "2026-11-11",
       "status": "pending",
       "reason": "added, waiting for approval"
+    },
+    {
+      "date": "2026-11-11",
+      "status": "open",
+      "reason": "approved by JoeyHartz"
     }
   ],
   "facts": {

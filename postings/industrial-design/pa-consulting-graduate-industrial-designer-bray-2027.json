@@ -15,7 +15,7 @@
   "url": "https://jobs.smartrecruiters.com/PAConsulting/744000157847011",
   "source": "Watchlist · Essential Design",
   "note": "Graduate-level role at PA's Irish design studio near Dublin; a bachelor's in industrial design (or one underway) is required.",
-  "status": "pending",
+  "status": "open",
   "firstSeen": "2026-11-11",
   "lastUpdated": "2026-11-11",
   "lastVerified": "2026-11-11",
@@ -26,6 +26,11 @@
       "date": "2026-11-11",
       "status": "pending",
       "reason": "added, waiting for approval"
+    },
+    {
+      "date": "2026-11-11",
+      "status": "open",
+      "reason": "approved by JoeyHartz"
     }
   ],
   "facts": {

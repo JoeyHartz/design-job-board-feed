@@ -15,7 +15,7 @@
   "url": "https://apply.workable.com/naked-wolfe/jobs/view/A50EE1AB83",
   "source": "Watchlist · Just ID Jobs",
   "note": "Asks for 1–2 years in footwear or a strong footwear-focused graduate portfolio; on-site five days a week.",
-  "status": "pending",
+  "status": "open",
   "firstSeen": "2026-11-11",
   "lastUpdated": "2026-11-11",
   "lastVerified": "2026-11-11",
@@ -26,6 +26,11 @@
       "date": "2026-11-11",
       "status": "pending",
       "reason": "added, waiting for approval"
+    },
+    {
+      "date": "2026-11-11",
+      "status": "open",
+      "reason": "approved by JoeyHartz"
     }
   ],
   "facts": {

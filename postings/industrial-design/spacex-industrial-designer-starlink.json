@@ -15,7 +15,7 @@
   "url": "https://boards.greenhouse.io/spacex/jobs/8570369002?gh_jid=8570369002",
   "source": "Watchlist · Just ID Jobs",
   "note": "Consumer hardware design for Starlink; requires 1+ year of ID experience and US-person status (ITAR).",
-  "status": "pending",
+  "status": "open",
   "firstSeen": "2026-11-11",
   "lastUpdated": "2026-11-11",
   "lastVerified": "2026-11-11",
@@ -26,6 +26,11 @@
       "date": "2026-11-11",
       "status": "pending",
       "reason": "added, waiting for approval"
+    },
+    {
+      "date": "2026-11-11",
+      "status": "open",
+      "reason": "approved by JoeyHartz"
     }
   ],
   "facts": {

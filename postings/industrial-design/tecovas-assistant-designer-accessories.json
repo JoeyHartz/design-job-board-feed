@@ -15,7 +15,7 @@
   "url": "https://job-boards.greenhouse.io/tecovas/jobs/8932467002",
   "source": "Watchlist · Just ID Jobs",
   "note": "Assistant-level design role for bags, belts, small leather goods, hats and gifting at a western boot and leather goods brand.",
-  "status": "pending",
+  "status": "open",
   "firstSeen": "2026-11-11",
   "lastUpdated": "2026-11-11",
   "lastVerified": "2026-11-11",
@@ -26,6 +26,11 @@
       "date": "2026-11-11",
       "status": "pending",
       "reason": "added, waiting for approval"
+    },
+    {
+      "date": "2026-11-11",
+      "status": "open",
+      "reason": "approved by JoeyHartz"
     }
   ],
   "facts": {

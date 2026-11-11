@@ -15,7 +15,7 @@
   "url": "https://wellfound.com/jobs/5020044-structural-designer-i",
   "source": "Watchlist · Just ID Jobs",
   "note": "Structural packaging design at a corrugated box plant; corrugated experience preferred, not required.",
-  "status": "pending",
+  "status": "open",
   "firstSeen": "2026-11-11",
   "lastUpdated": "2026-11-11",
   "lastVerified": "2026-11-11",
@@ -26,6 +26,11 @@
       "date": "2026-11-11",
       "status": "pending",
       "reason": "added, waiting for approval"
+    },
+    {
+      "date": "2026-11-11",
+      "status": "open",
+      "reason": "approved by JoeyHartz"
     }
   ],
   "facts": {

@@ -15,7 +15,7 @@
   "url": "https://www.careers.ford.com/en/job/dearborn/industrial-designer-components/48560/95066978448",
   "source": "Watchlist · Ford",
   "note": "Vehicle interior and component design in Ford's Dearborn studios. Asks for 1+ year of design experience and a PDF portfolio.",
-  "status": "pending",
+  "status": "open",
   "firstSeen": "2026-11-11",
   "lastUpdated": "2026-11-11",
   "lastVerified": "2026-11-11",
@@ -26,6 +26,11 @@
       "date": "2026-11-11",
       "status": "pending",
       "reason": "added, waiting for approval"
+    },
+    {
+      "date": "2026-11-11",
+      "status": "open",
+      "reason": "approved by JoeyHartz"
     }
   ],
   "facts": {

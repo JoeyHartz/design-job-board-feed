@@ -15,7 +15,7 @@
   "url": "https://www.lvmh.com/en/join-us/our-job-offers/CHAU01834",
   "source": "Watchlist · Chaumet",
   "note": "High-jewelry design studio internship in Paris starting 3 Jan 2027; posting is in French and a portfolio is mandatory.",
-  "status": "pending",
+  "status": "open",
   "firstSeen": "2026-11-11",
   "lastUpdated": "2026-11-11",
   "lastVerified": "2026-11-11",
@@ -26,6 +26,11 @@
       "date": "2026-11-11",
       "status": "pending",
       "reason": "added, waiting for approval"
+    },
+    {
+      "date": "2026-11-11",
+      "status": "open",
+      "reason": "approved by JoeyHartz"
     }
   ],
   "facts": {

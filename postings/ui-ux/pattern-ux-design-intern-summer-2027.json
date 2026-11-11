@@ -15,7 +15,7 @@
   "url": "https://jobs.lever.co/pattern/c125d285-71d1-4af5-9ed2-b1f8884f2a2d",
   "source": "Web search",
   "note": "E-commerce software UX internship for juniors or seniors in design, product design or UX with 1-2 UX case studies.",
-  "status": "pending",
+  "status": "open",
   "firstSeen": "2026-11-11",
   "lastUpdated": "2026-11-11",
   "lastVerified": "2026-11-11",
@@ -26,6 +26,11 @@
       "date": "2026-11-11",
       "status": "pending",
       "reason": "added, waiting for approval"
+    },
+    {
+      "date": "2026-11-11",
+      "status": "open",
+      "reason": "approved by JoeyHartz"
     }
   ],
   "facts": {
