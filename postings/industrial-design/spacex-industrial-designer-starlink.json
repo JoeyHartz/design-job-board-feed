@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "spacex-industrial-designer-starlink",
+  "title": "Industrial Designer (Starlink)",
+  "company": "SpaceX",
+  "programs": [
+    "ID"
+  ],
+  "level": "Entry-level",
+  "term": "Full-time",
+  "location": "Bastrop, TX · on-site",
+  "region": "Elsewhere in US",
+  "pay": "",
+  "deadline": "",
+  "url": "https://boards.greenhouse.io/spacex/jobs/8570369002?gh_jid=8570369002",
+  "source": "Watchlist · Just ID Jobs",
+  "note": "Consumer hardware design for Starlink; requires 1+ year of ID experience and US-person status (ITAR).",
+  "status": "pending",
+  "firstSeen": "2026-11-11",
+  "lastUpdated": "2026-11-11",
+  "lastVerified": "2026-11-11",
+  "closedAt": "",
+  "closedReason": "",
+  "statusHistory": [
+    {
+      "date": "2026-11-11",
+      "status": "pending",
+      "reason": "added, waiting for approval"
+    }
+  ],
+  "facts": {
+    "summary": "Industrial designer creating Starlink consumer products from concept to production.",
+    "duties": "Ideate and prototype quickly, solve ergonomic and usability problems, deliver surface models and renderings, work with engineering through production.",
+    "requirements": "Bachelor's in a design discipline, 1+ years professional industrial/transportation design experience (3+ preferred), portfolio, NX/Rhino/SolidWorks; ITAR US-person requirement.",
+    "apply": "Apply on SpaceX's Greenhouse page with portfolio."
+  },
+  "previousStatus": "",
+  "errorDetail": ""
+}

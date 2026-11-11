@@ -15,17 +15,22 @@
   "url": "https://builtin.com/job/consulting-internship-ux-product-design-summer-2027/11624099",
   "source": "Built In",
   "note": "Graphic design is a preferred major. Graduating Winter 2027–Spring 2028; portfolio required.",
-  "status": "open",
+  "status": "closed",
   "firstSeen": "2026-10-23",
-  "lastUpdated": "2026-10-23",
+  "lastUpdated": "2026-11-11",
   "lastVerified": "2026-10-23",
-  "closedAt": "",
-  "closedReason": "",
+  "closedAt": "2026-11-11",
+  "closedReason": "no longer listed (re-checked 2026-11-11)",
   "statusHistory": [
     {
       "date": "2026-11-05",
       "status": "open",
       "reason": "imported from artifact"
+    },
+    {
+      "date": "2026-11-11",
+      "status": "closed",
+      "reason": "no longer listed (re-checked 2026-11-11)"
     }
   ],
   "facts": {},

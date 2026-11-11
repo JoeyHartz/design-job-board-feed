@@ -15,17 +15,22 @@
   "url": "https://baxter.wd1.myworkdayjobs.com/baxter/job/Batesville-Indiana/UX-UI-Industrial-Design-Co-op_JR-205594-1",
   "source": "Watchlist · Baxter",
   "note": "Medical technology; open to students in industrial design, graphic/visual communication, HCI or UX design.",
-  "status": "open",
+  "status": "closed",
   "firstSeen": "2026-10-23",
-  "lastUpdated": "2026-10-23",
+  "lastUpdated": "2026-11-11",
   "lastVerified": "2026-10-23",
-  "closedAt": "",
-  "closedReason": "",
+  "closedAt": "2026-11-11",
+  "closedReason": "no longer listed (re-checked 2026-11-11)",
   "statusHistory": [
     {
       "date": "2026-11-05",
       "status": "open",
       "reason": "imported from artifact"
+    },
+    {
+      "date": "2026-11-11",
+      "status": "closed",
+      "reason": "no longer listed (re-checked 2026-11-11)"
     }
   ],
   "facts": {},
