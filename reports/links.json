@@ -1,6 +1,6 @@
 {
- "date": "2026-11-11",
- "generated": "2026-11-11T12:53-06:00",
+ "date": "2026-11-12",
+ "generated": "2026-11-12T13:08-06:00",
  "postings": [
   {
    "id": "3m-brand-design-intern-sibg-2027",
@@ -187,16 +187,7 @@
    "company": "KeyBank",
    "title": "2027 Summer Graphic Design Internship",
    "url": "https://www.wayup.com/i-Banking-j-2027-Summer-Graphic-Design-Internship-KeyBank-380186093006550/",
-   "lastVerified": "2026-10-23",
-   "result": "ok",
-   "detail": "HTTP 200"
-  },
-  {
-   "id": "kohls-graphic-design-intern-2027",
-   "company": "Kohl's",
-   "title": "Marketing Graphic Design Internship (2027)",
-   "url": "https://www.wayup.com/i-Health-Wellness-and-Fitness-j-Early-Talent-2027-Marketing-Graphic-Design-Internship-Kohls-41536786924627/",
-   "lastVerified": "2026-10-23",
+   "lastVerified": "2026-11-12",
    "result": "ok",
    "detail": "HTTP 200"
   },
@@ -214,7 +205,7 @@
    "company": "MOO",
    "title": "Junior Graphic Designer",
    "url": "https://jobs.lever.co/moo/f4614e24-4e9b-4c76-9373-39bbe2c9b34a",
-   "lastVerified": "2026-10-23",
+   "lastVerified": "2026-11-12",
    "result": "ok",
    "detail": "HTTP 200"
   },
@@ -223,7 +214,7 @@
    "company": "Mortenson",
    "title": "Graphic Design Intern",
    "url": "https://www.mortenson.com/careers/hq-business-support/graphic-design-intern-23351",
-   "lastVerified": "2026-10-23",
+   "lastVerified": "2026-11-12",
    "result": "ok",
    "detail": "HTTP 200"
   },
@@ -291,6 +282,15 @@
    "detail": "HTTP 200"
   },
   {
+   "id": "teams-design-communication-design-intern",
+   "company": "TEAMS Design",
+   "title": "Communication Design Intern",
+   "url": "https://www.teamsdesign.com/en/careers/shanghai-intern-communiation-designer",
+   "lastVerified": "2026-11-12",
+   "result": "ok",
+   "detail": "HTTP 200"
+  },
+  {
    "id": "textron-aviation-digital-artistry-intern-2027",
    "company": "Textron Aviation",
    "title": "2027 Internship – Customer Experience (Digital Artistry)",
@@ -323,8 +323,8 @@
    "title": "2027 Undergraduate Industrial Design Intern (SIBG)",
    "url": "https://lemanoosh.com/jobs/internship-2027-undergraduate-3m-industrial-design-intern/",
    "lastVerified": "2026-11-06",
-   "result": "ok",
-   "detail": "HTTP 200"
+   "result": "unreachable",
+   "detail": "HTTP 503"
   },
   {
    "id": "a2-product-development-junior-industrial-designers",
@@ -440,8 +440,8 @@
    "title": "Industrial Design 3D CAD Modeler Internship",
    "url": "https://lemanoosh.com/jobs/box-clever-industrial-design-3d-cad-modeler-internship-san-francisco/",
    "lastVerified": "2026-11-06",
-   "result": "ok",
-   "detail": "HTTP 200"
+   "result": "unreachable",
+   "detail": "HTTP 503"
   },
   {
    "id": "cambridge-consultants-product-design-internship-6-or-12-months-2027-start",
@@ -494,15 +494,6 @@
    "title": "Industrial Design Co-op – Summer 2027",
    "url": "https://us-careers.crown.com/job/New-Bremen-Industrial-Design-Co-op-Summer-2027-OH-45869/1443169200/",
    "lastVerified": "2026-11-11",
-   "result": "ok",
-   "detail": "HTTP 200"
-  },
-  {
-   "id": "daimler-truck-transportation-design-intern-2027",
-   "company": "Daimler Truck North America",
-   "title": "Transportation Design Intern",
-   "url": "https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Portland-OR-US/Transportation-Design-Intern_DT-20434",
-   "lastVerified": "2026-11-10",
    "result": "ok",
    "detail": "HTTP 200"
   },
@@ -768,6 +759,15 @@
    "detail": "Workday lists this job"
   },
   {
+   "id": "hatch-duo-industrial-designer",
+   "company": "Hatch Duo",
+   "title": "Industrial Designer",
+   "url": "https://hatchduo.com/careers#Career-ID",
+   "lastVerified": "2026-11-12",
+   "result": "ok",
+   "detail": "HTTP 200"
+  },
+  {
    "id": "haworth-cmf-id-intern-summer-2027",
    "company": "Haworth",
    "title": "Colors, Materials & Finishes (CMF) Industrial Design Intern",
@@ -854,8 +854,8 @@
    "title": "Industrial Designer (early career)",
    "url": "https://lemanoosh.com/jobs/industrial-designer-baltimore-maryland/",
    "lastVerified": "2026-11-10",
-   "result": "ok",
-   "detail": "HTTP 200"
+   "result": "unreachable",
+   "detail": "HTTP 503"
   },
   {
    "id": "key-tech-industrial-design-intern-spring-2027",
@@ -872,8 +872,8 @@
    "title": "Industrial Design Intern",
    "url": "https://lemanoosh.com/jobs/industrial-design-intern-33/",
    "lastVerified": "2026-10-23",
-   "result": "ok",
-   "detail": "HTTP 200"
+   "result": "unreachable",
+   "detail": "HTTP 503"
   },
   {
    "id": "kohls-home-product-design-intern",
@@ -881,6 +881,15 @@
    "title": "Home Product Design Intern",
    "url": "https://careers.kohls.com/internships/design-art-creative",
    "lastVerified": "2026-11-10",
+   "result": "ok",
+   "detail": "HTTP 200"
+  },
+  {
+   "id": "krewe-eyewear-designer",
+   "company": "KREWE",
+   "title": "Eyewear Designer",
+   "url": "https://ats.rippling.com/krewe/jobs/0dde8a06-ac8e-4307-87c7-6c2fc44978bb",
+   "lastVerified": "2026-11-12",
    "result": "ok",
    "detail": "HTTP 200"
   },
@@ -910,6 +919,15 @@
    "lastVerified": "2026-11-09",
    "result": "ok",
    "detail": "HTTP 200"
+  },
+  {
+   "id": "madewell-assistant-designer-footwear",
+   "company": "Madewell",
+   "title": "Assistant Designer, Footwear",
+   "url": "https://jcrew.wd1.myworkdayjobs.com/MadewellCareers/job/New-York-NY-USA-Headquarters/Associate-Designer--Footwear_128830",
+   "lastVerified": "2026-11-12",
+   "result": "ok",
+   "detail": "Workday lists this job"
   },
   {
    "id": "menasha-packaging-structural-design-intern",
@@ -957,6 +975,15 @@
    "detail": "HTTP 200"
   },
   {
+   "id": "milwaukee-tool-associate-industrial-designer-fastening",
+   "company": "Milwaukee Tool",
+   "title": "Associate Industrial Designer (Fastening)",
+   "url": "https://tti.wd1.myworkdayjobs.com/Milwaukee/job/Brookfield-WI/Associate-Industrial-Designer_R79384",
+   "lastVerified": "2026-11-12",
+   "result": "ok",
+   "detail": "Workday lists this job"
+  },
+  {
    "id": "milwaukee-tool-design-researcher-intern",
    "company": "Milwaukee Tool",
    "title": "Design Researcher Intern",
@@ -970,7 +997,7 @@
    "company": "Milwaukee Tool",
    "title": "Fall 2027: Industrial Design Co-Op",
    "url": "https://tti.yello.co/external/requisitions/ZofQFlp_xjvkUUdBh91gdQ",
-   "lastVerified": "2026-10-23",
+   "lastVerified": "2026-11-12",
    "result": "ok",
    "detail": "HTTP 200"
   },
@@ -1016,8 +1043,8 @@
    "title": "Industrial Design Intern",
    "url": "https://lemanoosh.com/jobs/industrial-design-intern-35/",
    "lastVerified": "2026-11-10",
-   "result": "ok",
-   "detail": "HTTP 200"
+   "result": "unreachable",
+   "detail": "HTTP 503"
   },
   {
    "id": "munchkin-industrial-designer",
@@ -1034,8 +1061,8 @@
    "title": "Design Intern",
    "url": "https://lemanoosh.com/jobs/design-intern-4/",
    "lastVerified": "2026-11-05",
-   "result": "ok",
-   "detail": "HTTP 200"
+   "result": "unreachable",
+   "detail": "HTTP 503"
   },
   {
    "id": "naked-wolfe-junior-footwear-designer-london",
@@ -1088,8 +1115,8 @@
    "title": "Product Design Internship",
    "url": "https://lemanoosh.com/jobs/product-design-internship-f-m-d-near-cologne/",
    "lastVerified": "2026-11-04",
-   "result": "ok",
-   "detail": "HTTP 200"
+   "result": "unreachable",
+   "detail": "HTTP 503"
   },
   {
    "id": "now-studio-industrial-design-internship",
@@ -1097,8 +1124,8 @@
    "title": "Industrial Design Internship",
    "url": "https://lemanoosh.com/jobs/industrial-design-internship-31/",
    "lastVerified": "2026-10-27",
-   "result": "ok",
-   "detail": "HTTP 200"
+   "result": "unreachable",
+   "detail": "HTTP 503"
   },
   {
    "id": "nyker-junior-industrial-designer",
@@ -1106,8 +1133,8 @@
    "title": "Junior Industrial Designer",
    "url": "https://lemanoosh.com/jobs/junior-industrial-designer-16/",
    "lastVerified": "2026-10-23",
-   "result": "ok",
-   "detail": "HTTP 200"
+   "result": "unreachable",
+   "detail": "HTTP 503"
   },
   {
    "id": "oshkosh-id-intern",
@@ -1115,8 +1142,8 @@
    "title": "Industrial Design Intern",
    "url": "https://lemanoosh.com/jobs/industrial-design-intern-34/",
    "lastVerified": "2026-11-10",
-   "result": "ok",
-   "detail": "HTTP 200"
+   "result": "unreachable",
+   "detail": "HTTP 503"
   },
   {
    "id": "pa-consulting-graduate-industrial-designer-bray-2027",
@@ -1187,8 +1214,8 @@
    "title": "Sculpting Intern",
    "url": "https://lemanoosh.com/jobs/sculpting-intern/",
    "lastVerified": "2026-11-10",
-   "result": "ok",
-   "detail": "HTTP 200"
+   "result": "unreachable",
+   "detail": "HTTP 503"
   },
   {
    "id": "polaris-transportation-industrial-design-intern",
@@ -1224,7 +1251,7 @@
    "url": "https://puma.wd502.myworkdayjobs.com/Jobs_at_Puma/job/PUMA-Way-Headquarters/Junior-Designer-Color---Materials--CORE-Footwear--limited-for-14-months-_R43332-1",
    "lastVerified": "2026-11-11",
    "result": "ok",
-   "detail": "Workday lists this job"
+   "detail": "HTTP 200"
   },
   {
    "id": "puma-junior-designer-color-materials-kids-footwear",
@@ -1294,7 +1321,16 @@
    "company": "Rivian",
    "title": "Technical Intern – CMF Designer, Vehicle Studio",
    "url": "https://www.wayup.com/i-Automotive-j-Technical-Intern-CMF-Designer-Vehicle-Studio-Rivian-891532255720733/",
-   "lastVerified": "2026-10-23",
+   "lastVerified": "2026-11-12",
+   "result": "ok",
+   "detail": "HTTP 200"
+  },
+  {
+   "id": "robert-bosch-power-tools-gmbh-industrial-design-internship-power-tools-ref300501",
+   "company": "Robert Bosch Power Tools GmbH",
+   "title": "Industrial Design Internship (Power Tools, REF300501D)",
+   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000160611614",
+   "lastVerified": "2026-11-12",
    "result": "ok",
    "detail": "HTTP 200"
   },
@@ -1313,8 +1349,8 @@
    "title": "Internship – CMF Designer",
    "url": "https://lemanoosh.com/jobs/internship-cmf-designer-m-f-x/",
    "lastVerified": "2026-11-04",
-   "result": "ok",
-   "detail": "HTTP 200"
+   "result": "unreachable",
+   "detail": "HTTP 503"
   },
   {
    "id": "sharkninja-cmf-industrial-design-co-op-spring-2027",
@@ -1421,8 +1457,8 @@
    "title": "Transportation / Product Design Intern, Stellantis Design Studio",
    "url": "https://lemanoosh.com/jobs/stage-transportation-product-design-intern-stellantis-design-studio/",
    "lastVerified": "2026-10-23",
-   "result": "ok",
-   "detail": "HTTP 200"
+   "result": "unreachable",
+   "detail": "HTTP 503"
   },
   {
    "id": "stihl-engineering-and-product-design-internship-advance-development",
@@ -1542,6 +1578,24 @@
    "detail": "HTTP 200"
   },
   {
+   "id": "under-armour-2027-summer-internship-store-design-development",
+   "company": "Under Armour",
+   "title": "2027 Summer Internship, Store Design/Development",
+   "url": "https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Store-DesignDevelopment-MD-21230/1434347200/",
+   "lastVerified": "2026-11-12",
+   "result": "ok",
+   "detail": "HTTP 200"
+  },
+  {
+   "id": "under-armour-apparel-designer-i-design-exploration",
+   "company": "Under Armour",
+   "title": "Apparel Designer I, Design Exploration",
+   "url": "https://careers.underarmour.com/job/Baltimore-Apparel-Designer-I%2C-Design-Exploration-MD-21230/1444015200/",
+   "lastVerified": "2026-11-12",
+   "result": "ok",
+   "detail": "HTTP 200"
+  },
+  {
    "id": "under-armour-design-intern-apparel-footwear-summer-2027",
    "company": "Under Armour",
    "title": "2027 Summer Internship, Design (Apparel and Footwear)",
@@ -1565,6 +1619,15 @@
    "title": "Footwear Designer I, Running",
    "url": "https://careercentral.pitt.edu/jobs/under-armour-footwear-designer-i-running-baltimore/",
    "lastVerified": "2026-11-04",
+   "result": "ok",
+   "detail": "HTTP 200"
+  },
+  {
+   "id": "vanmokum-internship-industrial-product-design-february-june-2027",
+   "company": "VANMOKUM",
+   "title": "Internship: Industrial Product Design (February–June 2027)",
+   "url": "https://vanmokum.homerun.co/internship-industrial-product-design-february-2027-june-2027",
+   "lastVerified": "2026-11-12",
    "result": "ok",
    "detail": "HTTP 200"
   },
@@ -1596,6 +1659,15 @@
    "detail": "HTTP 200"
   },
   {
+   "id": "dimensional-innovations-ui-ux-design-intern-summer-2027",
+   "company": "Dimensional Innovations",
+   "title": "UI/UX Design Intern (Summer 2027)",
+   "url": "https://www.paycomonline.net/v4/ats/web.php/portal/51FD92324C8B2195D32BD3DB9EACCD81/jobs/222486",
+   "lastVerified": "2026-11-12",
+   "result": "ok",
+   "detail": "HTTP 200"
+  },
+  {
    "id": "ds-smith-design-intern-brussels",
    "company": "DS Smith",
    "title": "Design Intern (Packaging)",
@@ -1614,11 +1686,20 @@
    "detail": "HTTP 200"
   },
   {
+   "id": "nbcuniversal-franchise-products-partnerships-creative-and-product-design-develop",
+   "company": "NBCUniversal",
+   "title": "Franchise, Products & Partnerships: Creative and Product Design & Development Internships – Summer 2027",
+   "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000161161787",
+   "lastVerified": "2026-11-12",
+   "result": "ok",
+   "detail": "HTTP 200"
+  },
+  {
    "id": "pg-design-co-op-summer-2027",
    "company": "Procter & Gamble",
    "title": "Design Co-op, Summer 2027 (Graphic, Industrial or Digital)",
    "url": "https://www.wayup.com/i-Pharmaceuticals-j-Design-Co-op-Summer-2027-Proctor-Gamble-26806816433071/",
-   "lastVerified": "2026-10-23",
+   "lastVerified": "2026-11-12",
    "result": "ok",
    "detail": "HTTP 200"
   },
@@ -1798,16 +1879,7 @@
    "company": "Intuit",
    "title": "Summer 2027: Product Design Intern",
    "url": "https://www.wayup.com/i-Accounting-j-Summer-2027-Product-Design-Intern-Intuit-223728577167752/",
-   "lastVerified": "2026-10-23",
-   "result": "ok",
-   "detail": "HTTP 200"
-  },
-  {
-   "id": "konrad-associate-ui-ux-designer",
-   "company": "Konrad Group",
-   "title": "Associate UI/UX Designer",
-   "url": "https://builtin.com/job/associate-ui-ux-designer/11812280",
-   "lastVerified": "2026-10-23",
+   "lastVerified": "2026-11-12",
    "result": "ok",
    "detail": "HTTP 200"
   },
@@ -1843,7 +1915,7 @@
    "company": "Nintendo of America",
    "title": "Intern – User Experience (Summer 2027)",
    "url": "https://www.wayup.com/i-Technology-j-Intern-User-Experience-Nintendo-261939568301719/",
-   "lastVerified": "2026-10-23",
+   "lastVerified": "2026-11-12",
    "result": "ok",
    "detail": "HTTP 200"
   },
@@ -1861,7 +1933,7 @@
    "company": "O'Reilly Auto Parts",
    "title": "User Experience (UX) Designer I",
    "url": "https://builtin.com/job/user-experience-ux-designer-i/11791741",
-   "lastVerified": "2026-10-23",
+   "lastVerified": "2026-11-12",
    "result": "ok",
    "detail": "HTTP 200"
   },
@@ -1870,7 +1942,7 @@
    "company": "Patreon",
    "title": "Product Design Intern – Summer 2027",
    "url": "https://jobs.ashbyhq.com/patreon/b492a008-4218-4ec8-91dc-0fb512027849",
-   "lastVerified": "2026-10-23",
+   "lastVerified": "2026-11-12",
    "result": "ok",
    "detail": "HTTP 200"
   },
@@ -2015,8 +2087,8 @@
    "title": "Product Design Intern, Summer 2027",
    "url": "https://www.disneycareers.com/en/job/burbank/walt-disney-animation-studios-product-design-intern-summer-2027/391/102557878176",
    "lastVerified": "2026-10-28",
-   "result": "ok",
-   "detail": "HTTP 200"
+   "result": "gone",
+   "detail": "HTTP 404"
   }
  ]
 }

@@ -15,12 +15,12 @@
   "url": "https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Portland-OR-US/Transportation-Design-Intern_DT-20434",
   "source": "Watchlist · Just ID Jobs",
   "note": "Truck design studio; for transportation design students or recent grads, closes Nov 11.",
-  "status": "open",
+  "status": "closed",
   "firstSeen": "2026-11-10",
-  "lastUpdated": "2026-11-10",
+  "lastUpdated": "2026-11-12",
   "lastVerified": "2026-11-10",
-  "closedAt": "",
-  "closedReason": "",
+  "closedAt": "2026-11-12",
+  "closedReason": "deadline passed (2026-11-11)",
   "statusHistory": [
     {
       "date": "2026-11-10",
@@ -31,6 +31,11 @@
       "date": "2026-11-10",
       "status": "open",
       "reason": "approved by JoeyHartz"
+    },
+    {
+      "date": "2026-11-12",
+      "status": "closed",
+      "reason": "deadline passed (2026-11-11)"
     }
   ],
   "facts": {
