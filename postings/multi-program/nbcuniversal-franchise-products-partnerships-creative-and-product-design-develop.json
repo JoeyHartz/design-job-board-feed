@@ -16,7 +16,7 @@
   "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000161161787",
   "source": "Watchlist · Just ID Jobs",
   "note": "Tracks include Franchise Creative (character illustration), Toys & Hardlines (toy and plush design) and Toys Packaging; applications open Nov 9 – Dec 4 and may close early.",
-  "status": "pending",
+  "status": "open",
   "firstSeen": "2026-11-12",
   "lastUpdated": "2026-11-12",
   "lastVerified": "2026-11-12",
@@ -27,6 +27,11 @@
       "date": "2026-11-12",
       "status": "pending",
       "reason": "added, waiting for approval"
+    },
+    {
+      "date": "2026-11-12",
+      "status": "open",
+      "reason": "approved by JoeyHartz"
     }
   ],
   "facts": {

@@ -15,7 +15,7 @@
   "url": "https://hatchduo.com/careers#Career-ID",
   "source": "Watchlist · Hatch Duo",
   "note": "Open to recent grads with internship experience (or 1-3 years); apply by email with portfolio, cover letter and resume; US work authorization required.",
-  "status": "pending",
+  "status": "open",
   "firstSeen": "2026-11-12",
   "lastUpdated": "2026-11-12",
   "lastVerified": "2026-11-12",
@@ -26,6 +26,11 @@
       "date": "2026-11-12",
       "status": "pending",
       "reason": "added, waiting for approval"
+    },
+    {
+      "date": "2026-11-12",
+      "status": "open",
+      "reason": "approved by JoeyHartz"
     }
   ],
   "facts": {

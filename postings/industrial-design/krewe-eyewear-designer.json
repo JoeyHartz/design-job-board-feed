@@ -15,7 +15,7 @@
   "url": "https://ats.rippling.com/krewe/jobs/0dde8a06-ac8e-4307-87c7-6c2fc44978bb",
   "source": "Web search",
   "note": "On-site eyewear design role at a New Orleans eyewear brand; eyewear design experience from school or an internship counts, with about four NYC trips a year.",
-  "status": "pending",
+  "status": "open",
   "firstSeen": "2026-11-12",
   "lastUpdated": "2026-11-12",
   "lastVerified": "2026-11-12",
@@ -26,6 +26,11 @@
       "date": "2026-11-12",
       "status": "pending",
       "reason": "added, waiting for approval"
+    },
+    {
+      "date": "2026-11-12",
+      "status": "open",
+      "reason": "approved by JoeyHartz"
     }
   ],
   "facts": {

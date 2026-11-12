@@ -17,7 +17,7 @@
   "url": "https://www.paycomonline.net/v4/ats/web.php/portal/51FD92324C8B2195D32BD3DB9EACCD81/jobs/222486",
   "source": "Watchlist · Dimensional Innovations",
   "note": "UX for interactive installations in museums, venues and branded spaces; open to UI/UX, interaction, graphic and industrial design students; portfolio required.",
-  "status": "pending",
+  "status": "open",
   "firstSeen": "2026-11-12",
   "lastUpdated": "2026-11-12",
   "lastVerified": "2026-11-12",
@@ -28,6 +28,11 @@
       "date": "2026-11-12",
       "status": "pending",
       "reason": "added, waiting for approval"
+    },
+    {
+      "date": "2026-11-12",
+      "status": "open",
+      "reason": "approved by JoeyHartz"
     }
   ],
   "facts": {

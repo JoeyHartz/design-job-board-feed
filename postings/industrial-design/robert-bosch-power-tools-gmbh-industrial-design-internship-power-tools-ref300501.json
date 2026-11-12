@@ -15,7 +15,7 @@
   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000160611614",
   "source": "Watchlist · Physical Design Internships",
   "note": "Power-tool design internship; posting is in German and asks for fluent German, very good English and current university enrollment.",
-  "status": "pending",
+  "status": "open",
   "firstSeen": "2026-11-12",
   "lastUpdated": "2026-11-12",
   "lastVerified": "2026-11-12",
@@ -26,6 +26,11 @@
       "date": "2026-11-12",
       "status": "pending",
       "reason": "added, waiting for approval"
+    },
+    {
+      "date": "2026-11-12",
+      "status": "open",
+      "reason": "approved by JoeyHartz"
     }
   ],
   "facts": {
