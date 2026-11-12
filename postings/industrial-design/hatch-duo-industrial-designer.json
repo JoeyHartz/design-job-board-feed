@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "hatch-duo-industrial-designer",
+  "title": "Industrial Designer",
+  "company": "Hatch Duo",
+  "programs": [
+    "ID"
+  ],
+  "level": "Entry-level",
+  "term": "Full-time (contract with path to permanent)",
+  "location": "United States · remote/hybrid (primarily remote)",
+  "region": "Remote",
+  "pay": "",
+  "deadline": "",
+  "url": "https://hatchduo.com/careers#Career-ID",
+  "source": "Watchlist · Hatch Duo",
+  "note": "Open to recent grads with internship experience (or 1-3 years); apply by email with portfolio, cover letter and resume; US work authorization required.",
+  "status": "pending",
+  "firstSeen": "2026-11-12",
+  "lastUpdated": "2026-11-12",
+  "lastVerified": "2026-11-12",
+  "closedAt": "",
+  "closedReason": "",
+  "statusHistory": [
+    {
+      "date": "2026-11-12",
+      "status": "pending",
+      "reason": "added, waiting for approval"
+    }
+  ],
+  "facts": {
+    "summary": "Consultancy industrial designer role, contract-to-hire, team works mostly remotely.",
+    "duties": "Take products from concept through development, build presentations, check manufacturability, work with engineering and vendor teams.",
+    "requirements": "1-3 years or recent grad with internships; sketching, model making, SolidWorks, Rhino, KeyShot, Illustrator, Photoshop.",
+    "apply": "Email info@hatchduo.com with portfolio (required), cover letter and resume."
+  },
+  "previousStatus": "",
+  "errorDetail": ""
+}

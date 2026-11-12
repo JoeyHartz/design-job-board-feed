@@ -15,17 +15,22 @@
   "url": "https://builtin.com/job/associate-ui-ux-designer/11812280",
   "source": "Built In",
   "note": "Digital agency. Entry level.",
-  "status": "open",
+  "status": "closed",
   "firstSeen": "2026-10-23",
-  "lastUpdated": "2026-10-23",
+  "lastUpdated": "2026-11-12",
   "lastVerified": "2026-10-23",
-  "closedAt": "",
-  "closedReason": "",
+  "closedAt": "2026-11-12",
+  "closedReason": "no longer listed (re-checked 2026-11-12)",
   "statusHistory": [
     {
       "date": "2026-11-05",
       "status": "open",
       "reason": "imported from artifact"
+    },
+    {
+      "date": "2026-11-12",
+      "status": "closed",
+      "reason": "no longer listed (re-checked 2026-11-12)"
     }
   ],
   "facts": {},
