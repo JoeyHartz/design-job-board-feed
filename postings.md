@@ -2,18 +2,18 @@
 
 Open internships, co-ops and entry-level jobs for Industrial Design, Graphic Design and UI/UX students in the School of Art & Design at the University of Illinois Urbana-Champaign.
 
-**224 open jobs** · updated Nov 13, 2026 · download as [CSV](postings.csv) or [JSON](postings.json)
+**234 open jobs** · updated Nov 13, 2026 · download as [CSV](postings.csv) or [JSON](postings.json)
 
 > Every job here was checked against our criteria and approved by a person before it was listed, but jobs can close without notice. Always confirm the details on the employer's site before you apply.
 
 ## Contents
 
-- [Closing soon](#closing-soon) (6)
-- [New this week](#new-this-week) (79)
-- **[Industrial Design](#industrial-design)** (145): [Chicago area](#industrial-design--chicago-area) (3) · [Midwest](#industrial-design--midwest) (40) · [Remote](#industrial-design--remote) (1) · [Elsewhere in US](#industrial-design--elsewhere-in-us) (69) · [International](#industrial-design--international) (32)
-- **[Graphic Design](#graphic-design)** (34): [Chicago area](#graphic-design--chicago-area) (6) · [Midwest](#graphic-design--midwest) (8) · [Remote](#graphic-design--remote) (3) · [Elsewhere in US](#graphic-design--elsewhere-in-us) (14) · [International](#graphic-design--international) (3)
+- [Closing soon](#closing-soon) (7)
+- [New this week](#new-this-week) (89)
+- **[Industrial Design](#industrial-design)** (152): [Chicago area](#industrial-design--chicago-area) (3) · [Midwest](#industrial-design--midwest) (40) · [Remote](#industrial-design--remote) (1) · [Elsewhere in US](#industrial-design--elsewhere-in-us) (69) · [International](#industrial-design--international) (39)
+- **[Graphic Design](#graphic-design)** (36): [Chicago area](#graphic-design--chicago-area) (6) · [Midwest](#graphic-design--midwest) (8) · [Remote](#graphic-design--remote) (3) · [Elsewhere in US](#graphic-design--elsewhere-in-us) (16) · [International](#graphic-design--international) (3)
 - **[UI/UX & Digital Product](#uiux--digital-product)** (37): [Chicago area](#uiux--digital-product--chicago-area) (1) · [Midwest](#uiux--digital-product--midwest) (11) · [Remote](#uiux--digital-product--remote) (4) · [Elsewhere in US](#uiux--digital-product--elsewhere-in-us) (19) · [International](#uiux--digital-product--international) (2)
-- **[ID + GD](#id--gd)** (8): [Midwest](#id--gd--midwest) (5) · [Elsewhere in US](#id--gd--elsewhere-in-us) (1) · [International](#id--gd--international) (2)
+- **[ID + GD](#id--gd)** (9): [Midwest](#id--gd--midwest) (6) · [Elsewhere in US](#id--gd--elsewhere-in-us) (1) · [International](#id--gd--international) (2)
 - [About this list](#about-this-list)
 
 ## Closing soon
@@ -25,6 +25,7 @@ Jobs with an apply-by date in the next 14 days, soonest first.
 | Nov 13 | [2027 Summer Graphic Design Internship](https://www.wayup.com/i-Banking-j-2027-Summer-Graphic-Design-Internship-KeyBank-380186093006550/) | KeyBank | Graphic Design |
 | Nov 15 | [Product Design Student Intern, Summer 2027](https://jobs.lever.co/theathletic/b542eab4-22f0-4130-ba24-c8c04acc16f2) | The Athletic (New York Times) | UI/UX & Digital Product |
 | Nov 20 | [Industrial Design Intern – Product Design Cabin](https://ag.wd3.myworkdayjobs.com/Airbus/job/Hamburg-Area/Industrial-Design-Intern---Product-Design-Cabin-Hamburg--d-f-m-_JR10454867) | Airbus | Industrial Design |
+| Nov 20 | [Spring 2027 - Intern, Social Media Graphic Design](https://job-boards.greenhouse.io/excelsportsmanagement/jobs/4747595005) | Excel Sports Management | Graphic Design |
 | Nov 22 | [FOX News Media Internship – Graphic Design (Spring 2027)](https://www.wayup.com/i-Broadcast-Media-j-Spring-2027-FOX-News-Media-Internship-Program-Graphic-Design-New-York-FOX-Corporation-837858992313442/) | FOX Corporation | Graphic Design |
 | Nov 23 | [Exhibit Design Intern, Winter/Spring 2027](https://deckelmoneypenny.com/job/exhibit-design-intern-winter-spring-2027/) | Deckel & Moneypenny | Industrial Design |
 | Nov 23 | [Scientific Illustrator (16-week internship)](https://www.builtinchicago.org/job/scientific-illustrator/11756726) | Field Museum | Graphic Design |
@@ -34,6 +35,56 @@ Jobs with an apply-by date in the next 14 days, soonest first.
 ## New this week
 
 Added in the last 7 days, newest first.
+
+**[Assistant Creative Designer Intern, Events & Visual Merchandising – Watches & Fine Jewelry (Stage)](https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/Paris/STAGE--Assistant-e--Creative-Designer-vnementiel-et-VM---Horlogerie-Joaillerie--F-H-X----Mars-2027_JOBREQ00118893-3)**  
+Chanel · Industrial Design · Internship · Six months from March 2027  
+Neuilly-sur-Seine (Paris area), France · on-site · Pay: not listed · Found Nov 13  
+_Window display and event design for Chanel watches and fine jewelry; aimed at 4th/5th-year art, design or interior architecture students; posting is in French._
+
+**[Industrial Design Intern](https://lemanoosh.com/jobs/industrial-design-intern-37/)**  
+Criador Labs · Industrial Design · Internship  
+Bangalore, India · on-site · Pay: not listed · Found Nov 13  
+_Product design consultancy internship; apply by email to info@criadorlabs.com with subject "leManoosh - Industrial Design Intern"; term and pay not stated._
+
+**[Spring 2027 - Intern, Social Media Graphic Design](https://job-boards.greenhouse.io/excelsportsmanagement/jobs/4747595005)**  
+Excel Sports Management · Graphic Design · Internship · Spring 2027 (Jan 11 – May 6, 2027), part-time  
+New York, NY · hybrid (about 3 office days a week) · Pay: $17/hr · **Apply by Nov 20, 2026** · Found Nov 13  
+_Part-time social graphics internship at a sports agency; senior standing or degree required, no visa sponsorship; applications close Nov 20._
+
+**[Graphic Design Intern (Washington, DC)](https://careers.haworth.com/job/Washington%2C-DC-Graphic-Design-Intern-DC-20007/1441964100/)**  
+Haworth · Graphic Design · Internship · Summer 2027 (12 weeks, May–Aug)  
+Washington, DC · hybrid (about 3 days in showroom) · Pay: Paid (rate not listed) · Found Nov 13  
+_Makes branded sales collateral with the Client Engagement Studio; portfolio required; junior standing by Fall 2027._
+
+**[Technical Graphic Design Intern](https://careers.haworth.com/job/Holland-Technical-Graphic-Design-Intern-MI-49423/1438345200/)**  
+Haworth · ID + GD · Internship · Summer 2027 (12 weeks, May–Aug)  
+Holland, MI · on-site · Pay: Paid (rate not listed) · Found Nov 13  
+_Open to Industrial Design or Technical Graphic Design majors with junior standing by Fall 2027; focuses on 3D animation of architectural products._
+
+**[Interior Designer Internship](https://inrecruiting.intervieweb.it/italdesign/jobs/interior-designer-internship-690472/en/)**  
+Italdesign · Industrial Design · Internship · 6 months  
+Moncalieri (Turin), Italy · on-site · Pay: Scholarship (amount not listed) · Found Nov 13  
+_Automotive interior design traineeship; Italian and English at B2 or above required._
+
+**[6-Month CGI Internship (Hamburg)](https://www.teamsdesign.com/en/careers/hamburg-6-month-cgi-internship)**  
+TEAMS Design · Industrial Design · Internship · Six months, spring or autumn 2027  
+Hamburg, Germany · on-site · Pay: not listed · Found Nov 13  
+_Product rendering and 3D animation internship; only for students who need a compulsory internship._
+
+**[Industrial Design Internship (Stuttgart)](https://www.teamsdesign.com/en/careers/stuttgart-internship-industrial-design)**  
+TEAMS Design · Industrial Design · Internship · Six months from March 2027  
+Stuttgart-Esslingen, Germany · on-site · Pay: not listed · Found Nov 13  
+_Six-month compulsory (for-credit) internship for industrial/product design students._
+
+**[6-Month Product Design Internship (Hamburg)](https://www.teamsdesign.com/en/careers/hamburg-6-month-product-design-internship)**  
+TEAMS Design · Industrial Design · Internship · Six months from March 2027  
+Hamburg, Germany · on-site · Pay: not listed · Found Nov 13  
+_Only for students whose program requires an internship; English required, German a plus._
+
+**[6-Month Transportation Design Internship (Hamburg)](https://www.teamsdesign.com/en/careers/hamburg-6-month-transportation-design-internship)**  
+TEAMS Design · Industrial Design · Internship · Six months from March 2027  
+Hamburg, Germany · on-site · Pay: not listed · Found Nov 13  
+_One transportation design spot per semester; only for students who need a compulsory internship._
 
 **[UI/UX Design Intern (Summer 2027)](https://www.paycomonline.net/v4/ats/web.php/portal/51FD92324C8B2195D32BD3DB9EACCD81/jobs/222486)**  
 Dimensional Innovations · ID + GD · Internship · Jun 7 – Aug 6, 2027  
@@ -434,7 +485,7 @@ _UX/UI for physical products (controls and interfaces) across DEWALT, CRAFTSMAN 
 
 ## Industrial Design
 
-145 jobs: [Chicago area](#industrial-design--chicago-area) (3) · [Midwest](#industrial-design--midwest) (40) · [Remote](#industrial-design--remote) (1) · [Elsewhere in US](#industrial-design--elsewhere-in-us) (69) · [International](#industrial-design--international) (32)
+152 jobs: [Chicago area](#industrial-design--chicago-area) (3) · [Midwest](#industrial-design--midwest) (40) · [Remote](#industrial-design--remote) (1) · [Elsewhere in US](#industrial-design--elsewhere-in-us) (69) · [International](#industrial-design--international) (39)
 
 ### Industrial Design · Chicago area
 
@@ -1012,6 +1063,41 @@ _Second-year coursework completed; apply by email with resume and portfolio._
 
 ### Industrial Design · International
 
+**[Assistant Creative Designer Intern, Events & Visual Merchandising – Watches & Fine Jewelry (Stage)](https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/Paris/STAGE--Assistant-e--Creative-Designer-vnementiel-et-VM---Horlogerie-Joaillerie--F-H-X----Mars-2027_JOBREQ00118893-3)**  
+Chanel · Internship · Six months from March 2027  
+Neuilly-sur-Seine (Paris area), France · on-site · Pay: not listed · Found Nov 13  
+_Window display and event design for Chanel watches and fine jewelry; aimed at 4th/5th-year art, design or interior architecture students; posting is in French._
+
+**[Industrial Design Intern](https://lemanoosh.com/jobs/industrial-design-intern-37/)**  
+Criador Labs · Internship  
+Bangalore, India · on-site · Pay: not listed · Found Nov 13  
+_Product design consultancy internship; apply by email to info@criadorlabs.com with subject "leManoosh - Industrial Design Intern"; term and pay not stated._
+
+**[Interior Designer Internship](https://inrecruiting.intervieweb.it/italdesign/jobs/interior-designer-internship-690472/en/)**  
+Italdesign · Internship · 6 months  
+Moncalieri (Turin), Italy · on-site · Pay: Scholarship (amount not listed) · Found Nov 13  
+_Automotive interior design traineeship; Italian and English at B2 or above required._
+
+**[6-Month CGI Internship (Hamburg)](https://www.teamsdesign.com/en/careers/hamburg-6-month-cgi-internship)**  
+TEAMS Design · Internship · Six months, spring or autumn 2027  
+Hamburg, Germany · on-site · Pay: not listed · Found Nov 13  
+_Product rendering and 3D animation internship; only for students who need a compulsory internship._
+
+**[Industrial Design Internship (Stuttgart)](https://www.teamsdesign.com/en/careers/stuttgart-internship-industrial-design)**  
+TEAMS Design · Internship · Six months from March 2027  
+Stuttgart-Esslingen, Germany · on-site · Pay: not listed · Found Nov 13  
+_Six-month compulsory (for-credit) internship for industrial/product design students._
+
+**[6-Month Product Design Internship (Hamburg)](https://www.teamsdesign.com/en/careers/hamburg-6-month-product-design-internship)**  
+TEAMS Design · Internship · Six months from March 2027  
+Hamburg, Germany · on-site · Pay: not listed · Found Nov 13  
+_Only for students whose program requires an internship; English required, German a plus._
+
+**[6-Month Transportation Design Internship (Hamburg)](https://www.teamsdesign.com/en/careers/hamburg-6-month-transportation-design-internship)**  
+TEAMS Design · Internship · Six months from March 2027  
+Hamburg, Germany · on-site · Pay: not listed · Found Nov 13  
+_One transportation design spot per semester; only for students who need a compulsory internship._
+
 **[Industrial Design Internship (Power Tools, REF300501D)](https://jobs.smartrecruiters.com/BoschGroup/744000160611614)**  
 Robert Bosch Power Tools GmbH · Internship · Six months from March 2027  
 Leinfelden-Echterdingen, Germany · on-site · Pay: not listed · Found Nov 12  
@@ -1176,7 +1262,7 @@ _Power tools and outdoor equipment; posting is in German._
 
 ## Graphic Design
 
-34 jobs: [Chicago area](#graphic-design--chicago-area) (6) · [Midwest](#graphic-design--midwest) (8) · [Remote](#graphic-design--remote) (3) · [Elsewhere in US](#graphic-design--elsewhere-in-us) (14) · [International](#graphic-design--international) (3)
+36 jobs: [Chicago area](#graphic-design--chicago-area) (6) · [Midwest](#graphic-design--midwest) (8) · [Remote](#graphic-design--remote) (3) · [Elsewhere in US](#graphic-design--elsewhere-in-us) (16) · [International](#graphic-design--international) (3)
 
 ### Graphic Design · Chicago area
 
@@ -1276,6 +1362,16 @@ _Apparel and merchandise graphics for music tours, e-commerce and retail; asks f
 [Back to top](#id--gd-job-board)
 
 ### Graphic Design · Elsewhere in US
+
+**[Spring 2027 - Intern, Social Media Graphic Design](https://job-boards.greenhouse.io/excelsportsmanagement/jobs/4747595005)**  
+Excel Sports Management · Internship · Spring 2027 (Jan 11 – May 6, 2027), part-time  
+New York, NY · hybrid (about 3 office days a week) · Pay: $17/hr · **Apply by Nov 20, 2026** · Found Nov 13  
+_Part-time social graphics internship at a sports agency; senior standing or degree required, no visa sponsorship; applications close Nov 20._
+
+**[Graphic Design Intern (Washington, DC)](https://careers.haworth.com/job/Washington%2C-DC-Graphic-Design-Intern-DC-20007/1441964100/)**  
+Haworth · Internship · Summer 2027 (12 weeks, May–Aug)  
+Washington, DC · hybrid (about 3 days in showroom) · Pay: Paid (rate not listed) · Found Nov 13  
+_Makes branded sales collateral with the Client Engagement Studio; portfolio required; junior standing by Fall 2027._
 
 **[Graphic Design Intern (Summer 2027)](https://builtin.com/job/graphic-design-intern/11658786)**  
 Fossil Group · Internship · Summer 2027, 10 weeks  
@@ -1579,9 +1675,14 @@ _UI/interaction internship for students currently enrolled full-time in an indus
 
 ## ID + GD
 
-8 jobs: [Midwest](#id--gd--midwest) (5) · [Elsewhere in US](#id--gd--elsewhere-in-us) (1) · [International](#id--gd--international) (2)
+9 jobs: [Midwest](#id--gd--midwest) (6) · [Elsewhere in US](#id--gd--elsewhere-in-us) (1) · [International](#id--gd--international) (2)
 
 ### ID + GD · Midwest
+
+**[Technical Graphic Design Intern](https://careers.haworth.com/job/Holland-Technical-Graphic-Design-Intern-MI-49423/1438345200/)**  
+Haworth · Internship · Summer 2027 (12 weeks, May–Aug)  
+Holland, MI · on-site · Pay: Paid (rate not listed) · Found Nov 13  
+_Open to Industrial Design or Technical Graphic Design majors with junior standing by Fall 2027; focuses on 3D animation of architectural products._
 
 **[UI/UX Design Intern (Summer 2027)](https://www.paycomonline.net/v4/ats/web.php/portal/51FD92324C8B2195D32BD3DB9EACCD81/jobs/222486)**  
 Dimensional Innovations · Internship · Jun 7 – Aug 6, 2027  
