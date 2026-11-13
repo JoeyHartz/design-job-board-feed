@@ -1,6 +1,6 @@
 {
  "date": "2026-11-13",
- "generated": "2026-11-13T09:09-06:00",
+ "generated": "2026-11-13T12:43-06:00",
  "entries": [
   {
    "id": "abelsontaylor",
@@ -116,7 +116,7 @@
    "sourceUrl": "https://boards-api.greenhouse.io/v1/boards/cannondesign/jobs",
    "status": "ok",
    "error": "",
-   "total": 132,
+   "total": 129,
    "hiddenKnown": 0,
    "jobs": [
     {
@@ -183,10 +183,10 @@
      "firstListed": "2026-11-10"
     },
     {
-     "title": "Interior Designer IB",
-     "location": "Chicago, IL; St. Louis, MO",
+     "title": "Interior Designer II",
+     "location": "Chicago, IL",
      "posted": "2026-11-09",
-     "url": "http://www.cannondesign.com/careers/?gh_jid=8853006002",
+     "url": "http://www.cannondesign.com/careers/?gh_jid=8542033002",
      "firstListed": "2026-11-10"
     },
     {
@@ -197,17 +197,10 @@
      "firstListed": "2026-11-10"
     },
     {
-     "title": "Interior Designer II",
-     "location": "Chicago, IL",
+     "title": "Interior Designer III",
+     "location": "Dallas, TX",
      "posted": "2026-11-09",
-     "url": "http://www.cannondesign.com/careers/?gh_jid=8542033002",
-     "firstListed": "2026-11-10"
-    },
-    {
-     "title": "Interior Designer II",
-     "location": "Chicago, IL; St. Louis, MO",
-     "posted": "2026-11-09",
-     "url": "http://www.cannondesign.com/careers/?gh_jid=8750303002",
+     "url": "http://www.cannondesign.com/careers/?gh_jid=8321474002",
      "firstListed": "2026-11-10"
     },
     {
@@ -215,13 +208,6 @@
      "location": "Houston, TX",
      "posted": "2026-11-09",
      "url": "http://www.cannondesign.com/careers/?gh_jid=8318794002",
-     "firstListed": "2026-11-10"
-    },
-    {
-     "title": "Interior Designer III",
-     "location": "Dallas, TX",
-     "posted": "2026-11-09",
-     "url": "http://www.cannondesign.com/careers/?gh_jid=8321474002",
      "firstListed": "2026-11-10"
     },
     {
@@ -240,6 +226,13 @@
     },
     {
      "title": "Project Designer IV",
+     "location": "Dallas, TX",
+     "posted": "2026-11-09",
+     "url": "http://www.cannondesign.com/careers/?gh_jid=8612524002",
+     "firstListed": "2026-11-10"
+    },
+    {
+     "title": "Project Designer IV",
      "location": "St. Louis, MO",
      "posted": "2026-11-09",
      "url": "http://www.cannondesign.com/careers/?gh_jid=8612547002",
@@ -253,10 +246,10 @@
      "firstListed": "2026-11-10"
     },
     {
-     "title": "Project Designer IV",
-     "location": "Dallas, TX",
+     "title": "Project Designer V",
+     "location": "Houston, TX",
      "posted": "2026-11-09",
-     "url": "http://www.cannondesign.com/careers/?gh_jid=8612524002",
+     "url": "http://www.cannondesign.com/careers/?gh_jid=8617804002",
      "firstListed": "2026-11-10"
     },
     {
@@ -264,13 +257,6 @@
      "location": "Dallas, TX",
      "posted": "2026-11-09",
      "url": "http://www.cannondesign.com/careers/?gh_jid=8617794002",
-     "firstListed": "2026-11-10"
-    },
-    {
-     "title": "Project Designer V",
-     "location": "Houston, TX",
-     "posted": "2026-11-09",
-     "url": "http://www.cannondesign.com/careers/?gh_jid=8617804002",
      "firstListed": "2026-11-10"
     },
     {
@@ -379,7 +365,7 @@
    "sourceUrl": "https://boards-api.greenhouse.io/v1/boards/homechef/jobs",
    "status": "ok",
    "error": "",
-   "total": 34,
+   "total": 33,
    "hiddenKnown": 0,
    "jobs": []
   },
@@ -465,7 +451,7 @@
    "sourceUrl": "https://jll.wd1.myworkdayjobs.com/jllcareers",
    "status": "ok",
    "error": "",
-   "total": 206,
+   "total": 202,
    "hiddenKnown": 0,
    "jobs": [
     {
@@ -573,13 +559,6 @@
     },
     {
      "title": "Senior Art Director",
-     "location": "Toronto, Canada",
-     "posted": "2026-11-09",
-     "url": "https://www.ogilvy.com/careers/4751655005?gh_jid=4751655005",
-     "firstListed": "2026-11-10"
-    },
-    {
-     "title": "Senior Art Director",
      "location": "Makati City,Philippines",
      "posted": "2026-10-16",
      "url": "https://www.ogilvy.com/careers/4617084005?gh_jid=4617084005",
@@ -590,6 +569,13 @@
      "location": "Toronto, Canada",
      "posted": "2026-10-30",
      "url": "https://www.ogilvy.com/careers/4738093005?gh_jid=4738093005",
+     "firstListed": "2026-11-10"
+    },
+    {
+     "title": "Senior Art Director",
+     "location": "Toronto, Canada",
+     "posted": "2026-11-09",
+     "url": "https://www.ogilvy.com/careers/4751655005?gh_jid=4751655005",
      "firstListed": "2026-11-10"
     },
     {
@@ -691,7 +677,7 @@
    "sourceUrl": "https://3m.wd1.myworkdayjobs.com/Search",
    "status": "ok",
    "error": "",
-   "total": 274,
+   "total": 275,
    "hiddenKnown": 2,
    "jobs": [
     {
@@ -766,16 +752,9 @@
    "sourceUrl": "https://abbott.wd5.myworkdayjobs.com/abbottcareers",
    "status": "ok",
    "error": "",
-   "total": 288,
+   "total": 285,
    "hiddenKnown": 0,
    "jobs": [
-    {
-     "title": "eCommerce Designer",
-     "location": "United States - Ohio - Columbus",
-     "posted": "Posted Yesterday",
-     "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Ohio---Columbus/eCommerce-Designer_31167389-1",
-     "firstListed": "2026-11-13"
-    },
     {
      "title": "Director Product & Design",
      "location": "United States - California - Pleasanton",
@@ -817,6 +796,13 @@
      "posted": "Posted 10 Days Ago",
      "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Illinois---Lake-Forest/Senior-Product-UX-Designer_31166585-1",
      "firstListed": "2026-11-06"
+    },
+    {
+     "title": "eCommerce Designer - Columbus, OH",
+     "location": "United States - Ohio - Columbus",
+     "posted": "Posted Today",
+     "url": "https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Ohio---Columbus/eCommerce-Designer_31167389-1",
+     "firstListed": "2026-11-13"
     },
     {
      "title": "TSD (Total Solution Design) Specialist",
@@ -904,7 +890,7 @@
    "sourceUrl": "https://allegion.wd5.myworkdayjobs.com/careers",
    "status": "ok",
    "error": "",
-   "total": 232,
+   "total": 231,
    "hiddenKnown": 1,
    "jobs": [
     {
@@ -944,7 +930,7 @@
    "sourceUrl": "https://basspro.wd1.myworkdayjobs.com/careers",
    "status": "ok",
    "error": "",
-   "total": 260,
+   "total": 263,
    "hiddenKnown": 0,
    "jobs": [
     {
@@ -984,7 +970,7 @@
    "sourceUrl": "https://baxter.wd1.myworkdayjobs.com/baxter",
    "status": "ok",
    "error": "",
-   "total": 228,
+   "total": 231,
    "hiddenKnown": 0,
    "jobs": [
     {
@@ -1028,7 +1014,7 @@
    "sourceUrl": "https://api.smartrecruiters.com/v1/companies/BoschGroup/postings",
    "status": "ok",
    "error": "",
-   "total": 5094,
+   "total": 5093,
    "hiddenKnown": 0,
    "jobs": [
     {
@@ -1043,13 +1029,6 @@
      "location": "Karlsruhe, BW, de",
      "posted": "2026-11-12",
      "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161320979",
-     "firstListed": "2026-11-12"
-    },
-    {
-     "title": "UI Expert & AI-Assisted Developer",
-     "location": "coimbatore, in",
-     "posted": "2026-11-12",
-     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000161220619",
      "firstListed": "2026-11-12"
     },
     {
@@ -1614,7 +1593,7 @@
    "sourceUrl": "https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers",
    "status": "ok",
    "error": "",
-   "total": 102,
+   "total": 101,
    "hiddenKnown": 0,
    "jobs": [
     {
@@ -1647,7 +1626,7 @@
    "sourceUrl": "https://brunswick.wd1.myworkdayjobs.com/search",
    "status": "ok",
    "error": "",
-   "total": 176,
+   "total": 178,
    "hiddenKnown": 2,
    "jobs": [
     {
@@ -1760,8 +1739,8 @@
    "sourceUrl": "https://cc.wd3.myworkdayjobs.com/ChanelCareers",
    "status": "ok",
    "error": "",
-   "total": 255,
-   "hiddenKnown": 2,
+   "total": 260,
+   "hiddenKnown": 3,
    "jobs": [
     {
      "title": "Design Architect",
@@ -1827,13 +1806,6 @@
      "firstListed": "2026-11-10"
     },
     {
-     "title": "STAGE- Assistant(e) Creative Designer Évènementiel et VM - Horlogerie Joaillerie (F/H/X) - Mars 2027",
-     "location": "Paris",
-     "posted": "Posted Today",
-     "url": "https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/Paris/STAGE--Assistant-e--Creative-Designer-vnementiel-et-VM---Horlogerie-Joaillerie--F-H-X----Mars-2027_JOBREQ00118893-3",
-     "firstListed": "2026-11-13"
-    },
-    {
      "title": "STAGE - Assistant(e) Visual Merchandising - (H/F) - Boutique COURCHEVEL - DECEMBRE 2023",
      "location": "Courchevel 1850",
      "posted": "Posted 30+ Days Ago",
@@ -1897,6 +1869,13 @@
      "firstListed": "2026-11-10"
     },
     {
+     "title": "Makeup Brand Manager",
+     "location": "Cdmx",
+     "posted": "Posted 30+ Days Ago",
+     "url": "https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/Cdmx/Makeup-Brand-Manager_JOBREQ00112634",
+     "firstListed": "2026-11-13"
+    },
+    {
      "title": "Specialist, Visual Merchandising, Aspen",
      "location": "Aspen, Co",
      "posted": "Posted 30+ Days Ago",
@@ -1947,7 +1926,7 @@
    "sourceUrl": "https://masco.wd1.myworkdayjobs.com/masco",
    "status": "ok",
    "error": "",
-   "total": 126,
+   "total": 129,
    "hiddenKnown": 0,
    "jobs": [
     {
@@ -1976,6 +1955,13 @@
    "total": 241,
    "hiddenKnown": 0,
    "jobs": [
+    {
+     "title": "Associate Industrial Designer (Hardlines)",
+     "location": "Customer Support Center",
+     "posted": "Posted Today",
+     "url": "https://dickssportinggoods.wd1.myworkdayjobs.com/DSG/job/Customer-Support-Center/Associate-Industrial-Designer--Bikes-_202638818",
+     "firstListed": "2026-11-10"
+    },
     {
      "title": "Store Designer",
      "location": "Customer Support Center",
@@ -2168,7 +2154,7 @@
    "sourceUrl": "https://haier.wd3.myworkdayjobs.com/GE_Appliances",
    "status": "ok",
    "error": "",
-   "total": 155,
+   "total": 154,
    "hiddenKnown": 0,
    "jobs": [
     {
@@ -2187,7 +2173,7 @@
    "sourceUrl": "https://generac.wd5.myworkdayjobs.com/External",
    "status": "ok",
    "error": "",
-   "total": 229,
+   "total": 226,
    "hiddenKnown": 1,
    "jobs": [
     {
@@ -2206,7 +2192,7 @@
    "sourceUrl": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM",
    "status": "ok",
    "error": "",
-   "total": 264,
+   "total": 266,
    "hiddenKnown": 5,
    "jobs": [
     {
@@ -2383,9 +2369,23 @@
    "sourceUrl": "https://justidjobs.com/jobs?level=internship%2Centry",
    "status": "ok",
    "error": "",
-   "total": 221,
+   "total": 223,
    "hiddenKnown": 55,
    "jobs": [
+    {
+     "title": "Industrial Designer 1",
+     "location": "Olathe, Kansas",
+     "posted": "2026-11-13",
+     "url": "https://careers.garmin.com/jobs/22246?lang=en-us&previousLocale=en-US",
+     "firstListed": "2026-11-13"
+    },
+    {
+     "title": "Industrial Designer 1",
+     "location": "Portland, Oregon",
+     "posted": "2026-11-13",
+     "url": "https://careers.garmin.com/jobs/22247?lang=en-us&previousLocale=en-US",
+     "firstListed": "2026-11-13"
+    },
     {
      "title": "Creative Designer",
      "location": "Warren, Michigan, United States of America",
@@ -3396,7 +3396,7 @@
    "sourceUrl": "https://lego.wd103.myworkdayjobs.com/LEGO_External",
    "status": "ok",
    "error": "",
-   "total": 234,
+   "total": 235,
    "hiddenKnown": 0,
    "jobs": [
     {
@@ -3649,7 +3649,7 @@
    "sourceUrl": "https://api.smartrecruiters.com/v1/companies/MattelInc/postings",
    "status": "ok",
    "error": "",
-   "total": 258,
+   "total": 256,
    "hiddenKnown": 0,
    "jobs": [
     {
@@ -3797,9 +3797,16 @@
    "sourceUrl": "https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll",
    "status": "ok",
    "error": "",
-   "total": 151,
+   "total": 150,
    "hiddenKnown": 0,
    "jobs": [
+    {
+     "title": "Sales & Design Specialist-San Jose Santana Row",
+     "location": "CA - San Jose",
+     "posted": "Posted Today",
+     "url": "https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll/job/CA---San-Jose/Sales---Design-Specialist-San-Jose-Santana-Row_JR110062",
+     "firstListed": "2026-11-13"
+    },
     {
      "title": "Designer - Product Applications",
      "location": "MI - Holland",
@@ -3840,13 +3847,6 @@
      "location": "CA - Costa Mesa",
      "posted": "Posted 7 Days Ago",
      "url": "https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll/job/CA---Costa-Mesa/Sales---Design-Specialist-Costa-Mesa-South-Coast-Plaza_JR110034",
-     "firstListed": "2026-11-06"
-    },
-    {
-     "title": "Sales & Design Specialist-Berkeley Fourth St",
-     "location": "CA - Berkeley",
-     "posted": "Posted 7 Days Ago",
-     "url": "https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll/job/CA---Berkeley/Sales---Design-Specialist-Berkeley-Fourth-St_JR110039",
      "firstListed": "2026-11-06"
     },
     {
@@ -4005,7 +4005,7 @@
    "sourceUrl": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers",
    "status": "ok",
    "error": "",
-   "total": 273,
+   "total": 278,
    "hiddenKnown": 0,
    "jobs": [
     {
@@ -4124,7 +4124,7 @@
    "sourceUrl": "https://nike.wd1.myworkdayjobs.com/nke",
    "status": "ok",
    "error": "",
-   "total": 210,
+   "total": 209,
    "hiddenKnown": 0,
    "jobs": [
     {
@@ -4420,13 +4420,6 @@
      "posted": "Posted 7 Days Ago",
      "url": "https://nike.wd1.myworkdayjobs.com/nke/job/Shanghai-China-Mainland/Specialist-II--Retail-Brand-Marketing-GC_R-97031",
      "firstListed": "2026-11-06"
-    },
-    {
-     "title": "Visual Merchandising Associate",
-     "location": "Melbourne, Victoria",
-     "posted": "Posted 8 Days Ago",
-     "url": "https://nike.wd1.myworkdayjobs.com/nke/job/Melbourne-Victoria/Visual-Merchandising-Associate_R-96883",
-     "firstListed": "2026-11-12"
     }
    ]
   },
@@ -4437,7 +4430,7 @@
    "sourceUrl": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh",
    "status": "ok",
    "error": "",
-   "total": 160,
+   "total": 159,
    "hiddenKnown": 0,
    "jobs": [
     {
@@ -4731,7 +4724,7 @@
    "sourceUrl": "https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site",
    "status": "ok",
    "error": "",
-   "total": 242,
+   "total": 241,
    "hiddenKnown": 2,
    "jobs": [
     {
@@ -4818,7 +4811,7 @@
    "sourceUrl": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers",
    "status": "ok",
    "error": "",
-   "total": 269,
+   "total": 270,
    "hiddenKnown": 2,
    "jobs": [
     {
@@ -4843,6 +4836,13 @@
      "firstListed": "2026-11-10"
     },
     {
+     "title": "Analyst, Graphic Design and Creative",
+     "location": "Cary, Illinois",
+     "posted": "Posted Today",
+     "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Cary-Illinois/Analyst--Graphic-Design-and-Creative_R576052",
+     "firstListed": "2026-11-13"
+    },
+    {
      "title": "Summer 2027 Internship - Industrial Design Intern - Michigan",
      "location": "Portage, Michigan",
      "posted": "Posted 30+ Days Ago",
@@ -4858,7 +4858,7 @@
    "sourceUrl": "https://trekbikes.wd1.myworkdayjobs.com/TREK",
    "status": "ok",
    "error": "",
-   "total": 143,
+   "total": 142,
    "hiddenKnown": 0,
    "jobs": []
   },
@@ -4869,7 +4869,7 @@
    "sourceUrl": "https://tricorbraun.wd115.myworkdayjobs.com/Careers",
    "status": "ok",
    "error": "",
-   "total": 34,
+   "total": 32,
    "hiddenKnown": 0,
    "jobs": [
     {
@@ -4895,23 +4895,9 @@
     },
     {
      "title": "Packaging Consultant",
-     "location": "San Antonio",
-     "posted": "Posted 30+ Days Ago",
-     "url": "https://tricorbraun.wd115.myworkdayjobs.com/Careers/job/San-Antonio/Packaging-Consultant_R-101883",
-     "firstListed": "2026-11-06"
-    },
-    {
-     "title": "Packaging Consultant",
      "location": "Mansfield, Massachusetts",
      "posted": "Posted 30+ Days Ago",
      "url": "https://tricorbraun.wd115.myworkdayjobs.com/Careers/job/Mansfield-Massachusetts/Packaging-Consultant_R-101839",
-     "firstListed": "2026-11-06"
-    },
-    {
-     "title": "Packaging Consultant",
-     "location": "Miami",
-     "posted": "Posted 16 Days Ago",
-     "url": "https://tricorbraun.wd115.myworkdayjobs.com/Careers/job/Miami/Packaging-Consultant_R-101914",
      "firstListed": "2026-11-06"
     },
     {
@@ -4981,7 +4967,7 @@
    "sourceUrl": "https://conagrabrands.wd1.myworkdayjobs.com/Careers_US",
    "status": "ok",
    "error": "",
-   "total": 169,
+   "total": 164,
    "hiddenKnown": 0,
    "jobs": [
     {
@@ -5028,7 +5014,7 @@
    "sourceUrl": "https://boards-api.greenhouse.io/v1/boards/dept/jobs",
    "status": "ok",
    "error": "",
-   "total": 176,
+   "total": 186,
    "hiddenKnown": 0,
    "jobs": [
     {
@@ -5053,11 +5039,11 @@
      "firstListed": "2026-11-10"
     },
     {
-     "title": "Associate Director, Art Director",
-     "location": "NY, US, US, IL, US - Remote",
-     "posted": "2026-10-14",
-     "url": "https://job-boards.greenhouse.io/dept/jobs/8015740",
-     "firstListed": "2026-11-10"
+     "title": "Associate Creative Director, Copy ",
+     "location": "London",
+     "posted": "2026-11-13",
+     "url": "https://job-boards.greenhouse.io/dept/jobs/7674350",
+     "firstListed": "2026-11-13"
     },
     {
      "title": "Associate Director Experience Design",
@@ -5103,10 +5089,31 @@
     },
     {
      "title": "Design Director ",
+     "location": "London",
+     "posted": "2026-11-13",
+     "url": "https://job-boards.greenhouse.io/dept/jobs/7990043",
+     "firstListed": "2026-11-13"
+    },
+    {
+     "title": "Design Director ",
      "location": "San Francisco, New York, Remote ",
      "posted": "2026-11-12",
      "url": "https://job-boards.greenhouse.io/dept/jobs/8365796",
      "firstListed": "2026-11-12"
+    },
+    {
+     "title": "Designer (6 month FTC)",
+     "location": "Toronto; Ontario, Vancouver; British Columbia",
+     "posted": "2026-11-13",
+     "url": "https://job-boards.greenhouse.io/dept/jobs/8385972",
+     "firstListed": "2026-11-13"
+    },
+    {
+     "title": "Designer (6 month FTC)",
+     "location": "Toronto; Ontario, Vancouver; British Columbia",
+     "posted": "2026-11-13",
+     "url": "https://job-boards.greenhouse.io/dept/jobs/8385885",
+     "firstListed": "2026-11-13"
     },
     {
      "title": "Digital Designer (UX/UI) - 6 months FTC",
@@ -5186,11 +5193,32 @@
      "firstListed": "2026-11-10"
     },
     {
+     "title": "Production Designer (6m FTC)",
+     "location": "Toronto, Vancouver ",
+     "posted": "2026-11-13",
+     "url": "https://job-boards.greenhouse.io/dept/jobs/8385795",
+     "firstListed": "2026-11-13"
+    },
+    {
+     "title": "Production Designer (6m FTC)",
+     "location": "London, Manchester",
+     "posted": "2026-11-13",
+     "url": "https://job-boards.greenhouse.io/dept/jobs/8385819",
+     "firstListed": "2026-11-13"
+    },
+    {
      "title": "Senior Creative Copywriter (m/f/div)",
      "location": "Berlin",
      "posted": "2026-10-14",
      "url": "https://job-boards.greenhouse.io/dept/jobs/8028337",
      "firstListed": "2026-11-10"
+    },
+    {
+     "title": "Senior Designer (6 month FTC)",
+     "location": "Toronto; Ontario, Vancouver; British Columbia",
+     "posted": "2026-11-13",
+     "url": "https://job-boards.greenhouse.io/dept/jobs/8385792",
+     "firstListed": "2026-11-13"
     },
     {
      "title": "Senior, Influencer Manager - Creative - US Remote",
@@ -5580,9 +5608,16 @@
    "sourceUrl": "https://mars.wd3.myworkdayjobs.com/External",
    "status": "ok",
    "error": "",
-   "total": 214,
+   "total": 212,
    "hiddenKnown": 0,
    "jobs": [
+    {
+     "title": "Packaging Area Maintenance Lead- Royal Canin- Guelph, ON",
+     "location": "CAN-Ontario-Guelph",
+     "posted": "Posted Today",
+     "url": "https://mars.wd3.myworkdayjobs.com/External/job/CAN-Ontario-Guelph/Packaging-Area-Maintenance-Lead--Royal-Canin--Guelph--ON_R172355-1",
+     "firstListed": "2026-11-13"
+    },
     {
      "title": "Brand Manager - Pet Nutrition",
      "location": "AUS-Victoria-Melbourne",
@@ -5596,13 +5631,6 @@
      "posted": "Posted 2 Days Ago",
      "url": "https://mars.wd3.myworkdayjobs.com/External/job/NLD-North-Brabant-Veghel/Brand-marketing-Internship_R170730-1",
      "firstListed": "2026-11-11"
-    },
-    {
-     "title": "Buyer- Directs (Packaging); Mars Petcare; Hyderabad",
-     "location": "IND-Telangana-Hyderabad",
-     "posted": "Posted 10 Days Ago",
-     "url": "https://mars.wd3.myworkdayjobs.com/External/job/IND-Telangana-Hyderabad/Buyer--Directs--Mars-Petcare--Hyderabad_R169571",
-     "firstListed": "2026-11-10"
     },
     {
      "title": "Sr Specialist, Co-Ops - Packaging",
@@ -5686,7 +5714,7 @@
    "sourceUrl": "https://boards-api.greenhouse.io/v1/boards/airbnb/jobs",
    "status": "ok",
    "error": "",
-   "total": 214,
+   "total": 215,
    "hiddenKnown": 0,
    "jobs": [
     {
@@ -5766,7 +5794,7 @@
    "sourceUrl": "https://expedia.wd108.myworkdayjobs.com/search",
    "status": "ok",
    "error": "",
-   "total": 110,
+   "total": 113,
    "hiddenKnown": 0,
    "jobs": [
     {
@@ -5845,16 +5873,9 @@
    "sourceUrl": "https://huron.wd1.myworkdayjobs.com/huroncareers",
    "status": "ok",
    "error": "",
-   "total": 215,
+   "total": 214,
    "hiddenKnown": 0,
    "jobs": [
-    {
-     "title": "Instructional Design Associate",
-     "location": "Bangalore India - South 3rd Floor",
-     "posted": "Posted 2 Days Ago",
-     "url": "https://huron.wd1.myworkdayjobs.com/huroncareers/job/Bangalore-India---South-3rd-Floor/Instructional-Design-Associate_JR-0017160",
-     "firstListed": "2026-11-11"
-    },
     {
      "title": "Instructional Designer - Healthcare Consulting",
      "location": "50 Locations",
@@ -5871,7 +5892,7 @@
    "sourceUrl": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site",
    "status": "ok",
    "error": "",
-   "total": 179,
+   "total": 177,
    "hiddenKnown": 0,
    "jobs": [
     {
@@ -5904,7 +5925,7 @@
    "sourceUrl": "https://api.smartrecruiters.com/v1/companies/ServiceNow/postings",
    "status": "ok",
    "error": "",
-   "total": 804,
+   "total": 810,
    "hiddenKnown": 0,
    "jobs": [
     {
@@ -6056,7 +6077,7 @@
    "sourceUrl": "https://boards-api.greenhouse.io/v1/boards/topsteptrader/jobs",
    "status": "ok",
    "error": "",
-   "total": 19,
+   "total": 17,
    "hiddenKnown": 0,
    "jobs": [
     {

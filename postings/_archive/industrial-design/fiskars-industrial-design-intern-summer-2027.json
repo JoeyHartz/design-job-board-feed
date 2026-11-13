@@ -15,12 +15,12 @@
   "url": "https://fiskars.wd3.myworkdayjobs.com/FiskarsGroup/job/Middleton/Industrial-Design-Intern-_JR-009428",
   "source": "Watchlist · Fiskars",
   "note": "Consumer products studio; for current ID/product design undergrads, apply by Nov 12.",
-  "status": "open",
+  "status": "closed",
   "firstSeen": "2026-11-10",
-  "lastUpdated": "2026-11-10",
+  "lastUpdated": "2026-11-13",
   "lastVerified": "2026-11-10",
-  "closedAt": "",
-  "closedReason": "",
+  "closedAt": "2026-11-13",
+  "closedReason": "deadline passed (2026-11-12)",
   "statusHistory": [
     {
       "date": "2026-11-10",
@@ -31,6 +31,11 @@
       "date": "2026-11-10",
       "status": "open",
       "reason": "approved by JoeyHartz"
+    },
+    {
+      "date": "2026-11-13",
+      "status": "closed",
+      "reason": "deadline passed (2026-11-12)"
     }
   ],
   "facts": {
