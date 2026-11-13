@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "id": "teams-design-cgi-internship-hamburg",
+  "title": "6-Month CGI Internship (Hamburg)",
+  "company": "TEAMS Design",
+  "programs": [
+    "ID"
+  ],
+  "level": "Internship",
+  "term": "Six months, spring or autumn 2027",
+  "location": "Hamburg, Germany · on-site",
+  "region": "International",
+  "pay": "",
+  "deadline": "",
+  "url": "https://www.teamsdesign.com/en/careers/hamburg-6-month-cgi-internship",
+  "source": "Watchlist · TEAMS Design",
+  "note": "Product rendering and 3D animation internship; only for students who need a compulsory internship.",
+  "status": "pending",
+  "firstSeen": "2026-11-13",
+  "lastUpdated": "2026-11-13",
+  "lastVerified": "2026-11-13",
+  "closedAt": "",
+  "closedReason": "",
+  "statusHistory": [
+    {
+      "date": "2026-11-13",
+      "status": "pending",
+      "reason": "added, waiting for approval"
+    }
+  ],
+  "facts": {
+    "summary": "CGI intern at TEAMS Hamburg staging, rendering and animating product designs for consumer, mobility and professional-equipment clients.",
+    "duties": "Create virtual product photography and 3D animations; prepare models, materials and lighting; AI-assisted imaging and post-production.",
+    "requirements": "Enrolled student needing a required internship; basic Blender/3ds Max and/or Rhino, V-Ray or KeyShot, Adobe CC.",
+    "apply": "Email cover letter, CV and portfolio PDF (10-15MB max), or use the contact form."
+  },
+  "previousStatus": "",
+  "errorDetail": ""
+}

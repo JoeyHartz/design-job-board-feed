@@ -15,17 +15,22 @@
   "url": "https://jobs.ashbyhq.com/Solace/8c77b80c-957a-4861-87f9-63b05f09f5be",
   "source": "designproject.io",
   "note": "Early-career product design role for Class of 2027 graduates; online portfolio required.",
-  "status": "open",
+  "status": "closed",
   "firstSeen": "2026-10-23",
-  "lastUpdated": "2026-10-23",
+  "lastUpdated": "2026-11-13",
   "lastVerified": "2026-10-23",
-  "closedAt": "",
-  "closedReason": "",
+  "closedAt": "2026-11-13",
+  "closedReason": "no longer listed (re-checked 2026-11-13)",
   "statusHistory": [
     {
       "date": "2026-11-05",
       "status": "open",
       "reason": "imported from artifact"
+    },
+    {
+      "date": "2026-11-13",
+      "status": "closed",
+      "reason": "no longer listed (re-checked 2026-11-13): Ashby job URL 404 and missing from Solace's public job-board API"
     }
   ],
   "facts": {},
