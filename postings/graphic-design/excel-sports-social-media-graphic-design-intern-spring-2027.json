@@ -15,7 +15,7 @@
   "url": "https://job-boards.greenhouse.io/excelsportsmanagement/jobs/4747595005",
   "source": "Web search",
   "note": "Part-time social graphics internship at a sports agency; senior standing or degree required, no visa sponsorship; applications close Nov 20.",
-  "status": "pending",
+  "status": "open",
   "firstSeen": "2026-11-13",
   "lastUpdated": "2026-11-13",
   "lastVerified": "2026-11-13",
@@ -26,6 +26,11 @@
       "date": "2026-11-13",
       "status": "pending",
       "reason": "added, waiting for approval"
+    },
+    {
+      "date": "2026-11-13",
+      "status": "open",
+      "reason": "approved by JoeyHartz"
     }
   ],
   "facts": {
