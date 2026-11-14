@@ -1,11 +1,12 @@
-# Link check: 2026-11-13
+# Link check: 2026-11-14
 
-Generated 2026-11-13T12:45-06:00 by the daily maintenance Action. 236 open postings: 222 ok, **5 look gone**, 9 couldn't be checked, 0 skipped (LinkedIn). Nothing is closed automatically: the routine opens each "look gone" posting and closes it only if it's really gone.
+Generated 2026-11-14T11:18-06:00 by the daily maintenance Action. 235 open postings: 220 ok, **6 look gone**, 9 couldn't be checked, 0 skipped (LinkedIn). Nothing is closed automatically: the routine opens each "look gone" posting and closes it only if it's really gone.
 
 ## Look gone (routine: confirm and close)
 
 | Posting | Company | Title | Detail | Link |
 |---|---|---|---|---|
+| athena-summer-2027-designer-intern-creative | Athena Global Advisors | Summer 2027 Intern, Designer, Creative Department | redirected to a general page: https://ats.rippling.com/athena-careers/jobs?rr_message=job_not_found | [link](https://ats.rippling.com/athena-careers/jobs/6caed124-e1e5-45a8-a485-87bd9811c699) |
 | garmin-industrial-designer-1-olathe | Garmin | Industrial Designer 1 | HTTP 404 | [link](https://careers.garmin.com/jobs/18646?lang=en-us) |
 | garmin-industrial-designer-1-portland | Garmin | Industrial Designer 1 | HTTP 404 | [link](https://careers.garmin.com/jobs/18738?lang=en-us) |
 | jetzero-product-and-design-summer-internship-2027 | JetZero | 2027 Product & Design Summer Internship | redirected to https://job-boards.greenhouse.io/jetzero?error=true | [link](https://job-boards.greenhouse.io/jetzero/jobs/5437126008) |

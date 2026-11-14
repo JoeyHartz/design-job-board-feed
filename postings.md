@@ -2,16 +2,16 @@
 
 Open internships, co-ops and entry-level jobs for Industrial Design, Graphic Design and UI/UX students in the School of Art & Design at the University of Illinois Urbana-Champaign.
 
-**234 open jobs** · updated Nov 13, 2026 · download as [CSV](postings.csv) or [JSON](postings.json)
+**233 open jobs** · updated Nov 14, 2026 · download as [CSV](postings.csv) or [JSON](postings.json)
 
 > Every job here was checked against our criteria and approved by a person before it was listed, but jobs can close without notice. Always confirm the details on the employer's site before you apply.
 
 ## Contents
 
-- [Closing soon](#closing-soon) (7)
+- [Closing soon](#closing-soon) (6)
 - [New this week](#new-this-week) (89)
 - **[Industrial Design](#industrial-design)** (152): [Chicago area](#industrial-design--chicago-area) (3) · [Midwest](#industrial-design--midwest) (40) · [Remote](#industrial-design--remote) (1) · [Elsewhere in US](#industrial-design--elsewhere-in-us) (69) · [International](#industrial-design--international) (39)
-- **[Graphic Design](#graphic-design)** (36): [Chicago area](#graphic-design--chicago-area) (6) · [Midwest](#graphic-design--midwest) (8) · [Remote](#graphic-design--remote) (3) · [Elsewhere in US](#graphic-design--elsewhere-in-us) (16) · [International](#graphic-design--international) (3)
+- **[Graphic Design](#graphic-design)** (35): [Chicago area](#graphic-design--chicago-area) (6) · [Midwest](#graphic-design--midwest) (7) · [Remote](#graphic-design--remote) (3) · [Elsewhere in US](#graphic-design--elsewhere-in-us) (16) · [International](#graphic-design--international) (3)
 - **[UI/UX & Digital Product](#uiux--digital-product)** (37): [Chicago area](#uiux--digital-product--chicago-area) (1) · [Midwest](#uiux--digital-product--midwest) (11) · [Remote](#uiux--digital-product--remote) (4) · [Elsewhere in US](#uiux--digital-product--elsewhere-in-us) (19) · [International](#uiux--digital-product--international) (2)
 - **[ID + GD](#id--gd)** (9): [Midwest](#id--gd--midwest) (6) · [Elsewhere in US](#id--gd--elsewhere-in-us) (1) · [International](#id--gd--international) (2)
 - [About this list](#about-this-list)
@@ -22,7 +22,6 @@ Jobs with an apply-by date in the next 14 days, soonest first.
 
 | Apply by | Job | Company | Program |
 |---|---|---|---|
-| Nov 13 | [2027 Summer Graphic Design Internship](https://www.wayup.com/i-Banking-j-2027-Summer-Graphic-Design-Internship-KeyBank-380186093006550/) | KeyBank | Graphic Design |
 | Nov 15 | [Product Design Student Intern, Summer 2027](https://jobs.lever.co/theathletic/b542eab4-22f0-4130-ba24-c8c04acc16f2) | The Athletic (New York Times) | UI/UX & Digital Product |
 | Nov 20 | [Industrial Design Intern – Product Design Cabin](https://ag.wd3.myworkdayjobs.com/Airbus/job/Hamburg-Area/Industrial-Design-Intern---Product-Design-Cabin-Hamburg--d-f-m-_JR10454867) | Airbus | Industrial Design |
 | Nov 20 | [Spring 2027 - Intern, Social Media Graphic Design](https://job-boards.greenhouse.io/excelsportsmanagement/jobs/4747595005) | Excel Sports Management | Graphic Design |
@@ -1262,7 +1261,7 @@ _Power tools and outdoor equipment; posting is in German._
 
 ## Graphic Design
 
-36 jobs: [Chicago area](#graphic-design--chicago-area) (6) · [Midwest](#graphic-design--midwest) (8) · [Remote](#graphic-design--remote) (3) · [Elsewhere in US](#graphic-design--elsewhere-in-us) (16) · [International](#graphic-design--international) (3)
+35 jobs: [Chicago area](#graphic-design--chicago-area) (6) · [Midwest](#graphic-design--midwest) (7) · [Remote](#graphic-design--remote) (3) · [Elsewhere in US](#graphic-design--elsewhere-in-us) (16) · [International](#graphic-design--international) (3)
 
 ### Graphic Design · Chicago area
 
@@ -1329,11 +1328,6 @@ _Brand design for 3M's Safety & Industrial group; 10–12 week internship. Must 
 Aptiv · Internship  
 Troy, MI · Pay: Paid (rate not listed) · Found Oct 23  
 _Automotive tech marketing team: graphics, video and social content. Premiere and After Effects expected._
-
-**[2027 Summer Graphic Design Internship](https://www.wayup.com/i-Banking-j-2027-Summer-Graphic-Design-Internship-KeyBank-380186093006550/)**  
-KeyBank · Internship · May 26–Aug 6, 2027  
-Brooklyn, OH (Cleveland area, hybrid) · Pay: $23/hr + $2,000 sign-on bonus · **Apply by Nov 13, 2026** · Found Oct 23  
-_Leans toward motion graphics. Must have finished two years of study, 3.0 GPA, graduating by May 2028._
 
 **[Graphic Design Intern](https://www.mortenson.com/careers/hq-business-support/graphic-design-intern-23351)**  
 Mortenson · Internship · Summer 2027 (May–Aug)  
