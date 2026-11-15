@@ -1,6 +1,6 @@
-# Link check: 2026-11-14
+# Link check: 2026-11-15
 
-Generated 2026-11-14T11:18-06:00 by the daily maintenance Action. 235 open postings: 220 ok, **6 look gone**, 9 couldn't be checked, 0 skipped (LinkedIn). Nothing is closed automatically: the routine opens each "look gone" posting and closes it only if it's really gone.
+Generated 2026-11-15T11:59-06:00 by the daily maintenance Action. 235 open postings: 220 ok, **6 look gone**, 9 couldn't be checked, 0 skipped (LinkedIn). Nothing is closed automatically: the routine opens each "look gone" posting and closes it only if it's really gone.
 
 ## Look gone (routine: confirm and close)
 
