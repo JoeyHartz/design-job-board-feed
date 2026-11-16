@@ -75,3 +75,26 @@ class PageTests(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class CopyPageTests(unittest.TestCase):
+    def test_four_line_format_in_code_boxes(self):
+        rows = [row(id="a", company="Acme", title="Design Intern", location="Chicago,  IL", url="https://x/1",
+                    firstSeen="2026-11-09"),
+                row(id="b", company="Beta", title="UX Intern", program="UI/UX & Digital Product",
+                    location="Remote", url="https://x/2", firstSeen="2026-10-01")]
+        text = feed_markdown.render_copy(rows, CFG, TODAY)
+        self.assertIn("````text\nAcme\nDesign Intern\nChicago, IL\nhttps://x/1\n````", text)   # new this week
+        all_box = text.split("## All open jobs")[1]
+        self.assertIn("Acme\nDesign Intern\nChicago, IL\nhttps://x/1\n\nBeta\nUX Intern\nRemote\nhttps://x/2", all_box)
+        self.assertNotIn("SECRET SOURCE", text)
+
+    def test_jump_links_match_headings(self):
+        text = feed_markdown.render_copy([row()], CFG, TODAY)
+        s = feed_markdown.Slugger()
+        anchors = {s(h) for h in re.findall(r"^#{1,2} (.+)$", text, re.M)}
+        self.assertEqual(set(re.findall(r"\]\(#([^)]+)\)", text)) - anchors, set())
+
+    def test_backticks_in_titles_do_not_break_the_box(self):
+        text = feed_markdown.render_copy([row(title="Designer ````odd````")], CFG, TODAY)
+        self.assertIn("`````text", text)

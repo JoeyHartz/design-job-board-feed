@@ -158,3 +158,52 @@ def render(rows, cfg, today: dt.date, csv_name="postings.csv", json_name="postin
     out += [f"Regions: {', '.join(esc(r) for r in regions)}. \"Midwest\" means Illinois outside Chicagoland and nearby "
             "states; \"International\" includes Canada.", "", back, ""]
     return "\n".join(out)
+
+
+def copy_block(rows):
+    """Jobs as plain text, four lines each, a blank line between jobs."""
+    fence = "````"
+    body = "\n\n".join("\n".join(" ".join(str(r.get(k) or "").split()) for k in ("company", "title", "location", "url"))
+                       for r in rows)
+    while fence in body:
+        fence += "`"
+    return f"{fence}text\n{body}\n{fence}" if rows else "None right now."
+
+
+def render_copy(rows, cfg, today: dt.date, page_name="postings.md"):
+    """postings-copy.md: the open jobs in a copy-and-paste format.
+
+    Each job is four lines (company, role title, location, link) with a blank line
+    between jobs, inside code boxes so GitHub shows a copy button for each box."""
+    page = cfg.get("feed", {}).get("markdown", {})
+    new_days = page.get("newDays", 7)
+    labels = [cfg["programs"][p]["label"] for p in cfg.get("programOrder", cfg["programs"])]
+    labels += [c["label"] for c in cfg.get("comboLabels", [])]
+
+    def as_date(v):
+        try:
+            return dt.date.fromisoformat(v)
+        except (TypeError, ValueError):
+            return None
+
+    new = [r for r in rows if as_date(r.get("firstSeen")) and as_date(r["firstSeen"]) > today - dt.timedelta(days=new_days)]
+    by_prog = OrderedDict((lab, []) for lab in labels)
+    for r in rows:
+        by_prog.setdefault(r.get("program", "Other"), []).append(r)
+
+    slug = Slugger()
+    top = slug("Copy-and-paste job list")
+    sections = [("New this week", new, f"Added in the last {new_days} days, newest first.")]
+    sections += [(lab, items, "Newest first.") for lab, items in by_prog.items() if items]
+    sections += [("All open jobs", rows, "Every job on the board, newest first.")]
+    anchors = [slug(name) for name, _, _ in sections]
+
+    out = ["# Copy-and-paste job list", "",
+           f"**{len(rows)} open job{'s' if len(rows) != 1 else ''}** · updated {nice_date(today.isoformat(), True)} · "
+           f"[readable version]({page_name})", "",
+           "Each job is four lines: company, role title, location, link. On GitHub, hover over a box and click its "
+           "copy button (top right) to copy the whole list.", "",
+           "Jump to: " + " · ".join(f"[{esc(name)}](#{a}) ({len(items)})" for (name, items, _), a in zip(sections, anchors)), ""]
+    for name, items, note in sections:
+        out += [f"## {esc(name)}", "", note, "", copy_block(items), "", f"[Back to top](#{top})", ""]
+    return "\n".join(out)

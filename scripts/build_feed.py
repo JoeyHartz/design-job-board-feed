@@ -896,6 +896,12 @@ class Build:
             p = self.root / md_name
             if not p.exists() or p.read_text(encoding="utf-8") != text:
                 p.write_text(text, encoding="utf-8")
+            copy_name = self.board.paths.get("feedCopy")
+            if copy_name:
+                text = feed_markdown.render_copy(self.feed, self.board.cfg, self.today, Path(md_name).name)
+                p = self.root / copy_name
+                if not p.exists() or p.read_text(encoding="utf-8") != text:
+                    p.write_text(text, encoding="utf-8")
         return changed
 
     # -- log ------------------------------------------------------------------

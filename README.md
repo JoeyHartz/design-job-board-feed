@@ -5,6 +5,7 @@ Open internships, co-ops and entry-level roles for Industrial Design, Graphic De
 **The published feed:**
 
 - **[Browse the open jobs →](postings.md)** `postings.md` is the readable page: jobs closing soon, new this week, then every job by program and region, with a table of contents.
+- **[Copy-and-paste list →](postings-copy.md)** `postings-copy.md` has every job as four lines (company, role title, location, link) in boxes with a copy button: new this week, one box per program, and all jobs.
 - `postings.csv` and `postings.json` list the same open postings as data. Columns: Program, Title, Company, Type, Term, Location, Region, Pay, Apply by, Found, Note, Link.
 - Listings are gathered automatically and can close without notice. Confirm details on the employer's site before applying.
 

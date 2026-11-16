@@ -34,7 +34,8 @@
     "buildResult": "run/last-build.json",
     "feedCsv": "postings.csv",
     "feedJson": "postings.json",
-    "feedMarkdown": "postings.md"
+    "feedMarkdown": "postings.md",
+    "feedCopy": "postings-copy.md"
   },
   "feed": {
     "csvColumns": [
