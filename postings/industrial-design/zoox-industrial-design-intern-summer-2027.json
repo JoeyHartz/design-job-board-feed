@@ -15,7 +15,7 @@
   "url": "https://jobs.lever.co/zoox/23867c45-d2df-4f87-86ff-244c864614cd",
   "source": "Watchlist · Just ID Jobs",
   "note": "Needs at least two years of transportation/product design coursework and one prior internship or relevant project; must return to school after.",
-  "status": "pending",
+  "status": "open",
   "firstSeen": "2026-11-16",
   "lastUpdated": "2026-11-16",
   "lastVerified": "2026-11-16",
@@ -26,6 +26,11 @@
       "date": "2026-11-16",
       "status": "pending",
       "reason": "added, waiting for approval"
+    },
+    {
+      "date": "2026-11-16",
+      "status": "open",
+      "reason": "approved by JoeyHartz"
     }
   ],
   "facts": {

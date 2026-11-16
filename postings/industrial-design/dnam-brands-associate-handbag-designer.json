@@ -15,7 +15,7 @@
   "url": "https://jobs.lever.co/silhouette/0c48df45-0e93-48f5-9601-c67310939f6b",
   "source": "Watchlist · Just ID Jobs",
   "note": "Open to candidates with 1–2 years of experience or a relevant internship in accessories or fashion design.",
-  "status": "pending",
+  "status": "open",
   "firstSeen": "2026-11-16",
   "lastUpdated": "2026-11-16",
   "lastVerified": "2026-11-16",
@@ -26,6 +26,11 @@
       "date": "2026-11-16",
       "status": "pending",
       "reason": "added, waiting for approval"
+    },
+    {
+      "date": "2026-11-16",
+      "status": "open",
+      "reason": "approved by JoeyHartz"
     }
   ],
   "facts": {
