@@ -78,15 +78,16 @@ if __name__ == "__main__":
 
 
 class CopyPageTests(unittest.TestCase):
-    def test_four_line_format_in_code_boxes(self):
+    def test_each_job_in_its_own_box(self):
         rows = [row(id="a", company="Acme", title="Design Intern", location="Chicago,  IL", url="https://x/1",
                     firstSeen="2026-11-09"),
                 row(id="b", company="Beta", title="UX Intern", program="UI/UX & Digital Product",
                     location="Remote", url="https://x/2", firstSeen="2026-10-01")]
         text = feed_markdown.render_copy(rows, CFG, TODAY)
-        self.assertIn("````text\nAcme\nDesign Intern\nChicago, IL\nhttps://x/1\n````", text)   # new this week
-        all_box = text.split("## All open jobs")[1]
-        self.assertIn("Acme\nDesign Intern\nChicago, IL\nhttps://x/1\n\nBeta\nUX Intern\nRemote\nhttps://x/2", all_box)
+        self.assertIn("````text\nAcme\nDesign Intern\nChicago, IL\nhttps://x/1\n````", text)
+        self.assertIn("````text\nBeta\nUX Intern\nRemote\nhttps://x/2\n````", text)
+        self.assertEqual(text.count("````text"), 3)        # Acme twice (new this week + its program), Beta once
+        self.assertNotIn("## All open jobs", text)
         self.assertNotIn("SECRET SOURCE", text)
 
     def test_jump_links_match_headings(self):

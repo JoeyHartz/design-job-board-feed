@@ -173,8 +173,8 @@ def copy_block(rows):
 def render_copy(rows, cfg, today: dt.date, page_name="postings.md"):
     """postings-copy.md: the open jobs in a copy-and-paste format.
 
-    Each job is four lines (company, role title, location, link) with a blank line
-    between jobs, inside code boxes so GitHub shows a copy button for each box."""
+    Each job is its own code box of four lines (company, role title, location, link),
+    so GitHub shows a copy button for every job. Sections: new this week, then one per program."""
     page = cfg.get("feed", {}).get("markdown", {})
     new_days = page.get("newDays", 7)
     labels = [cfg["programs"][p]["label"] for p in cfg.get("programOrder", cfg["programs"])]
@@ -195,15 +195,20 @@ def render_copy(rows, cfg, today: dt.date, page_name="postings.md"):
     top = slug("Copy-and-paste job list")
     sections = [("New this week", new, f"Added in the last {new_days} days, newest first.")]
     sections += [(lab, items, "Newest first.") for lab, items in by_prog.items() if items]
-    sections += [("All open jobs", rows, "Every job on the board, newest first.")]
     anchors = [slug(name) for name, _, _ in sections]
 
     out = ["# Copy-and-paste job list", "",
            f"**{len(rows)} open job{'s' if len(rows) != 1 else ''}** · updated {nice_date(today.isoformat(), True)} · "
            f"[readable version]({page_name})", "",
-           "Each job is four lines: company, role title, location, link. On GitHub, hover over a box and click its "
-           "copy button (top right) to copy the whole list.", "",
+           "Each job is in its own box as four lines: company, role title, location, link. On GitHub, hover over "
+           "a box and click its copy button (top right) to copy that job.", "",
            "Jump to: " + " · ".join(f"[{esc(name)}](#{a}) ({len(items)})" for (name, items, _), a in zip(sections, anchors)), ""]
     for name, items, note in sections:
-        out += [f"## {esc(name)}", "", note, "", copy_block(items), "", f"[Back to top](#{top})", ""]
+        out += [f"## {esc(name)}", "", note, ""]
+        if items:
+            for r in items:
+                out += [copy_block([r]), ""]
+        else:
+            out += ["None right now.", ""]
+        out += [f"[Back to top](#{top})", ""]
     return "\n".join(out)
