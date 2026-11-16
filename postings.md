@@ -2,17 +2,17 @@
 
 Open internships, co-ops and entry-level jobs for Industrial Design, Graphic Design and UI/UX students in the School of Art & Design at the University of Illinois Urbana-Champaign.
 
-**233 open jobs** · updated Nov 15, 2026 · download as [CSV](postings.csv) or [JSON](postings.json)
+**229 open jobs** · updated Nov 16, 2026 · download as [CSV](postings.csv) or [JSON](postings.json)
 
 > Every job here was checked against our criteria and approved by a person before it was listed, but jobs can close without notice. Always confirm the details on the employer's site before you apply.
 
 ## Contents
 
-- [Closing soon](#closing-soon) (7)
-- [New this week](#new-this-week) (89)
-- **[Industrial Design](#industrial-design)** (152): [Chicago area](#industrial-design--chicago-area) (3) · [Midwest](#industrial-design--midwest) (40) · [Remote](#industrial-design--remote) (1) · [Elsewhere in US](#industrial-design--elsewhere-in-us) (69) · [International](#industrial-design--international) (39)
-- **[Graphic Design](#graphic-design)** (35): [Chicago area](#graphic-design--chicago-area) (6) · [Midwest](#graphic-design--midwest) (7) · [Remote](#graphic-design--remote) (3) · [Elsewhere in US](#graphic-design--elsewhere-in-us) (16) · [International](#graphic-design--international) (3)
-- **[UI/UX & Digital Product](#uiux--digital-product)** (37): [Chicago area](#uiux--digital-product--chicago-area) (1) · [Midwest](#uiux--digital-product--midwest) (11) · [Remote](#uiux--digital-product--remote) (4) · [Elsewhere in US](#uiux--digital-product--elsewhere-in-us) (19) · [International](#uiux--digital-product--international) (2)
+- [Closing soon](#closing-soon) (13)
+- [New this week](#new-this-week) (80)
+- **[Industrial Design](#industrial-design)** (151): [Chicago area](#industrial-design--chicago-area) (3) · [Midwest](#industrial-design--midwest) (40) · [Remote](#industrial-design--remote) (1) · [Elsewhere in US](#industrial-design--elsewhere-in-us) (68) · [International](#industrial-design--international) (39)
+- **[Graphic Design](#graphic-design)** (34): [Chicago area](#graphic-design--chicago-area) (6) · [Midwest](#graphic-design--midwest) (7) · [Remote](#graphic-design--remote) (2) · [Elsewhere in US](#graphic-design--elsewhere-in-us) (16) · [International](#graphic-design--international) (3)
+- **[UI/UX & Digital Product](#uiux--digital-product)** (35): [Chicago area](#uiux--digital-product--chicago-area) (1) · [Midwest](#uiux--digital-product--midwest) (11) · [Remote](#uiux--digital-product--remote) (3) · [Elsewhere in US](#uiux--digital-product--elsewhere-in-us) (18) · [International](#uiux--digital-product--international) (2)
 - **[ID + GD](#id--gd)** (9): [Midwest](#id--gd--midwest) (6) · [Elsewhere in US](#id--gd--elsewhere-in-us) (1) · [International](#id--gd--international) (2)
 - [About this list](#about-this-list)
 
@@ -22,13 +22,19 @@ Jobs with an apply-by date in the next 14 days, soonest first.
 
 | Apply by | Job | Company | Program |
 |---|---|---|---|
-| Nov 15 | [Product Design Student Intern, Summer 2027](https://jobs.lever.co/theathletic/b542eab4-22f0-4130-ba24-c8c04acc16f2) | The Athletic (New York Times) | UI/UX & Digital Product |
 | Nov 20 | [Industrial Design Intern – Product Design Cabin](https://ag.wd3.myworkdayjobs.com/Airbus/job/Hamburg-Area/Industrial-Design-Intern---Product-Design-Cabin-Hamburg--d-f-m-_JR10454867) | Airbus | Industrial Design |
 | Nov 20 | [Spring 2027 - Intern, Social Media Graphic Design](https://job-boards.greenhouse.io/excelsportsmanagement/jobs/4747595005) | Excel Sports Management | Graphic Design |
 | Nov 22 | [FOX News Media Internship – Graphic Design (Spring 2027)](https://www.wayup.com/i-Broadcast-Media-j-Spring-2027-FOX-News-Media-Internship-Program-Graphic-Design-New-York-FOX-Corporation-837858992313442/) | FOX Corporation | Graphic Design |
 | Nov 23 | [Exhibit Design Intern, Winter/Spring 2027](https://deckelmoneypenny.com/job/exhibit-design-intern-winter-spring-2027/) | Deckel & Moneypenny | Industrial Design |
 | Nov 23 | [Scientific Illustrator (16-week internship)](https://www.builtinchicago.org/job/scientific-illustrator/11756726) | Field Museum | Graphic Design |
 | Nov 29 | [Summer 2027 Intern – Industrial Design (Brand ID + Product, CMF)](https://search-careers.gm.com/en/jobs/jr-202621626/summer-2027-intern-industrial-design/) | General Motors | ID + GD |
+| Nov 30 | [Industrial Design Co-op](https://basspro.wd1.myworkdayjobs.com/careers/job/Springfield-MO-Tracker-Marine-Base-Camp/Industrial-Design-Co-Op_R267065) | Bass Pro Shops | Industrial Design |
+| Nov 30 | [Product Design (Toys) Intern – Spring 2027](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Kissimmee-FL-USA/Product-Design--Toys--Intern--Spring-2027_10160487-1) | Disney Consumer Products | Industrial Design |
+| Nov 30 | [2027 Summer Intern – Clay Sculpting](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Clay-Sculpting_JR-202619287) | General Motors | Industrial Design |
+| Nov 30 | [2027 Summer Intern – Digital Sculpting](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Sculpting_JR-202619286) | General Motors | Industrial Design |
+| Nov 30 | [Summer 2027 Intern – Computational Design](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Summer-2027-Intern---Computational-Design-Intern_JR-202621454) | General Motors | Industrial Design |
+| Nov 30 | [Summer Intern 2027 – Industrial Design 3D Surfacing](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Valley-City-OH-United-States/Summer-Intern-2027---Industrial-Design-3D-Surfacing_REQ-1000052790) | Stanley Black & Decker | Industrial Design |
+| Nov 30 | [Industrial Design Intern](https://zweigrad.de/job/industrial-design-intern-ab-01-09-2025/) | zweigrad | Industrial Design |
 
 [Back to top](#id--gd-job-board)
 
@@ -436,56 +442,11 @@ Warrior Sports · Industrial Design · Entry-level · Full-time
 Shelby Township, MI · Pay: not listed · Found Nov 10  
 _Lacrosse equipment (sporting goods); asks for 1–3 years of experience._
 
-**[Internship - 2027 Undergraduate 3M Brand Design Intern (SIBG)](https://3m.wd1.myworkdayjobs.com/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-3M-Brand-Design-Intern---Safety---Industrial-Business-Group--SIBG-_R01172458)**  
-3M · Graphic Design · Internship · Summer 2027  
-Maplewood, MN (on-site) · Pay: not listed · Found Nov 9  
-_Brand design for 3M's Safety & Industrial group; 10–12 week internship. Must be authorized to work in the US without sponsorship._
-
-**[Internship - 2027 Undergraduate 3M UX/UI Design Intern (SIBG)](https://3m.wd1.myworkdayjobs.com/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-3M-UX-UI-Design-Intern---Safety---Industrial-Business-Group--SIBG-_R01172459)**  
-3M · UI/UX & Digital Product · Internship · Summer 2027  
-Maplewood, MN (on-site) · Pay: not listed · Found Nov 9  
-_UX/UI design for 3M's Safety & Industrial group; 10–12 week internship. Must be authorized to work in the US without sponsorship._
-
-**[2027 Intern - Brand Creative](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/XMLNAME-2027-Intern---Brand-Creative_R173411)**  
-Adobe · Graphic Design · Internship · Summer 2027  
-San Francisco, CA · Pay: $25.00–$30.00 per hour (US range) · Found Nov 9  
-_Brand creative internship; for full-time bachelor's students in graphic design, branding or visual design graduating Dec 2027–Jun 2028._
-
-**[Footwear Design Intern (Summer 2027)](https://job-boards.greenhouse.io/keenfootwear/jobs/4751551005)**  
-KEEN Footwear · Industrial Design · Internship · Summer 2027 (June 14–August 20)  
-Portland, OR (on-site) · Pay: $22 per hour · Found Nov 9  
-_For students in industrial design or related fields; must be eligible to work in the US without sponsorship._
-
-**[Design Intern](https://www.m3design.com/careers/)**  
-M3 Design · Industrial Design · Internship  
-Round Rock, TX · Pay: not listed · Found Nov 9  
-_Apply by email to resume@m3design.com with "Design Intern" in the subject; for industrial or product design students or recent grads._
-
-**[Mercury Marine: UX/UI Design Intern](https://brunswick.wd1.myworkdayjobs.com/search/job/Fond-du-Lac-WI/Mercury-Marine--UX-UI-Design-Intern_JR-051163)**  
-Mercury Marine · UI/UX & Digital Product · Internship · May–August 2027  
-Fond du Lac, WI (on-site) · Pay: $18.00–$27.50 per hour · Found Nov 9  
-_UX/UI for marine propulsion products; must be authorized to work in the US._
-
-**[Intern - Industrial Design - Murrysville, PA - Summer 2027](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Murrysville-Pennsylvania-United-States/Intern---Industrial-Design---Murrysville--PA---Summer-2027_593133)**  
-Philips · Industrial Design · Internship · Summer 2027 (3 months)  
-Murrysville, PA · Pay: $24.00–$27.00 per hour (Bachelor level) · Found Nov 9  
-_Industrial design for connected hard goods, wearables and soft goods; US work authorization required, no sponsorship._
-
-**[Brand Design Intern (New York)](https://sonos.wd1.myworkdayjobs.com/Sonos/job/New-York-NY/Brand-Design-Intern--New-York-_R2877-1)**  
-Sonos · Graphic Design · Internship · June 7–August 20, 2027  
-New York, NY (in office at least 4 days a week) · Pay: not listed · Found Nov 9  
-_Brand design internship for undergraduates; must be authorized to work for a US employer, no sponsorship._
-
-**[UX/UI Design Intern - Summer 2027](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Valley-City-OH-United-States/UX-UI-Design-Intern---Summer-2027_REQ-1000052835)**  
-Stanley Black & Decker · UI/UX & Digital Product · Internship · Summer 2027  
-Valley City, OH · Pay: Posted salary range $38,600–$62,200 per year (full-time scale) · Found Nov 9  
-_UX/UI for physical products (controls and interfaces) across DEWALT, CRAFTSMAN and other tool brands._
-
 [Back to top](#id--gd-job-board)
 
 ## Industrial Design
 
-152 jobs: [Chicago area](#industrial-design--chicago-area) (3) · [Midwest](#industrial-design--midwest) (40) · [Remote](#industrial-design--remote) (1) · [Elsewhere in US](#industrial-design--elsewhere-in-us) (69) · [International](#industrial-design--international) (39)
+151 jobs: [Chicago area](#industrial-design--chicago-area) (3) · [Midwest](#industrial-design--midwest) (40) · [Remote](#industrial-design--remote) (1) · [Elsewhere in US](#industrial-design--elsewhere-in-us) (68) · [International](#industrial-design--international) (39)
 
 ### Industrial Design · Chicago area
 
@@ -947,11 +908,6 @@ Deckel & Moneypenny · Internship · Winter/Spring 2027
 Louisville, KY (on-site) · Pay: Paid (rate not listed) · **Apply by Nov 23, 2026** · Found Oct 28  
 _Exhibit and museum design firm; Vectorworks training and housing support; apply by emailing CV and portfolio to JChang@deckelmoneypenny.com._
 
-**[2027 Product & Design Summer Internship](https://job-boards.greenhouse.io/jetzero/jobs/5437126008)**  
-JetZero · Internship · Summer 2027  
-Long Beach, CA · on-site · Pay: $25–40/hr · **Apply by Dec 1, 2026** · Found Oct 27  
-_Aviation design across product, branding, interiors and customer experience; for Industrial Design and similar majors at junior level or above; rolling review._
-
 **[Structural Design Co-Op (Spring 2027)](https://menasha.wd12.myworkdayjobs.com/MenashaCorp/job/Lyndhurst-New-Jersey/Structural-Design-Co-Op--Spring-2027-_R16445)**  
 Menasha · Co-op · Jan 4 – Jul 2, 2027  
 Lyndhurst, NJ · on-site · Pay: not listed · Found Oct 27  
@@ -1262,7 +1218,7 @@ _Power tools and outdoor equipment; posting is in German._
 
 ## Graphic Design
 
-35 jobs: [Chicago area](#graphic-design--chicago-area) (6) · [Midwest](#graphic-design--midwest) (7) · [Remote](#graphic-design--remote) (3) · [Elsewhere in US](#graphic-design--elsewhere-in-us) (16) · [International](#graphic-design--international) (3)
+34 jobs: [Chicago area](#graphic-design--chicago-area) (6) · [Midwest](#graphic-design--midwest) (7) · [Remote](#graphic-design--remote) (2) · [Elsewhere in US](#graphic-design--elsewhere-in-us) (16) · [International](#graphic-design--international) (3)
 
 ### Graphic Design · Chicago area
 
@@ -1348,11 +1304,6 @@ _Production design, logos and brand concepts; bachelor's required, 1–3 years i
 Abercrombie & Fitch Co. · Entry-level · Full-time  
 Remote (US) · Pay: not listed · Found Oct 28  
 _Fashion retail marketing design; asks for 1–2 years in a fast-paced creative environment._
-
-**[Junior Graphic Designer](https://www.builtinnyc.com/job/junior-graphic-designer/11735776)**  
-Manhead · Entry-level · Full-time  
-Remote (US) · Pay: not listed · Found Oct 28  
-_Apparel and merchandise graphics for music tours, e-commerce and retail; asks for some prior apparel/merch graphics experience._
 
 [Back to top](#id--gd-job-board)
 
@@ -1461,7 +1412,7 @@ _Print and stationery company. Entry level; design degree expected._
 
 ## UI/UX & Digital Product
 
-37 jobs: [Chicago area](#uiux--digital-product--chicago-area) (1) · [Midwest](#uiux--digital-product--midwest) (11) · [Remote](#uiux--digital-product--remote) (4) · [Elsewhere in US](#uiux--digital-product--elsewhere-in-us) (19) · [International](#uiux--digital-product--international) (2)
+35 jobs: [Chicago area](#uiux--digital-product--chicago-area) (1) · [Midwest](#uiux--digital-product--midwest) (11) · [Remote](#uiux--digital-product--remote) (3) · [Elsewhere in US](#uiux--digital-product--elsewhere-in-us) (18) · [International](#uiux--digital-product--international) (2)
 
 ### UI/UX & Digital Product · Chicago area
 
@@ -1548,11 +1499,6 @@ Accuknox · Entry-level
 Remote (US) · Pay: not listed · Found Nov 2  
 _Cybersecurity platform; open to freshers with 0–1 year of experience and a strong portfolio._
 
-**[Product Design Student Intern, Summer 2027](https://jobs.lever.co/theathletic/b542eab4-22f0-4130-ba24-c8c04acc16f2)**  
-The Athletic (New York Times) · Internship · June–Aug 2027  
-Remote (or NYC) · Pay: $25/hr · **Apply by Nov 15, 2026** · Found Oct 23  
-_Sports media app. Juniors and seniors preferred; Figma required._
-
 [Back to top](#id--gd-job-board)
 
 ### UI/UX & Digital Product · Elsewhere in US
@@ -1611,11 +1557,6 @@ _Sporting goods retailer; for design or technology majors graduating Dec 2027–
 ServiceNow · Internship · Summer 2027  
 San Diego, CA (also Santa Clara, CA or West Palm Beach, FL) · Pay: $39.10–50.12/hr · Found Oct 28  
 _Software product design; open to design, UI/UX and graphic/visual design majors graduating May 2029 or later; portfolio required._
-
-**[Product Design Intern, Summer 2027](https://www.disneycareers.com/en/job/burbank/walt-disney-animation-studios-product-design-intern-summer-2027/391/102557878176)**  
-Walt Disney Animation Studios · Internship · Summer 2027  
-Burbank, CA · Pay: $39/hr · Found Oct 28  
-_Designs internal software tools for animation artists; for students majoring in design and related fields._
 
 **[Product Design Intern (2027 Start)](https://www.databricks.com/company/careers/university-recruiting---product/product-design-intern-2027-start-8787352002)**  
 Databricks · Internship · Summer 2027 (12 weeks)  

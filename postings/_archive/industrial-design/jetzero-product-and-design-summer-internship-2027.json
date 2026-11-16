@@ -15,17 +15,22 @@
   "url": "https://job-boards.greenhouse.io/jetzero/jobs/5437126008",
   "source": "Watchlist · Physical Design Internships",
   "note": "Aviation design across product, branding, interiors and customer experience; for Industrial Design and similar majors at junior level or above; rolling review.",
-  "status": "open",
+  "status": "closed",
   "firstSeen": "2026-10-27",
-  "lastUpdated": "2026-10-27",
+  "lastUpdated": "2026-11-16",
   "lastVerified": "2026-10-27",
-  "closedAt": "",
-  "closedReason": "",
+  "closedAt": "2026-11-16",
+  "closedReason": "no longer listed (re-checked 2026-11-16)",
   "statusHistory": [
     {
       "date": "2026-11-05",
       "status": "open",
       "reason": "imported from artifact"
+    },
+    {
+      "date": "2026-11-16",
+      "status": "closed",
+      "reason": "no longer listed (re-checked 2026-11-16)"
     }
   ],
   "facts": {},
