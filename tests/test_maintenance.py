@@ -142,6 +142,29 @@ class CollectTests(Repo):
         text = collect_candidates.to_markdown(rep)
         self.assertIn("**1 first listed today**", text)
 
+    def test_failed_list_keeps_first_listed_dates(self):
+        self.watch(id="wd", company="WD Co", method="workday", sourceUrl="https://wd.wd1.myworkdayjobs.com/x")
+        (self.tmp / "reports").mkdir()
+        report = self.tmp / "reports" / "candidates.json"
+        report.write_text(json.dumps({"date": "2026-11-05", "entries": [{"id": "wd", "jobs": [
+            {"url": "https://x/old", "firstListed": "2026-11-01"}]}]}), encoding="utf-8")
+
+        def failing(method, url, known):
+            raise urllib.error.URLError("boom")
+
+        def working(method, url, known):
+            return ([("Designer", "", "", "https://x/old"), ("Design Intern", "", "", "https://x/new")], 2, 0)
+
+        rep = collect_candidates.collect(self.tmp, TODAY, NOW, fetcher=failing, workers=1, known=set())
+        self.assertEqual(rep["entries"][0]["carriedFirstListed"], {"https://x/old": "2026-11-01"})
+        report.write_text(json.dumps(rep), encoding="utf-8")       # a second day of failure keeps it too
+        rep = collect_candidates.collect(self.tmp, TODAY, NOW, fetcher=failing, workers=1, known=set())
+        report.write_text(json.dumps(rep), encoding="utf-8")
+        rep = collect_candidates.collect(self.tmp, TODAY, NOW, fetcher=working, workers=1, known=set())
+        first = {j["url"]: j["firstListed"] for j in rep["entries"][0]["jobs"]}
+        self.assertEqual(first, {"https://x/old": "2026-11-01", "https://x/new": "2026-11-06"})
+        self.assertNotIn("carriedFirstListed", rep["entries"][0])
+
 
 class DigestTests(Repo):
     def test_counts_and_sections(self):

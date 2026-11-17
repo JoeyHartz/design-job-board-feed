@@ -133,6 +133,35 @@ class RetryTests(unittest.TestCase):
                 fetch_jobs.http("https://x")
         self.assertEqual(len(calls), 1)
 
+    def test_429_falls_back_to_curl(self):
+        import urllib.error
+        seen = []
+
+        def fake_urlopen(req, timeout=None):
+            raise urllib.error.HTTPError(req.full_url, 429, "Too Many Requests", {}, None)
+
+        def fake_curl(url, headers, body=None):
+            seen.append((url, body))
+            return {"total": 0}
+
+        with mock.patch.object(fetch_jobs.urllib.request, "urlopen", fake_urlopen), \
+                mock.patch.object(fetch_jobs, "curl_json", fake_curl), \
+                mock.patch.object(fetch_jobs.time, "sleep", lambda s: None):
+            self.assertEqual(fetch_jobs.http("https://x", {"limit": 20}), {"total": 0})
+        self.assertEqual(seen, [("https://x", b'{"limit": 20}')])
+
+    def test_429_still_raises_when_curl_fails(self):
+        import urllib.error
+
+        def fake_urlopen(req, timeout=None):
+            raise urllib.error.HTTPError(req.full_url, 429, "Too Many Requests", {}, None)
+
+        with mock.patch.object(fetch_jobs.urllib.request, "urlopen", fake_urlopen), \
+                mock.patch.object(fetch_jobs, "curl_json", lambda *a, **k: None), \
+                mock.patch.object(fetch_jobs.time, "sleep", lambda s: None):
+            with self.assertRaises(urllib.error.HTTPError):
+                fetch_jobs.http("https://x")
+
 
 class JustIdJobsTests(unittest.TestCase):
     PAGE = ('<html><script>self.__next_f.push([1,"'

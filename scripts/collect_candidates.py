@@ -59,13 +59,24 @@ def check(entry, known, fetcher=None):
 
 
 def previous_first_listed(root: Path):
-    """url -> date first listed, from the last candidates.json."""
+    """entry id -> {url: date first listed}, from the last candidates.json.
+
+    A failed entry keeps the dates it had before in "carriedFirstListed", so a
+    list that fails for a day or more doesn't come back with every job counted
+    as new.
+    """
     try:
         old = json.loads((root / "reports" / "candidates.json").read_text(encoding="utf-8"))
     except (OSError, ValueError):
         return {}
-    return {j["url"]: j.get("firstListed", old.get("date", "")) for e in old.get("entries", [])
-            for j in e.get("jobs", []) if j.get("url")}
+    seen = {}
+    for e in old.get("entries", []):
+        dates = seen.setdefault(e.get("id", ""), {})
+        dates.update(e.get("carriedFirstListed") or {})
+        for j in e.get("jobs", []):
+            if j.get("url"):
+                dates[j["url"]] = j.get("firstListed", old.get("date", ""))
+    return seen
 
 
 def collect(root: Path, today: dt.date, now: dt.datetime, fetcher=None, workers=4, known=None):
@@ -75,8 +86,11 @@ def collect(root: Path, today: dt.date, now: dt.datetime, fetcher=None, workers=
     with ThreadPoolExecutor(max_workers=workers) as pool:
         results = list(pool.map(lambda e: check(e, known, fetcher), todo))
     for e in results:
+        dates = seen.get(e["id"], {})
         for j in e["jobs"]:
-            j["firstListed"] = seen.get(j["url"]) or today.isoformat()
+            j["firstListed"] = dates.get(j["url"]) or today.isoformat()
+        if e["status"] == "failed" and dates:
+            e["carriedFirstListed"] = dates
     return {"date": today.isoformat(), "generated": now.isoformat(timespec="minutes"),
             "entries": results}
 

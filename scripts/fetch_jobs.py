@@ -37,6 +37,8 @@ from __future__ import annotations
 import argparse
 import json
 import re
+import shutil
+import subprocess
 import sys
 import time
 import urllib.error
@@ -61,12 +63,36 @@ def http(url, data=None):
             with urllib.request.urlopen(req, timeout=TIMEOUT) as resp:
                 return json.loads(resp.read().decode("utf-8", errors="replace"))
         except urllib.error.HTTPError as exc:
+            if exc.code == 429:
+                # Workday's bot screen answers Python's urllib with 429 even on
+                # the first request, while curl gets through from the same
+                # machine. Try curl before waiting and retrying.
+                result = curl_json(url, headers, body)
+                if result is not None:
+                    return result
             if exc.code < 500 and exc.code != 429 or attempt == 2:
                 raise
         except (urllib.error.URLError, TimeoutError, ConnectionError):
             if attempt == 2:
                 raise
         time.sleep(3 * (attempt + 1))   # temporary error: wait and retry
+
+
+def curl_json(url, headers, body=None):
+    """Fetch JSON with the curl command; return None if curl is missing or fails."""
+    curl = shutil.which("curl")
+    if not curl:
+        return None
+    cmd = [curl, "-sS", "--fail", "--compressed", "-m", str(TIMEOUT), url]
+    for key, value in headers.items():
+        cmd += ["-H", f"{key}: {value}"]
+    if body is not None:
+        cmd += ["--data-binary", "@-"]
+    try:
+        out = subprocess.run(cmd, input=body, capture_output=True, timeout=TIMEOUT + 10, check=True).stdout
+        return json.loads(out.decode("utf-8", errors="replace"))
+    except (OSError, subprocess.SubprocessError, ValueError):
+        return None
 
 
 def greenhouse(url):
@@ -148,6 +174,13 @@ def http_text(url):
             with urllib.request.urlopen(req, timeout=TIMEOUT) as resp:
                 return resp.read().decode("utf-8", errors="replace")
         except urllib.error.HTTPError as exc:
+            if exc.code == 429:
+                # Workday's bot screen answers Python's urllib with 429 even on
+                # the first request, while curl gets through from the same
+                # machine. Try curl before waiting and retrying.
+                result = curl_json(url, headers, body)
+                if result is not None:
+                    return result
             if exc.code < 500 and exc.code != 429 or attempt == 2:
                 raise
         except (urllib.error.URLError, TimeoutError, ConnectionError):
