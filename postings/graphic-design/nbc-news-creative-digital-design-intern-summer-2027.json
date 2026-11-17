@@ -15,7 +15,7 @@
   "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000161096049",
   "source": "EntertainmentCareers.net",
   "note": "Paid 40-hour/week summer program with Artworks (on-air graphics) and Digital Art & Photo tracks; sophomores and up, Spring 2027 grads not eligible; may close early.",
-  "status": "pending",
+  "status": "open",
   "firstSeen": "2026-11-17",
   "lastUpdated": "2026-11-17",
   "lastVerified": "2026-11-17",
@@ -26,6 +26,11 @@
       "date": "2026-11-17",
       "status": "pending",
       "reason": "added, waiting for approval"
+    },
+    {
+      "date": "2026-11-17",
+      "status": "open",
+      "reason": "approved by JoeyHartz"
     }
   ],
   "facts": {

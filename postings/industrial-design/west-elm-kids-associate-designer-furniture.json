@@ -15,7 +15,7 @@
   "url": "https://ehac.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20245",
   "source": "Watchlist · Just ID Jobs",
   "note": "Associate-level kids furniture design role on site five days a week; asks for at least 2 years of retail product design experience and a portfolio.",
-  "status": "pending",
+  "status": "open",
   "firstSeen": "2026-11-17",
   "lastUpdated": "2026-11-17",
   "lastVerified": "2026-11-17",
@@ -26,6 +26,11 @@
       "date": "2026-11-17",
       "status": "pending",
       "reason": "added, waiting for approval"
+    },
+    {
+      "date": "2026-11-17",
+      "status": "open",
+      "reason": "approved by JoeyHartz"
     }
   ],
   "facts": {
