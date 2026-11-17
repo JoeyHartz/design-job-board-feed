@@ -1,6 +1,6 @@
 {
- "date": "2026-11-16",
- "generated": "2026-11-16T15:15-06:00",
+ "date": "2026-11-17",
+ "generated": "2026-11-17T14:01-06:00",
  "postings": [
   {
    "id": "3m-brand-design-intern-sibg-2027",
@@ -93,6 +93,15 @@
    "detail": "HTTP 200"
   },
   {
+   "id": "chicago-fire-fc-creative-presentation-designer",
+   "company": "Chicago Fire FC",
+   "title": "Creative Presentation Designer",
+   "url": "https://www.mediabistro.com/jobs/3542579729-creative-presentation-designer-job-at-chicago-fire-fc-in-chicago",
+   "lastVerified": "2026-11-17",
+   "result": "ok",
+   "detail": "HTTP 200"
+  },
+  {
    "id": "cotton-citizen-junior-graphic-designer",
    "company": "Cotton Citizen",
    "title": "Junior Graphic Designer",
@@ -115,7 +124,7 @@
    "company": "Disney (FX Networks)",
    "title": "FX Design & VFX Intern, Spring 2027",
    "url": "https://www.mediabistro.com/jobs/3543011965-fx-design-vfx-intern-spring-2027",
-   "lastVerified": "2026-10-29",
+   "lastVerified": "2026-11-17",
    "result": "ok",
    "detail": "HTTP 200"
   },
@@ -145,6 +154,15 @@
    "lastVerified": "2026-11-11",
    "result": "ok",
    "detail": "HTTP 200"
+  },
+  {
+   "id": "fiskars-vita-brands-junior-designer-espoo",
+   "company": "Fiskars Group (Vita Brands)",
+   "title": "Junior Designer",
+   "url": "https://fiskars.wd3.myworkdayjobs.com/FiskarsGroup/job/Espoo/Junior-Designer_JR-009581",
+   "lastVerified": "2026-11-17",
+   "result": "ok",
+   "detail": "Workday lists this job"
   },
   {
    "id": "fossil-graphic-design-intern-summer-2027",
@@ -219,6 +237,24 @@
    "detail": "HTTP 200"
   },
   {
+   "id": "nbc-news-creative-digital-design-intern-summer-2027",
+   "company": "NBCUniversal (NBC News)",
+   "title": "NBC News Creative & Digital Design Internships – Summer 2027",
+   "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000161096049",
+   "lastVerified": "2026-11-17",
+   "result": "ok",
+   "detail": "HTTP 200"
+  },
+  {
+   "id": "newell-brands-2027-intern-brand-design",
+   "company": "Newell Brands",
+   "title": "2027 Newell Brands Intern – Brand Design",
+   "url": "https://jobs.newellbrands.com/job/Sandy-Springs-2027-Newell-Brands-Intern-Brand-Design-Geor/1440159600/",
+   "lastVerified": "2026-11-17",
+   "result": "ok",
+   "detail": "HTTP 200"
+  },
+  {
    "id": "nike-product-graphics-design-internship-2027",
    "company": "Nike",
    "title": "NIKE, Inc. Product Graphics Design Internship",
@@ -233,8 +269,8 @@
    "title": "Stage Graphic Designer – Mars 2027",
    "url": "https://designproject.io/jobs/stage-graphic-designer-mars-2027-6-mois-at-pernod-ricard-q8sfxc",
    "lastVerified": "2026-11-04",
-   "result": "ok",
-   "detail": "HTTP 200"
+   "result": "gone",
+   "detail": "HTTP 410"
   },
   {
    "id": "polaris-digital-animation-intern",
@@ -903,6 +939,15 @@
    "detail": "HTTP 200"
   },
   {
+   "id": "kia-design-center-designer-i-irvine",
+   "company": "Kia (Hyundai America Technical Center)",
+   "title": "Kia Design - Designer",
+   "url": "https://careers-americas.hyundai.com/hatci/job/Irvine-Kia-Design-Designer-CA-92606/1391889000/",
+   "lastVerified": "2026-11-17",
+   "result": "ok",
+   "detail": "HTTP 200"
+  },
+  {
    "id": "kiska-industrial-design-intern",
    "company": "KISKA",
    "title": "Industrial Design Intern",
@@ -1142,8 +1187,8 @@
    "title": "Junior Footwear Designer & Product Developer",
    "url": "https://apply.workable.com/naked-wolfe/jobs/view/9654AD3C19",
    "lastVerified": "2026-11-11",
-   "result": "gone",
-   "detail": "HTTP 404"
+   "result": "ok",
+   "detail": "HTTP 200"
   },
   {
    "id": "naked-wolfe-junior-footwear-designer-los-angeles",
@@ -1350,7 +1395,7 @@
    "url": "https://puma.wd502.myworkdayjobs.com/Jobs_at_Puma/job/PUMA-Way-Headquarters/Junior-Designer-Color---Materials-Kids-Footwear_R44011",
    "lastVerified": "2026-11-11",
    "result": "ok",
-   "detail": "Workday lists this job"
+   "detail": "HTTP 200"
   },
   {
    "id": "puma-junior-designer-training-footwear",
@@ -1492,7 +1537,7 @@
    "company": "Smurfit Westrock",
    "title": "Assoc Dsgn, Graphic Design",
    "url": "https://www.mediabistro.com/jobs/3539132189-assoc-dsgngraphic-design",
-   "lastVerified": "2026-11-02",
+   "lastVerified": "2026-11-17",
    "result": "ok",
    "detail": "HTTP 200"
   },
@@ -1547,8 +1592,8 @@
    "title": "2027 Product Design Office (PDO) – CAD Design Engineer Internship",
    "url": "https://careers.stellantis.com/job/23787234/2027-product-design-office-pdo-cad-design-engineer-internship-auburn-hills-mi/",
    "lastVerified": "2026-11-16",
-   "result": "ok",
-   "detail": "HTTP 200"
+   "result": "gone",
+   "detail": "HTTP 404"
   },
   {
    "id": "steve-madden-assistant-handbag-designer-nyc",
@@ -1591,7 +1636,7 @@
    "company": "Tandem Design",
    "title": "Industrial Designer (Part-Time, Entry-Level)",
    "url": "https://www.tandem-design.com/jobs",
-   "lastVerified": "2026-11-02",
+   "lastVerified": "2026-11-17",
    "result": "ok",
    "detail": "HTTP 200"
   },
@@ -1794,6 +1839,15 @@
    "detail": "HTTP 200"
   },
   {
+   "id": "west-elm-kids-associate-designer-furniture",
+   "company": "West Elm (Williams-Sonoma, Inc.)",
+   "title": "Associate Designer, Furniture - West Elm Kids",
+   "url": "https://ehac.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20245",
+   "lastVerified": "2026-11-17",
+   "result": "ok",
+   "detail": "HTTP 200"
+  },
+  {
    "id": "zoox-industrial-design-intern-summer-2027",
    "company": "Zoox",
    "title": "Industrial Design Intern [Summer 2027]",
@@ -1807,7 +1861,7 @@
    "company": "zweigrad",
    "title": "Industrial Design Intern",
    "url": "https://zweigrad.de/job/industrial-design-intern-ab-01-09-2025/",
-   "lastVerified": "2026-10-28",
+   "lastVerified": "2026-11-17",
    "result": "ok",
    "detail": "HTTP 200"
   },
