@@ -2,16 +2,16 @@
 
 Open internships, co-ops and entry-level jobs for Industrial Design, Graphic Design and UI/UX students in the School of Art & Design at the University of Illinois Urbana-Champaign.
 
-**245 open jobs** · updated Nov 17, 2026 · download as [CSV](postings.csv) or [JSON](postings.json)
+**251 open jobs** · updated Nov 17, 2026 · download as [CSV](postings.csv) or [JSON](postings.json)
 
 > Every job here was checked against our criteria and approved by a person before it was listed, but jobs can close without notice. Always confirm the details on the employer's site before you apply.
 
 ## Contents
 
-- [Closing soon](#closing-soon) (14)
-- [New this week](#new-this-week) (66)
-- **[Industrial Design](#industrial-design)** (164): [Chicago area](#industrial-design--chicago-area) (3) · [Midwest](#industrial-design--midwest) (43) · [Remote](#industrial-design--remote) (1) · [Elsewhere in US](#industrial-design--elsewhere-in-us) (75) · [International](#industrial-design--international) (42)
-- **[Graphic Design](#graphic-design)** (35): [Chicago area](#graphic-design--chicago-area) (6) · [Midwest](#graphic-design--midwest) (7) · [Remote](#graphic-design--remote) (2) · [Elsewhere in US](#graphic-design--elsewhere-in-us) (17) · [International](#graphic-design--international) (3)
+- [Closing soon](#closing-soon) (15)
+- [New this week](#new-this-week) (72)
+- **[Industrial Design](#industrial-design)** (166): [Chicago area](#industrial-design--chicago-area) (3) · [Midwest](#industrial-design--midwest) (43) · [Remote](#industrial-design--remote) (1) · [Elsewhere in US](#industrial-design--elsewhere-in-us) (77) · [International](#industrial-design--international) (42)
+- **[Graphic Design](#graphic-design)** (39): [Chicago area](#graphic-design--chicago-area) (7) · [Midwest](#graphic-design--midwest) (7) · [Remote](#graphic-design--remote) (2) · [Elsewhere in US](#graphic-design--elsewhere-in-us) (19) · [International](#graphic-design--international) (4)
 - **[UI/UX & Digital Product](#uiux--digital-product)** (37): [Chicago area](#uiux--digital-product--chicago-area) (1) · [Midwest](#uiux--digital-product--midwest) (11) · [Remote](#uiux--digital-product--remote) (4) · [Elsewhere in US](#uiux--digital-product--elsewhere-in-us) (19) · [International](#uiux--digital-product--international) (2)
 - **[ID + GD](#id--gd)** (9): [Midwest](#id--gd--midwest) (6) · [Elsewhere in US](#id--gd--elsewhere-in-us) (1) · [International](#id--gd--international) (2)
 - [About this list](#about-this-list)
@@ -27,6 +27,7 @@ Jobs with an apply-by date in the next 14 days, soonest first.
 | Nov 22 | [FOX News Media Internship – Graphic Design (Spring 2027)](https://www.wayup.com/i-Broadcast-Media-j-Spring-2027-FOX-News-Media-Internship-Program-Graphic-Design-New-York-FOX-Corporation-837858992313442/) | FOX Corporation | Graphic Design |
 | Nov 23 | [Exhibit Design Intern, Winter/Spring 2027](https://deckelmoneypenny.com/job/exhibit-design-intern-winter-spring-2027/) | Deckel & Moneypenny | Industrial Design |
 | Nov 23 | [Scientific Illustrator (16-week internship)](https://www.builtinchicago.org/job/scientific-illustrator/11756726) | Field Museum | Graphic Design |
+| Nov 29 | [Junior Designer](https://fiskars.wd3.myworkdayjobs.com/FiskarsGroup/job/Espoo/Junior-Designer_JR-009581) | Fiskars Group (Vita Brands) | Graphic Design |
 | Nov 29 | [Summer 2027 Intern – Industrial Design (Brand ID + Product, CMF)](https://search-careers.gm.com/en/jobs/jr-202621626/summer-2027-intern-industrial-design/) | General Motors | ID + GD |
 | Nov 30 | [Industrial Design Co-op](https://basspro.wd1.myworkdayjobs.com/careers/job/Springfield-MO-Tracker-Marine-Base-Camp/Industrial-Design-Co-Op_R267065) | Bass Pro Shops | Industrial Design |
 | Nov 30 | [Product Design (Toys) Intern – Spring 2027](https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Kissimmee-FL-USA/Product-Design--Toys--Intern--Spring-2027_10160487-1) | Disney Consumer Products | Industrial Design |
@@ -42,6 +43,36 @@ Jobs with an apply-by date in the next 14 days, soonest first.
 ## New this week
 
 Added in the last 7 days, newest first.
+
+**[Creative Presentation Designer](https://www.mediabistro.com/jobs/3542579729-creative-presentation-designer-job-at-chicago-fire-fc-in-chicago)**  
+Chicago Fire FC · Graphic Design · Entry-level · Full-time  
+Chicago, IL · Pay: $65,000/year · Found Nov 17  
+_Pitch-deck and sponsorship design for the club's Corporate Partnerships team; asks for about 2 years of design experience._
+
+**[Junior Designer](https://fiskars.wd3.myworkdayjobs.com/FiskarsGroup/job/Espoo/Junior-Designer_JR-009581)**  
+Fiskars Group (Vita Brands) · Graphic Design · Entry-level · Full-time  
+Espoo, Finland · hybrid · Pay: not listed · **Apply by Nov 29, 2026** · Found Nov 17  
+_Illustration-focused junior role turning Moomin characters into products for Fiskars' Nordic brands; apply in English with CV and portfolio._
+
+**[Kia Design - Designer](https://careers-americas.hyundai.com/hatci/job/Irvine-Kia-Design-Designer-CA-92606/1391889000/)**  
+Kia (Hyundai America Technical Center) · Industrial Design · Entry-level · Full-time  
+Irvine, CA · on-site · Pay: $100,000–$160,000/yr · Found Nov 17  
+_Designer I role in Kia's exterior design studio; internship and school project work can count toward experience; portfolio required._
+
+**[NBC News Creative & Digital Design Internships – Summer 2027](https://jobs.smartrecruiters.com/NBCUniversal3/744000161096049)**  
+NBCUniversal (NBC News) · Graphic Design · Internship · Summer 2027 (Jun 7 – Aug 13, 2027)  
+New York, NY · on-site · Pay: $19/hour · **Apply by Dec 4, 2026** · Found Nov 17  
+_Paid 40-hour/week summer program with Artworks (on-air graphics) and Digital Art & Photo tracks; sophomores and up, Spring 2027 grads not eligible; may close early._
+
+**[2027 Newell Brands Intern – Brand Design](https://jobs.newellbrands.com/job/Sandy-Springs-2027-Newell-Brands-Intern-Brand-Design-Geor/1440159600/)**  
+Newell Brands · Graphic Design · Internship · Summer 2027 (May 17 – Aug 6, 2027)  
+Sandy Springs (Atlanta), GA (on-site) · Pay: Paid (rate not listed) · Found Nov 17  
+_Packaging and digital brand graphics in Newell's 12-week CAMP intern program; needs a 3.0 GPA and junior or senior standing._
+
+**[Associate Designer, Furniture - West Elm Kids](https://ehac.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20245)**  
+West Elm (Williams-Sonoma, Inc.) · Industrial Design · Entry-level · Full-time  
+Brooklyn, NY · on-site · Pay: $65,000–$75,000/yr · Found Nov 17  
+_Associate-level kids furniture design role on site five days a week; asks for at least 2 years of retail product design experience and a portfolio._
 
 **[Summer 2027: Product Design Intern](https://jobs.ashbyhq.com/amplify/0b593144-07c5-45be-b979-6c37879e6300)**  
 Amplify · UI/UX & Digital Product · Internship · Summer 2027 (10 weeks, Jun 7–Aug 13)  
@@ -377,7 +408,7 @@ _Layout of grill manuals, assembly guides and warning labels in InDesign; open t
 
 ## Industrial Design
 
-164 jobs: [Chicago area](#industrial-design--chicago-area) (3) · [Midwest](#industrial-design--midwest) (43) · [Remote](#industrial-design--remote) (1) · [Elsewhere in US](#industrial-design--elsewhere-in-us) (75) · [International](#industrial-design--international) (42)
+166 jobs: [Chicago area](#industrial-design--chicago-area) (3) · [Midwest](#industrial-design--midwest) (43) · [Remote](#industrial-design--remote) (1) · [Elsewhere in US](#industrial-design--elsewhere-in-us) (77) · [International](#industrial-design--international) (42)
 
 ### Industrial Design · Chicago area
 
@@ -623,6 +654,16 @@ _Open to recent grads with internship experience (or 1-3 years); apply by email 
 [Back to top](#id--gd-job-board)
 
 ### Industrial Design · Elsewhere in US
+
+**[Kia Design - Designer](https://careers-americas.hyundai.com/hatci/job/Irvine-Kia-Design-Designer-CA-92606/1391889000/)**  
+Kia (Hyundai America Technical Center) · Entry-level · Full-time  
+Irvine, CA · on-site · Pay: $100,000–$160,000/yr · Found Nov 17  
+_Designer I role in Kia's exterior design studio; internship and school project work can count toward experience; portfolio required._
+
+**[Associate Designer, Furniture - West Elm Kids](https://ehac.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20245)**  
+West Elm (Williams-Sonoma, Inc.) · Entry-level · Full-time  
+Brooklyn, NY · on-site · Pay: $65,000–$75,000/yr · Found Nov 17  
+_Associate-level kids furniture design role on site five days a week; asks for at least 2 years of retail product design experience and a portfolio._
 
 **[Associate Handbag Designer](https://jobs.lever.co/silhouette/0c48df45-0e93-48f5-9601-c67310939f6b)**  
 DNAM Brands · Entry-level · Full-time  
@@ -1214,9 +1255,14 @@ _Power tools and outdoor equipment; posting is in German._
 
 ## Graphic Design
 
-35 jobs: [Chicago area](#graphic-design--chicago-area) (6) · [Midwest](#graphic-design--midwest) (7) · [Remote](#graphic-design--remote) (2) · [Elsewhere in US](#graphic-design--elsewhere-in-us) (17) · [International](#graphic-design--international) (3)
+39 jobs: [Chicago area](#graphic-design--chicago-area) (7) · [Midwest](#graphic-design--midwest) (7) · [Remote](#graphic-design--remote) (2) · [Elsewhere in US](#graphic-design--elsewhere-in-us) (19) · [International](#graphic-design--international) (4)
 
 ### Graphic Design · Chicago area
+
+**[Creative Presentation Designer](https://www.mediabistro.com/jobs/3542579729-creative-presentation-designer-job-at-chicago-fire-fc-in-chicago)**  
+Chicago Fire FC · Entry-level · Full-time  
+Chicago, IL · Pay: $65,000/year · Found Nov 17  
+_Pitch-deck and sponsorship design for the club's Corporate Partnerships team; asks for about 2 years of design experience._
 
 **[Graphic Design and Marketing Intern – Summer 2027](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=8f7904d5-afa2-4f7b-994a-d4aaec6c669f&ccId=19000101_000001&jobId=539522&lang=en_US&source=CC2)**  
 Radio Flyer · Internship · Summer 2027  
@@ -1304,6 +1350,16 @@ _Fashion retail marketing design; asks for 1–2 years in a fast-paced creative 
 [Back to top](#id--gd-job-board)
 
 ### Graphic Design · Elsewhere in US
+
+**[NBC News Creative & Digital Design Internships – Summer 2027](https://jobs.smartrecruiters.com/NBCUniversal3/744000161096049)**  
+NBCUniversal (NBC News) · Internship · Summer 2027 (Jun 7 – Aug 13, 2027)  
+New York, NY · on-site · Pay: $19/hour · **Apply by Dec 4, 2026** · Found Nov 17  
+_Paid 40-hour/week summer program with Artworks (on-air graphics) and Digital Art & Photo tracks; sophomores and up, Spring 2027 grads not eligible; may close early._
+
+**[2027 Newell Brands Intern – Brand Design](https://jobs.newellbrands.com/job/Sandy-Springs-2027-Newell-Brands-Intern-Brand-Design-Geor/1440159600/)**  
+Newell Brands · Internship · Summer 2027 (May 17 – Aug 6, 2027)  
+Sandy Springs (Atlanta), GA (on-site) · Pay: Paid (rate not listed) · Found Nov 17  
+_Packaging and digital brand graphics in Newell's 12-week CAMP intern program; needs a 3.0 GPA and junior or senior standing._
 
 **[NIKE, Inc. Product Graphics Design Internship](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/NIKE--Inc-Product-Graphics-Design-Internship_R-97437)**  
 Nike · Internship · 10 weeks (2027)  
@@ -1393,6 +1449,11 @@ _In-house graphic design for a food brand; junior level (posting lists 0–2 and
 [Back to top](#id--gd-job-board)
 
 ### Graphic Design · International
+
+**[Junior Designer](https://fiskars.wd3.myworkdayjobs.com/FiskarsGroup/job/Espoo/Junior-Designer_JR-009581)**  
+Fiskars Group (Vita Brands) · Entry-level · Full-time  
+Espoo, Finland · hybrid · Pay: not listed · **Apply by Nov 29, 2026** · Found Nov 17  
+_Illustration-focused junior role turning Moomin characters into products for Fiskars' Nordic brands; apply in English with CV and portfolio._
 
 **[Communication Design Intern](https://www.teamsdesign.com/en/careers/shanghai-intern-communiation-designer)**  
 TEAMS Design · Internship  

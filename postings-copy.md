@@ -1,14 +1,56 @@
 # Copy-and-paste job list
 
-**245 open jobs** · updated Nov 17, 2026 · [readable version](postings.md)
+**251 open jobs** · updated Nov 17, 2026 · [readable version](postings.md)
 
 Each job is in its own box as four lines: company, role title, location, link. On GitHub, hover over a box and click its copy button (top right) to copy that job.
 
-Jump to: [New this week](#new-this-week) (66) · [Industrial Design](#industrial-design) (164) · [Graphic Design](#graphic-design) (35) · [UI/UX & Digital Product](#uiux--digital-product) (37) · [ID + GD](#id--gd) (9)
+Jump to: [New this week](#new-this-week) (72) · [Industrial Design](#industrial-design) (166) · [Graphic Design](#graphic-design) (39) · [UI/UX & Digital Product](#uiux--digital-product) (37) · [ID + GD](#id--gd) (9)
 
 ## New this week
 
 Added in the last 7 days, newest first.
+
+````text
+Chicago Fire FC
+Creative Presentation Designer
+Chicago, IL
+https://www.mediabistro.com/jobs/3542579729-creative-presentation-designer-job-at-chicago-fire-fc-in-chicago
+````
+
+````text
+Fiskars Group (Vita Brands)
+Junior Designer
+Espoo, Finland · hybrid
+https://fiskars.wd3.myworkdayjobs.com/FiskarsGroup/job/Espoo/Junior-Designer_JR-009581
+````
+
+````text
+Kia (Hyundai America Technical Center)
+Kia Design - Designer
+Irvine, CA · on-site
+https://careers-americas.hyundai.com/hatci/job/Irvine-Kia-Design-Designer-CA-92606/1391889000/
+````
+
+````text
+NBCUniversal (NBC News)
+NBC News Creative & Digital Design Internships – Summer 2027
+New York, NY · on-site
+https://jobs.smartrecruiters.com/NBCUniversal3/744000161096049
+````
+
+````text
+Newell Brands
+2027 Newell Brands Intern – Brand Design
+Sandy Springs (Atlanta), GA (on-site)
+https://jobs.newellbrands.com/job/Sandy-Springs-2027-Newell-Brands-Intern-Brand-Design-Geor/1440159600/
+````
+
+````text
+West Elm (Williams-Sonoma, Inc.)
+Associate Designer, Furniture - West Elm Kids
+Brooklyn, NY · on-site
+https://ehac.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20245
+````
 
 ````text
 Amplify
@@ -477,6 +519,20 @@ https://weber.wd115.myworkdayjobs.com/WB/job/Palatine-Illinois/Technical-Communi
 ## Industrial Design
 
 Newest first.
+
+````text
+Kia (Hyundai America Technical Center)
+Kia Design - Designer
+Irvine, CA · on-site
+https://careers-americas.hyundai.com/hatci/job/Irvine-Kia-Design-Designer-CA-92606/1391889000/
+````
+
+````text
+West Elm (Williams-Sonoma, Inc.)
+Associate Designer, Furniture - West Elm Kids
+Brooklyn, NY · on-site
+https://ehac.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20245
+````
 
 ````text
 Cinmar / Grandin Road (QVC Group)
@@ -1631,6 +1687,34 @@ https://www.trig.com/careers/industrial-design-internship-design-development-tea
 ## Graphic Design
 
 Newest first.
+
+````text
+Chicago Fire FC
+Creative Presentation Designer
+Chicago, IL
+https://www.mediabistro.com/jobs/3542579729-creative-presentation-designer-job-at-chicago-fire-fc-in-chicago
+````
+
+````text
+Fiskars Group (Vita Brands)
+Junior Designer
+Espoo, Finland · hybrid
+https://fiskars.wd3.myworkdayjobs.com/FiskarsGroup/job/Espoo/Junior-Designer_JR-009581
+````
+
+````text
+NBCUniversal (NBC News)
+NBC News Creative & Digital Design Internships – Summer 2027
+New York, NY · on-site
+https://jobs.smartrecruiters.com/NBCUniversal3/744000161096049
+````
+
+````text
+Newell Brands
+2027 Newell Brands Intern – Brand Design
+Sandy Springs (Atlanta), GA (on-site)
+https://jobs.newellbrands.com/job/Sandy-Springs-2027-Newell-Brands-Intern-Brand-Design-Geor/1440159600/
+````
 
 ````text
 Nike
