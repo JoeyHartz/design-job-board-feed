@@ -1,6 +1,6 @@
 {
- "date": "2026-11-17",
- "generated": "2026-11-17T14:01-06:00",
+ "date": "2026-11-18",
+ "generated": "2026-11-18T13:36-06:00",
  "postings": [
   {
    "id": "3m-brand-design-intern-sibg-2027",
@@ -16,7 +16,7 @@
    "company": "Abercrombie & Fitch Co.",
    "title": "Assistant Graphic Designer, Creative Marketing – A&F Co. (Remote)",
    "url": "https://abercrombie.wd108.myworkdayjobs.com/anf/job/Columbus-Ohio/Assistant-Graphic-Designer--Creative-Marketing---A-F-Co--Remote-_JR103385",
-   "lastVerified": "2026-10-28",
+   "lastVerified": "2026-11-18",
    "result": "ok",
    "detail": "Workday lists this job"
   },
@@ -450,14 +450,14 @@
    "url": "https://basspro.wd1.myworkdayjobs.com/careers/job/Springfield-MO-Tracker-Marine-Base-Camp/Industrial-Design-Co-Op_R267065",
    "lastVerified": "2026-11-09",
    "result": "ok",
-   "detail": "Workday lists this job"
+   "detail": "HTTP 200"
   },
   {
    "id": "bosch-home-comfort-product-and-industrial-design-internship-heating-and-climate",
    "company": "Bosch Home Comfort",
    "title": "Product and Industrial Design Internship (Heating and Climate)",
    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000155954655",
-   "lastVerified": "2026-11-06",
+   "lastVerified": "2026-11-18",
    "result": "ok",
    "detail": "HTTP 200"
   },
@@ -1047,15 +1047,6 @@
    "detail": "Workday lists this job"
   },
   {
-   "id": "menasha-structural-design-co-op-spring-2027",
-   "company": "Menasha",
-   "title": "Structural Design Co-Op (Spring 2027)",
-   "url": "https://menasha.wd12.myworkdayjobs.com/MenashaCorp/job/Lyndhurst-New-Jersey/Structural-Design-Co-Op--Spring-2027-_R16445",
-   "lastVerified": "2026-10-27",
-   "result": "ok",
-   "detail": "HTTP 200"
-  },
-  {
    "id": "mercury-marine-industrial-design-intern",
    "company": "Mercury Marine",
    "title": "Industrial Design Intern",
@@ -1065,20 +1056,11 @@
    "detail": "Workday lists this job"
   },
   {
-   "id": "millerknoll-junior-industrial-product-designer-london",
-   "company": "MillerKnoll (Colebrook Bosson Saunders)",
-   "title": "Junior Industrial / Product Designer",
-   "url": "https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll/job/UK---London/Junior-Industrial---Product-Designer_JR109626",
-   "lastVerified": "2026-10-23",
-   "result": "ok",
-   "detail": "HTTP 200"
-  },
-  {
    "id": "milwaukee-tool-associate-industrial-designer-2027",
    "company": "Milwaukee Tool",
    "title": "Associate Industrial Designer (2027)",
    "url": "https://tti.yello.co/external/requisitions/JAuxM7k4NIUVf_V0q9_VKQ",
-   "lastVerified": "2026-11-03",
+   "lastVerified": "2026-11-18",
    "result": "ok",
    "detail": "HTTP 200"
   },
@@ -1141,7 +1123,7 @@
    "company": "Morph",
    "title": "Design Intern (Industrial / Mechanical)",
    "url": "https://job-boards.greenhouse.io/morph/jobs/4467371009",
-   "lastVerified": "2026-11-03",
+   "lastVerified": "2026-11-18",
    "result": "ok",
    "detail": "HTTP 200"
   },
@@ -1207,15 +1189,6 @@
    "lastVerified": "2026-11-10",
    "result": "ok",
    "detail": "Workday lists this job"
-  },
-  {
-   "id": "new-balance-numeric-footwear-design-apprentice",
-   "company": "New Balance",
-   "title": "Numeric Footwear Design Apprentice",
-   "url": "https://jobs.newbalance.com/global/en/apply?jobSeqNo=NEBAGLOBALR39666EXTERNALENGLOBAL&utm_medium=phenom-feeds&step=1&stepname=personalInformation",
-   "lastVerified": "2026-10-23",
-   "result": "ok",
-   "detail": "HTTP 200"
   },
   {
    "id": "newell-brands-2027-intern-industrial-design",
@@ -1920,15 +1893,6 @@
    "detail": "HTTP 200"
   },
   {
-   "id": "puma-internship-design-innovation-footwear",
-   "company": "PUMA",
-   "title": "Internship Design Innovation Footwear",
-   "url": "https://puma.wd502.myworkdayjobs.com/en-US/Jobs_at_Puma/job/PUMA-Way-Headquarters/Internship-Design-Innovation-Footwear_R42705",
-   "lastVerified": "2026-10-23",
-   "result": "ok",
-   "detail": "HTTP 200"
-  },
-  {
    "id": "stellantis-2027-pdo-design-visual-communication-internship",
    "company": "Stellantis",
    "title": "2027 Product Design Office (PDO) – Design Visual Communication Internship",
@@ -2050,18 +2014,9 @@
    "company": "DICK'S Sporting Goods",
    "title": "Product Design (UX) – Summer 2027 Corporate Internship",
    "url": "https://dickssportinggoods.wd1.myworkdayjobs.com/DSG/job/Customer-Support-Center/Product-Design--UX----Summer-2027-Corporate-Internship_202608790-1",
-   "lastVerified": "2026-10-29",
+   "lastVerified": "2026-11-18",
    "result": "ok",
    "detail": "Workday lists this job"
-  },
-  {
-   "id": "duke-energy-ux-design-intern-summer-2027",
-   "company": "Duke Energy",
-   "title": "UX Design Internship – Summer 2027",
-   "url": "https://dukeenergy.wd1.myworkdayjobs.com/Search/job/Charlotte-NC/UX-Design-Internship---Summer-2027_R41850",
-   "lastVerified": "2026-10-30",
-   "result": "ok",
-   "detail": "HTTP 200"
   },
   {
    "id": "figma-product-design-intern-2027",
@@ -2212,7 +2167,7 @@
    "company": "Shure",
    "title": "User Experience Design (UX) Intern",
    "url": "https://careersus-shure.icims.com/jobs/5003/user-experience-design-%28ux%29-intern/job",
-   "lastVerified": "2026-10-23",
+   "lastVerified": "2026-11-18",
    "result": "ok",
    "detail": "HTTP 200"
   },
@@ -2257,7 +2212,7 @@
    "company": "Target",
    "title": "UX Design Internship – Minneapolis, MN (Summer 2027)",
    "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/UX-Design-Internship---Minneapolis--MN--Starting-Summer--2027-_R0000451077",
-   "lastVerified": "2026-10-30",
+   "lastVerified": "2026-11-18",
    "result": "ok",
    "detail": "Workday lists this job"
   },
