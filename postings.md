@@ -2,18 +2,18 @@
 
 Open internships, co-ops and entry-level jobs for Industrial Design, Graphic Design and UI/UX students in the School of Art & Design at the University of Illinois Urbana-Champaign.
 
-**251 open jobs** · updated Nov 17, 2026 · download as [CSV](postings.csv) or [JSON](postings.json)
+**246 open jobs** · updated Nov 18, 2026 · download as [CSV](postings.csv) or [JSON](postings.json)
 
 > Every job here was checked against our criteria and approved by a person before it was listed, but jobs can close without notice. Always confirm the details on the employer's site before you apply.
 
 ## Contents
 
 - [Closing soon](#closing-soon) (15)
-- [New this week](#new-this-week) (72)
-- **[Industrial Design](#industrial-design)** (166): [Chicago area](#industrial-design--chicago-area) (3) · [Midwest](#industrial-design--midwest) (43) · [Remote](#industrial-design--remote) (1) · [Elsewhere in US](#industrial-design--elsewhere-in-us) (77) · [International](#industrial-design--international) (42)
+- [New this week](#new-this-week) (43)
+- **[Industrial Design](#industrial-design)** (163): [Chicago area](#industrial-design--chicago-area) (3) · [Midwest](#industrial-design--midwest) (43) · [Remote](#industrial-design--remote) (1) · [Elsewhere in US](#industrial-design--elsewhere-in-us) (75) · [International](#industrial-design--international) (41)
 - **[Graphic Design](#graphic-design)** (39): [Chicago area](#graphic-design--chicago-area) (7) · [Midwest](#graphic-design--midwest) (7) · [Remote](#graphic-design--remote) (2) · [Elsewhere in US](#graphic-design--elsewhere-in-us) (19) · [International](#graphic-design--international) (4)
-- **[UI/UX & Digital Product](#uiux--digital-product)** (37): [Chicago area](#uiux--digital-product--chicago-area) (1) · [Midwest](#uiux--digital-product--midwest) (11) · [Remote](#uiux--digital-product--remote) (4) · [Elsewhere in US](#uiux--digital-product--elsewhere-in-us) (19) · [International](#uiux--digital-product--international) (2)
-- **[ID + GD](#id--gd)** (9): [Midwest](#id--gd--midwest) (6) · [Elsewhere in US](#id--gd--elsewhere-in-us) (1) · [International](#id--gd--international) (2)
+- **[UI/UX & Digital Product](#uiux--digital-product)** (36): [Chicago area](#uiux--digital-product--chicago-area) (1) · [Midwest](#uiux--digital-product--midwest) (11) · [Remote](#uiux--digital-product--remote) (4) · [Elsewhere in US](#uiux--digital-product--elsewhere-in-us) (18) · [International](#uiux--digital-product--international) (2)
+- **[ID + GD](#id--gd)** (8): [Midwest](#id--gd--midwest) (6) · [Elsewhere in US](#id--gd--elsewhere-in-us) (1) · [International](#id--gd--international) (1)
 - [About this list](#about-this-list)
 
 ## Closing soon
@@ -259,156 +259,11 @@ VANMOKUM · Industrial Design · Internship · Feb–Jun 2027 (5 months; other p
 Amsterdam / Almere, Netherlands · on-site · Pay: Paid (rate not listed) · Found Nov 12  
 _Full-time, 40-hour internship at a Dutch lighting and furniture design house; open to industrial product design students (not a graduation internship), English required._
 
-**[Assistant Product Designer](https://job-boards.greenhouse.io/apparatus/jobs/5597963004)**  
-Apparatus · Industrial Design · Entry-level · Full-time  
-New York, NY · on-site · Pay: From $55,000/year · Found Nov 11  
-_Drafts custom versions of high-end lighting and furniture; asks for 1–3 years of ID experience._
-
-**[Junior Product Designer](https://careers-arteriorshome.icims.com/jobs/2105/junior-product-designer/job)**  
-Arteriors Home · Industrial Design · Entry-level · Full-time  
-Lewisville, TX · on-site · Pay: not listed · Found Nov 11  
-_Furniture and lighting CAD/rendering role; open to 0–3 years including internships._
-
-**[Assistant Designer – Jewelry](https://careers-centricbrands.icims.com/jobs/23641/assistant%2c-designer---jewelry/job)**  
-Centric Brands · Industrial Design · Entry-level · Full-time  
-New York, NY · Pay: $60,000–$65,000/year · Found Nov 11  
-_Supports fine and fashion jewelry design; asks for 1–2 years of jewelry design experience._
-
-**[UI/UX Designer Intern (Stage – UI/UX Designer, Fashion)](https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/Paris/Stage---UI-UX-Designer--H-F-X----Mode---Janvier-2026_JOBREQ00117395)**  
-Chanel · UI/UX & Digital Product · Internship · From January 2027  
-Paris, France · on-site · Pay: not listed · Found Nov 11  
-_Posting is in French; intern joins the Fashion division's digital design team in Paris and needs fluent French and English._
-
-**[Assistant Designer Intern, Studio Création (Stage)](https://www.lvmh.com/en/join-us/our-job-offers/CHAU01834)**  
-Chaumet · Industrial Design · Internship · From January 2027  
-Paris, France · on-site · Pay: not listed · Found Nov 11  
-_High-jewelry design studio internship in Paris starting 3 Jan 2027; posting is in French and a portfolio is mandatory._
-
-**[Design Model Maker Co-op – Summer 2027](https://us-careers.crown.com/job/New-Bremen-Design-Model-Maker-Co-op-Summer-2027-OH-45869/1443184100/)**  
-Crown Equipment · Industrial Design · Co-op · Summer 2027  
-New Bremen, OH · on-site · Pay: not listed · Found Nov 11  
-_Model shop co-op building prototype models for Crown's ID team; Industrial Design majors preferred; no visa sponsorship._
-
-**[Graphic Digital Design Co-Op – Summer 2027](https://us-careers.crown.com/job/New-Bremen-Graphic-Digital-Design-Co-Op-Summer-2027-OH-45869/1436983300/)**  
-Crown Equipment · Graphic Design · Co-op · Summer 2027  
-New Bremen, OH · on-site · Pay: not listed · Found Nov 11  
-_Marketing graphic design co-op working on brochures, spec sheets and launch materials; Adobe CC required; no visa sponsorship._
-
-**[Industrial Design Co-op – Summer 2027](https://us-careers.crown.com/job/New-Bremen-Industrial-Design-Co-op-Summer-2027-OH-45869/1443169200/)**  
-Crown Equipment · Industrial Design · Co-op · Summer 2027  
-New Bremen, OH · on-site · Pay: not listed · Found Nov 11  
-_Forklift and material-handling ID co-op for students in a bachelor's Industrial Design program; no visa sponsorship._
-
-**[Marketing Digital UX Co-Op – Summer 2027](https://us-careers.crown.com/job/New-Bremen-Marketing-Digital-UX-Co-Op-Summer-2027-OH-45869/1430744200/)**  
-Crown Equipment · UI/UX & Digital Product · Co-op · Summer 2027  
-New Bremen, OH · on-site · Pay: not listed · Found Nov 11  
-_Website UX co-op on Crown's marketing team working in Figma on the Core UI design system; no visa sponsorship._
-
-**[UX Interaction Design Co-op – Summer 2027](https://us-careers.crown.com/job/New-Bremen-UX-Interaction-Design-Co-op-Summer-2027-OH-45869/1443633900/)**  
-Crown Equipment · UI/UX & Digital Product · Co-op · Summer 2027  
-New Bremen, OH · on-site · Pay: not listed · Found Nov 11  
-_Interaction design co-op on lift truck interfaces and warehouse apps; portfolio link required; no visa sponsorship._
-
-**[Industrial Designer – Components](https://www.careers.ford.com/en/job/dearborn/industrial-designer-components/48560/95066978448)**  
-Ford · Industrial Design · Entry-level · Full-time  
-Dearborn, MI · hybrid · Pay: $74,300–$166,200 per year (salary grade 6–8) · Found Nov 11  
-_Vehicle interior and component design in Ford's Dearborn studios. Asks for 1+ year of design experience and a PDF portfolio._
-
-**[Industrial Design Intern](https://builtin.com/job/industrial-design-intern/11658761)**  
-Fossil · Industrial Design · Internship · Summer 2027, 10 weeks  
-Richardson, TX · on-site (Fridays remote) · Pay: Paid (rate not listed) · Found Nov 11  
-_Paid summer watch-design internship for ID/product design majors graduating Spring 2027–Spring 2028; portfolio required._
-
-**[Graphic Design Intern (Summer 2027)](https://builtin.com/job/graphic-design-intern/11658786)**  
-Fossil Group · Graphic Design · Internship · Summer 2027, 10 weeks  
-Richardson, TX · on-site Mon–Thu, remote Fri · Pay: Paid (rate not listed) · Found Nov 11  
-_Paid 10-week internship on Fossil's Global Creative team for graphic/communication design students graduating Spring 2027–Spring 2028; portfolio required._
-
-**[Structural Designer I](https://wellfound.com/jobs/5020044-structural-designer-i)**  
-International Paper · Industrial Design · Entry-level · Full-time  
-Fond du Lac, WI · on-site · Pay: $57,200–$76,300 per year · Found Nov 11  
-_Structural packaging design at a corrugated box plant; corrugated experience preferred, not required._
-
-**[Industrial Design Internship](https://inrecruiting.intervieweb.it/italdesign/jobs/industrial-design-internship-726449/en/)**  
-Italdesign · Industrial Design · Internship · 6 months  
-Moncalieri (Turin), Italy · on-site · Pay: not listed · Found Nov 11  
-_Six-month internship in Italdesign's Industrial Design Department for new graduates; fluent Italian and English (B2+) required._
-
-**[Industrial Design Intern (Spring 2027)](https://keytechinc.hire.trakstar.com/jobs/fk0hb45/)**  
-Key Tech · Industrial Design · Internship · Spring 2027 (January–April)  
-Baltimore, MD · on-site · Pay: USD 24–28/hour · Found Nov 11  
-_Medical-device industrial design internship; the combined posting says Key Tech is hiring for a Spring 2027 (January–April) intern and will review summer applications in the spring._
-
-**[Junior Footwear Designer & Product Developer](https://apply.workable.com/naked-wolfe/jobs/view/A50EE1AB83)**  
-Naked Wolfe · Industrial Design · Entry-level · Full-time  
-Los Angeles (West Hollywood), CA · on-site · Pay: $70,000–$100,000 per year · Found Nov 11  
-_Asks for 1–2 years in footwear or a strong footwear-focused graduate portfolio; on-site five days a week._
-
-**[2027 Graduate Industrial Designer](https://jobs.smartrecruiters.com/PAConsulting/744000157847011)**  
-PA Consulting (Essential Design) · Industrial Design · Entry-level · Full-time, 2027 graduate start  
-Bray, Co. Wicklow, Ireland · on-site · Pay: not listed · Found Nov 11  
-_Graduate-level role at PA's Irish design studio near Dublin; a bachelor's in industrial design (or one underway) is required._
-
-**[UX Design Intern – Summer 2027](https://jobs.lever.co/pattern/c125d285-71d1-4af5-9ed2-b1f8884f2a2d)**  
-Pattern · UI/UX & Digital Product · Internship · Summer 2027 (about 12 weeks)  
-Lehi, UT · hybrid · Pay: not listed · Found Nov 11  
-_E-commerce software UX internship for juniors or seniors in design, product design or UX with 1-2 UX case studies._
-
-**[Junior Designer Color & Materials – CORE Footwear (14-month contract)](https://puma.wd502.myworkdayjobs.com/Jobs_at_Puma/job/PUMA-Way-Headquarters/Junior-Designer-Color---Materials--CORE-Footwear--limited-for-14-months-_R43332-1)**  
-PUMA · Industrial Design · Entry-level · 14-month fixed term  
-Herzogenaurach, Germany · on-site (PUMA Way HQ) · Pay: not listed · Found Nov 11  
-_CMF-focused junior footwear role on Sportstyle/CORE footwear, limited to 14 months; portfolio required._
-
-**[Junior Designer Color & Materials, Kids Footwear](https://puma.wd502.myworkdayjobs.com/Jobs_at_Puma/job/PUMA-Way-Headquarters/Junior-Designer-Color---Materials-Kids-Footwear_R44011)**  
-PUMA · Industrial Design · Entry-level · Full-time or part-time  
-Herzogenaurach, Germany (PUMA Way HQ) · Pay: not listed · Found Nov 11  
-_Junior CMF role on PUMA's kids footwear team at the German headquarters; portfolio and CV required._
-
-**[Junior Designer Training Footwear](https://puma.wd502.myworkdayjobs.com/Jobs_at_Puma/job/PUMA-Way-Headquarters/Junior-Designer-Training-Footwear_R43784)**  
-PUMA · Industrial Design · Entry-level · Full-time (or part-time)  
-Herzogenaurach, Germany · on-site (PUMA Way HQ) · Pay: not listed · Found Nov 11  
-_Junior footwear design role on PUMA's Training category at global HQ; portfolio and CV required._
-
-**[Graphic Design and Marketing Intern – Summer 2027](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=8f7904d5-afa2-4f7b-994a-d4aaec6c669f&ccId=19000101_000001&jobId=539522&lang=en_US&source=CC2)**  
-Radio Flyer · Graphic Design · Internship · Summer 2027  
-Chicago, IL · on-site · Pay: USD 21–25/hour · Found Nov 11  
-_Paid brand-communications internship for juniors or seniors in graphic design, visual communication or marketing; a PDF or online portfolio is required._
-
-**[Industrial Designer (Starlink)](https://boards.greenhouse.io/spacex/jobs/8570369002?gh_jid=8570369002)**  
-SpaceX · Industrial Design · Entry-level · Full-time  
-Bastrop, TX · on-site · Pay: not listed · Found Nov 11  
-_Consumer hardware design for Starlink; requires 1+ year of ID experience and US-person status (ITAR)._
-
-**[Interaction Design Internship](https://www.teamsdesign.com/en/careers/amsterdam-internship-interaction-design)**  
-TEAMS Design · UI/UX & Digital Product · Internship  
-Amsterdam, Netherlands · on-site · Pay: not listed · Found Nov 11  
-_UI/interaction internship for students currently enrolled full-time in an industrial or product design program; fluent English required, Dutch a plus; apply by email._
-
-**[Assistant Designer, Accessories](https://job-boards.greenhouse.io/tecovas/jobs/8932467002)**  
-Tecovas · Industrial Design · Entry-level · Full-time  
-Austin, TX · on-site · Pay: $65,000–$70,000 per year · Found Nov 11  
-_Assistant-level design role for bags, belts, small leather goods, hats and gifting at a western boot and leather goods brand._
-
-**[Industrial Designer I – Ditch Witch](https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Perry-OK/Industrial-Designer---Ditch-Witch_JR17347)**  
-The Toro Company (Ditch Witch) · Industrial Design · Entry-level · Full-time  
-Perry, OK · on-site · Pay: not listed · Found Nov 11  
-_Level-I industrial designer for underground construction equipment; no visa sponsorship._
-
-**[Industrial Designer](https://jobs.wcbradley.com/job/Columbus-Industrial-Designer-GA-31829/1435019000/)**  
-W.C. Bradley Co. (Char-Broil) · Industrial Design · Entry-level · Full-time  
-Columbus, GA · on-site · Pay: not listed · Found Nov 11  
-_Grill and outdoor-cooking product design at Char-Broil's parent company; asks for 1–3 years of experience._
-
-**[Technical Communications Designer](https://weber.wd115.myworkdayjobs.com/WB/job/Palatine-Illinois/Technical-Communications-Designer_JR145)**  
-Weber Blackstone · Graphic Design · Entry-level · Full-time  
-Palatine, IL · hybrid · Pay: $68,000–$80,000/year · Found Nov 11  
-_Layout of grill manuals, assembly guides and warning labels in InDesign; open to 0–3 years of experience._
-
 [Back to top](#id--gd-job-board)
 
 ## Industrial Design
 
-166 jobs: [Chicago area](#industrial-design--chicago-area) (3) · [Midwest](#industrial-design--midwest) (43) · [Remote](#industrial-design--remote) (1) · [Elsewhere in US](#industrial-design--elsewhere-in-us) (77) · [International](#industrial-design--international) (42)
+163 jobs: [Chicago area](#industrial-design--chicago-area) (3) · [Midwest](#industrial-design--midwest) (43) · [Remote](#industrial-design--remote) (1) · [Elsewhere in US](#industrial-design--elsewhere-in-us) (75) · [International](#industrial-design--international) (41)
 
 ### Industrial Design · Chicago area
 
@@ -930,11 +785,6 @@ Deckel & Moneypenny · Internship · Winter/Spring 2027
 Louisville, KY (on-site) · Pay: Paid (rate not listed) · **Apply by Nov 23, 2026** · Found Oct 28  
 _Exhibit and museum design firm; Vectorworks training and housing support; apply by emailing CV and portfolio to JChang@deckelmoneypenny.com._
 
-**[Structural Design Co-Op (Spring 2027)](https://menasha.wd12.myworkdayjobs.com/MenashaCorp/job/Lyndhurst-New-Jersey/Structural-Design-Co-Op--Spring-2027-_R16445)**  
-Menasha · Co-op · Jan 4 – Jul 2, 2027  
-Lyndhurst, NJ · on-site · Pay: not listed · Found Oct 27  
-_Point-of-purchase display and structural packaging design using ArtiosCAD and Adobe; for packaging design or related bachelor's students._
-
 **[Industrial Design Internship](https://lemanoosh.com/jobs/industrial-design-internship-31/)**  
 Now Studio · Internship · Three months  
 San Francisco, CA · Pay: not listed · Found Oct 27  
@@ -944,11 +794,6 @@ _Industrial design consultancy; apply by emailing portfolio and resume to hiring
 A2 Product Development · Entry-level  
 Westchester, NY (listed as New York, NY) · Pay: Commensurate with experience · Found Oct 23  
 _Housewares and consumer products consultancy. Recent grads welcome; strong SolidWorks surfacing, sketching, KeyShot. Posted Sep 28._
-
-**[Numeric Footwear Design Apprentice](https://jobs.newbalance.com/global/en/apply?jobSeqNo=NEBAGLOBALR39666EXTERNALENGLOBAL&utm_medium=phenom-feeds&step=1&stepname=personalInformation)**  
-New Balance · Entry-level · Apprenticeship  
-Long Beach, CA (hybrid) · Pay: $33/hr · Found Oct 23  
-_Skate footwear apprenticeship for BA/BS grads in industrial or product design; Illustrator required._
 
 **[Design Specialist](https://www.coroflot.com/design-jobs/Design-Specialist-Ravenhill-Studio-Los-Angeles-CA-682101)**  
 Ravenhill Studio · Entry-level  
@@ -1170,11 +1015,6 @@ _Product design studio; for ID students in 4th semester or later; apply by email
 KISKA · Internship · Six months  
 Salzburg, Austria · Pay: not listed · Found Oct 23  
 _Design agency; open to students or recent grads in product/industrial design; fluent English required._
-
-**[Junior Industrial / Product Designer](https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll/job/UK---London/Junior-Industrial---Product-Designer_JR109626)**  
-MillerKnoll (Colebrook Bosson Saunders) · Entry-level · Full-time  
-London, UK · Pay: not listed · Found Oct 23  
-_Workplace and office products; graduates or up to two years' experience._
 
 **[Junior Industrial Designer](https://lemanoosh.com/jobs/junior-industrial-designer-16/)**  
 Nyker · Entry-level · Full-time  
@@ -1474,13 +1314,13 @@ _Print and stationery company. Entry level; design degree expected._
 
 ## UI/UX & Digital Product
 
-37 jobs: [Chicago area](#uiux--digital-product--chicago-area) (1) · [Midwest](#uiux--digital-product--midwest) (11) · [Remote](#uiux--digital-product--remote) (4) · [Elsewhere in US](#uiux--digital-product--elsewhere-in-us) (19) · [International](#uiux--digital-product--international) (2)
+36 jobs: [Chicago area](#uiux--digital-product--chicago-area) (1) · [Midwest](#uiux--digital-product--midwest) (11) · [Remote](#uiux--digital-product--remote) (4) · [Elsewhere in US](#uiux--digital-product--elsewhere-in-us) (18) · [International](#uiux--digital-product--international) (2)
 
 ### UI/UX & Digital Product · Chicago area
 
 **[User Experience Design (UX) Intern](https://careersus-shure.icims.com/jobs/5003/user-experience-design-%28ux%29-intern/job)**  
 Shure · Internship · Summer 2027  
-Niles, IL (remote, onsite or hybrid) · Pay: Paid (rate not listed) · Found Oct 23  
+Niles, IL (remote, onsite or hybrid) · Pay: $23–$43/hr (varies by job function and school year) · Found Oct 23  
 _12-week program designing software for Shure audio products; undergrad and grad students; housing stipend if relocating._
 
 [Back to top](#id--gd-job-board)
@@ -1615,11 +1455,6 @@ Nebo Agency · Entry-level · Full-time
 Atlanta, GA (in-office or hybrid) · Pay: not listed · Found Nov 3  
 _Digital agency. Bachelor's required in HCI, UX, interaction or industrial design, or a related field._
 
-**[UX Design Internship – Summer 2027](https://dukeenergy.wd1.myworkdayjobs.com/Search/job/Charlotte-NC/UX-Design-Internship---Summer-2027_R41850)**  
-Duke Energy · Internship · Summer 2027  
-Charlotte, NC (hybrid) · Pay: not listed · Found Oct 30  
-_Open to bachelor's or master's students in UX, HCI, graphic design, product design and related fields who won't graduate before May 2027; minimum 2.75 GPA._
-
 **[Product Design (UX) – Summer 2027 Corporate Internship](https://dickssportinggoods.wd1.myworkdayjobs.com/DSG/job/Customer-Support-Center/Product-Design--UX----Summer-2027-Corporate-Internship_202608790-1)**  
 DICK'S Sporting Goods · Internship · Summer 2027 (May 17–Jul 29, 2027)  
 Pittsburgh (Coraopolis), PA · hybrid · Pay: not listed · Found Oct 29  
@@ -1683,7 +1518,7 @@ _UI/interaction internship for students currently enrolled full-time in an indus
 
 ## ID + GD
 
-9 jobs: [Midwest](#id--gd--midwest) (6) · [Elsewhere in US](#id--gd--elsewhere-in-us) (1) · [International](#id--gd--international) (2)
+8 jobs: [Midwest](#id--gd--midwest) (6) · [Elsewhere in US](#id--gd--elsewhere-in-us) (1) · [International](#id--gd--international) (1)
 
 ### ID + GD · Midwest
 
@@ -1734,11 +1569,6 @@ _Tracks include Franchise Creative (character illustration), Toys & Hardlines (t
 DS Smith · Internship · 1–6 months  
 Brussels, Belgium · Pay: not listed · Found Oct 23  
 _Structural and graphic packaging design; open to industrial/product/packaging and graphic/digital design grads._
-
-**[Internship Design Innovation Footwear](https://puma.wd502.myworkdayjobs.com/en-US/Jobs_at_Puma/job/PUMA-Way-Headquarters/Internship-Design-Innovation-Footwear_R42705)**  
-PUMA · Internship · Six months from January 2027  
-Herzogenaurach, Germany · Pay: not listed · Found Oct 23  
-_Open to enrolled industrial, product, graphic or fashion design students; fluent English required._
 
 [Back to top](#id--gd-job-board)
 

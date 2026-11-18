@@ -15,17 +15,22 @@
   "url": "https://menasha.wd12.myworkdayjobs.com/MenashaCorp/job/Lyndhurst-New-Jersey/Structural-Design-Co-Op--Spring-2027-_R16445",
   "source": "Watchlist · Physical Design Internships",
   "note": "Point-of-purchase display and structural packaging design using ArtiosCAD and Adobe; for packaging design or related bachelor's students.",
-  "status": "open",
+  "status": "closed",
   "firstSeen": "2026-10-27",
-  "lastUpdated": "2026-10-27",
+  "lastUpdated": "2026-11-18",
   "lastVerified": "2026-10-27",
-  "closedAt": "",
-  "closedReason": "",
+  "closedAt": "2026-11-18",
+  "closedReason": "no longer listed (re-checked 2026-11-18)",
   "statusHistory": [
     {
       "date": "2026-11-05",
       "status": "open",
       "reason": "imported from artifact"
+    },
+    {
+      "date": "2026-11-18",
+      "status": "closed",
+      "reason": "no longer listed (re-checked 2026-11-18): Not in Menasha Workday job list (all 203 jobs read)"
     }
   ],
   "facts": {},

@@ -1,34 +1,34 @@
-# Candidate jobs: 2026-11-17
+# Candidate jobs: 2026-11-18
 
-Generated 2026-11-17T13:59-06:00 by the daily maintenance Action. 77 job lists checked, 0 failed, 762 design-titled jobs not yet on the board, **44 first listed today**. Titles are only a first filter: the routine qualifies each one, starting with jobs first listed since its last run.
+Generated 2026-11-18T07:36-06:00 by the daily maintenance Action. 77 job lists checked, 0 failed, 762 design-titled jobs not yet on the board, **22 first listed today**. Titles are only a first filter: the routine qualifies each one, starting with jobs first listed since its last run.
 
 | Entry | Company | Result | New jobs | Already on board |
 |---|---|---|---:|---:|
 | abelsontaylor | AbelsonTaylor | ok | 0 | 0 |
-| adobe | Adobe | ok | 12 | 1 |
+| adobe | Adobe | ok | 11 | 1 |
 | cannondesign | CannonDesign | ok | 27 | 0 |
 | clear-channel-outdoor | Clear Channel Outdoor | ok | 2 | 0 |
 | ddb-chicago | DDB Chicago | ok | 0 | 0 |
 | fcb-chicago | FCB Chicago | ok | 0 | 0 |
 | home-chef | Home Chef | ok | 0 | 0 |
-| icf-next | ICF Next | ok | 9 | 0 |
+| icf-next | ICF Next | ok | 10 | 0 |
 | jll | JLL | ok | 3 | 0 |
-| ogilvy | Ogilvy (Chicago) | ok | 19 | 0 |
+| ogilvy | Ogilvy (Chicago) | ok | 20 | 0 |
 | okeefe-reinhard-and-paul | O'Keefe Reinhard & Paul | ok | 0 | 0 |
 | someoddpilot | Someoddpilot | ok | 0 | 0 |
 | vsa-partners | VSA Partners | ok | 4 | 0 |
 | 3m | 3M | ok | 9 | 2 |
-| abbott | Abbott | ok | 17 | 0 |
+| abbott | Abbott | ok | 16 | 0 |
 | allegion | Allegion | ok | 4 | 1 |
 | bass-pro-shops | Bass Pro Shops | ok | 8 | 0 |
-| baxter | Baxter | ok | 3 | 0 |
+| baxter | Baxter | ok | 4 | 0 |
 | belkin | Belkin | ok | 0 | 0 |
 | bosch | Bosch | ok | 80 | 0 |
 | bose | Bose | ok | 3 | 0 |
 | brunswick | Brunswick | ok | 5 | 2 |
 | cambridge-consultants | Cambridge Consultants | ok | 2 | 0 |
 | caterpillar | Caterpillar | ok | 5 | 0 |
-| chanel | Chanel | ok | 25 | 3 |
+| chanel | Chanel | ok | 26 | 3 |
 | delta-faucet-company | Delta Faucet Company | ok | 2 | 0 |
 | dick-s-sporting-goods | Dick's Sporting Goods | ok | 8 | 0 |
 | essential-design | Essential Design (PA Consulting) | ok | 7 | 1 |
@@ -38,18 +38,18 @@ Generated 2026-11-17T13:59-06:00 by the daily maintenance Action. 77 job lists c
 | generac | Generac | ok | 2 | 0 |
 | general-motors | General Motors | ok | 17 | 5 |
 | gentex-corporation | Gentex Corporation | ok | 0 | 0 |
-| just-id-jobs | Just ID Jobs | ok | 166 | 59 |
+| just-id-jobs | Just ID Jobs | ok | 167 | 58 |
 | lego | LEGO | ok | 18 | 0 |
-| logitech | Logitech | ok | 12 | 0 |
-| longchamp | Longchamp | ok | 1 | 1 |
+| logitech | Logitech | ok | 10 | 0 |
+| longchamp | Longchamp | ok | 0 | 1 |
 | mattel | Mattel | ok | 12 | 0 |
 | medline | Medline | ok | 2 | 0 |
 | menasha | Menasha | ok | 2 | 1 |
-| millerknoll | MillerKnoll | ok | 29 | 0 |
+| millerknoll | MillerKnoll | ok | 30 | 0 |
 | motorola-solutions | Motorola Solutions | ok | 10 | 0 |
 | new-balance | New Balance | ok | 2 | 1 |
 | newdealdesign | NewDealDesign | ok | 0 | 0 |
-| nike | Nike | ok | 38 | 3 |
+| nike | Nike | ok | 34 | 3 |
 | oshkosh-corporation | Oshkosh Corporation | ok | 3 | 0 |
 | philips-medical | Philips (Medical) | ok | 16 | 2 |
 | polaris | Polaris | ok | 2 | 3 |
@@ -57,7 +57,7 @@ Generated 2026-11-17T13:59-06:00 by the daily maintenance Action. 77 job lists c
 | rogue-fitness | Rogue Fitness | ok | 1 | 2 |
 | samsung | Samsung | ok | 5 | 0 |
 | sonos | Sonos | ok | 1 | 0 |
-| stanley-black-and-decker | Stanley Black & Decker | ok | 10 | 2 |
+| stanley-black-and-decker | Stanley Black & Decker | ok | 9 | 2 |
 | steelcase | Steelcase | ok | 2 | 0 |
 | stryker | Stryker | ok | 4 | 2 |
 | trek-bicycle | Trek Bicycle | ok | 0 | 0 |
@@ -69,15 +69,15 @@ Generated 2026-11-17T13:59-06:00 by the daily maintenance Action. 77 job lists c
 | ideo | IDEO | ok | 5 | 0 |
 | kohls | Kohl's | ok | 4 | 0 |
 | kraft-heinz | Kraft Heinz | ok | 28 | 0 |
-| mars-wrigley | Mars Wrigley | ok | 12 | 0 |
+| mars-wrigley | Mars Wrigley | ok | 14 | 0 |
 | rush-street-interactive | Rush Street Interactive | ok | 1 | 0 |
 | teague | Teague | ok | 2 | 0 |
-| airbnb | Airbnb | ok | 6 | 0 |
+| airbnb | Airbnb | ok | 7 | 0 |
 | chowbus | Chowbus | ok | 1 | 0 |
-| expedia-group | Expedia Group | ok | 10 | 0 |
+| expedia-group | Expedia Group | ok | 9 | 0 |
 | grubhub | Grubhub | ok | 0 | 0 |
-| huron | Huron | ok | 2 | 0 |
-| salesforce | Salesforce | ok | 2 | 0 |
+| huron | Huron | ok | 1 | 0 |
+| salesforce | Salesforce | ok | 5 | 0 |
 | servicenow | ServiceNow | ok | 19 | 0 |
 | topstep | Topstep | ok | 2 | 0 |
 | vivid-seats | Vivid Seats | ok | 0 | 0 |
@@ -89,9 +89,8 @@ Generated 2026-11-17T13:59-06:00 by the daily maintenance Action. 77 job lists c
 | Head of Design, Adobe Creative | 3 Locations | Posted 30+ Days Ago | 2026-11-06 | [link](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/Head-of-Design--Creative-Studio_R171521) |
 | Group Product Design Manager, Systems | 2 Locations | Posted 30+ Days Ago | 2026-11-06 | [link](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/Group-Product-Design-Manager--Systems_R171676) |
 | Head of Brand Design, Adobe Creative | 3 Locations | Posted 30+ Days Ago | 2026-11-06 | [link](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/Head-of-Brand--Creative-Studio_R171523) |
-| Principal Product Manager, Emerging Design Experiences | 2 Locations | Posted 30+ Days Ago | 2026-11-06 | [link](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Principal-Product-Manager--Emerging-Design-Experiences_R170683-1) |
 | Pro Design Principal Product Manager, Growth | San Jose | Posted 30+ Days Ago | 2026-11-06 | [link](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Pro-Design-Principal-Product-Manager--Growth_R171088) |
-| Senior Product Designer, AI-powered Experiences (Adobe Experience Platform) | Bucharest | Posted 18 Days Ago | 2026-11-06 | [link](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bucharest/Senior-Product-Designer--AI-powered-Experiences--Adobe-Experience-Platform-_R173026-1) |
+| Senior Product Designer, AI-powered Experiences (Adobe Experience Platform) | Bucharest | Posted 19 Days Ago | 2026-11-06 | [link](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bucharest/Senior-Product-Designer--AI-powered-Experiences--Adobe-Experience-Platform-_R173026-1) |
 | Creative Strategist, Motion/3D | San Jose | Posted 30+ Days Ago | 2026-11-06 | [link](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/Creative-Strategist--Motion-3D_R171217-1) |
 | Creative Technologist-AI Studio | 2 Locations | Posted 30+ Days Ago | 2026-11-06 | [link](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/Bangalore/AI-Studio---Creative-Designer--GenStudio---Firefly-_R169477) |
 | Head of Campaign, Adobe Creative | 3 Locations | Posted 30+ Days Ago | 2026-11-06 | [link](https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/Head-of-Campaign--Creative-Studio_R171522) |
@@ -109,8 +108,8 @@ Generated 2026-11-17T13:59-06:00 by the daily maintenance Action. 77 job lists c
 | Designer III | Dallas, TX; Houston, TX; St. Louis, MO | 2026-11-09 | 2026-11-10 | [link](http://www.cannondesign.com/careers/?gh_jid=8742110002) |
 | Design Leader I - Interiors | Dallas, TX; St. Louis, MO | 2026-11-09 | 2026-11-10 | [link](http://www.cannondesign.com/careers/?gh_jid=8907123002) |
 | Design Student Intern | Mumbai, India | 2026-11-09 | 2026-11-10 | [link](http://www.cannondesign.com/careers/?gh_jid=8785149002) |
-| Experiential Graphic Designer IV | Portland, OR | 2026-11-09 | 2026-11-10 | [link](http://www.cannondesign.com/careers/?gh_jid=8933525002) |
 | Experiential Graphic Designer IV | New York, NY | 2026-11-09 | 2026-11-10 | [link](http://www.cannondesign.com/careers/?gh_jid=8701287002) |
+| Experiential Graphic Designer IV | Portland, OR | 2026-11-09 | 2026-11-10 | [link](http://www.cannondesign.com/careers/?gh_jid=8933525002) |
 | Interior Designer - Entry Level | Chicago, IL | 2026-11-09 | 2026-11-10 | [link](http://www.cannondesign.com/careers/?gh_jid=8906456002) |
 | Interior Designer II | Chicago, IL | 2026-11-09 | 2026-11-10 | [link](http://www.cannondesign.com/careers/?gh_jid=8542033002) |
 | Interior Designer II | Buffalo, NY | 2026-11-09 | 2026-11-10 | [link](http://www.cannondesign.com/careers/?gh_jid=8907491002) |
@@ -118,11 +117,11 @@ Generated 2026-11-17T13:59-06:00 by the daily maintenance Action. 77 job lists c
 | Interior Designer III | Houston, TX | 2026-11-09 | 2026-11-10 | [link](http://www.cannondesign.com/careers/?gh_jid=8318794002) |
 | Lighting Designer III | Chicago, IL; Houston, TX | 2026-11-09 | 2026-11-10 | [link](http://www.cannondesign.com/careers/?gh_jid=8635749002) |
 | Lighting Designer III | St. Louis, MO | 2026-11-09 | 2026-11-10 | [link](http://www.cannondesign.com/careers/?gh_jid=8861510002) |
-| Project Designer IV | Dallas, TX | 2026-11-09 | 2026-11-10 | [link](http://www.cannondesign.com/careers/?gh_jid=8612524002) |
-| Project Designer IV | Houston, TX | 2026-11-09 | 2026-11-10 | [link](http://www.cannondesign.com/careers/?gh_jid=8612484002) |
 | Project Designer IV | St. Louis, MO | 2026-11-09 | 2026-11-10 | [link](http://www.cannondesign.com/careers/?gh_jid=8612547002) |
-| Project Designer V | Houston, TX | 2026-11-09 | 2026-11-10 | [link](http://www.cannondesign.com/careers/?gh_jid=8617804002) |
+| Project Designer IV | Houston, TX | 2026-11-09 | 2026-11-10 | [link](http://www.cannondesign.com/careers/?gh_jid=8612484002) |
+| Project Designer IV | Dallas, TX | 2026-11-09 | 2026-11-10 | [link](http://www.cannondesign.com/careers/?gh_jid=8612524002) |
 | Project Designer V | Dallas, TX | 2026-11-09 | 2026-11-10 | [link](http://www.cannondesign.com/careers/?gh_jid=8617794002) |
+| Project Designer V | Houston, TX | 2026-11-09 | 2026-11-10 | [link](http://www.cannondesign.com/careers/?gh_jid=8617804002) |
 | Project Interior Designer IV | Dallas, TX | 2026-11-09 | 2026-11-10 | [link](http://www.cannondesign.com/careers/?gh_jid=8916641002) |
 | Project Interior Designer IV | United States - Remote | 2026-11-09 | 2026-11-10 | [link](http://www.cannondesign.com/careers/?gh_jid=8660127002) |
 | Project Interior Designer V | United States - Remote | 2026-11-09 | 2026-11-10 | [link](http://www.cannondesign.com/careers/?gh_jid=8794192002) |
@@ -135,36 +134,38 @@ Generated 2026-11-17T13:59-06:00 by the daily maintenance Action. 77 job lists c
 
 | Title | Location | Posted | First listed | Link |
 |---|---|---|---|---|
-| Industrial/Environmental Designer, Airports | Allentown, PA | Posted 14 Days Ago | 2026-11-10 | [link](https://clearchanneloutdoor.wd5.myworkdayjobs.com/CCO/job/Allentown-PA/Industrial-Environmental-Designer--Airports_Req24052) |
+| Industrial/Environmental Designer, Airports | Allentown, PA | Posted 15 Days Ago | 2026-11-10 | [link](https://clearchanneloutdoor.wd5.myworkdayjobs.com/CCO/job/Allentown-PA/Industrial-Environmental-Designer--Airports_Req24052) |
 | Crewmember - Structure & Design | Orlando, FL (Old Winter) | Posted 30+ Days Ago | 2026-11-10 | [link](https://clearchanneloutdoor.wd5.myworkdayjobs.com/CCO/job/Orlando-FL-Old-Winter/Crewmember---Structure---Design_Req23904) |
 
 ## ICF Next (icf-next)
 
 | Title | Location | Posted | First listed | Link |
 |---|---|---|---|---|
-| Associate Creative Director, Art (Los Angeles Based) | Los Angeles, CA | Posted 6 Days Ago | 2026-11-12 | [link](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Los-Angeles-CA/Associate-Creative-Director--Art--Los-Angeles-Based-_R2603818) |
+| Substation Protection & Control Designer - Remote | Reston, VA | Posted Yesterday | **2026-11-18** | [link](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/Substation-Protection---Control-Designer---Remote_R2603868-1) |
+| Associate Creative Director, Art (Los Angeles Based) | Los Angeles, CA | Posted 7 Days Ago | 2026-11-12 | [link](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Los-Angeles-CA/Associate-Creative-Director--Art--Los-Angeles-Based-_R2603818) |
 | Senior Designer & Illustrator (Future Opportunity) | Reston, VA | Posted 30+ Days Ago | 2026-11-10 | [link](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/Senior-Designer---Illustrator--Future-Opportunity-_R2601839) |
-| UX/UI Design Manager (Top Secret) | Washington, DC | Posted 28 Days Ago | 2026-11-10 | [link](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Washington-DC/UX-UI-Design-Manager--Top-Secret-_R2603597) |
-| 2027 Summer Intern, Learning Solutions Designer (Reston, VA) | Reston, VA | Posted 8 Days Ago | 2026-11-10 | [link](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Learning-Solutions-Designer--Reston--VA-_R2603779) |
+| UX/UI Design Manager (Top Secret) | Washington, DC | Posted 29 Days Ago | 2026-11-10 | [link](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Washington-DC/UX-UI-Design-Manager--Top-Secret-_R2603597) |
+| 2027 Summer Intern, Learning Solutions Designer (Reston, VA) | Reston, VA | Posted 9 Days Ago | 2026-11-10 | [link](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Learning-Solutions-Designer--Reston--VA-_R2603779) |
 | UX Researcher | 3 Locations | Posted 30+ Days Ago | 2026-11-10 | [link](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/UX-Researcher_R2603464-1) |
-| Creative Director, Visual | Reston, VA | Posted 29 Days Ago | 2026-11-10 | [link](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/Creative-Director--Visual_R2603540) |
+| Creative Director, Visual | Reston, VA | Posted 30 Days Ago | 2026-11-10 | [link](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/Creative-Director--Visual_R2603540) |
 | Art Director (Future Opportunity) | Reston, VA | Posted 30+ Days Ago | 2026-11-10 | [link](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/Art-Director--Future-Opportunity-_R2601575) |
-| Audio Visual (AV) Specialist | Reston, VA | Posted 7 Days Ago | 2026-11-10 | [link](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/Audio-Visual--AV--Specialist_R2602732) |
+| Audio Visual (AV) Specialist | Reston, VA | Posted 8 Days Ago | 2026-11-10 | [link](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/Audio-Visual--AV--Specialist_R2602732) |
 | Group Creative Director (Future Opportunity) | Reston, VA | Posted 30+ Days Ago | 2026-11-10 | [link](https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/Group-Creative-Director--Future-Opportunity-_R2603093) |
 
 ## JLL (jll)
 
 | Title | Location | Posted | First listed | Link |
 |---|---|---|---|---|
-| Billingual Video & Graphic Designer | Mexico,MEX | Posted Today | **2026-11-17** | [link](https://jll.wd1.myworkdayjobs.com/jllcareers/job/MexicoMEX/Billingual-Video---Graphic-Designer_REQ541147) |
-| Senior Project Manager – Design Services (m/w/d), Elternzeitvertretung | Frankfurt am Main, DEU | Posted Today | **2026-11-17** | [link](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Frankfurt-am-Main-DEU/Associate-Digital-Marketing-Manager--m-w-d-_REQ541019) |
-| Regional Programme Manager (Design & Development)  - Hospitality | Gurugram, HR | Posted Today | **2026-11-17** | [link](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Gurugram-HR/Regional-Programme-Manager--Design---Development-----Hospitality_REQ547629) |
+| Design Standards & Guidelines Administrator | New York, NY | Posted Yesterday | **2026-11-18** | [link](https://jll.wd1.myworkdayjobs.com/jllcareers/job/New-York-NY/Design-Standards---Guidelines-Administrator_REQ549757) |
+| Senior Project Manager – Design Services (m/w/d), Elternzeitvertretung | Frankfurt am Main, DEU | Posted Today | 2026-11-17 | [link](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Frankfurt-am-Main-DEU/Associate-Digital-Marketing-Manager--m-w-d-_REQ541019) |
+| Billingual Video & Graphic Designer | Mexico,MEX | Posted Yesterday | 2026-11-17 | [link](https://jll.wd1.myworkdayjobs.com/jllcareers/job/MexicoMEX/Billingual-Video---Graphic-Designer_REQ541147) |
 
 ## Ogilvy (Chicago) (ogilvy)
 
 | Title | Location | Posted | First listed | Link |
 |---|---|---|---|---|
-| Mid-level Art Director | Johannesburg, South Africa | 2026-11-17 | **2026-11-17** | [link](https://www.ogilvy.com/careers/4611158005?gh_jid=4611158005) |
+| Digital Designer | Sydney, Australia | 2026-11-18 | **2026-11-18** | [link](https://www.ogilvy.com/careers/4755623005?gh_jid=4755623005) |
+| Mid-level Art Director | Johannesburg, South Africa | 2026-11-17 | 2026-11-17 | [link](https://www.ogilvy.com/careers/4611158005?gh_jid=4611158005) |
 | Junior Art Director (Graduate Program Barcelona) | Barcelona, Spain | 2026-11-16 | 2026-11-16 | [link](https://www.ogilvy.com/careers/4708130005?gh_jid=4708130005) |
 | Senior Art Director | Johannesburg, South Africa | 2026-11-16 | 2026-11-16 | [link](https://www.ogilvy.com/careers/4611161005?gh_jid=4611161005) |
 | Senior Digital Designer | Johannesburg, South Africa | 2026-11-16 | 2026-11-16 | [link](https://www.ogilvy.com/careers/4693673005?gh_jid=4693673005) |
@@ -177,10 +178,10 @@ Generated 2026-11-17T13:59-06:00 by the daily maintenance Action. 77 job lists c
 | Creative Supervisor | Barcelona, Spain | 2026-10-16 | 2026-11-10 | [link](https://www.ogilvy.com/careers/4739562005?gh_jid=4739562005) |
 | Graphic Designer | Makati City,Philippines | 2026-11-09 | 2026-11-10 | [link](https://www.ogilvy.com/careers/4752591005?gh_jid=4752591005) |
 | Presentation Designer | New York, New York | 2026-11-03 | 2026-11-10 | [link](https://www.ogilvy.com/careers/4747993005?gh_jid=4747993005) |
-| Senior Art Director | Toronto, Canada | 2026-11-09 | 2026-11-10 | [link](https://www.ogilvy.com/careers/4751655005?gh_jid=4751655005) |
-| Senior Art Director | Toronto, Canada | 2026-10-30 | 2026-11-10 | [link](https://www.ogilvy.com/careers/4738093005?gh_jid=4738093005) |
-| Senior Art Director | New York, New York | 2026-10-16 | 2026-11-10 | [link](https://www.ogilvy.com/careers/4662589005?gh_jid=4662589005) |
 | Senior Art Director | Makati City,Philippines | 2026-10-16 | 2026-11-10 | [link](https://www.ogilvy.com/careers/4617084005?gh_jid=4617084005) |
+| Senior Art Director | Toronto, Canada | 2026-11-09 | 2026-11-10 | [link](https://www.ogilvy.com/careers/4751655005?gh_jid=4751655005) |
+| Senior Art Director | New York, New York | 2026-10-16 | 2026-11-10 | [link](https://www.ogilvy.com/careers/4662589005?gh_jid=4662589005) |
+| Senior Art Director | Toronto, Canada | 2026-10-30 | 2026-11-10 | [link](https://www.ogilvy.com/careers/4738093005?gh_jid=4738093005) |
 | Senior Brand Executive - Grey Malaysia | Kuala Lumpur, Malaysia | 2026-10-16 | 2026-11-10 | [link](https://www.ogilvy.com/careers/4666083005?gh_jid=4666083005) |
 | Video & Motion Graphics (Baja Maternidad) | Barcelona, Spain | 2026-11-03 | 2026-11-10 | [link](https://www.ogilvy.com/careers/4747556005?gh_jid=4747556005) |
 
@@ -197,12 +198,12 @@ Generated 2026-11-17T13:59-06:00 by the daily maintenance Action. 77 job lists c
 
 | Title | Location | Posted | First listed | Link |
 |---|---|---|---|---|
-| Packaging Operator III* | US, Indiana, Indianapolis | Posted 6 Days Ago | 2026-11-16 | [link](https://3m.wd1.myworkdayjobs.com/Search/job/US-Indiana-Indianapolis/Packaging-Operator-III-_R01171415) |
-| Global Instructional Design Manager | 2 Locations | Posted Today | 2026-11-12 | [link](https://3m.wd1.myworkdayjobs.com/Search/job/US-Minnesota-Maplewood/Global-Instructional-Design-Manager_R01173849) |
+| Packaging Operator III* | US, Indiana, Indianapolis | Posted 7 Days Ago | 2026-11-16 | [link](https://3m.wd1.myworkdayjobs.com/Search/job/US-Indiana-Indianapolis/Packaging-Operator-III-_R01171415) |
+| Global Instructional Design Manager | 2 Locations | Posted Yesterday | 2026-11-12 | [link](https://3m.wd1.myworkdayjobs.com/Search/job/US-Minnesota-Maplewood/Global-Instructional-Design-Manager_R01173849) |
 | Packaging Design Operations Coordinator | MX, Mexico City | Posted 30+ Days Ago | 2026-11-06 | [link](https://3m.wd1.myworkdayjobs.com/Search/job/MX-Mexico-City/Packaging-Design-Operations-Coordinator_R01169728-1) |
 | Graphic Designer for Packaging | MX, Mexico City | Posted 30+ Days Ago | 2026-11-06 | [link](https://3m.wd1.myworkdayjobs.com/Search/job/MX-Mexico-City/Graphic-Designer-for-Packaging_R01171714) |
 | ELPGO - Packaging Graphics Lead | PH, Taguig | Posted 30+ Days Ago | 2026-11-06 | [link](https://3m.wd1.myworkdayjobs.com/Search/job/PH-Taguig/ELPGO---Packaging-Graphics-Lead_R01172099) |
-| Lead Design Operations Project Manager | MX, Mexico City | Posted 19 Days Ago | 2026-11-06 | [link](https://3m.wd1.myworkdayjobs.com/Search/job/MX-Mexico-City/Lead-Design-Operations-Project-Manager_R01171712) |
+| Lead Design Operations Project Manager | MX, Mexico City | Posted 20 Days Ago | 2026-11-06 | [link](https://3m.wd1.myworkdayjobs.com/Search/job/MX-Mexico-City/Lead-Design-Operations-Project-Manager_R01171712) |
 | Laboratory Technician (3M CRPL Rapid Prototyping and Design Center) | US, Minnesota, Maplewood | Posted 30+ Days Ago | 2026-11-06 | [link](https://3m.wd1.myworkdayjobs.com/Search/job/US-Minnesota-Maplewood/Laboratory-Technician--3M-CRPL-Rapid-Prototyping-and-Design-Center-_R01172278) |
 | Internship - 2027 Undergraduate 3M Industrial Design Intern - Safety & Industrial Business Group (SIBG) | 2 Locations | Posted 30+ Days Ago | 2026-11-06 | [link](https://3m.wd1.myworkdayjobs.com/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-3M-Industrial-Design-Intern---Safety---Industrial-Business-Group--SIBG-_R01172241) |
 | Internship - Spring 2027 / Fall 2027 Packaging Solutions Co-op | US, Minnesota, Maplewood | Posted 30+ Days Ago | 2026-11-06 | [link](https://3m.wd1.myworkdayjobs.com/Search/job/US-Minnesota-Maplewood/Internship---Spring-2027---Fall-2027-Packaging-Solutions-Co-op_R01171453) |
@@ -211,21 +212,20 @@ Generated 2026-11-17T13:59-06:00 by the daily maintenance Action. 77 job lists c
 
 | Title | Location | Posted | First listed | Link |
 |---|---|---|---|---|
-| eCommerce Designer - Columbus, OH | United States - Ohio - Columbus | Posted 4 Days Ago | 2026-11-13 | [link](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Ohio---Columbus/eCommerce-Designer_31167389-1) |
-| Designer I CAD | United States - Minnesota - Plymouth | Posted 12 Days Ago | 2026-11-06 | [link](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Minnesota---Plymouth/Designer-I-CAD_31166599-1) |
-| Manager Commercial Execution Design | United States - New Jersey - Princeton | Posted 12 Days Ago | 2026-11-06 | [link](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---New-Jersey---Princeton/Manager-Commercial-Execution-Design_31160305-1) |
+| eCommerce Designer - Columbus, OH | United States - Ohio - Columbus | Posted 5 Days Ago | 2026-11-13 | [link](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Ohio---Columbus/eCommerce-Designer_31167389-1) |
+| Designer I CAD | United States - Minnesota - Plymouth | Posted 13 Days Ago | 2026-11-06 | [link](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Minnesota---Plymouth/Designer-I-CAD_31166599-1) |
+| Manager Commercial Execution Design | United States - New Jersey - Princeton | Posted 13 Days Ago | 2026-11-06 | [link](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---New-Jersey---Princeton/Manager-Commercial-Execution-Design_31160305-1) |
 | Senior Manager, Design Transfer | United Kingdom - Witney | Posted 30+ Days Ago | 2026-11-06 | [link](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-Kingdom---Witney/Senior-Manager--Design-Transfer_31163944) |
-| Senior Product/UX Designer | United States - Illinois - Lake Forest | Posted 14 Days Ago | 2026-11-06 | [link](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Illinois---Lake-Forest/Senior-Product-UX-Designer_31166473-1) |
-| Senior Product/UX Designer | United States - Illinois - Lake Forest | Posted 14 Days Ago | 2026-11-06 | [link](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Illinois---Lake-Forest/Senior-Product-UX-Designer_31166585-1) |
+| Senior Product/UX Designer | United States - Illinois - Lake Forest | Posted 15 Days Ago | 2026-11-06 | [link](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Illinois---Lake-Forest/Senior-Product-UX-Designer_31166473-1) |
+| Senior Product/UX Designer | United States - Illinois - Lake Forest | Posted 15 Days Ago | 2026-11-06 | [link](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Illinois---Lake-Forest/Senior-Product-UX-Designer_31166585-1) |
 | TSD (Total Solution Design) Specialist | Japan - Tokyo | Posted 30+ Days Ago | 2026-11-06 | [link](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Japan---Tokyo/TSD--Total-Solution-Design--Specialist_31161765-5) |
 | Sr. Project Leader - Design Assurance | Singapore | Posted 30+ Days Ago | 2026-11-06 | [link](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Singapore/Sr-Project-Leader---Design-Assurance_31162709) |
 | Technical Solution Design Specialist, Core Diagnostics | Vietnam - Ho Chi Minh City | Posted 30+ Days Ago | 2026-11-06 | [link](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Vietnam---Ho-Chi-Minh-City/Technical-Solution-Design-Specialist--Core-Diagnostics_31159622) |
-| Ops Label & Kit Design Associate IV | United States > Madison : 650 Forward Dr | Posted 19 Days Ago | 2026-11-06 | [link](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States--Madison--650-Forward-Dr/Ops-Label---Kit-Design-Associate-IV_31164754-1) |
-| Senior AutoCAD Designer - Fire Protection & Facilities | United States - Illinois - Abbott Park | Posted 19 Days Ago | 2026-11-06 | [link](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Illinois---Abbott-Park/Senior-AutoCAD-Designer---Fire-Protection---Facilities_31165982-1) |
+| Ops Label & Kit Design Associate IV | United States > Madison : 650 Forward Dr | Posted 20 Days Ago | 2026-11-06 | [link](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States--Madison--650-Forward-Dr/Ops-Label---Kit-Design-Associate-IV_31164754-1) |
+| Senior AutoCAD Designer - Fire Protection & Facilities | United States - Illinois - Abbott Park | Posted 20 Days Ago | 2026-11-06 | [link](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Illinois---Abbott-Park/Senior-AutoCAD-Designer---Fire-Protection---Facilities_31165982-1) |
 | Technical Solution Design Specialist - Core Lab Diagnostics | Philippines - Taguig City | Posted 30+ Days Ago | 2026-11-06 | [link](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Philippines---Taguig-City/Technical-Solution-Design-Specialist---Core-Lab-Diagnostics_31151398) |
-| Brand Manager - Pediatric Marketing Design  - Nutrition - Columbus, OH | United States - Ohio - Columbus | Posted 19 Days Ago | 2026-11-06 | [link](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Ohio---Columbus/Brand-Manager---Pediatric-Marketing-Design----Nutrition---Columbus--OH_31165915-1) |
-| HBO/WO Stage: Design to Value Assessment of Strategic Packing | Netherlands - Zwolle | Posted 13 Days Ago | 2026-11-06 | [link](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Netherlands---Zwolle/HBO-WO-Stage--Design-to-Value-Assessment-of-Strategic-Packing_31164498) |
-| - Senior Project Manager, Pediatric Nutrition (within Internal Design Agency) - Columbus, OH | United States - Ohio - Columbus | Posted 30+ Days Ago | 2026-11-06 | [link](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Ohio---Columbus/XMLNAME---Senior-Project-Manager--Pediatric-Nutrition--within-Internal-Design-Agency----Columbus--OH_31162497-2) |
+| Brand Manager - Pediatric Marketing Design  - Nutrition - Columbus, OH | United States - Ohio - Columbus | Posted 20 Days Ago | 2026-11-06 | [link](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Ohio---Columbus/Brand-Manager---Pediatric-Marketing-Design----Nutrition---Columbus--OH_31165915-1) |
+| HBO/WO Stage: Design to Value Assessment of Strategic Packing | Netherlands - Zwolle | Posted 14 Days Ago | 2026-11-06 | [link](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Netherlands---Zwolle/HBO-WO-Stage--Design-to-Value-Assessment-of-Strategic-Packing_31164498) |
 | Qualification and Validation Internship: Simplifying Packaging Materials | Netherlands - Zwolle | Posted 30+ Days Ago | 2026-11-06 | [link](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Netherlands---Zwolle/Qualification-and-Validation-Internship--Simplifying-Packaging-Materials_31164501) |
 | Nutrition Brand Management Intern - Infant and Adult - Summer 2027 | United States - Ohio - Columbus | Posted 30+ Days Ago | 2026-11-06 | [link](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/United-States---Ohio---Columbus/Nutrition-Brand-Management-Intern---Infant-and-Adult---Summer-2027_31160729) |
 
@@ -233,39 +233,43 @@ Generated 2026-11-17T13:59-06:00 by the daily maintenance Action. 77 job lists c
 
 | Title | Location | Posted | First listed | Link |
 |---|---|---|---|---|
-| Drafter Designer | Greensburg, PA | Posted 7 Days Ago | 2026-11-11 | [link](https://allegion.wd5.myworkdayjobs.com/careers/job/Greensburg-PA/Drafter-Designer_JR38276-1) |
+| Drafter Designer | Greensburg, PA | Posted 8 Days Ago | 2026-11-11 | [link](https://allegion.wd5.myworkdayjobs.com/careers/job/Greensburg-PA/Drafter-Designer_JR38276-1) |
 | CAD Designer | Princeton, IL | Posted 30+ Days Ago | 2026-11-10 | [link](https://allegion.wd5.myworkdayjobs.com/careers/job/Princeton-IL/CAD-Designer_JR37256-1) |
-| Manager, Design Systems | Golden, CO | Posted 14 Days Ago | 2026-11-10 | [link](https://allegion.wd5.myworkdayjobs.com/careers/job/Golden-CO/Manager--Design-Systems_JR38179) |
+| Manager, Design Systems | Golden, CO | Posted 15 Days Ago | 2026-11-10 | [link](https://allegion.wd5.myworkdayjobs.com/careers/job/Golden-CO/Manager--Design-Systems_JR38179) |
 | Summer Intern, User Experience (UX) Research | Carmel, IN | Posted 30+ Days Ago | 2026-11-10 | [link](https://allegion.wd5.myworkdayjobs.com/careers/job/Carmel-IN/Summer-Intern--User-Experience--UX--Research_JR37497) |
 
 ## Bass Pro Shops (bass-pro-shops)
 
 | Title | Location | Posted | First listed | Link |
 |---|---|---|---|---|
-| Visual Merchandise Specialist-Hunting, Shooting, & Hunt Clothing | Springfield, MO (Bass Pro Shops Base Camp) | Posted Today | **2026-11-17** | [link](https://basspro.wd1.myworkdayjobs.com/careers/job/Springfield-MO-Bass-Pro-Shops-Base-Camp/Visual-Merchandise-Specialist-Hunting--Shooting----Hunt-Clothing_R272818) |
-| Visual Merchandise Specialist-Apparel | Springfield, MO (Bass Pro Shops Base Camp) | Posted Today | **2026-11-17** | [link](https://basspro.wd1.myworkdayjobs.com/careers/job/Springfield-MO-Bass-Pro-Shops-Base-Camp/Visual-Merchandise-Specialist-Apparel_R272813) |
-| Visual Merchandise Specialist-Toys, Home, & Pet | Springfield, MO (Bass Pro Shops Base Camp) | Posted Today | **2026-11-17** | [link](https://basspro.wd1.myworkdayjobs.com/careers/job/Springfield-MO-Bass-Pro-Shops-Base-Camp/Visual-Merchandise-Specialist-Toys--Home----Pet_R272814-1) |
-| Digital Creative Designer | Springfield, MO (Bass Pro Shops Base Camp) | Posted Yesterday | 2026-11-16 | [link](https://basspro.wd1.myworkdayjobs.com/careers/job/Springfield-MO-Bass-Pro-Shops-Base-Camp/Digital-Creative-Designer_R268391) |
-| Sr Industrial Designer | Springfield, MO (Tracker Marine Base Camp) | Posted 14 Days Ago | 2026-11-06 | [link](https://basspro.wd1.myworkdayjobs.com/careers/job/Springfield-MO-Tracker-Marine-Base-Camp/Sr-Industrial-Designer_R253333) |
-| Design Architect | Springfield, MO (Bass Pro Shops Base Camp) | Posted 15 Days Ago | 2026-11-06 | [link](https://basspro.wd1.myworkdayjobs.com/careers/job/Springfield-MO-Bass-Pro-Shops-Base-Camp/Design-Architect_R265720) |
-| Technical Designer - Athletic & Performance Apparel | Springfield, MO (Bass Pro Shops Base Camp) | Posted 18 Days Ago | 2026-11-06 | [link](https://basspro.wd1.myworkdayjobs.com/careers/job/Springfield-MO-Bass-Pro-Shops-Base-Camp/Technical-Designer---Athletic---Performance-Apparel_R271602) |
-| Web Design & Content Specialist | Ridgedale, MO (Big Cedar Lodge) | Posted 18 Days Ago | 2026-11-06 | [link](https://basspro.wd1.myworkdayjobs.com/careers/job/Ridgedale-MO-Big-Cedar-Lodge/Web-Design---Content-Specialist_R265357) |
+| Visual Merchandise Specialist-Hunting, Shooting, & Hunt Clothing | Springfield, MO (Bass Pro Shops Base Camp) | Posted Yesterday | 2026-11-17 | [link](https://basspro.wd1.myworkdayjobs.com/careers/job/Springfield-MO-Bass-Pro-Shops-Base-Camp/Visual-Merchandise-Specialist-Hunting--Shooting----Hunt-Clothing_R272818) |
+| Visual Merchandise Specialist-Apparel | Springfield, MO (Bass Pro Shops Base Camp) | Posted Yesterday | 2026-11-17 | [link](https://basspro.wd1.myworkdayjobs.com/careers/job/Springfield-MO-Bass-Pro-Shops-Base-Camp/Visual-Merchandise-Specialist-Apparel_R272813) |
+| Visual Merchandise Specialist-Toys, Home, & Pet | Springfield, MO (Bass Pro Shops Base Camp) | Posted Yesterday | 2026-11-17 | [link](https://basspro.wd1.myworkdayjobs.com/careers/job/Springfield-MO-Bass-Pro-Shops-Base-Camp/Visual-Merchandise-Specialist-Toys--Home----Pet_R272814-1) |
+| Digital Creative Designer | Springfield, MO (Bass Pro Shops Base Camp) | Posted 2 Days Ago | 2026-11-16 | [link](https://basspro.wd1.myworkdayjobs.com/careers/job/Springfield-MO-Bass-Pro-Shops-Base-Camp/Digital-Creative-Designer_R268391) |
+| Sr Industrial Designer | Springfield, MO (Tracker Marine Base Camp) | Posted 15 Days Ago | 2026-11-06 | [link](https://basspro.wd1.myworkdayjobs.com/careers/job/Springfield-MO-Tracker-Marine-Base-Camp/Sr-Industrial-Designer_R253333) |
+| Design Architect | Springfield, MO (Bass Pro Shops Base Camp) | Posted 16 Days Ago | 2026-11-06 | [link](https://basspro.wd1.myworkdayjobs.com/careers/job/Springfield-MO-Bass-Pro-Shops-Base-Camp/Design-Architect_R265720) |
+| Technical Designer - Athletic & Performance Apparel | Springfield, MO (Bass Pro Shops Base Camp) | Posted 19 Days Ago | 2026-11-06 | [link](https://basspro.wd1.myworkdayjobs.com/careers/job/Springfield-MO-Bass-Pro-Shops-Base-Camp/Technical-Designer---Athletic---Performance-Apparel_R271602) |
+| Web Design & Content Specialist | Ridgedale, MO (Big Cedar Lodge) | Posted 19 Days Ago | 2026-11-06 | [link](https://basspro.wd1.myworkdayjobs.com/careers/job/Ridgedale-MO-Big-Cedar-Lodge/Web-Design---Content-Specialist_R265357) |
 
 ## Baxter (baxter)
 
 | Title | Location | Posted | First listed | Link |
 |---|---|---|---|---|
-| Sr. Manager - Quality - Visual Inspection & Particulate Control | Round Lake, Illinois | Posted 8 Days Ago | 2026-11-10 | [link](https://baxter.wd1.myworkdayjobs.com/baxter/job/Round-Lake-Illinois/Sr-Manager---Quality---Visual-Inspection---Particulate-Control_JR-212920-1) |
-| Associate, Packaging - 1st Shift (Monday to Friday 6:30am-3:00pm) | Skaneateles, NY | Posted 12 Days Ago | 2026-11-06 | [link](https://baxter.wd1.myworkdayjobs.com/baxter/job/Skaneateles-NY/Associate--Packaging---1st-Shift--Monday-to-Friday-6-30am-3-00pm-_JR-212872-1) |
-| Associate, Packaging - 3rd Shift (Sun night- Fri Morning 11:20pm-7:50am) | Skaneateles, NY | Posted 27 Days Ago | 2026-11-06 | [link](https://baxter.wd1.myworkdayjobs.com/baxter/job/Skaneateles-NY/Associate--Packaging---3rd-Shift--Sun-night--Fri-Morning-11-20pm-7-50am-_JR-212106-2) |
+| Associate II, Design Quality | Ahmedabad, Gujarat | Posted Today | **2026-11-18** | [link](https://baxter.wd1.myworkdayjobs.com/baxter/job/Ahmedabad-Gujarat/Associate-II--Design-Quality_JR-212527) |
+| Sr. Manager - Quality - Visual Inspection & Particulate Control | Round Lake, Illinois | Posted 9 Days Ago | 2026-11-10 | [link](https://baxter.wd1.myworkdayjobs.com/baxter/job/Round-Lake-Illinois/Sr-Manager---Quality---Visual-Inspection---Particulate-Control_JR-212920-1) |
+| Associate, Packaging - 1st Shift (Monday to Friday 6:30am-3:00pm) | Skaneateles, NY | Posted 13 Days Ago | 2026-11-06 | [link](https://baxter.wd1.myworkdayjobs.com/baxter/job/Skaneateles-NY/Associate--Packaging---1st-Shift--Monday-to-Friday-6-30am-3-00pm-_JR-212872-1) |
+| Associate, Packaging - 3rd Shift (Sun night- Fri Morning 11:20pm-7:50am) | Skaneateles, NY | Posted 28 Days Ago | 2026-11-06 | [link](https://baxter.wd1.myworkdayjobs.com/baxter/job/Skaneateles-NY/Associate--Packaging---3rd-Shift--Sun-night--Fri-Morning-11-20pm-7-50am-_JR-212106-2) |
 
 ## Bosch (bosch)
 
 | Title | Location | Posted | First listed | Link |
 |---|---|---|---|---|
-| Project Manager - West Coast Customers, Vehicle Motion | Plymouth, MI, us | 2026-11-17 | **2026-11-17** | [link](https://jobs.smartrecruiters.com/BoschGroup/744000162148914) |
-| Mechanical Design Specialist -  (UG NX tool) | hosur road bangalore, in | 2026-11-17 | **2026-11-17** | [link](https://jobs.smartrecruiters.com/BoschGroup/744000162136577) |
-| Mechanical Design Lead | hosur road bangalore, in | 2026-11-17 | **2026-11-17** | [link](https://jobs.smartrecruiters.com/BoschGroup/744000162064109) |
+| Praktikum im Product- und Industrial Design für Heiz- und Klimatechnik | Wernau (Neckar), BW, de | 2026-11-18 | **2026-11-18** | [link](https://jobs.smartrecruiters.com/BoschGroup/744000162288531) |
+| Praktikum Interne Kommunikation und Presse – Content Creation, Video und Design | Karlsruhe, BW, de | 2026-11-18 | **2026-11-18** | [link](https://jobs.smartrecruiters.com/BoschGroup/744000162270049) |
+| UX/User Researcher_PT | Shanghai, Shanghai, cn | 2026-11-18 | **2026-11-18** | [link](https://jobs.smartrecruiters.com/BoschGroup/744000162191019) |
+| Project Manager - West Coast Customers, Vehicle Motion | Plymouth, MI, us | 2026-11-17 | 2026-11-17 | [link](https://jobs.smartrecruiters.com/BoschGroup/744000162148914) |
+| Mechanical Design Specialist -  (UG NX tool) | hosur road bangalore, in | 2026-11-17 | 2026-11-17 | [link](https://jobs.smartrecruiters.com/BoschGroup/744000162136577) |
+| Mechanical Design Lead | hosur road bangalore, in | 2026-11-17 | 2026-11-17 | [link](https://jobs.smartrecruiters.com/BoschGroup/744000162064109) |
 | Praktikum im Bereich Industrial Design | Leinfelden-Echterdingen, BW, de | 2026-11-13 | 2026-11-13 | [link](https://jobs.smartrecruiters.com/BoschGroup/744000161450859) |
 | Pflichtpraktikum im Produktmanagement - Bereich Vehicle Motion | Karlsruhe, BW, de | 2026-11-12 | 2026-11-12 | [link](https://jobs.smartrecruiters.com/BoschGroup/744000161320979) |
 | Beszállítói Csomagolási Koordinátor \| Supplier Packaging Coordinator | Maklár, hu | 2026-11-10 | 2026-11-10 | [link](https://jobs.smartrecruiters.com/BoschGroup/744000160869359) |
@@ -275,7 +279,6 @@ Generated 2026-11-17T13:59-06:00 by the daily maintenance Action. 77 job lists c
 | Mechanical Designer - Packaging (f/m/div.) | Cacia, Aveiro, pt | 2026-11-06 | 2026-11-06 | [link](https://jobs.smartrecruiters.com/BoschGroup/744000160176939) |
 | MID-TO-SENIOR LEVEL PRODUCT DESIGNER (UX/UI) | Campinas, SP, br | 2026-11-06 | 2026-11-06 | [link](https://jobs.smartrecruiters.com/BoschGroup/744000160171565) |
 | ASIC Analog Designer (f/m/div.) | München, BY, de | 2026-11-05 | 2026-11-06 | [link](https://jobs.smartrecruiters.com/BoschGroup/744000159867008) |
-| Praktikum Interne Kommunikation und Presse – Content Creation, Video und Design | Karlsruhe, BW, de | 2026-11-05 | 2026-11-06 | [link](https://jobs.smartrecruiters.com/BoschGroup/744000159810339) |
 | Praktikum Graphic Design & Digital Content Production | Wernau (Neckar), BW, de | 2026-11-05 | 2026-11-06 | [link](https://jobs.smartrecruiters.com/BoschGroup/744000159788519) |
 | Working Student in Packaging Logistics | Cluj, Jucu, ro | 2026-11-04 | 2026-11-06 | [link](https://jobs.smartrecruiters.com/BoschGroup/744000159634506) |
 | UX Designer/ Java developer | bengaluru, in | 2026-11-04 | 2026-11-06 | [link](https://jobs.smartrecruiters.com/BoschGroup/744000159553918) |
@@ -285,7 +288,6 @@ Generated 2026-11-17T13:59-06:00 by the daily maintenance Action. 77 job lists c
 | Praktikum in der technischen Videoproduktion und Animation | Wernau (Neckar), BW, de | 2026-10-27 | 2026-11-06 | [link](https://jobs.smartrecruiters.com/BoschGroup/744000157975549) |
 | Human Resources Intern - Recruitment, Onboarding & Employer Brand | Farmington Hills, MI, us | 2026-10-26 | 2026-11-06 | [link](https://jobs.smartrecruiters.com/BoschGroup/744000157862490) |
 | UX/UI tervező gyakornok | Budapest, hu | 2026-10-26 | 2026-11-06 | [link](https://jobs.smartrecruiters.com/BoschGroup/744000157741581) |
-| Praktikum im Product- und Industrial Design für Heiz- und Klimatechnik | Wernau (Neckar), BW, de | 2026-10-20 | 2026-11-06 | [link](https://jobs.smartrecruiters.com/BoschGroup/744000156541021) |
 | Pflichtpraktikum Corporate Design & Design Support | Stuttgart, BW, de | 2026-10-20 | 2026-11-06 | [link](https://jobs.smartrecruiters.com/BoschGroup/744000156537179) |
 | 设备设计制造经理/Machine Design & Build Manager_PT | Hangzhou, Zhejiang, cn | 2026-10-20 | 2026-11-06 | [link](https://jobs.smartrecruiters.com/BoschGroup/744000156457429) |
 | PLC programozó géptervezési területre \| PLC Programmer for Machine Design Area | Hatvan, hu | 2026-10-16 | 2026-11-06 | [link](https://jobs.smartrecruiters.com/BoschGroup/744000155981099) |
@@ -311,7 +313,6 @@ Generated 2026-11-17T13:59-06:00 by the daily maintenance Action. 77 job lists c
 | Design Manager机械设计经理（济南）_VM | Jinan, Shandong, cn | 2026-08-20 | 2026-11-06 | [link](https://jobs.smartrecruiters.com/BoschGroup/744000144450659) |
 | Jr. Component Design(Stator)_ EM | Shanghai, Shanghai, cn | 2026-08-18 | 2026-11-06 | [link](https://jobs.smartrecruiters.com/BoschGroup/744000144073000) |
 | Jr. Component Design(Rotor)_ EM | Shanghai, Shanghai, cn | 2026-08-18 | 2026-11-06 | [link](https://jobs.smartrecruiters.com/BoschGroup/744000144069020) |
-| UX/User Researcher_PT | Shanghai, Shanghai, cn | 2026-08-17 | 2026-11-06 | [link](https://jobs.smartrecruiters.com/BoschGroup/744000143787959) |
 | IN_Bosch Rexroth India_Executive / Assistant Manager_Design - Power Unit | Sanand, GJ, in | 2026-08-17 | 2026-11-06 | [link](https://jobs.smartrecruiters.com/BoschGroup/744000143785920) |
 | Senior Packaging Design Officer | Bayan Lepas, Penang, my | 2026-08-10 | 2026-11-06 | [link](https://jobs.smartrecruiters.com/BoschGroup/744000142564009) |
 | Praktikum im Bereich Architektur und Design | Dresden, SN, de | 2026-08-07 | 2026-11-06 | [link](https://jobs.smartrecruiters.com/BoschGroup/744000142127003) |
@@ -349,18 +350,18 @@ Generated 2026-11-17T13:59-06:00 by the daily maintenance Action. 77 job lists c
 | Title | Location | Posted | First listed | Link |
 |---|---|---|---|---|
 | Visual Designer | 2 Locations | Posted 30+ Days Ago | 2026-11-06 | [link](https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-NY---Manhattan/Visual-Designer_R29239) |
-| Senior Global Process Owner – Design to Launch | 2 Locations | Posted 29 Days Ago | 2026-11-06 | [link](https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Senior-Global-Process-Owner---Design-to-Launch_R29161) |
+| Senior Global Process Owner – Design to Launch | 2 Locations | Posted 30 Days Ago | 2026-11-06 | [link](https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Senior-Global-Process-Owner---Design-to-Launch_R29161) |
 | Brand Manager | 2 Locations | Posted 30+ Days Ago | 2026-11-06 | [link](https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/Brand-Manager_R29205) |
 
 ## Brunswick (brunswick)
 
 | Title | Location | Posted | First listed | Link |
 |---|---|---|---|---|
-| Model Maker | Fond du Lac, WI | Posted Yesterday | 2026-11-16 | [link](https://brunswick.wd1.myworkdayjobs.com/search/job/Fond-du-Lac-WI/Model-Maker_JR-052150) |
-| CAD Designer | Merritt Island, FL | Posted 25 Days Ago | 2026-11-06 | [link](https://brunswick.wd1.myworkdayjobs.com/search/job/Merritt-Island-FL/CAD-Designer_JR-051199-1) |
-| CAD Designer I | Edgewater, FL | Posted 12 Days Ago | 2026-11-06 | [link](https://brunswick.wd1.myworkdayjobs.com/search/job/Edgewater-FL/CAD-Designer-II_JR-051100) |
-| Brand Service Specialist | Knoxville, TN | Posted 28 Days Ago | 2026-11-06 | [link](https://brunswick.wd1.myworkdayjobs.com/search/job/Knoxville-TN/Brand-Service-Specialist_JR-051899) |
-| Brand Service Specialist | 2 Locations | Posted 28 Days Ago | 2026-11-06 | [link](https://brunswick.wd1.myworkdayjobs.com/search/job/Knoxville-TN/Brand-Service-Specialist_JR-051900) |
+| Model Maker | Fond du Lac, WI | Posted 2 Days Ago | 2026-11-16 | [link](https://brunswick.wd1.myworkdayjobs.com/search/job/Fond-du-Lac-WI/Model-Maker_JR-052150) |
+| CAD Designer | Merritt Island, FL | Posted 26 Days Ago | 2026-11-06 | [link](https://brunswick.wd1.myworkdayjobs.com/search/job/Merritt-Island-FL/CAD-Designer_JR-051199-1) |
+| CAD Designer I | Edgewater, FL | Posted 13 Days Ago | 2026-11-06 | [link](https://brunswick.wd1.myworkdayjobs.com/search/job/Edgewater-FL/CAD-Designer-II_JR-051100) |
+| Brand Service Specialist | Knoxville, TN | Posted 29 Days Ago | 2026-11-06 | [link](https://brunswick.wd1.myworkdayjobs.com/search/job/Knoxville-TN/Brand-Service-Specialist_JR-051899) |
+| Brand Service Specialist | 2 Locations | Posted 29 Days Ago | 2026-11-06 | [link](https://brunswick.wd1.myworkdayjobs.com/search/job/Knoxville-TN/Brand-Service-Specialist_JR-051900) |
 
 ## Cambridge Consultants (cambridge-consultants)
 
@@ -373,33 +374,34 @@ Generated 2026-11-17T13:59-06:00 by the daily maintenance Action. 77 job lists c
 
 | Title | Location | Posted | First listed | Link |
 |---|---|---|---|---|
-| Value Chain Designer | Peoria, Illinois | Posted 4 Days Ago | 2026-11-14 | [link](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Peoria-Illinois/Value-Chain-Designer_R0000390352-1) |
-| Design Manager - Service Design & User Experience (UX) | 2 Locations | Posted 4 Days Ago | 2026-11-13 | [link](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chennai-Tamil-Nadu/Design-Manager---Service-Design---User-Experience--UX-_R0000404243) |
+| Value Chain Designer | Peoria, Illinois | Posted 5 Days Ago | 2026-11-14 | [link](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Peoria-Illinois/Value-Chain-Designer_R0000390352-1) |
+| Design Manager - Service Design & User Experience (UX) | 2 Locations | Posted 5 Days Ago | 2026-11-13 | [link](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Chennai-Tamil-Nadu/Design-Manager---Service-Design---User-Experience--UX-_R0000404243) |
 | Practicante de Tool Design | 2 Locations | Posted 30+ Days Ago | 2026-11-06 | [link](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Santa-Catarina-Nuevo-Len/Practicante-de-Tool-Design_R0000394162) |
 | Logistics Teamleiter (Process Design) (m/w/d) | Kiel, Schleswig-Holstein | Posted 30+ Days Ago | 2026-11-06 | [link](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Kiel-Schleswig-Holstein/Logistics-Teamleiter--Process-Design---m-w-d-_R0000396291) |
-| Senior Product UI Designer （高级工业软件UI设计师） | 2 Locations | Posted 13 Days Ago | 2026-11-06 | [link](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Wuxi-Jiangsu/Senior-Product-UI-Designer--UI-_R0000403234) |
+| Senior Product UI Designer （高级工业软件UI设计师） | 2 Locations | Posted 14 Days Ago | 2026-11-06 | [link](https://cat.wd5.myworkdayjobs.com/CaterpillarCareers/job/Wuxi-Jiangsu/Senior-Product-UI-Designer--UI-_R0000403234) |
 
 ## Chanel (chanel)
 
 | Title | Location | Posted | First listed | Link |
 |---|---|---|---|---|
+| Senior Brand Experience Manager, North Asia | Hong Kong S.A.R. | Posted Today | **2026-11-18** | [link](https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/Hong-Kong-SAR/Senior-Brand-Experience-Manager--North-Asia_JOBREQ00118996-1) |
 | Makeup Brand Manager | Cdmx | Posted 30+ Days Ago | 2026-11-13 | [link](https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/Cdmx/Makeup-Brand-Manager_JOBREQ00112634) |
 | Design Architect | Tokyo | Posted 30+ Days Ago | 2026-11-10 | [link](https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/Tokyo/Design-Architect_JOBREQ00115158) |
 | Manager, Fashion Expertise, Miami Design | Miami, Fl | Posted 30+ Days Ago | 2026-11-10 | [link](https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/Miami-Fl/Manager--Fashion-Expertise--Miami-Design_JOBREQ00117685) |
-| Senior Visual Merchandising Designer, SEAA | Singapore | Posted 6 Days Ago | 2026-11-10 | [link](https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/Singapore/Senior-Visual-Merchandiser--SEAA_JOBREQ00118189) |
+| Senior Visual Merchandising Designer, SEAA | Singapore | Posted 7 Days Ago | 2026-11-10 | [link](https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/Singapore/Senior-Visual-Merchandiser--SEAA_JOBREQ00118189) |
 | Group Director, Organization Design and Change Enablement - HR | New York | Posted 30+ Days Ago | 2026-11-10 | [link](https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/New-York/Group-Director--Organization-Design-and-Change-Enablement---HR_JOBREQ00117101) |
 | CDI - Designer Packaging Senior - Horlogerie Joaillerie - H/F/X | Paris | Posted 30+ Days Ago | 2026-11-10 | [link](https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/Paris/CDI---Designer-Packaging-Senior---Horlogerie-Joaillerie---H-F-X_JOBREQ00115094-3) |
-| Stage – Assistant.e Designer Broderies (H/F/X) – Mode – Mars 2027 | Paris | Posted 12 Days Ago | 2026-11-10 | [link](https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/Paris/Stage---Assistante-Designer-Broderies--H-F-X----Mode---Mars-2027_JOBREQ00118087) |
-| Internship – Knitwear Designer Assistant (M/F/X) - Fashion - March 2027 | Paris | Posted 12 Days Ago | 2026-11-10 | [link](https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/Paris/Internship---Knitwear-Designer-Assistant--M-F-X----Fashion---March-2027_JOBREQ00118090) |
+| Stage – Assistant.e Designer Broderies (H/F/X) – Mode – Mars 2027 | Paris | Posted 13 Days Ago | 2026-11-10 | [link](https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/Paris/Stage---Assistante-Designer-Broderies--H-F-X----Mode---Mars-2027_JOBREQ00118087) |
+| Internship – Knitwear Designer Assistant (M/F/X) - Fashion - March 2027 | Paris | Posted 13 Days Ago | 2026-11-10 | [link](https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/Paris/Internship---Knitwear-Designer-Assistant--M-F-X----Fashion---March-2027_JOBREQ00118090) |
 | CDI – Creative Designer Vitrines et Supports Permanents – Horlogerie Joaillerie – H/F/X | Paris | Posted 30+ Days Ago | 2026-11-10 | [link](https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/Paris/CDI---Chef-de-Projet-Cration-Vitrines--VM---Supports-Permanents---Horlogerie-Joaillerie---H-F-X_JOBREQ00117641-1) |
-| STAGE – ASSISTANT(E) CREATIVE DESIGNER PACKAGING & GIFTING - HORLOGERIE - JOAILLERIE - MARS 2027 (H/F/X) | Paris | Posted 18 Days Ago | 2026-11-10 | [link](https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/Paris/STAGE---ASSISTANT-E--CREATIVE-DESIGNER-PACKAGING---GIFTING---HORLOGERIE---JOAILLERIE---MARS-2027--H-F-X-_JOBREQ00118541) |
+| STAGE – ASSISTANT(E) CREATIVE DESIGNER PACKAGING & GIFTING - HORLOGERIE - JOAILLERIE - MARS 2027 (H/F/X) | Paris | Posted 19 Days Ago | 2026-11-10 | [link](https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/Paris/STAGE---ASSISTANT-E--CREATIVE-DESIGNER-PACKAGING---GIFTING---HORLOGERIE---JOAILLERIE---MARS-2027--H-F-X-_JOBREQ00118541) |
 | STAGE - Assistant(e) Visual Merchandising - (H/F) - Boutique COURCHEVEL - DECEMBRE 2023 | Courchevel 1850 | Posted 30+ Days Ago | 2026-11-10 | [link](https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/Courchevel-1850/STAGE---Assistant-e--Visual-Merchandising----H-F----Boutique-COURCHEVEL---DECEMBRE-2023_JOBREQ00081697) |
 | STAGE – Assistant(e ) Visual Merchandising - PARIS, Juillet 2022 | Paris | Posted 30+ Days Ago | 2026-11-10 | [link](https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/Paris/STAGE---Assistant-e---Visual-Merchandising---PARIS--Juillet-2022_JOBREQ00050751_JCP) |
 | CDI - Responsable Visual Merchandising - (H/F/X) | Paris | Posted 30+ Days Ago | 2026-11-10 | [link](https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/Paris/CDI---Responsable-Visual-Merchandising----H-F-X-_JOBREQ00111058) |
-| Head of Creative Studio | Tokyo | Posted 13 Days Ago | 2026-11-10 | [link](https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/Tokyo/Head-of-Creative-Studio_JOBREQ00118305) |
+| Head of Creative Studio | Tokyo | Posted 14 Days Ago | 2026-11-10 | [link](https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/Tokyo/Head-of-Creative-Studio_JOBREQ00118305) |
 | Senior Visual Merchandising Executive | Macao S.A.R. | Posted 30+ Days Ago | 2026-11-10 | [link](https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/Macao-SAR/Senior-Visual-Merchandising-Executive_JOBREQ00117659) |
-| Boutique Visual Merchandiser | New South Wales | Posted 20 Days Ago | 2026-11-10 | [link](https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/New-South-Wales/Boutique-Visual-Merchandiser_JOBREQ00118441) |
-| STAGE - Assistant Creative Films et Images - PARFUMS BEAUTE (H/F/X) | Neuilly-Sur-Seine | Posted 14 Days Ago | 2026-11-10 | [link](https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/Neuilly-Sur-Seine/STAGE---Assistant-Creative-Films-et-Images---PARFUMS-BEAUTE--H-F-X-_JOBREQ00118522) |
+| Boutique Visual Merchandiser | New South Wales | Posted 21 Days Ago | 2026-11-10 | [link](https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/New-South-Wales/Boutique-Visual-Merchandiser_JOBREQ00118441) |
+| STAGE - Assistant Creative Films et Images - PARFUMS BEAUTE (H/F/X) | Neuilly-Sur-Seine | Posted 15 Days Ago | 2026-11-10 | [link](https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/Neuilly-Sur-Seine/STAGE---Assistant-Creative-Films-et-Images---PARFUMS-BEAUTE--H-F-X-_JOBREQ00118522) |
 | Head of Visual Merchandising - Fashion | Shanghai | Posted 30+ Days Ago | 2026-11-10 | [link](https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/Shanghai/Head-of-Visual-Merchandising---Fashion_JOBREQ00107641-2) |
 | In Store Visual Merchandiser, Heathrow | London | Posted 30+ Days Ago | 2026-11-10 | [link](https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/London/In-Store-Visual-Merchandiser--Heathrow_JOBREQ00115818) |
 | Specialist, Visual Merchandising, Aspen | Aspen, Co | Posted 30+ Days Ago | 2026-11-10 | [link](https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/Aspen-Co/Specialist--Visual-Merchandising--Aspen_JOBREQ00117651) |
@@ -413,21 +415,21 @@ Generated 2026-11-17T13:59-06:00 by the daily maintenance Action. 77 job lists c
 
 | Title | Location | Posted | First listed | Link |
 |---|---|---|---|---|
-| Manager, Brand Content Operations | US - Indiana - Indianapolis | Posted 18 Days Ago | 2026-11-06 | [link](https://masco.wd1.myworkdayjobs.com/masco/job/US---Indiana---Indianapolis/Manager--Brand-Content-Operations_REQ54736) |
+| Manager, Brand Content Operations | US - Indiana - Indianapolis | Posted 19 Days Ago | 2026-11-06 | [link](https://masco.wd1.myworkdayjobs.com/masco/job/US---Indiana---Indianapolis/Manager--Brand-Content-Operations_REQ54736) |
 | Graphic Designer | US - Indiana - Indianapolis | Posted 30+ Days Ago | 2026-11-06 | [link](https://masco.wd1.myworkdayjobs.com/masco/job/US---Indiana---Indianapolis/Graphic-Designer_REQ54409) |
 
 ## Dick's Sporting Goods (dick-s-sporting-goods)
 
 | Title | Location | Posted | First listed | Link |
 |---|---|---|---|---|
-| Associate Technical Designer (Apparel) | Customer Support Center | Posted 3 Days Ago | 2026-11-14 | [link](https://dickssportinggoods.wd1.myworkdayjobs.com/DSG/job/Customer-Support-Center/Associate-Technical-Designer_202608157) |
-| Store Designer | Customer Support Center | Posted 5 Days Ago | 2026-11-13 | [link](https://dickssportinggoods.wd1.myworkdayjobs.com/DSG/job/Customer-Support-Center/Store-Designer_202642501) |
+| Associate Technical Designer (Apparel) | Customer Support Center | Posted 4 Days Ago | 2026-11-14 | [link](https://dickssportinggoods.wd1.myworkdayjobs.com/DSG/job/Customer-Support-Center/Associate-Technical-Designer_202608157) |
+| Store Designer | Customer Support Center | Posted 6 Days Ago | 2026-11-13 | [link](https://dickssportinggoods.wd1.myworkdayjobs.com/DSG/job/Customer-Support-Center/Store-Designer_202642501) |
 | Field Visual Merchandiser - House of Sport - Sacramento, CA & San Jose, CA | 2 Locations | Posted Yesterday | 2026-11-13 | [link](https://dickssportinggoods.wd1.myworkdayjobs.com/DSG/job/Store1703-San-Jose-CA/Field-Visual-Merchandiser---House-of-Sport---Sacramento--CA---San-Jose--CA_202642492) |
-| Associate Industrial Designer (Hardlines) | Customer Support Center | Posted 4 Days Ago | 2026-11-10 | [link](https://dickssportinggoods.wd1.myworkdayjobs.com/DSG/job/Customer-Support-Center/Associate-Industrial-Designer--Bikes-_202638818) |
-| Field Visual Merchandiser - House of Sport - Thornton, Broomfield & Colorado Springs CO | Store1610 Thornton CO | Posted 8 Days Ago | 2026-11-09 | [link](https://dickssportinggoods.wd1.myworkdayjobs.com/DSG/job/Store1610-Thornton-CO/Field-Visual-Merchandiser---House-of-Sport---Thornton--Broomfield---Colorado-Springs-CO_202642315) |
+| Associate Industrial Designer (Hardlines) | Customer Support Center | Posted 5 Days Ago | 2026-11-10 | [link](https://dickssportinggoods.wd1.myworkdayjobs.com/DSG/job/Customer-Support-Center/Associate-Industrial-Designer--Bikes-_202638818) |
+| Field Visual Merchandiser - House of Sport - Thornton, Broomfield & Colorado Springs CO | Store1610 Thornton CO | Posted 9 Days Ago | 2026-11-09 | [link](https://dickssportinggoods.wd1.myworkdayjobs.com/DSG/job/Store1610-Thornton-CO/Field-Visual-Merchandiser---House-of-Sport---Thornton--Broomfield---Colorado-Springs-CO_202642315) |
 | Field Visual Merchandiser - House of Sport - Sacramento, CA & San Jose, CA | 2 Locations | Posted Yesterday | 2026-11-06 | [link](https://dickssportinggoods.wd1.myworkdayjobs.com/DSG/job/Store1626-Sacramento-CA/Field-Visual-Merchandiser---House-of-Sport---Sacramento--CA---San-Jose--CA_202642212-1) |
-| Field Visual Merchandiser - House of Sport - Springfield, MO & St. Louis, MO | 2 Locations | Posted 7 Days Ago | 2026-11-06 | [link](https://dickssportinggoods.wd1.myworkdayjobs.com/DSG/job/Store1680-St-Louis-MO/Field-Visual-Merchandiser---House-of-Sport---Springfield--MO---St-Louis--MO_202642187) |
-| Field Visual Merchandiser - House of Sport - Springfield, MO & St. Louis, MO | Store1673 Springfield MO | Posted 7 Days Ago | 2026-11-06 | [link](https://dickssportinggoods.wd1.myworkdayjobs.com/DSG/job/Store1673-Springfield-MO/Field-Visual-Merchandiser---House-of-Sport---Springfield--MO---St-Louis--MO_202642154) |
+| Field Visual Merchandiser - House of Sport - Springfield, MO & St. Louis, MO | 2 Locations | Posted 8 Days Ago | 2026-11-06 | [link](https://dickssportinggoods.wd1.myworkdayjobs.com/DSG/job/Store1680-St-Louis-MO/Field-Visual-Merchandiser---House-of-Sport---Springfield--MO---St-Louis--MO_202642187) |
+| Field Visual Merchandiser - House of Sport - Springfield, MO & St. Louis, MO | Store1673 Springfield MO | Posted 8 Days Ago | 2026-11-06 | [link](https://dickssportinggoods.wd1.myworkdayjobs.com/DSG/job/Store1673-Springfield-MO/Field-Visual-Merchandiser---House-of-Sport---Springfield--MO---St-Louis--MO_202642154) |
 
 ## Essential Design (PA Consulting) (essential-design)
 
@@ -461,13 +463,13 @@ Generated 2026-11-17T13:59-06:00 by the daily maintenance Action. 77 job lists c
 
 | Title | Location | Posted | First listed | Link |
 |---|---|---|---|---|
-| Senior Creative Designer | USA, Louisville, KY | Posted 21 Days Ago | 2026-11-06 | [link](https://haier.wd3.myworkdayjobs.com/GE_Appliances/job/USA-Louisville-KY/Senior-Creative-Designer_REQ-27103) |
+| Senior Creative Designer | USA, Louisville, KY | Posted 22 Days Ago | 2026-11-06 | [link](https://haier.wd3.myworkdayjobs.com/GE_Appliances/job/USA-Louisville-KY/Senior-Creative-Designer_REQ-27103) |
 
 ## Generac (generac)
 
 | Title | Location | Posted | First listed | Link |
 |---|---|---|---|---|
-| Model Maker (Industrial Design) | Waukesha, WI - USA | Posted 4 Days Ago | 2026-11-14 | [link](https://generac.wd5.myworkdayjobs.com/External/job/Waukesha-WI---USA/Model-Maker--Industrial-Design-_JR17547) |
+| Model Maker (Industrial Design) | Waukesha, WI - USA | Posted 5 Days Ago | 2026-11-14 | [link](https://generac.wd5.myworkdayjobs.com/External/job/Waukesha-WI---USA/Model-Maker--Industrial-Design-_JR17547) |
 | Senior Product Designer | Toronto, Canada | Posted 30+ Days Ago | 2026-11-10 | [link](https://generac.wd5.myworkdayjobs.com/External/job/Toronto-Canada/Senior-UX-Designer_JR14759-1) |
 
 ## General Motors (general-motors)
@@ -485,30 +487,32 @@ Generated 2026-11-17T13:59-06:00 by the daily maintenance Action. 77 job lists c
 | (Creative / Senior / Lead) Interior Designer | Shanghai, China | Posted 30+ Days Ago | 2026-11-15 | [link](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Shanghai-China/XMLNAME--Creative---Senior---Lead--Interior-Designer_JR-202618372) |
 | (Creative / Senior / Lead) CMF Designer | Shanghai, China | Posted 30+ Days Ago | 2026-11-15 | [link](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Shanghai-China/CMF-Designer_JR-202618374) |
 | Advanced CMF and Brand Designer | Shanghai, China | Posted 30+ Days Ago | 2026-11-15 | [link](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Shanghai-China/Advanced-CMF-and-Brand-Designer_JR-202618116) |
-| Power Electronics Hardware Design Lead | Warren, Michigan, United States of America | Posted 26 Days Ago | 2026-11-15 | [link](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Power-Electronics-Hardware-Design-Lead_JR-202620894-1) |
-| Sr. Designer - Engine and Propulsion | Warren, Michigan, United States of America | Posted Today | 2026-11-15 | [link](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Sr-Designer---Engine-and-Propulsio_JR-202623318) |
+| Power Electronics Hardware Design Lead | Warren, Michigan, United States of America | Posted 27 Days Ago | 2026-11-15 | [link](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Power-Electronics-Hardware-Design-Lead_JR-202620894-1) |
+| Sr. Designer - Engine and Propulsion | Warren, Michigan, United States of America | Posted Yesterday | 2026-11-15 | [link](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Sr-Designer---Engine-and-Propulsio_JR-202623318) |
 | Staff Systems Analyst - Global Design IT | Warren, Michigan, United States of America | Posted 30+ Days Ago | 2026-11-15 | [link](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Staff-Systems-Analyst---Global-Design-IT_JR-202616386) |
-| Business Solution Designer – People Service Center | Sao Caetano do Sul, Sao Paulo, Brazil | Posted 12 Days Ago | 2026-11-15 | [link](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sao-Caetano-do-Sul-Sao-Paulo-Brazil/Business-Solution-Designer---People-Service-Center_JR-202623085) |
-| 2027 Summer Intern – AV Sensor Design, Release and Integration | Warren, Michigan, United States of America | Posted 21 Days Ago | 2026-11-15 | [link](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---AV-Sensor-Design--Release-and-Integration_JR-202621993) |
-| Creative Designer | Warren, Michigan, United States of America | Posted 5 Days Ago | 2026-11-13 | [link](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Creative-Designer_JR-202624069) |
+| Business Solution Designer – People Service Center | Sao Caetano do Sul, Sao Paulo, Brazil | Posted 13 Days Ago | 2026-11-15 | [link](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sao-Caetano-do-Sul-Sao-Paulo-Brazil/Business-Solution-Designer---People-Service-Center_JR-202623085) |
+| 2027 Summer Intern – AV Sensor Design, Release and Integration | Warren, Michigan, United States of America | Posted 22 Days Ago | 2026-11-15 | [link](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---AV-Sensor-Design--Release-and-Integration_JR-202621993) |
+| Creative Designer | Warren, Michigan, United States of America | Posted 6 Days Ago | 2026-11-13 | [link](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Creative-Designer_JR-202624069) |
 
 ## Just ID Jobs (just-id-jobs)
 
 | Title | Location | Posted | First listed | Link |
 |---|---|---|---|---|
-| Product Designer | Chicago, IL | 2026-11-10 | **2026-11-17** | [link](https://www.coroflot.com/design-jobs/Product-Designer-California-Innovations-n-Arctic-Zone-Chicago-IL-685817) |
-| Industrial Design Internship | Moncalieri, Piedmont, Italy | 2026-11-09 | **2026-11-17** | [link](https://www.italdesign.it/en/company/careers/detail/industrial-design-internship-726449/) |
-| Design Intern | Copenhagen, Capital Region of Denmark, Denmark | 2026-11-03 | **2026-11-17** | [link](https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll/job/DK---Copenhagen/Intern-Design_JR109952) |
-| Product Design Internship (f/m/d) | Cologne, North Rhine-Westphalia, Germany | 2026-11-03 | **2026-11-17** | [link](mailto:jobs@noto.design) |
-| Stage - Assistant.e Designer Studio Création (H/F) | Paris, Île-de-France, France | 2026-09-10 | **2026-11-17** | [link](https://fr.linkedin.com/jobs/view/stage-assistant-e-designer-studio-cr%C3%A9ation-h-f-at-chaumet-4465329212) |
-| Transport Designer | London, England, United Kingdom | 2026-09-07 | **2026-11-17** | [link](https://uk.linkedin.com/jobs/view/transport-designer-at-lemanoosh-4464326881) |
-| Industrial Designer - Components | Dearborn, MI, United States | 2026-09-03 | **2026-11-17** | [link](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/63323) |
-| 2027 Industrial Design Co-op | Madison, WI | 2026-08-31 | **2026-11-17** | [link](https://www.linkedin.com/jobs/view/2027-industrial-design-co-op-at-sub-zero-group-inc-4459749781) |
-| Designer - MWP | Minneapolis, MN, USA | 2026-08-31 | **2026-11-17** | [link](https://playcore.rec.pro.ukg.net/PLA1500PLCN/JobBoard/8334be75-1d8a-4eb3-81ef-52822b3ba6a5/OpportunityDetail?opportunityId=91779a0d-fedd-4f9e-9ef2-c95fd2684b8c) |
-| Industrial Design Intern | Mansfield, TX | 2026-08-28 | **2026-11-17** | [link](https://www.linkedin.com/jobs/view/industrial-design-intern-at-klein-tools-4459898091) |
-| Urban Outfitters Assistant Designer - Home | Philadelphia, PA | 2026-08-22 | **2026-11-17** | [link](https://www.linkedin.com/jobs/view/urban-outfitters-assistant-designer-home-at-urbn-urban-outfitters-anthropologie-group-free-people-nuuly-4447236195) |
-| Industrial Designer I | Mansfield, TX | 2026-08-19 | **2026-11-17** | [link](https://www.linkedin.com/jobs/view/industrial-designer-i-at-klein-tools-4456371067) |
-| Mechanical Product Designer | Greater Logroño Metropolitan Area | 2026-08-10 | **2026-11-17** | [link](https://es.linkedin.com/jobs/view/mechanical-product-designer-at-fluxpose-4448837150) |
+| Jr Industrial Designer | Curitiba | 2026-11-16 | **2026-11-18** | [link](https://electrolux.wd3.myworkdayjobs.com/ElectroluxCareerSite/job/Curitiba/Jr-Industrial-Designer_JR82494) |
+| Creative Interns (Industrial Design/Marketing/VM) | Singapore, Singapore | 2026-11-12 | **2026-11-18** | [link](https://sg.linkedin.com/jobs/view/creative-interns-industrial-design-marketing-vm-at-beyond-the-vines-4488290375) |
+| Product Designer | Chicago, IL | 2026-11-10 | 2026-11-17 | [link](https://www.coroflot.com/design-jobs/Product-Designer-California-Innovations-n-Arctic-Zone-Chicago-IL-685817) |
+| Industrial Design Internship | Moncalieri, Piedmont, Italy | 2026-11-09 | 2026-11-17 | [link](https://www.italdesign.it/en/company/careers/detail/industrial-design-internship-726449/) |
+| Design Intern | Copenhagen, Capital Region of Denmark, Denmark | 2026-11-03 | 2026-11-17 | [link](https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll/job/DK---Copenhagen/Intern-Design_JR109952) |
+| Product Design Internship (f/m/d) | Cologne, North Rhine-Westphalia, Germany | 2026-11-03 | 2026-11-17 | [link](mailto:jobs@noto.design) |
+| Stage - Assistant.e Designer Studio Création (H/F) | Paris, Île-de-France, France | 2026-09-10 | 2026-11-17 | [link](https://fr.linkedin.com/jobs/view/stage-assistant-e-designer-studio-cr%C3%A9ation-h-f-at-chaumet-4465329212) |
+| Transport Designer | London, England, United Kingdom | 2026-09-07 | 2026-11-17 | [link](https://uk.linkedin.com/jobs/view/transport-designer-at-lemanoosh-4464326881) |
+| Industrial Designer - Components | Dearborn, MI, United States | 2026-09-03 | 2026-11-17 | [link](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/63323) |
+| 2027 Industrial Design Co-op | Madison, WI | 2026-08-31 | 2026-11-17 | [link](https://www.linkedin.com/jobs/view/2027-industrial-design-co-op-at-sub-zero-group-inc-4459749781) |
+| Designer - MWP | Minneapolis, MN, USA | 2026-08-31 | 2026-11-17 | [link](https://playcore.rec.pro.ukg.net/PLA1500PLCN/JobBoard/8334be75-1d8a-4eb3-81ef-52822b3ba6a5/OpportunityDetail?opportunityId=91779a0d-fedd-4f9e-9ef2-c95fd2684b8c) |
+| Industrial Design Intern | Mansfield, TX | 2026-08-28 | 2026-11-17 | [link](https://www.linkedin.com/jobs/view/industrial-design-intern-at-klein-tools-4459898091) |
+| Urban Outfitters Assistant Designer - Home | Philadelphia, PA | 2026-08-22 | 2026-11-17 | [link](https://www.linkedin.com/jobs/view/urban-outfitters-assistant-designer-home-at-urbn-urban-outfitters-anthropologie-group-free-people-nuuly-4447236195) |
+| Industrial Designer I | Mansfield, TX | 2026-08-19 | 2026-11-17 | [link](https://www.linkedin.com/jobs/view/industrial-designer-i-at-klein-tools-4456371067) |
+| Mechanical Product Designer | Greater Logroño Metropolitan Area | 2026-08-10 | 2026-11-17 | [link](https://es.linkedin.com/jobs/view/mechanical-product-designer-at-fluxpose-4448837150) |
 | Internship- Footwear Designer & Merchandiser | Bengaluru, Karnataka, India | 2026-11-15 | 2026-11-16 | [link](https://in.linkedin.com/jobs/view/internship-footwear-designer-merchandiser-at-monrow-world-4490227269) |
 | Assistant Handbag Designer - NYC | New York, NY | 2026-11-15 | 2026-11-16 | [link](https://www.linkedin.com/jobs/view/assistant-handbag-designer-nyc-at-steve-madden-4491229812) |
 | Designer | Kansas City, MO | 2026-11-15 | 2026-11-16 | [link](https://www.linkedin.com/jobs/view/designer-at-pratt-industries-4491222927) |
@@ -661,28 +665,27 @@ Generated 2026-11-17T13:59-06:00 by the daily maintenance Action. 77 job lists c
 | Praktikum im Industrial Design | Leinfelden-Echterdingen, BW, Germany | 2026-11-09 | 2026-11-09 | [link](https://jobs.smartrecruiters.com/BoschGroup/744000160607508) |
 | Praktikum im Product- und Industrial Design für Heiz- und Klimatechnik | Wernau (Neckar), BW, Germany | 2026-10-20 | 2026-11-06 | [link](https://jobs.smartrecruiters.com/BoschGroup/744000156541021) |
 | Internship - 2027 Undergraduate 3M Industrial Design Intern - Safety & Industrial Business Group (SIBG) | US, Minnesota, Maplewood | 2026-10-12 | 2026-11-06 | [link](https://3m.wd1.myworkdayjobs.com/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-3M-Industrial-Design-Intern---Safety---Industrial-Business-Group--SIBG-_R01172241) |
-| Graphic Designer,Packaging | Shizheng Rd, Taichung, Taiwan | 2026-09-14 | 2026-11-06 | [link](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Shizheng-Rd-Taichung-Taiwan/Industrial-Designer---3D-Surfacing_REQ-1000051878) |
 
 ## LEGO (lego)
 
 | Title | Location | Posted | First listed | Link |
 |---|---|---|---|---|
-| Creative Play Lead |  | Posted Today | **2026-11-17** | [link](https://lego.wd103.myworkdayjobs.com/LEGO_External/job/Billund/Creative-Play-Lead_0000039757) |
-| Creative Producer |  | Posted Today | **2026-11-17** | [link](https://lego.wd103.myworkdayjobs.com/LEGO_External/job/Billund/Creative-Producer_0000040033) |
-| Senior Manager Brand Orchestration & Planning | Denmark | Posted 8 Days Ago | **2026-11-17** | [link](https://lego.wd103.myworkdayjobs.com/LEGO_External/job/Copenhagen-Hub---Lvstrde/Senior-Manager-Brand-Orchestration---Planning_0000039762) |
-| Art Director of Lifestyle Photography (Fixed Term Contract), Visual Studio, Our LEGO Agency |  | Posted Yesterday | 2026-11-16 | [link](https://lego.wd103.myworkdayjobs.com/LEGO_External/job/Billund/Art-Director-of-Lifestyle-Photography--Fixed-Term-Contract---Visual-Studio--Our-LEGO-Agency_0000040016-1) |
-| Graphic Designer- LEGO® DESiGN (12-month fixed term contract) |  | Posted 4 Days Ago | 2026-11-14 | [link](https://lego.wd103.myworkdayjobs.com/LEGO_External/job/Billund/Graphic-Designer--LEGO--DESiGN--12-month-fixed-term-contract-_0000039794) |
-| Senior Manager, B2B Design Experience | Denmark | Posted 4 Days Ago | 2026-11-13 | [link](https://lego.wd103.myworkdayjobs.com/LEGO_External/job/Copenhagen-Hub---Lvstrde/Senior-Manager--B2B-Design-Experience_0000036839) |
-| Building Experience Specialist (12-month contract) - LEGO® DESiGN |  | Posted 6 Days Ago | 2026-11-11 | [link](https://lego.wd103.myworkdayjobs.com/LEGO_External/job/Billund/Building-Experience-Specialist--12-month-contract----LEGO--DESiGN_0000039909) |
+| Creative Play Lead |  | Posted Yesterday | 2026-11-17 | [link](https://lego.wd103.myworkdayjobs.com/LEGO_External/job/Billund/Creative-Play-Lead_0000039757) |
+| Creative Producer |  | Posted Yesterday | 2026-11-17 | [link](https://lego.wd103.myworkdayjobs.com/LEGO_External/job/Billund/Creative-Producer_0000040033) |
+| Senior Manager Brand Orchestration & Planning | Denmark | Posted 9 Days Ago | 2026-11-17 | [link](https://lego.wd103.myworkdayjobs.com/LEGO_External/job/Copenhagen-Hub---Lvstrde/Senior-Manager-Brand-Orchestration---Planning_0000039762) |
+| Art Director of Lifestyle Photography (Fixed Term Contract), Visual Studio, Our LEGO Agency |  | Posted 2 Days Ago | 2026-11-16 | [link](https://lego.wd103.myworkdayjobs.com/LEGO_External/job/Billund/Art-Director-of-Lifestyle-Photography--Fixed-Term-Contract---Visual-Studio--Our-LEGO-Agency_0000040016-1) |
+| Graphic Designer- LEGO® DESiGN (12-month fixed term contract) |  | Posted 5 Days Ago | 2026-11-14 | [link](https://lego.wd103.myworkdayjobs.com/LEGO_External/job/Billund/Graphic-Designer--LEGO--DESiGN--12-month-fixed-term-contract-_0000039794) |
+| Senior Manager, B2B Design Experience | Denmark | Posted 5 Days Ago | 2026-11-13 | [link](https://lego.wd103.myworkdayjobs.com/LEGO_External/job/Copenhagen-Hub---Lvstrde/Senior-Manager--B2B-Design-Experience_0000036839) |
+| Building Experience Specialist (12-month contract) - LEGO® DESiGN |  | Posted 7 Days Ago | 2026-11-11 | [link](https://lego.wd103.myworkdayjobs.com/LEGO_External/job/Billund/Building-Experience-Specialist--12-month-contract----LEGO--DESiGN_0000039909) |
 | Senior Interactive Systems Designer - LEGO® DESiGN | Denmark | Posted 30+ Days Ago | 2026-11-10 | [link](https://lego.wd103.myworkdayjobs.com/LEGO_External/job/Billund/Senior-Interactive-Systems-Designer---LEGO--DESiGN_0000035544) |
-| Senior Graphic Designer, Vehicles - LEGO® DESiGN |  | Posted 12 Days Ago | 2026-11-10 | [link](https://lego.wd103.myworkdayjobs.com/LEGO_External/job/Billund/Senior-Graphic-Designer--Vehicles---LEGO--DESiGN_0000039036) |
+| Senior Graphic Designer, Vehicles - LEGO® DESiGN |  | Posted 13 Days Ago | 2026-11-10 | [link](https://lego.wd103.myworkdayjobs.com/LEGO_External/job/Billund/Senior-Graphic-Designer--Vehicles---LEGO--DESiGN_0000039036) |
 | Sr. Mould Designer |  | Posted 30+ Days Ago | 2026-11-10 | [link](https://lego.wd103.myworkdayjobs.com/LEGO_External/job/Singapore/Sr-Mould-Designer_0000038673) |
 | Senior Design Manager |  | Posted 30+ Days Ago | 2026-11-10 | [link](https://lego.wd103.myworkdayjobs.com/LEGO_External/job/Shanghai/Senior-Design-Manager_0000039562) |
-| Experiences Concept Designer |  | Posted 13 Days Ago | 2026-11-10 | [link](https://lego.wd103.myworkdayjobs.com/LEGO_External/job/Billund/Experiences-Concept-Designer_0000038974) |
-| Vice President, Head of Creative and Innovation Excellence LEGO® DESiGN |  | Posted 11 Days Ago | 2026-11-10 | [link](https://lego.wd103.myworkdayjobs.com/LEGO_External/job/Billund/Vice-President--Head-of-Creative-and-Innovation-Excellence_0000033055-1) |
-| Senior Creative Manager |  | Posted 13 Days Ago | 2026-11-10 | [link](https://lego.wd103.myworkdayjobs.com/LEGO_External/job/Billund/Senior-Creative-Manager_0000038973) |
-| Creative Manager, Visual Studio, Our LEGO Agency |  | Posted 27 Days Ago | 2026-11-10 | [link](https://lego.wd103.myworkdayjobs.com/LEGO_External/job/Billund/Creative-Manager--Visual-Studio--Our-LEGO-Agency_0000039406) |
-| Associate Creative Director, Copy – Social, Our LEGO Agency | Denmark | Posted 11 Days Ago | 2026-11-10 | [link](https://lego.wd103.myworkdayjobs.com/LEGO_External/job/Copenhagen-Hub---Lvstrde/Associate-Creative-Director--Copy---Social--Our-LEGO-Agency_0000039637) |
+| Experiences Concept Designer |  | Posted 14 Days Ago | 2026-11-10 | [link](https://lego.wd103.myworkdayjobs.com/LEGO_External/job/Billund/Experiences-Concept-Designer_0000038974) |
+| Vice President, Head of Creative and Innovation Excellence LEGO® DESiGN |  | Posted 12 Days Ago | 2026-11-10 | [link](https://lego.wd103.myworkdayjobs.com/LEGO_External/job/Billund/Vice-President--Head-of-Creative-and-Innovation-Excellence_0000033055-1) |
+| Senior Creative Manager |  | Posted 14 Days Ago | 2026-11-10 | [link](https://lego.wd103.myworkdayjobs.com/LEGO_External/job/Billund/Senior-Creative-Manager_0000038973) |
+| Creative Manager, Visual Studio, Our LEGO Agency |  | Posted 28 Days Ago | 2026-11-10 | [link](https://lego.wd103.myworkdayjobs.com/LEGO_External/job/Billund/Creative-Manager--Visual-Studio--Our-LEGO-Agency_0000039406) |
+| Associate Creative Director, Copy – Social, Our LEGO Agency | Denmark | Posted 12 Days Ago | 2026-11-10 | [link](https://lego.wd103.myworkdayjobs.com/LEGO_External/job/Copenhagen-Hub---Lvstrde/Associate-Creative-Director--Copy---Social--Our-LEGO-Agency_0000039637) |
 | Global Creative Director, Our LEGO Agency |  | Posted 30+ Days Ago | 2026-11-10 | [link](https://lego.wd103.myworkdayjobs.com/LEGO_External/job/Shanghai/Global-Creative-Director--Our-LEGO-Agency_0000036877) |
 | Packaging Operator Specialist | United States of America | Posted 30+ Days Ago | 2026-11-10 | [link](https://lego.wd103.myworkdayjobs.com/LEGO_External/job/Temp-Richmond-Manufacturing/Semi-Auto-Specialist_0000037017) |
 
@@ -690,24 +693,16 @@ Generated 2026-11-17T13:59-06:00 by the daily maintenance Action. 77 job lists c
 
 | Title | Location | Posted | First listed | Link |
 |---|---|---|---|---|
-| Sr. CMF Design Specialist(Fixed Term) | Shenzhen, China | Posted 4 Days Ago | 2026-11-11 | [link](https://logitech.wd5.myworkdayjobs.com/Logitech/job/Shenzhen-China/Senior-CMF-Design-Specialist--Color--Material--and-Finish----Fixed-Term-Contract_148749) |
-| Spring Internship Program - Design Intern | Hsinchu, Taiwan | Posted 4 Days Ago | 2026-11-09 | [link](https://logitech.wd5.myworkdayjobs.com/Logitech/job/Hsinchu-Taiwan/Spring-Internship-Program---Design-Intern_148748) |
+| Senior User Experience Designer | Cork, Ireland | Posted Today | **2026-11-18** | [link](https://logitech.wd5.myworkdayjobs.com/Logitech/job/Cork-Ireland/Senior-User-Experience-Designer_148800) |
+| Sr. CMF Design Specialist(Fixed Term) | Shenzhen, China | Posted 5 Days Ago | 2026-11-11 | [link](https://logitech.wd5.myworkdayjobs.com/Logitech/job/Shenzhen-China/Senior-CMF-Design-Specialist--Color--Material--and-Finish----Fixed-Term-Contract_148749) |
+| Spring Internship Program - Design Intern | Hsinchu, Taiwan | Posted 5 Days Ago | 2026-11-09 | [link](https://logitech.wd5.myworkdayjobs.com/Logitech/job/Hsinchu-Taiwan/Spring-Internship-Program---Design-Intern_148748) |
 | Sr. Product Design Specialist | Suzhou, China | Posted 30+ Days Ago | 2026-11-06 | [link](https://logitech.wd5.myworkdayjobs.com/Logitech/job/Suzhou-China/Sr-Product-Design-Specialist_144945) |
-| Creative & Design Operations Intern | Cork, Ireland | Posted 21 Days Ago | 2026-11-06 | [link](https://logitech.wd5.myworkdayjobs.com/Logitech/job/Cork-Ireland/Creative---Design-Operations-Intern_148584) |
-| Senior Manager, Logitech G Design, C4C | Shanghai, China | Posted 21 Days Ago | 2026-11-06 | [link](https://logitech.wd5.myworkdayjobs.com/Logitech/job/Shanghai-China/Senior-Manager--Logitech-G-Design--C4C_148608) |
-| Senior Hardware Product User Experience Designer | Lausanne, Switzerland | Posted 30+ Days Ago | 2026-11-06 | [link](https://logitech.wd5.myworkdayjobs.com/Logitech/job/Lausanne-Switzerland/Senior-Hardware-Product-User-Experience-Designer_146581) |
-| CMF Design Lead (Fixed-Term Contract) | Hsinchu, Taiwan | Posted 19 Days Ago | 2026-11-06 | [link](https://logitech.wd5.myworkdayjobs.com/Logitech/job/Hsinchu-Taiwan/CMF-Design-Lead--Fixed-Term-Contract-_148609) |
-| Sr. Creative Producer | Cork, Ireland | Posted 28 Days Ago | 2026-11-06 | [link](https://logitech.wd5.myworkdayjobs.com/Logitech/job/Cork-Ireland/Sr-Creative-Producer_148565) |
-| Associate Creative Director (Art) | London, United Kingdom | Posted 30+ Days Ago | 2026-11-06 | [link](https://logitech.wd5.myworkdayjobs.com/Logitech/job/London-United-Kingdom/Associate-Creative-Director--Art-_148273) |
+| Creative & Design Operations Intern | Cork, Ireland | Posted 22 Days Ago | 2026-11-06 | [link](https://logitech.wd5.myworkdayjobs.com/Logitech/job/Cork-Ireland/Creative---Design-Operations-Intern_148584) |
+| Senior Manager, Logitech G Design, C4C | Shanghai, China | Posted 22 Days Ago | 2026-11-06 | [link](https://logitech.wd5.myworkdayjobs.com/Logitech/job/Shanghai-China/Senior-Manager--Logitech-G-Design--C4C_148608) |
+| CMF Design Lead (Fixed-Term Contract) | Hsinchu, Taiwan | Posted 20 Days Ago | 2026-11-06 | [link](https://logitech.wd5.myworkdayjobs.com/Logitech/job/Hsinchu-Taiwan/CMF-Design-Lead--Fixed-Term-Contract-_148609) |
+| Sr. Creative Producer | Cork, Ireland | Posted 29 Days Ago | 2026-11-06 | [link](https://logitech.wd5.myworkdayjobs.com/Logitech/job/Cork-Ireland/Sr-Creative-Producer_148565) |
 | Manager, Brand | San Jose, California - USA | Posted 30+ Days Ago | 2026-11-06 | [link](https://logitech.wd5.myworkdayjobs.com/Logitech/job/San-Jose-California---USA/Lead--Brand-Management_147651) |
 | CMF Technical Manager | Suzhou, China | Posted 30+ Days Ago | 2026-11-06 | [link](https://logitech.wd5.myworkdayjobs.com/Logitech/job/Suzhou-China/CMF-Technical-Manager_148199) |
-| EU Brand Protection Manager | Cork, Ireland | Posted 30+ Days Ago | 2026-11-06 | [link](https://logitech.wd5.myworkdayjobs.com/Logitech/job/Cork-Ireland/EU-Brand-Protection-Manager_147188) |
-
-## Longchamp (longchamp)
-
-| Title | Location | Posted | First listed | Link |
-|---|---|---|---|---|
-| Regional Visual Identity Project Manager | HONG KONG | Posted 13 Days Ago | 2026-11-10 | [link](https://longchamp.wd116.myworkdayjobs.com/Longchamp_Careers/job/HONG-KONG/Regional-Visual-Identity-Project-Manager_JR100271) |
 
 ## Mattel (mattel)
 
@@ -730,8 +725,8 @@ Generated 2026-11-17T13:59-06:00 by the daily maintenance Action. 77 job lists c
 
 | Title | Location | Posted | First listed | Link |
 |---|---|---|---|---|
-| Instructional Designer-Quality | 3 Locations | Posted 6 Days Ago | 2026-11-11 | [link](https://medline.wd5.myworkdayjobs.com/Medline/job/REMOTE--Illinois/Instructional-Designer-Quality_R2622392) |
-| Designer Instructional (Quality) | 3 Locations | Posted 7 Days Ago | 2026-11-11 | [link](https://medline.wd5.myworkdayjobs.com/Medline/job/REMOTE--Illinois/Designer-Instructional--Quality-_R2622385-1) |
+| Instructional Designer-Quality | 3 Locations | Posted 7 Days Ago | 2026-11-11 | [link](https://medline.wd5.myworkdayjobs.com/Medline/job/REMOTE--Illinois/Instructional-Designer-Quality_R2622392) |
+| Designer Instructional (Quality) | 3 Locations | Posted 8 Days Ago | 2026-11-11 | [link](https://medline.wd5.myworkdayjobs.com/Medline/job/REMOTE--Illinois/Designer-Instructional--Quality-_R2622385-1) |
 
 ## Menasha (menasha)
 
@@ -744,29 +739,30 @@ Generated 2026-11-17T13:59-06:00 by the daily maintenance Action. 77 job lists c
 
 | Title | Location | Posted | First listed | Link |
 |---|---|---|---|---|
-| Revit Designer | India - Bengaluru | Posted Today | **2026-11-17** | [link](https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll/job/India---Bengaluru/Revit-Designer_JR110087-1) |
-| Sales & Design Specialist-Walnut Creek Broadway | CA - Walnut Creek | Posted Yesterday | 2026-11-16 | [link](https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll/job/CA---Walnut-Creek/Sales---Design-Specialist-Walnut-Creek-Broadway_JR109929) |
-| Sales & Design Specialist-San Jose Santana Row | CA - San Jose | Posted 4 Days Ago | 2026-11-13 | [link](https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll/job/CA---San-Jose/Sales---Design-Specialist-San-Jose-Santana-Row_JR110062) |
-| Designer - Product Applications | MI - Holland | Posted 6 Days Ago | 2026-11-11 | [link](https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll/job/MI---Holland/Designer---Product-Applications_JR109965-1) |
-| Sales & Design Specialist-San Antonio La Cantera Parkway | TX - San Antonio | Posted 7 Days Ago | 2026-11-10 | [link](https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll/job/TX---San-Antonio/Sales---Design-Specialist-San-Antonio-La-Cantera-Parkway_JR110063) |
-| Design Specialist-Palo Alto University Ave | CA - Palo Alto | Posted 7 Days Ago | 2026-11-10 | [link](https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll/job/CA---Palo-Alto/Design-Specialist-Palo-Alto-University-Ave_JR109962) |
-| Design Specialist-Houston Uptown Park Blvd | TX - Houston | Posted 8 Days Ago | 2026-11-09 | [link](https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll/job/TX---Houston/Design-Specialist_JR109727) |
-| Design Specialist-Larkspur Larkspur Landing | CA - Larkspur | Posted 11 Days Ago | 2026-11-07 | [link](https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll/job/CA---Larkspur/Design-Specialist-Larkspur-Larkspur-Landing_JR109587) |
-| Sales & Design Specialist - Sarasota | 2 Locations | Posted Today | 2026-11-06 | [link](https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll/job/FL---Sarasota-University-Town-Center/Design-Specialist---Sarasota_JR109744-1) |
-| Design Specialist-New York City Park Ave | NY - New York City | Posted Today | 2026-11-06 | [link](https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll/job/NY---New-York-City/Design-Specialist-New-York-City-Park-Ave_JR109918) |
-| Sales & Design Specialist-Costa Mesa South Coast Plaza | CA - Costa Mesa | Posted 11 Days Ago | 2026-11-06 | [link](https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll/job/CA---Costa-Mesa/Sales---Design-Specialist-Costa-Mesa-South-Coast-Plaza_JR110034) |
-| Design Specialist-Birmingham Maple Road | MI - Birmingham | Posted 11 Days Ago | 2026-11-06 | [link](https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll/job/MI---Birmingham/Design-Specialist-Birmingham-Maple-Road_JR109963) |
-| Sales & Design Specialist Supervisor-Costa Mesa South Coast Plaza | CA - Costa Mesa | Posted 12 Days Ago | 2026-11-06 | [link](https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll/job/CA---Costa-Mesa/Sales---Design-Specialist-Supervisor-Costa-Mesa-South-Coast-Plaza_JR110035) |
-| Sales & Design Specialist-Pittsburgh Smallman Street | PA - Pittsburgh | Posted 13 Days Ago | 2026-11-06 | [link](https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll/job/PA---Pittsburgh/Design-Specialist-Pittsburgh-Smallman-Street_JR109682) |
-| Design Specialist-MD Annapolis Towne Center Blvd | MD - Annapolis | Posted 13 Days Ago | 2026-11-06 | [link](https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll/job/MD---Annapolis/Design-Specialist-MD-Annapolis-Towne-Center-Blvd_JR109021) |
-| Sales & Design Specialist Supervisor-New York City Park Ave | NY - New York City | Posted 15 Days Ago | 2026-11-06 | [link](https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll/job/NY---New-York-City/Sales---Design-Specialist-Supervisor-New-York-City-Park-Ave_JR110002) |
-| Intern Design | DK - Copenhagen | Posted 15 Days Ago | 2026-11-06 | [link](https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll/job/DK---Copenhagen/Intern-Design_JR109952) |
-| Product Pricing Modeler | MI - Zeeland | Posted 18 Days Ago | 2026-11-06 | [link](https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll/job/MI---Zeeland/Product-Pricing-Modeler_JR109409) |
-| Design Specialist-Las Vegas South Rampart Blvd | NV - Las Vegas | Posted 21 Days Ago | 2026-11-06 | [link](https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll/job/NV---Las-Vegas/Design-Specialist-Las-Vegas-South-Rampart-Blvd_JR109947) |
-| Sales & Design Specialist (PT)-Seattle 1st Ave 1924 | WA - Seattle | Posted 25 Days Ago | 2026-11-06 | [link](https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll/job/WA---Seattle/Sales---Design-Specialist--PT--Seattle-1st-Ave-1924_JR109719) |
-| Design Specialist-Pasadena Green St | CA - Pasadena | Posted 28 Days Ago | 2026-11-06 | [link](https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll/job/CA---Pasadena/Design-Specialist-Pasadena-Green-St_JR109767) |
-| Design Specialist-Scottsdale Scottsdale Rd | AZ - Scottsdale | Posted 28 Days Ago | 2026-11-06 | [link](https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll/job/AZ---Scottsdale/Design-Specialist-Scottsdale-Scottsdale-Rd_JR109594) |
-| Design Specialist-Stamford Canal St 711 | CT - Stamford | Posted 29 Days Ago | 2026-11-06 | [link](https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll/job/CT---Stamford/Design-Specialist-Stamford-Canal-St-711_JR109750) |
+| CAD Designer | India - Bengaluru | Posted Today | **2026-11-18** | [link](https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll/job/India---Bengaluru/CAD-Designer_JR110086-1) |
+| Revit Designer | India - Bengaluru | Posted Yesterday | 2026-11-17 | [link](https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll/job/India---Bengaluru/Revit-Designer_JR110087-1) |
+| Sales & Design Specialist-Walnut Creek Broadway | CA - Walnut Creek | Posted 2 Days Ago | 2026-11-16 | [link](https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll/job/CA---Walnut-Creek/Sales---Design-Specialist-Walnut-Creek-Broadway_JR109929) |
+| Sales & Design Specialist-San Jose Santana Row | CA - San Jose | Posted 5 Days Ago | 2026-11-13 | [link](https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll/job/CA---San-Jose/Sales---Design-Specialist-San-Jose-Santana-Row_JR110062) |
+| Designer - Product Applications | MI - Holland | Posted 7 Days Ago | 2026-11-11 | [link](https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll/job/MI---Holland/Designer---Product-Applications_JR109965-1) |
+| Sales & Design Specialist-San Antonio La Cantera Parkway | TX - San Antonio | Posted 8 Days Ago | 2026-11-10 | [link](https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll/job/TX---San-Antonio/Sales---Design-Specialist-San-Antonio-La-Cantera-Parkway_JR110063) |
+| Design Specialist-Palo Alto University Ave | CA - Palo Alto | Posted 8 Days Ago | 2026-11-10 | [link](https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll/job/CA---Palo-Alto/Design-Specialist-Palo-Alto-University-Ave_JR109962) |
+| Design Specialist-Houston Uptown Park Blvd | TX - Houston | Posted 9 Days Ago | 2026-11-09 | [link](https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll/job/TX---Houston/Design-Specialist_JR109727) |
+| Design Specialist-Larkspur Larkspur Landing | CA - Larkspur | Posted 12 Days Ago | 2026-11-07 | [link](https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll/job/CA---Larkspur/Design-Specialist-Larkspur-Larkspur-Landing_JR109587) |
+| Sales & Design Specialist - Sarasota | 2 Locations | Posted Yesterday | 2026-11-06 | [link](https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll/job/FL---Sarasota-University-Town-Center/Design-Specialist---Sarasota_JR109744-1) |
+| Design Specialist-New York City Park Ave | NY - New York City | Posted Yesterday | 2026-11-06 | [link](https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll/job/NY---New-York-City/Design-Specialist-New-York-City-Park-Ave_JR109918) |
+| Sales & Design Specialist-Costa Mesa South Coast Plaza | CA - Costa Mesa | Posted 12 Days Ago | 2026-11-06 | [link](https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll/job/CA---Costa-Mesa/Sales---Design-Specialist-Costa-Mesa-South-Coast-Plaza_JR110034) |
+| Design Specialist-Birmingham Maple Road | MI - Birmingham | Posted 12 Days Ago | 2026-11-06 | [link](https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll/job/MI---Birmingham/Design-Specialist-Birmingham-Maple-Road_JR109963) |
+| Sales & Design Specialist Supervisor-Costa Mesa South Coast Plaza | CA - Costa Mesa | Posted 13 Days Ago | 2026-11-06 | [link](https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll/job/CA---Costa-Mesa/Sales---Design-Specialist-Supervisor-Costa-Mesa-South-Coast-Plaza_JR110035) |
+| Sales & Design Specialist-Pittsburgh Smallman Street | PA - Pittsburgh | Posted 14 Days Ago | 2026-11-06 | [link](https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll/job/PA---Pittsburgh/Design-Specialist-Pittsburgh-Smallman-Street_JR109682) |
+| Design Specialist-MD Annapolis Towne Center Blvd | MD - Annapolis | Posted 14 Days Ago | 2026-11-06 | [link](https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll/job/MD---Annapolis/Design-Specialist-MD-Annapolis-Towne-Center-Blvd_JR109021) |
+| Sales & Design Specialist Supervisor-New York City Park Ave | NY - New York City | Posted 16 Days Ago | 2026-11-06 | [link](https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll/job/NY---New-York-City/Sales---Design-Specialist-Supervisor-New-York-City-Park-Ave_JR110002) |
+| Intern Design | DK - Copenhagen | Posted 16 Days Ago | 2026-11-06 | [link](https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll/job/DK---Copenhagen/Intern-Design_JR109952) |
+| Product Pricing Modeler | MI - Zeeland | Posted 19 Days Ago | 2026-11-06 | [link](https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll/job/MI---Zeeland/Product-Pricing-Modeler_JR109409) |
+| Design Specialist-Las Vegas South Rampart Blvd | NV - Las Vegas | Posted 22 Days Ago | 2026-11-06 | [link](https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll/job/NV---Las-Vegas/Design-Specialist-Las-Vegas-South-Rampart-Blvd_JR109947) |
+| Sales & Design Specialist (PT)-Seattle 1st Ave 1924 | WA - Seattle | Posted 26 Days Ago | 2026-11-06 | [link](https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll/job/WA---Seattle/Sales---Design-Specialist--PT--Seattle-1st-Ave-1924_JR109719) |
+| Design Specialist-Pasadena Green St | CA - Pasadena | Posted 29 Days Ago | 2026-11-06 | [link](https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll/job/CA---Pasadena/Design-Specialist-Pasadena-Green-St_JR109767) |
+| Design Specialist-Scottsdale Scottsdale Rd | AZ - Scottsdale | Posted 29 Days Ago | 2026-11-06 | [link](https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll/job/AZ---Scottsdale/Design-Specialist-Scottsdale-Scottsdale-Rd_JR109594) |
+| Design Specialist-Stamford Canal St 711 | CT - Stamford | Posted 30 Days Ago | 2026-11-06 | [link](https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll/job/CT---Stamford/Design-Specialist-Stamford-Canal-St-711_JR109750) |
 | Sales & Design Specialist-  Jacksonville | FL - Jacksonville | Posted 30+ Days Ago | 2026-11-06 | [link](https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll/job/FL---Jacksonville/Sales---Design-Specialist-Jacksonville-River-City-4818_JR109329) |
 | Sales & Design Specialist-Columbus Townsfair Way | OH - Columbus | Posted 30+ Days Ago | 2026-11-06 | [link](https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll/job/OH---Columbus/Sales---Design-Specialist-Columbus-Townsfair-Way_JR109901) |
 | Designer | India - Bengaluru | Posted 30+ Days Ago | 2026-11-06 | [link](https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll/job/India---Bengaluru/Designer_JR109797-1) |
@@ -778,16 +774,16 @@ Generated 2026-11-17T13:59-06:00 by the daily maintenance Action. 77 job lists c
 
 | Title | Location | Posted | First listed | Link |
 |---|---|---|---|---|
-| UX Designer | Edinburgh, UK (ZUK129) | Posted 5 Days Ago | 2026-11-12 | [link](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Edinburgh-UK-ZUK129/UX-Designer_R69591) |
+| UX Designer | Edinburgh, UK (ZUK129) | Posted 6 Days Ago | 2026-11-12 | [link](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Edinburgh-UK-ZUK129/UX-Designer_R69591) |
 | Electrical Designer | Vancouver, Canada | Posted 30+ Days Ago | 2026-11-06 | [link](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Vancouver-Canada/Electrical-Designer_R61956-1) |
 | Senior Mechanical Designer | Vancouver, Canada | Posted 30+ Days Ago | 2026-11-06 | [link](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Vancouver-Canada/Senior-Mechanical-Designer_R68291) |
 | Solution Design Architect (Hybrid) | Schaumburg, IL, More... | Posted 30+ Days Ago | 2026-11-06 | [link](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Solution-Design-Architect--Hybrid-_R66964) |
 | AI-Native UX Designer | Krakow, Poland | Posted 30+ Days Ago | 2026-11-06 | [link](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/AI-Native-UX-Designer_R67576) |
-| AI-Native UX Designer | Krakow, Poland | Posted 29 Days Ago | 2026-11-06 | [link](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/AI-Native-UX-Designer_R68646) |
-| Mechanical Designer (Fresh Graduate) | Penang, Malaysia | Posted 11 Days Ago | 2026-11-06 | [link](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Penang-Malaysia/Mechanical-Designer--Fresh-Graduate-_R68700) |
-| Senior UX Writer / Content Designer | Krakow, Poland, More... | Posted 22 Days Ago | 2026-11-06 | [link](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/Senior-UX-Writer---Content-Designer_R70052) |
-| Senior Futures Design Strategist (US Remote) | Chicago, IL, More... | Posted 11 Days Ago | 2026-11-06 | [link](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Senior-Futures-Design-Strategist--US-Remote-_R69796) |
-| UX Manager | Krakow, Poland | Posted 26 Days Ago | 2026-11-06 | [link](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/UX-Manager_R69809) |
+| AI-Native UX Designer | Krakow, Poland | Posted 30 Days Ago | 2026-11-06 | [link](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/AI-Native-UX-Designer_R68646) |
+| Mechanical Designer (Fresh Graduate) | Penang, Malaysia | Posted 12 Days Ago | 2026-11-06 | [link](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Penang-Malaysia/Mechanical-Designer--Fresh-Graduate-_R68700) |
+| Senior UX Writer / Content Designer | Krakow, Poland, More... | Posted 23 Days Ago | 2026-11-06 | [link](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/Senior-UX-Writer---Content-Designer_R70052) |
+| Senior Futures Design Strategist (US Remote) | Chicago, IL, More... | Posted 12 Days Ago | 2026-11-06 | [link](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Senior-Futures-Design-Strategist--US-Remote-_R69796) |
+| UX Manager | Krakow, Poland | Posted 27 Days Ago | 2026-11-06 | [link](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/UX-Manager_R69809) |
 
 ## New Balance (new-balance)
 
@@ -800,79 +796,75 @@ Generated 2026-11-17T13:59-06:00 by the daily maintenance Action. 77 job lists c
 
 | Title | Location | Posted | First listed | Link |
 |---|---|---|---|---|
-| Senior Designer, Sport Concept Design | Beaverton, Oregon | Posted Today | **2026-11-17** | [link](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Senior-Designer--Sport-Concept-Design_R-96861-1) |
-| Lead Designer, ACG Graphic Design | Beaverton, Oregon | Posted Today | **2026-11-17** | [link](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Lead-Designer--ACG-Graphic-Design_R-97235) |
-| NIKE, INC. INTERNSHIP, SCHOOL TO SWOOSH, BRAND CREATIVE NARRATIVE | Hilversum, Netherlands | Posted Today | **2026-11-17** | [link](https://nike.wd1.myworkdayjobs.com/nke/job/Hilversum-Netherlands/NIKE--INC-INTERNSHIP--SCHOOL-TO-SWOOSH--BRAND-CREATIVE-NARRATIVE_R-97533) |
-| NIKE, INC. INTERNSHIP, SCHOOL TO SWOOSH, BRAND CREATIVE PRODUCTION | Hilversum, Netherlands | Posted Today | **2026-11-17** | [link](https://nike.wd1.myworkdayjobs.com/nke/job/Hilversum-Netherlands/NIKE--INC-INTERNSHIP--SCHOOL-TO-SWOOSH--BRAND-CREATIVE-PRODUCTION_R-97534) |
-| Director, Visual Merchandising NSO NA | Beaverton, Oregon | Posted Yesterday | **2026-11-17** | [link](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Director--Visual-Merchandising-NSO-NA_R-92575) |
-| Industrial Designer II, Energy Global - Converse | Boston, Massachusetts | Posted Yesterday | 2026-11-16 | [link](https://nike.wd1.myworkdayjobs.com/nke/job/Boston-Massachusetts/Industrial-Designer-II--Energy-Global---Converse_R-97382) |
-| Field Visual Athlete (Store Visual Merchandiser) | Chattarpur, Delhi | Posted Yesterday | 2026-11-16 | [link](https://nike.wd1.myworkdayjobs.com/nke/job/Chattarpur-Delhi/Field-Visual-Athlete--Store-Visual-Merchandiser-_R-97448) |
-| Senior Data Modeler – MAC BI, Activity Intelligence | Beaverton, Oregon | Posted 30+ Days Ago | 2026-11-15 | [link](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Senior-Data-Modeler---MAC-BI--Activity-Intelligence_R-91806) |
-| Lead Technical Designer - Bags, Global Accessories | Beaverton, Oregon | Posted 30+ Days Ago | 2026-11-15 | [link](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Lead-Technical-Developer--Global-Accessories_R-94332) |
-| Digital Experiences 3D Artist | Beaverton, Oregon | Posted 4 Days Ago | 2026-11-14 | [link](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Digital-Experiences-3D-Artist_R-97319) |
-| Lead Designer, Basketball Graphic Design, Global Jordan | Beaverton, Oregon | Posted 7 Days Ago | 2026-11-11 | [link](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Lead-Designer--Basketball-Graphic-Design--Global-Jordan_R-97233) |
-| Lead Designer, NikeSKIMS Footwear & Apparel Materials Design | Los Angeles, California | Posted 7 Days Ago | 2026-11-11 | [link](https://nike.wd1.myworkdayjobs.com/nke/job/Los-Angeles-California/Lead-Designer--NikeSKIMS-Footwear---Apparel-Materials-Design_R-96541) |
-| Lead Designer, Golf Apparel Product Design | Beaverton, Oregon | Posted 8 Days Ago | 2026-11-10 | [link](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Lead-Designer--Golf-Apparel-Product-Design_R-96412) |
-| Senior Designer, Pro Apparel Product Design | Beaverton, Oregon | Posted 8 Days Ago | 2026-11-09 | [link](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Senior-Designer--Pro-Apparel-Product-Design_R-96623) |
-| Expert Designer, Tennis Apparel Product Design | Beaverton, Oregon | Posted 8 Days Ago | 2026-11-09 | [link](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Expert-Designer--Tennis-Apparel-Product-Design_R-95744) |
-| Designer II, Basketball NBA/WNBA Apparel Graphic Designer | Beaverton, Oregon | Posted 11 Days Ago | 2026-11-07 | [link](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Designer-II--Basketball-NBA-WNBA-Apparel-Graphic-Designer_R-97071) |
-| Senior Manager, Bras & Leggings Apparel Product Design | Beaverton, Oregon | Posted 13 Days Ago | 2026-11-06 | [link](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Senior-Manager--Bras---Leggings-Apparel-Product-Design_R-74763) |
-| Designer II, Energy Footwear & Apparel Graphic Design | Beaverton, Oregon | Posted 13 Days Ago | 2026-11-06 | [link](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Designer-II--Energy-Footwear---Apparel-Graphic-Design_R-76111) |
-| Footwear Design Director, Nike Basketball Signature Athlete | Beaverton, Oregon | Posted 14 Days Ago | 2026-11-06 | [link](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Footwear-Design-Director--Nike-Basketball-Signature-Athlete_R-89110) |
-| Senior Materials Designer, Flyknit | Beaverton, Oregon | Posted 14 Days Ago | 2026-11-06 | [link](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Senior-Materials-Designer--Flyknit_R-95891) |
-| Lead Footwear Materials Developer - Jordan Brand (Multiple Openings) | Beaverton, Oregon | Posted 14 Days Ago | 2026-11-06 | [link](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Lead-Footwear-Materials-Developer---Jordan-Brand--Multiple-Openings-_R-96873) |
-| Senior, 3D Designer, Innovation | Beaverton, Oregon | Posted 14 Days Ago | 2026-11-06 | [link](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Senior--3D-Designer--Innovation_R-96866) |
-| Lead Designer, Core Studio Performance Footwear Color Design | Beaverton, Oregon | Posted 14 Days Ago | 2026-11-06 | [link](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Lead-Designer--Core-Studio-Performance-Footwear-Color-Design_R-96002) |
-| Senior Technical Designer, Global Sportswear Apparel | Beaverton, Oregon | Posted 14 Days Ago | 2026-11-06 | [link](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Senior-Technical-Designer--Global-Sportswear-Apparel_R-96845) |
-| Visual Merchansiding & Styling Specialist Nike - H / F - CDD/Stretch | Paris, France | Posted 14 Days Ago | 2026-11-06 | [link](https://nike.wd1.myworkdayjobs.com/nke/job/Paris-France/Visual-Merchansiding---Styling-Specialist-Nike---H---F---CDD-Stretch_R-96833) |
-| Senior Creative Director, Energy, Global Jordan | Beaverton, Oregon | Posted 15 Days Ago | 2026-11-06 | [link](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Senior-Creative-Director--Energy--Global-Jordan_R-83455) |
-| Senior, Footwear Color & Materials Designer, Local Creation GC | Shanghai, China Mainland | Posted 18 Days Ago | 2026-11-06 | [link](https://nike.wd1.myworkdayjobs.com/nke/job/Shanghai-China-Mainland/Senior--Footwear-Color---Materials-Designer--Local-Creation-GC_R-96649) |
-| Lead Technical Designer, Global Apparel (Multiple Openings) | Beaverton, Oregon | Posted 19 Days Ago | 2026-11-06 | [link](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Lead-Technical-Designer--Global-Apparel--Multiple-Openings-_R-96630) |
-| Director, Core Studio Color Design | Beaverton, Oregon | Posted 20 Days Ago | 2026-11-06 | [link](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Director--Core-Studio-Color-Design_R-95741) |
-| Expert Global Brand Design | Beaverton, Oregon | Posted 22 Days Ago | 2026-11-06 | [link](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Expert-Global-Brand-Design_R-96089-1) |
-| Senior Technical Design, Global Tennis Apparel | Beaverton, Oregon | Posted 26 Days Ago | 2026-11-06 | [link](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Senior-Technical-Design--Global-Tennis-Apparel_R-96206) |
+| Expert Designer, Energy Graphic Design, Global Jordan | Beaverton, Oregon | Posted Yesterday | **2026-11-18** | [link](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Expert-Designer--Energy-Graphic-Design--Global-Jordan_R-90941) |
+| NIKE, Inc. Apparel Design, Innovation Graduate Internship | Beaverton, Oregon | Posted Yesterday | **2026-11-18** | [link](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/NIKE--Inc-NXT-Apparel-Design-Graduate-Internship_R-94427) |
+| Director, Global Brand Art Direction & Design - Global Football | Beaverton, Oregon | Posted Yesterday | **2026-11-18** | [link](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Director--Global-Brand-Art-Direction---Design---Global-Football_R-96764) |
+| Senior Designer, Sport Concept Design | Beaverton, Oregon | Posted Yesterday | 2026-11-17 | [link](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Senior-Designer--Sport-Concept-Design_R-96861-1) |
+| Lead Designer, ACG Graphic Design | Beaverton, Oregon | Posted Yesterday | 2026-11-17 | [link](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Lead-Designer--ACG-Graphic-Design_R-97235) |
+| NIKE, INC. INTERNSHIP, SCHOOL TO SWOOSH, BRAND CREATIVE NARRATIVE | Hilversum, Netherlands | Posted Yesterday | 2026-11-17 | [link](https://nike.wd1.myworkdayjobs.com/nke/job/Hilversum-Netherlands/NIKE--INC-INTERNSHIP--SCHOOL-TO-SWOOSH--BRAND-CREATIVE-NARRATIVE_R-97533) |
+| NIKE, INC. INTERNSHIP, SCHOOL TO SWOOSH, BRAND CREATIVE PRODUCTION | Hilversum, Netherlands | Posted Yesterday | 2026-11-17 | [link](https://nike.wd1.myworkdayjobs.com/nke/job/Hilversum-Netherlands/NIKE--INC-INTERNSHIP--SCHOOL-TO-SWOOSH--BRAND-CREATIVE-PRODUCTION_R-97534) |
+| Director, Visual Merchandising NSO NA | Beaverton, Oregon | Posted 2 Days Ago | 2026-11-17 | [link](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Director--Visual-Merchandising-NSO-NA_R-92575) |
+| Industrial Designer II, Energy Global - Converse | Boston, Massachusetts | Posted 2 Days Ago | 2026-11-16 | [link](https://nike.wd1.myworkdayjobs.com/nke/job/Boston-Massachusetts/Industrial-Designer-II--Energy-Global---Converse_R-97382) |
+| Field Visual Athlete (Store Visual Merchandiser) | Chattarpur, Delhi | Posted 2 Days Ago | 2026-11-16 | [link](https://nike.wd1.myworkdayjobs.com/nke/job/Chattarpur-Delhi/Field-Visual-Athlete--Store-Visual-Merchandiser-_R-97448) |
+| Digital Experiences 3D Artist | Beaverton, Oregon | Posted 5 Days Ago | 2026-11-14 | [link](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Digital-Experiences-3D-Artist_R-97319) |
+| Lead Designer, Basketball Graphic Design, Global Jordan | Beaverton, Oregon | Posted 8 Days Ago | 2026-11-11 | [link](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Lead-Designer--Basketball-Graphic-Design--Global-Jordan_R-97233) |
+| Lead Designer, NikeSKIMS Footwear & Apparel Materials Design | Los Angeles, California | Posted 8 Days Ago | 2026-11-11 | [link](https://nike.wd1.myworkdayjobs.com/nke/job/Los-Angeles-California/Lead-Designer--NikeSKIMS-Footwear---Apparel-Materials-Design_R-96541) |
+| Lead Designer, Golf Apparel Product Design | Beaverton, Oregon | Posted 9 Days Ago | 2026-11-10 | [link](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Lead-Designer--Golf-Apparel-Product-Design_R-96412) |
+| Senior Designer, Pro Apparel Product Design | Beaverton, Oregon | Posted 9 Days Ago | 2026-11-09 | [link](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Senior-Designer--Pro-Apparel-Product-Design_R-96623) |
+| Designer II, Basketball NBA/WNBA Apparel Graphic Designer | Beaverton, Oregon | Posted 12 Days Ago | 2026-11-07 | [link](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Designer-II--Basketball-NBA-WNBA-Apparel-Graphic-Designer_R-97071) |
+| Senior Manager, Bras & Leggings Apparel Product Design | Beaverton, Oregon | Posted 14 Days Ago | 2026-11-06 | [link](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Senior-Manager--Bras---Leggings-Apparel-Product-Design_R-74763) |
+| Designer II, Energy Footwear & Apparel Graphic Design | Beaverton, Oregon | Posted 14 Days Ago | 2026-11-06 | [link](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Designer-II--Energy-Footwear---Apparel-Graphic-Design_R-76111) |
+| Footwear Design Director, Nike Basketball Signature Athlete | Beaverton, Oregon | Posted 15 Days Ago | 2026-11-06 | [link](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Footwear-Design-Director--Nike-Basketball-Signature-Athlete_R-89110) |
+| Senior Materials Designer, Flyknit | Beaverton, Oregon | Posted 15 Days Ago | 2026-11-06 | [link](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Senior-Materials-Designer--Flyknit_R-95891) |
+| Lead Footwear Materials Developer - Jordan Brand (Multiple Openings) | Beaverton, Oregon | Posted 15 Days Ago | 2026-11-06 | [link](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Lead-Footwear-Materials-Developer---Jordan-Brand--Multiple-Openings-_R-96873) |
+| Senior, 3D Designer, Innovation | Beaverton, Oregon | Posted 15 Days Ago | 2026-11-06 | [link](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Senior--3D-Designer--Innovation_R-96866) |
+| Lead Designer, Core Studio Performance Footwear Color Design | Beaverton, Oregon | Posted 15 Days Ago | 2026-11-06 | [link](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Lead-Designer--Core-Studio-Performance-Footwear-Color-Design_R-96002) |
+| Senior Technical Designer, Global Sportswear Apparel | Beaverton, Oregon | Posted 15 Days Ago | 2026-11-06 | [link](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Senior-Technical-Designer--Global-Sportswear-Apparel_R-96845) |
+| Senior, Footwear Color & Materials Designer, Local Creation GC | Shanghai, China Mainland | Posted 19 Days Ago | 2026-11-06 | [link](https://nike.wd1.myworkdayjobs.com/nke/job/Shanghai-China-Mainland/Senior--Footwear-Color---Materials-Designer--Local-Creation-GC_R-96649) |
+| Lead Technical Designer, Global Apparel (Multiple Openings) | Beaverton, Oregon | Posted 20 Days Ago | 2026-11-06 | [link](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Lead-Technical-Designer--Global-Apparel--Multiple-Openings-_R-96630) |
+| Director, Core Studio Color Design | Beaverton, Oregon | Posted 21 Days Ago | 2026-11-06 | [link](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Director--Core-Studio-Color-Design_R-95741) |
+| Expert Global Brand Design | Beaverton, Oregon | Posted 23 Days Ago | 2026-11-06 | [link](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Expert-Global-Brand-Design_R-96089-1) |
+| Senior Technical Design, Global Tennis Apparel | Beaverton, Oregon | Posted 27 Days Ago | 2026-11-06 | [link](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Senior-Technical-Design--Global-Tennis-Apparel_R-96206) |
 | Senior Manager, FBAT & Golf Footwear Color Design, Global Jordan | Beaverton, Oregon | Posted 30+ Days Ago | 2026-11-06 | [link](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Senior-Manager--FBAT---Golf-Footwear-Color-Design--Global-Jordan_R-94651) |
 | Lead, Digital Product Designer, Marketplace Partners | Beaverton, Oregon | Posted 30+ Days Ago | 2026-11-06 | [link](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Lead--Digital-Product-Design--Agile-Experience-Studio_R-94955-1) |
 | Senior, Digital Product Designer, Marketplace Partners | Beaverton, Oregon | Posted 30+ Days Ago | 2026-11-06 | [link](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Senior--Digital-Product-Designer--Marketplace-Partners_R-94957-1) |
 | Senior Digital Designer, Design Systems | Beaverton, Oregon | Posted 30+ Days Ago | 2026-11-06 | [link](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Senior-Digital-Designer--Systems_R-94956) |
 | Expert Designer, Speed Footwear Product Design | Beaverton, Oregon | Posted 30+ Days Ago | 2026-11-06 | [link](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Expert-Designer--Speed-Footwear-Product-Design_R-95018) |
-| Designer Color Design | Beaverton, Oregon | Posted 30+ Days Ago | 2026-11-06 | [link](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Designer-Color-Design_R-94851-1) |
-| Designer II, Core Studio Footwear Materials Design Expression | Beaverton, Oregon | Posted 30+ Days Ago | 2026-11-06 | [link](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/Designer-II--Core-Studio-Footwear-Materials-Design-Expression_R-90744-1) |
 
 ## Oshkosh Corporation (oshkosh-corporation)
 
 | Title | Location | Posted | First listed | Link |
 |---|---|---|---|---|
-| Sr. Quality Manager - Design Assurance | Hagerstown, Maryland, United States | Posted 4 Days Ago | 2026-11-13 | [link](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Hagerstown-Maryland-United-States/Sr-Quality-Manager---Design-Assurance_R45526) |
-| Graphic Production Tech - 2nd Shift ($21.23+) | Appleton, Wisconsin, United States | Posted 4 Days Ago | 2026-11-13 | [link](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Appleton-Wisconsin-United-States/Graphic-Production-Tech---2nd-Shift---2123--_R51419) |
-| Layout Designer | Appleton, Wisconsin, United States | Posted 8 Days Ago | 2026-11-10 | [link](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Appleton-Wisconsin-United-States/Layout-Designer_R51564) |
+| Sr. Quality Manager - Design Assurance | Hagerstown, Maryland, United States | Posted 5 Days Ago | 2026-11-13 | [link](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Hagerstown-Maryland-United-States/Sr-Quality-Manager---Design-Assurance_R45526) |
+| Graphic Production Tech - 2nd Shift ($21.23+) | Appleton, Wisconsin, United States | Posted 5 Days Ago | 2026-11-13 | [link](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Appleton-Wisconsin-United-States/Graphic-Production-Tech---2nd-Shift---2123--_R51419) |
+| Layout Designer | Appleton, Wisconsin, United States | Posted 9 Days Ago | 2026-11-10 | [link](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Appleton-Wisconsin-United-States/Layout-Designer_R51564) |
 
 ## Philips (Medical) (philips-medical)
 
 | Title | Location | Posted | First listed | Link |
 |---|---|---|---|---|
-| Stage Ingénieur R&D - Motion Compensation in Medical Imaging (H/F) | Paris (FR) | Posted Today | **2026-11-17** | [link](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Paris-FR/Stage-Ingnieur-R-D---Motion-Compensation-in-Medical-Imaging--H-F-_593079) |
-| Electrical Designer | Pune | Posted Yesterday | 2026-11-16 | [link](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Pune/Electrical-Designer_590869-1) |
-| Mechanical Designer | Pune | Posted Yesterday | 2026-11-16 | [link](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Pune/Mechanical-Designer_590433) |
+| Stage Ingénieur R&D - Motion Compensation in Medical Imaging (H/F) | Paris (FR) | Posted Today | 2026-11-17 | [link](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Paris-FR/Stage-Ingnieur-R-D---Motion-Compensation-in-Medical-Imaging--H-F-_593079) |
+| Electrical Designer | Pune | Posted 2 Days Ago | 2026-11-16 | [link](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Pune/Electrical-Designer_590869-1) |
+| Mechanical Designer | Pune | Posted 2 Days Ago | 2026-11-16 | [link](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Pune/Mechanical-Designer_590433) |
 | Communications and Brand Senior Manager, Korea and APAC | Seoul | Posted 30+ Days Ago | 2026-11-16 | [link](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Seoul/Communications-and-Brand-Manager_568834) |
-| Electrical Designer | Pune | Posted 5 Days Ago | 2026-11-12 | [link](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Pune/Electrical-Designer_592872) |
-| Usability Designer | Cambridge (US), Massachusetts, United States | Posted 9 Days Ago | 2026-11-08 | [link](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Usability-Designer_583407) |
+| Electrical Designer | Pune | Posted 6 Days Ago | 2026-11-12 | [link](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Pune/Electrical-Designer_592872) |
+| Usability Designer | Cambridge (US), Massachusetts, United States | Posted 10 Days Ago | 2026-11-08 | [link](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Usability-Designer_583407) |
 | Product Designer (Haircare) | Shenzhen | Posted 30+ Days Ago | 2026-11-06 | [link](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Shenzhen/Senior-Product-Designer--Haircare-_586900) |
-| Design Technologist (Murrysville, PA) | Murrysville, Pennsylvania, United States | Posted 28 Days Ago | 2026-11-06 | [link](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Murrysville-Pennsylvania-United-States/UX-Designer--Murrysville--PA-_585168) |
+| Design Technologist (Murrysville, PA) | Murrysville, Pennsylvania, United States | Posted 29 Days Ago | 2026-11-06 | [link](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Murrysville-Pennsylvania-United-States/UX-Designer--Murrysville--PA-_585168) |
 | Senior Design Quality Manager | Suzhou | Posted 30+ Days Ago | 2026-11-06 | [link](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Suzhou/Senior-Design-Quality-Manager_588905) |
-| IGTS Usability Design Intern | Shanghai | Posted 5 Days Ago | 2026-11-06 | [link](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Shanghai/IGTS-Usability-Design-Intern_592631) |
-| Software Designer 3D Imaging & Algorithms | Best | Posted 13 Days Ago | 2026-11-06 | [link](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Best/Software-Designer-3D-Imaging---Algorithms_592880-2) |
-| Senior Forward Deployed UX Designer (Asheville, NC or Nashville, TN) | 3 Locations | Posted 22 Days Ago | 2026-11-06 | [link](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/United-States-of-America---Remote-Based-United-States/Senior-Forward-Deployed-UX-Designer--Nashville--TN-_590807) |
-| Senior Usability Designer – Diagnostic X-ray (DXR) | Pune | Posted 11 Days Ago | 2026-11-06 | [link](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Pune/Senior-Usability-Designer---Diagnostic-X-ray--DXR-_593529) |
+| IGTS Usability Design Intern | Shanghai | Posted 6 Days Ago | 2026-11-06 | [link](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Shanghai/IGTS-Usability-Design-Intern_592631) |
+| Software Designer 3D Imaging & Algorithms | Best | Posted 14 Days Ago | 2026-11-06 | [link](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Best/Software-Designer-3D-Imaging---Algorithms_592880-2) |
+| Senior Forward Deployed UX Designer (Asheville, NC or Nashville, TN) | 3 Locations | Posted 23 Days Ago | 2026-11-06 | [link](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/United-States-of-America---Remote-Based-United-States/Senior-Forward-Deployed-UX-Designer--Nashville--TN-_590807) |
+| Senior Usability Designer – Diagnostic X-ray (DXR) | Pune | Posted 12 Days Ago | 2026-11-06 | [link](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Pune/Senior-Usability-Designer---Diagnostic-X-ray--DXR-_593529) |
 | Product Design Internship – Philips Avent Experience Innovation | Amsterdam | Posted 30+ Days Ago | 2026-11-06 | [link](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Amsterdam/Product-Design-Internship---Philips-Avent-Experience-Innovation_586188) |
 | Werkstudent/ Praktikum Qualifizierungsdokumentation Tool Design (all genders) | Hamburg | Posted 30+ Days Ago | 2026-11-06 | [link](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Hamburg/Werkstudent--Praktikum-Qualifizierungsdokumentation-Tool-Design--all-genders-_591722-1) |
-| Internship: Philips Communications & Brand | 4 Locations | Posted 19 Days Ago | 2026-11-06 | [link](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Amsterdam/Internship--Philips-Communications---Brand_594772) |
+| Internship: Philips Communications & Brand | 4 Locations | Posted 20 Days Ago | 2026-11-06 | [link](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Amsterdam/Internship--Philips-Communications---Brand_594772) |
 
 ## Polaris (polaris)
 
 | Title | Location | Posted | First listed | Link |
 |---|---|---|---|---|
-| VP, Design | Medina, MN, USA | Posted 7 Days Ago | 2026-11-10 | [link](https://polaris.wd5.myworkdayjobs.com/PolarisJobs/job/Medina-MN-USA/VP--Industrial-Design_R31704) |
+| VP, Design | Medina, MN, USA | Posted 8 Days Ago | 2026-11-10 | [link](https://polaris.wd5.myworkdayjobs.com/PolarisJobs/job/Medina-MN-USA/VP--Industrial-Design_R31704) |
 | Sculpting Intern | Medina, MN, USA | Posted 30+ Days Ago | 2026-11-10 | [link](https://polaris.wd5.myworkdayjobs.com/PolarisJobs/job/Medina-MN-USA/Sculpting-Intern_R31550) |
 
 ## Product Ventures (product-ventures)
@@ -894,9 +886,9 @@ Generated 2026-11-17T13:59-06:00 by the daily maintenance Action. 77 job lists c
 |---|---|---|---|---|
 | SRAM Memory Design | SSIR, Angkor West, Bangalore, India | Posted 30+ Days Ago | 2026-11-06 | [link](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/SSIR-Angkor-West-Bangalore-India/SRAM-Memory-Design_R119756) |
 | RTL Design Specialist |  | Posted 30+ Days Ago | 2026-11-06 | [link](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/RTL-Design-Specialist_R121197) |
-| Senior Manager, Brand Design / Strategy - Plano, TX (onsite) | 6625 Excellence Way, Plano, TX, USA | Posted 12 Days Ago | 2026-11-06 | [link](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Sr-Brand-Manager--Corporate-Marketing---Plano--TX_R121389) |
+| Senior Manager, Brand Design / Strategy - Plano, TX (onsite) | 6625 Excellence Way, Plano, TX, USA | Posted 13 Days Ago | 2026-11-06 | [link](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Sr-Brand-Manager--Corporate-Marketing---Plano--TX_R121389) |
 | 영상디스플레이사업부 상시 채용 / Visual Display Talent Pool |  | Posted 30+ Days Ago | 2026-11-06 | [link](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/-----Visual-Display-Talent-Pool_R4766) |
-| Senior Manager, Co-Brand Growth Marketing - Samsung Galaxy Card | One Pennsylvania Plaza, 26th Floor, New York, NY, USA | Posted 19 Days Ago | 2026-11-06 | [link](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/One-Pennsylvania-Plaza-26th-Floor-New-York-NY-USA/Senior-Manager--Co-Brand-Growth-Marketing---Samsung-Galaxy-Card_R121247) |
+| Senior Manager, Co-Brand Growth Marketing - Samsung Galaxy Card | One Pennsylvania Plaza, 26th Floor, New York, NY, USA | Posted 20 Days Ago | 2026-11-06 | [link](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/One-Pennsylvania-Plaza-26th-Floor-New-York-NY-USA/Senior-Manager--Co-Brand-Growth-Marketing---Samsung-Galaxy-Card_R121247) |
 
 ## Sonos (sonos)
 
@@ -908,16 +900,15 @@ Generated 2026-11-17T13:59-06:00 by the daily maintenance Action. 77 job lists c
 
 | Title | Location | Posted | First listed | Link |
 |---|---|---|---|---|
-| UX/UI Designer | Towson, MD, United States | Posted Today | **2026-11-17** | [link](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/UX-UI-Designer_REQ-1000053714-1) |
-| Senior Designer | Towson, MD, United States | Posted Yesterday | 2026-11-16 | [link](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Senior-Designer_REQ-1000053912) |
-| Set Packaging Operator | Taichung, Taiwan | Posted Yesterday | 2026-11-16 | [link](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Taichung-Taiwan/Set-Packaging-Operator_REQ-1000054092) |
-| Set Packaging Operator | Taichung, Taiwan | Posted Yesterday | 2026-11-16 | [link](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Taichung-Taiwan/Set-Packaging-Operator_REQ-1000053754) |
+| Set Packaging Operator | Taichung, Taiwan | Posted Today | **2026-11-18** | [link](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Taichung-Taiwan/Set-Packaging-Operator_REQ-1000054124) |
+| UX/UI Designer | Towson, MD, United States | Posted Yesterday | 2026-11-17 | [link](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/UX-UI-Designer_REQ-1000053714-1) |
+| Senior Designer | Towson, MD, United States | Posted 2 Days Ago | 2026-11-16 | [link](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Senior-Designer_REQ-1000053912) |
 | Senior CAD Designer | Towson, MD, United States | Posted 30+ Days Ago | 2026-11-06 | [link](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Senior-Designer_REQ-1000051846) |
 | Manager, Design Assurance | Towson, MD, United States | Posted 30+ Days Ago | 2026-11-06 | [link](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Manager--Design-Assurance_REQ-1000052752) |
-| Sr. Design Assurance Manager | Suzhou, China | Posted 18 Days Ago | 2026-11-06 | [link](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Suzhou-China/Sr-Design-Assurance-Manager_REQ-1000046419) |
+| Sr. Design Assurance Manager | Suzhou, China | Posted 19 Days Ago | 2026-11-06 | [link](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Suzhou-China/Sr-Design-Assurance-Manager_REQ-1000046419) |
 | Documentation Specialist, Packaging | Shizheng Rd, Taichung, Taiwan | Posted 30+ Days Ago | 2026-11-06 | [link](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Shizheng-Rd-Taichung-Taiwan/Documentation-Specialist--Packaging_REQ-1000051706) |
-| Brand Marketing Activation Intern | Mississauga, Ontario, Canada | Posted 18 Days Ago | 2026-11-06 | [link](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Mississauga-Ontario-Canada/Brand-Marketing-Activation-Intern_REQ-1000053367-1) |
-| Set Packaging Operator | Taichung, Taiwan | Posted 11 Days Ago | 2026-11-06 | [link](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Taichung-Taiwan/Set-Packaging-Operator_REQ-1000053894) |
+| Brand Marketing Activation Intern | Mississauga, Ontario, Canada | Posted 19 Days Ago | 2026-11-06 | [link](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Mississauga-Ontario-Canada/Brand-Marketing-Activation-Intern_REQ-1000053367-1) |
+| Set Packaging Operator | Taichung, Taiwan | Posted 12 Days Ago | 2026-11-06 | [link](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Taichung-Taiwan/Set-Packaging-Operator_REQ-1000053894) |
 
 ## Steelcase (steelcase)
 
@@ -930,7 +921,7 @@ Generated 2026-11-17T13:59-06:00 by the daily maintenance Action. 77 job lists c
 
 | Title | Location | Posted | First listed | Link |
 |---|---|---|---|---|
-| Analyst, Graphic Design and Creative | Cary, Illinois | Posted 4 Days Ago | 2026-11-13 | [link](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Cary-Illinois/Analyst--Graphic-Design-and-Creative_R576052) |
+| Analyst, Graphic Design and Creative | Cary, Illinois | Posted 5 Days Ago | 2026-11-13 | [link](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Cary-Illinois/Analyst--Graphic-Design-and-Creative_R576052) |
 | Senior Designer - CAD | Portage, Michigan | Posted 30+ Days Ago | 2026-11-10 | [link](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Senior-Designer---CAD_R575298) |
 | Principal Architect, Data Architecture & Design | 2 Locations | Posted 30+ Days Ago | 2026-11-10 | [link](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Gurugram-India/Principal-Architect--Data-Architecture---Design_R573589) |
 | Summer 2027 Internship - Industrial Design Intern - Michigan | Portage, Michigan | Posted 30+ Days Ago | 2026-11-10 | [link](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Industrial-Design-Intern---Portage--MI_R572730) |
@@ -939,7 +930,7 @@ Generated 2026-11-17T13:59-06:00 by the daily maintenance Action. 77 job lists c
 
 | Title | Location | Posted | First listed | Link |
 |---|---|---|---|---|
-| Packaging Consultant | Charlotte Annex | Posted 2 Days Ago | 2026-11-16 | [link](https://tricorbraun.wd115.myworkdayjobs.com/Careers/job/Charlotte-Annex/Packaging-Consultant_R-101946) |
+| Packaging Consultant | Charlotte Annex | Posted 3 Days Ago | 2026-11-16 | [link](https://tricorbraun.wd115.myworkdayjobs.com/Careers/job/Charlotte-Annex/Packaging-Consultant_R-101946) |
 | Packaging Consultant | Atlanta | Posted 30+ Days Ago | 2026-11-06 | [link](https://tricorbraun.wd115.myworkdayjobs.com/Careers/job/Atlanta/Packaging-Consultant_R-101684) |
 | Packaging Consultant | Atlanta | Posted 30+ Days Ago | 2026-11-06 | [link](https://tricorbraun.wd115.myworkdayjobs.com/Careers/job/Atlanta/Packaging-Consultant_R-101683) |
 | Packaging Consultant | Canada - Toronto, Flex | Posted 30+ Days Ago | 2026-11-06 | [link](https://tricorbraun.wd115.myworkdayjobs.com/Careers/job/Canada---Toronto-Flex/Packaging-Consultant_R-101869) |
@@ -952,14 +943,14 @@ Generated 2026-11-17T13:59-06:00 by the daily maintenance Action. 77 job lists c
 
 | Title | Location | Posted | First listed | Link |
 |---|---|---|---|---|
-| Brand Manager EMEA | Reading, UK | Posted 13 Days Ago | 2026-11-10 | [link](https://weber.wd115.myworkdayjobs.com/WB/job/Reading-UK/Brand-Manager-EMEA_JR115) |
+| Brand Manager EMEA | Reading, UK | Posted 14 Days Ago | 2026-11-10 | [link](https://weber.wd115.myworkdayjobs.com/WB/job/Reading-UK/Brand-Manager-EMEA_JR115) |
 
 ## Conagra Brands (conagra-brands)
 
 | Title | Location | Posted | First listed | Link |
 |---|---|---|---|---|
-| Summer 2027 - Brand Management Internship | Chicago, Illinois | Posted Yesterday | 2026-11-16 | [link](https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Chicago-Illinois/Summer-2027---Brand-Management-Internship_Req-040145) |
-| Art Director | Chicago, Illinois | Posted 28 Days Ago | 2026-11-10 | [link](https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Chicago-Illinois/Art-Director_Req-040511) |
+| Summer 2027 - Brand Management Internship | Chicago, Illinois | Posted 2 Days Ago | 2026-11-16 | [link](https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Chicago-Illinois/Summer-2027---Brand-Management-Internship_Req-040145) |
+| Art Director | Chicago, Illinois | Posted 29 Days Ago | 2026-11-10 | [link](https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Chicago-Illinois/Art-Director_Req-040511) |
 | Creative Marketing Manager | Chicago, Illinois | Posted 30+ Days Ago | 2026-11-10 | [link](https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Chicago-Illinois/Creative-Marketing-Manager_Req-039825) |
 | Associate Brand Manager | Chicago, Illinois | Posted 30+ Days Ago | 2026-11-10 | [link](https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Chicago-Illinois/Associate-Brand-Manager_Req-040638) |
 
@@ -967,14 +958,14 @@ Generated 2026-11-17T13:59-06:00 by the daily maintenance Action. 77 job lists c
 
 | Title | Location | Posted | First listed | Link |
 |---|---|---|---|---|
-| Account Supervisor (Creative Automation) | Toronto; Canada | 2026-11-17 | **2026-11-17** | [link](https://job-boards.greenhouse.io/dept/jobs/8395537) |
-| (Senior) Account Manager (Creative Automation) | London; United Kingdom, Manchester; United Kingdom | 2026-11-17 | **2026-11-17** | [link](https://job-boards.greenhouse.io/dept/jobs/8395531) |
+| Account Supervisor (Creative Automation) | Toronto; Canada | 2026-11-17 | 2026-11-17 | [link](https://job-boards.greenhouse.io/dept/jobs/8395537) |
+| (Senior) Account Manager (Creative Automation) | London; United Kingdom, Manchester; United Kingdom | 2026-11-17 | 2026-11-17 | [link](https://job-boards.greenhouse.io/dept/jobs/8395531) |
 | Director, Visual Design | San Francisco, New York, Remote | 2026-11-16 | 2026-11-16 | [link](https://job-boards.greenhouse.io/dept/jobs/8365796) |
 | Senior Performance Creative Strategist - Creative - US Remote | United States | 2026-11-16 | 2026-11-16 | [link](https://job-boards.greenhouse.io/dept/jobs/8392855) |
 | Associate Creative Director, Copy | London | 2026-11-13 | 2026-11-13 | [link](https://job-boards.greenhouse.io/dept/jobs/7674350) |
 | Design Director | London | 2026-11-13 | 2026-11-13 | [link](https://job-boards.greenhouse.io/dept/jobs/7990043) |
-| Production Designer (6m FTC) | Toronto, Vancouver | 2026-11-13 | 2026-11-13 | [link](https://job-boards.greenhouse.io/dept/jobs/8385795) |
 | Production Designer (6m FTC) | London, Manchester | 2026-11-13 | 2026-11-13 | [link](https://job-boards.greenhouse.io/dept/jobs/8385819) |
+| Production Designer (6m FTC) | Toronto, Vancouver | 2026-11-13 | 2026-11-13 | [link](https://job-boards.greenhouse.io/dept/jobs/8385795) |
 | Senior Designer (6 month FTC) | Toronto; Ontario, Vancouver; British Columbia | 2026-11-16 | 2026-11-13 | [link](https://job-boards.greenhouse.io/dept/jobs/8385792) |
 | Account Manager (Creative) | Budapest | 2026-11-10 | 2026-11-10 | [link](https://job-boards.greenhouse.io/dept/jobs/8372219) |
 | AI Motion Designer & Creative Technologist | Budapest | 2026-10-16 | 2026-11-10 | [link](https://job-boards.greenhouse.io/dept/jobs/8267357) |
@@ -984,11 +975,11 @@ Generated 2026-11-17T13:59-06:00 by the daily maintenance Action. 77 job lists c
 | Creative Designers, Open Application | Toronto; Ontario | 2026-11-17 | 2026-11-10 | [link](https://job-boards.greenhouse.io/dept/jobs/6332902) |
 | Creative Developer - 6 months FTC | Toronto, Ontario, Canada | 2026-11-05 | 2026-11-10 | [link](https://job-boards.greenhouse.io/dept/jobs/8337828) |
 | Creative Duo | Amsterdam, hybrid | 2026-10-14 | 2026-11-10 | [link](https://job-boards.greenhouse.io/dept/jobs/8264339) |
-| Creative Strategist, Retail Media - Creative - US Remote | United States | 2026-10-16 | 2026-11-10 | [link](https://job-boards.greenhouse.io/dept/jobs/8287903) |
 | Digital Designer (UX/UI) - 6 months FTC | Toronto, Ontario, Canada | 2026-11-04 | 2026-11-10 | [link](https://job-boards.greenhouse.io/dept/jobs/8338020) |
 | Director, Creative (Copy/Art) | NY, US, MA, US, IL, US, GA, US - Remote | 2026-10-29 | 2026-11-10 | [link](https://job-boards.greenhouse.io/dept/jobs/8329421) |
 | Director, Visual Design | United States | 2026-11-10 | 2026-11-10 | [link](https://job-boards.greenhouse.io/dept/jobs/8202052) |
 | Intern Brand Design | Amsterdam, Rotterdam | 2026-11-13 | 2026-11-10 | [link](https://job-boards.greenhouse.io/dept/jobs/8355282) |
+| Media Strategist - Creative - US Remote | United States | 2026-11-17 | 2026-11-10 | [link](https://job-boards.greenhouse.io/dept/jobs/8287903) |
 | Mid/Senior Motion Designer | Budapest | 2026-11-16 | 2026-11-10 | [link](https://job-boards.greenhouse.io/dept/jobs/8372056) |
 | Mid/Senior Project Manager (Creative) | Budapest | 2026-11-12 | 2026-11-10 | [link](https://job-boards.greenhouse.io/dept/jobs/8371846) |
 | Motion Design Lead | Budapest | 2026-11-04 | 2026-11-10 | [link](https://job-boards.greenhouse.io/dept/jobs/8188504) |
@@ -1000,8 +991,8 @@ Generated 2026-11-17T13:59-06:00 by the daily maintenance Action. 77 job lists c
 | Senior Motion Designer - 6 month FTC | Toronto, Ontario, Canada | 2026-10-29 | 2026-11-10 | [link](https://job-boards.greenhouse.io/dept/jobs/8335051) |
 | Senior Motion Designer & Editor (m/f/div) | Berlin, hybrid | 2026-10-14 | 2026-11-10 | [link](https://job-boards.greenhouse.io/dept/jobs/8090714) |
 | Senior Project Manager, Creative | Amsterdam, Rotterdam | 2026-11-05 | 2026-11-10 | [link](https://job-boards.greenhouse.io/dept/jobs/8245374) |
-| Senior UX Designer (Focus on Research) | Skopje | 2026-10-30 | 2026-11-10 | [link](https://job-boards.greenhouse.io/dept/jobs/8336632) |
 | Senior UX Designer (Focus on Research) | Zagreb | 2026-10-21 | 2026-11-10 | [link](https://job-boards.greenhouse.io/dept/jobs/8176202) |
+| Senior UX Designer (Focus on Research) | Skopje | 2026-10-30 | 2026-11-10 | [link](https://job-boards.greenhouse.io/dept/jobs/8336632) |
 | Social Content Creative | Budapest | 2026-11-04 | 2026-11-10 | [link](https://job-boards.greenhouse.io/dept/jobs/8239309) |
 | UI Designer | Zagreb, Split | 2026-10-28 | 2026-11-10 | [link](https://job-boards.greenhouse.io/dept/jobs/8264174) |
 
@@ -1019,8 +1010,8 @@ Generated 2026-11-17T13:59-06:00 by the daily maintenance Action. 77 job lists c
 
 | Title | Location | Posted | First listed | Link |
 |---|---|---|---|---|
-| Designer | Kohl's Corporate Offices (0900) | Posted 11 Days Ago | 2026-11-10 | [link](https://kohls.wd504.myworkdayjobs.com/kohlscareers/job/Kohls-Corporate-Offices-0900/Designer_R508586) |
-| Early Talent - 2027 - Design - Assistant Designer Bench | Kohl's Corporate Offices (0900) | Posted 13 Days Ago | 2026-11-10 | [link](https://kohls.wd504.myworkdayjobs.com/kohlscareers/job/Kohls-Corporate-Offices-0900/Early-Talent---2027---Design---Assistant-Designer-Bench_R475914-1) |
+| Designer | Kohl's Corporate Offices (0900) | Posted 12 Days Ago | 2026-11-10 | [link](https://kohls.wd504.myworkdayjobs.com/kohlscareers/job/Kohls-Corporate-Offices-0900/Designer_R508586) |
+| Early Talent - 2027 - Design - Assistant Designer Bench | Kohl's Corporate Offices (0900) | Posted 14 Days Ago | 2026-11-10 | [link](https://kohls.wd504.myworkdayjobs.com/kohlscareers/job/Kohls-Corporate-Offices-0900/Early-Talent---2027---Design---Assistant-Designer-Bench_R475914-1) |
 | Associate Technical Designer | Kohl's Corporate Offices (0900) | Posted 30+ Days Ago | 2026-11-10 | [link](https://kohls.wd504.myworkdayjobs.com/kohlscareers/job/Kohls-Corporate-Offices-0900/Associate-Technical-Designer_R501276) |
 | Designer - Women's Tek Gear | Kohl's Corporate Offices (0900) | Posted 30+ Days Ago | 2026-11-10 | [link](https://kohls.wd504.myworkdayjobs.com/kohlscareers/job/Kohls-Corporate-Offices-0900/Designer---Women-s-Tek-Gear_R491709-1) |
 
@@ -1028,10 +1019,10 @@ Generated 2026-11-17T13:59-06:00 by the daily maintenance Action. 77 job lists c
 
 | Title | Location | Posted | First listed | Link |
 |---|---|---|---|---|
-| Scientist, R&D - Packaging Dev | 2 Locations | Posted 4 Days Ago | 2026-11-14 | [link](https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Glenview-IL/Scientist--R-D---Packaging-Dev_R-108455) |
-| Product design intern | Nijmegen | Posted 5 Days Ago | 2026-11-12 | [link](https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Nijmegen/Product-design-intern_R-108404) |
-| Sr Manager, R&D - Packaging Materials | Glenview, IL | Posted 7 Days Ago | 2026-11-11 | [link](https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Glenview-IL/Sr-Manager--R-D---Plastic-Rigid-Materials_R-102599) |
-| Packaging development intern | Nijmegen | Posted 6 Days Ago | 2026-11-11 | [link](https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Nijmegen/Packaging-development-intern_R-108386) |
+| Scientist, R&D - Packaging Dev | 2 Locations | Posted 5 Days Ago | 2026-11-14 | [link](https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Glenview-IL/Scientist--R-D---Packaging-Dev_R-108455) |
+| Product design intern | Nijmegen | Posted 6 Days Ago | 2026-11-12 | [link](https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Nijmegen/Product-design-intern_R-108404) |
+| Sr Manager, R&D - Packaging Materials | Glenview, IL | Posted 8 Days Ago | 2026-11-11 | [link](https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Glenview-IL/Sr-Manager--R-D---Plastic-Rigid-Materials_R-102599) |
+| Packaging development intern | Nijmegen | Posted 7 Days Ago | 2026-11-11 | [link](https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Nijmegen/Packaging-development-intern_R-108386) |
 | Graphic Designer | Freshwater | Posted 30+ Days Ago | 2026-11-07 | [link](https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Freshwater/Graphic-Designer_R-104704) |
 | Analyst II, Design | Ahmedabad - Venus Stratum GCC | Posted 30+ Days Ago | 2026-11-07 | [link](https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Ahmedabad---Venus-Stratum-GCC/Analyst-II--Design_R-96081) |
 | Senior Graphic Designer | Freshwater | Posted 30+ Days Ago | 2026-11-07 | [link](https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Freshwater/Senior-Graphic-Designer_R-102691-1) |
@@ -1046,33 +1037,35 @@ Generated 2026-11-17T13:59-06:00 by the daily maintenance Action. 77 job lists c
 | Scientist, R&D - Packaging Dev | 2 Locations | Posted 30+ Days Ago | 2026-11-07 | [link](https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Glenview-IL/Scientist--R-D---Packaging-Dev_R-106023) |
 | Associate Senior Packaging Technologist | Alfaro | Posted 30+ Days Ago | 2026-11-07 | [link](https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Alfaro/Associate-Senior-Packaging-Technologist_R-106993) |
 | Packaging Manager | Nijmegen | Posted 30+ Days Ago | 2026-11-07 | [link](https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Nijmegen/Packaging-Manager_R-107722-1) |
-| Senior Scientist, R&D - Packaging Development, Global Disruptive Innovation | Glenview, IL | Posted 25 Days Ago | 2026-11-07 | [link](https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Glenview-IL/Senior-Scientist--R-D---Packaging-Development--Global-Disruptive-Innovation_R-107933) |
-| Scientist, R&D - Packaging Development | Glenview, IL | Posted 11 Days Ago | 2026-11-07 | [link](https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Glenview-IL/Scientist--R-D---Packaging-Development_R-108283-1) |
+| Senior Scientist, R&D - Packaging Development, Global Disruptive Innovation | Glenview, IL | Posted 26 Days Ago | 2026-11-07 | [link](https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Glenview-IL/Senior-Scientist--R-D---Packaging-Development--Global-Disruptive-Innovation_R-107933) |
+| Scientist, R&D - Packaging Development | Glenview, IL | Posted 12 Days Ago | 2026-11-07 | [link](https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Glenview-IL/Scientist--R-D---Packaging-Development_R-108283-1) |
 | Manager, R&D – Packaging Margin Enhancement | Glenview, IL | Posted 30+ Days Ago | 2026-11-07 | [link](https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Glenview-IL/Manager--R-D---Packaging-Margin-Enhancement_R-102088) |
-| Associate Sci, R&D - Packaging Dev | Glenview, IL | Posted 21 Days Ago | 2026-11-07 | [link](https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Glenview-IL/Associate-Sci--R-D---Packaging-Dev_R-108027) |
-| Assoc Sci, R&D - Packaging Dev | Glenview, IL | Posted 21 Days Ago | 2026-11-07 | [link](https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Glenview-IL/Assoc-Sci--R-D---Packaging-Dev_R-108026) |
-| Value Creation Packaging Intern | Nijmegen | Posted 22 Days Ago | 2026-11-07 | [link](https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Nijmegen/Value-Creation-Packaging-Intern_R-107975) |
+| Associate Sci, R&D - Packaging Dev | Glenview, IL | Posted 22 Days Ago | 2026-11-07 | [link](https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Glenview-IL/Associate-Sci--R-D---Packaging-Dev_R-108027) |
+| Assoc Sci, R&D - Packaging Dev | Glenview, IL | Posted 22 Days Ago | 2026-11-07 | [link](https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Glenview-IL/Assoc-Sci--R-D---Packaging-Dev_R-108026) |
+| Value Creation Packaging Intern | Nijmegen | Posted 23 Days Ago | 2026-11-07 | [link](https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Nijmegen/Value-Creation-Packaging-Intern_R-107975) |
 | Packaging R&D Co-op | 2 Locations | Posted 30+ Days Ago | 2026-11-07 | [link](https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Glenview-IL/Packaging-R-D-Co-op_R-96278) |
 | Procurement Operation Packaging | Menara Mandiri | Posted 30+ Days Ago | 2026-11-07 | [link](https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/Menara-Mandiri/Procurement-Operation-Packaging_R-100868) |
 | Brand Activation Associate Manager - Africa Export | El Tagamoa El Khames Commercial Office | Posted 30+ Days Ago | 2026-11-07 | [link](https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/El-Tagamoa-El-Khames-Commercial-Office/Brand-Activation-Associate-Manager---Africa-Export_R-103537) |
-| Brand Build Activation Analyst | San Jose, Costa Rica Local Office | Posted 19 Days Ago | 2026-11-07 | [link](https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/San-Jose-Costa-Rica-Local-Office/Brand-Build-Activation-Analyst_R-108074) |
+| Brand Build Activation Analyst | San Jose, Costa Rica Local Office | Posted 20 Days Ago | 2026-11-07 | [link](https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers/job/San-Jose-Costa-Rica-Local-Office/Brand-Build-Activation-Analyst_R-108074) |
 
 ## Mars Wrigley (mars-wrigley)
 
 | Title | Location | Posted | First listed | Link |
 |---|---|---|---|---|
-| Mars Corporate Brand Identity Manager | 2 Locations | Posted Today | **2026-11-17** | [link](https://mars.wd3.myworkdayjobs.com/External/job/MVA-Mars-Incorporated/Mars-Corporate-Brand-Identity-Manager_R172606-1) |
-| Packaging Operator - Nights | USA-Nebraska-Fremont | Posted Today | **2026-11-17** | [link](https://mars.wd3.myworkdayjobs.com/External/job/USA-Nebraska-Fremont/Packaging-Operator---Nights_R171341-1) |
-| Technicien R&D Packaging H/F/X | 2 Locations | Posted Yesterday | 2026-11-16 | [link](https://mars.wd3.myworkdayjobs.com/External/job/FRA-Bas-Rhin-Ernolsheim-Bruche/Technicien-R-D-Packaging-H-F-X_R172574-1) |
-| Packaging Sustainability Senior Manager | 2 Locations | Posted Yesterday | 2026-11-16 | [link](https://mars.wd3.myworkdayjobs.com/External/job/BRA-Sao-Paulo-Guararema/Packaging-Sustainability-Senior-Manager_R170954-1) |
-| Senior Brand Manager, Canada | CAN-Ontario-Toronto | Posted Yesterday | 2026-11-16 | [link](https://mars.wd3.myworkdayjobs.com/External/job/CAN-Ontario-Toronto/Senior-Brand-Manager--Canada_R171426-2) |
-| Sr Brand Manager - Pedigree | MEX-Queretaro-Queretaro | Posted 4 Days Ago | 2026-11-14 | [link](https://mars.wd3.myworkdayjobs.com/External/job/MEX-Queretaro-Queretaro/Sr-Brand-Manager---Pedigree_R171255-1) |
-| Brand & Content Manager (Multiple positions) | 2 Locations | Posted Yesterday | 2026-11-14 | [link](https://mars.wd3.myworkdayjobs.com/External/job/USA-Illinois-Chicago/Brand---Content-Manager--Multiple-positions-_R171080-1) |
-| Packaging Area Maintenance Lead- Royal Canin- Guelph, ON | CAN-Ontario-Guelph | Posted 4 Days Ago | 2026-11-13 | [link](https://mars.wd3.myworkdayjobs.com/External/job/CAN-Ontario-Guelph/Packaging-Area-Maintenance-Lead--Royal-Canin--Guelph--ON_R172355-1) |
-| Brand Manager - Pet Nutrition | AUS-Victoria-Melbourne | Posted 4 Days Ago | 2026-11-13 | [link](https://mars.wd3.myworkdayjobs.com/External/job/AUS-Victoria-Melbourne/Brand-Manager---Petcare_R156840-1) |
-| Sr Specialist, Co-Ops - Packaging | USA-Illinois-Chicago | Posted 5 Days Ago | 2026-11-13 | [link](https://mars.wd3.myworkdayjobs.com/External/job/USA-Illinois-Chicago/Sr-Specialist--Co-Ops---Packaging_R170927-1) |
-| Brand marketing Internship | NLD-North Brabant-Veghel | Posted 6 Days Ago | 2026-11-11 | [link](https://mars.wd3.myworkdayjobs.com/External/job/NLD-North-Brabant-Veghel/Brand-marketing-Internship_R170730-1) |
-| Summer 2027 Mars Petcare MBA Marketing and Brand Management Internship | USA-Tennessee-Franklin | Posted 7 Days Ago | 2026-11-11 | [link](https://mars.wd3.myworkdayjobs.com/External/job/USA-Tennessee-Franklin/Summer-2027-Mars-Petcare-MBA-Marketing-and-Brand-Management-Internship_R172399-1) |
+| PPPI (Process, Product, Packaging Implementation) Technologist | GBR-Norfolk-King's Lynn | Posted Today | **2026-11-18** | [link](https://mars.wd3.myworkdayjobs.com/External/job/GBR-Norfolk-Kings-Lynn/Technologist--Implementation_R170198-1) |
+| Strategic Sourcing Manager- Packaging | MEX-Queretaro-Queretaro | Posted Yesterday | **2026-11-18** | [link](https://mars.wd3.myworkdayjobs.com/External/job/MEX-Queretaro-Queretaro/Strategic-Sourcing-Manager--Packaging_R172079-1) |
+| Mars Corporate Brand Identity Manager | 2 Locations | Posted Yesterday | 2026-11-17 | [link](https://mars.wd3.myworkdayjobs.com/External/job/MVA-Mars-Incorporated/Mars-Corporate-Brand-Identity-Manager_R172606-1) |
+| Packaging Operator - Nights | USA-Nebraska-Fremont | Posted Yesterday | 2026-11-17 | [link](https://mars.wd3.myworkdayjobs.com/External/job/USA-Nebraska-Fremont/Packaging-Operator---Nights_R171341-1) |
+| Technicien R&D Packaging H/F/X | 2 Locations | Posted 2 Days Ago | 2026-11-16 | [link](https://mars.wd3.myworkdayjobs.com/External/job/FRA-Bas-Rhin-Ernolsheim-Bruche/Technicien-R-D-Packaging-H-F-X_R172574-1) |
+| Packaging Sustainability Senior Manager | 2 Locations | Posted 2 Days Ago | 2026-11-16 | [link](https://mars.wd3.myworkdayjobs.com/External/job/BRA-Sao-Paulo-Guararema/Packaging-Sustainability-Senior-Manager_R170954-1) |
+| Senior Brand Manager, Canada | CAN-Ontario-Toronto | Posted 2 Days Ago | 2026-11-16 | [link](https://mars.wd3.myworkdayjobs.com/External/job/CAN-Ontario-Toronto/Senior-Brand-Manager--Canada_R171426-2) |
+| Sr Brand Manager - Pedigree | MEX-Queretaro-Queretaro | Posted 5 Days Ago | 2026-11-14 | [link](https://mars.wd3.myworkdayjobs.com/External/job/MEX-Queretaro-Queretaro/Sr-Brand-Manager---Pedigree_R171255-1) |
+| Brand & Content Manager (Multiple positions) | 2 Locations | Posted 2 Days Ago | 2026-11-14 | [link](https://mars.wd3.myworkdayjobs.com/External/job/USA-Illinois-Chicago/Brand---Content-Manager--Multiple-positions-_R171080-1) |
+| Packaging Area Maintenance Lead- Royal Canin- Guelph, ON | CAN-Ontario-Guelph | Posted 5 Days Ago | 2026-11-13 | [link](https://mars.wd3.myworkdayjobs.com/External/job/CAN-Ontario-Guelph/Packaging-Area-Maintenance-Lead--Royal-Canin--Guelph--ON_R172355-1) |
+| Brand Manager - Pet Nutrition | AUS-Victoria-Melbourne | Posted 5 Days Ago | 2026-11-13 | [link](https://mars.wd3.myworkdayjobs.com/External/job/AUS-Victoria-Melbourne/Brand-Manager---Petcare_R156840-1) |
+| Sr Specialist, Co-Ops - Packaging | USA-Illinois-Chicago | Posted 6 Days Ago | 2026-11-13 | [link](https://mars.wd3.myworkdayjobs.com/External/job/USA-Illinois-Chicago/Sr-Specialist--Co-Ops---Packaging_R170927-1) |
+| Brand marketing Internship | NLD-North Brabant-Veghel | Posted 7 Days Ago | 2026-11-11 | [link](https://mars.wd3.myworkdayjobs.com/External/job/NLD-North-Brabant-Veghel/Brand-marketing-Internship_R170730-1) |
+| Summer 2027 Mars Petcare MBA Marketing and Brand Management Internship | USA-Tennessee-Franklin | Posted 8 Days Ago | 2026-11-11 | [link](https://mars.wd3.myworkdayjobs.com/External/job/USA-Tennessee-Franklin/Summer-2027-Mars-Petcare-MBA-Marketing-and-Brand-Management-Internship_R172399-1) |
 
 ## Rush Street Interactive (rush-street-interactive)
 
@@ -1091,6 +1084,7 @@ Generated 2026-11-17T13:59-06:00 by the daily maintenance Action. 77 job lists c
 
 | Title | Location | Posted | First listed | Link |
 |---|---|---|---|---|
+| Creative Director Copy, Social | United States | 2026-11-17 | **2026-11-18** | [link](https://careers.airbnb.com/positions/8394407?gh_jid=8394407) |
 | Lead Program Manager, Design | United States | 2026-11-11 | 2026-11-11 | [link](https://careers.airbnb.com/positions/8355483?gh_jid=8355483) |
 | Senior Program Manager, Design | United States | 2026-11-11 | 2026-11-11 | [link](https://careers.airbnb.com/positions/8356141?gh_jid=8356141) |
 | Senior Manager, Technical Brand & Content | Remote - United States | 2026-11-10 | 2026-11-10 | [link](https://careers.airbnb.com/positions/8259671?gh_jid=8259671) |
@@ -1108,36 +1102,37 @@ Generated 2026-11-17T13:59-06:00 by the daily maintenance Action. 77 job lists c
 
 | Title | Location | Posted | First listed | Link |
 |---|---|---|---|---|
-| Product Manager III, UI Platform | UK - London | Posted Yesterday | **2026-11-17** | [link](https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Product-Manager-III--UI-Platform_R-111286) |
-| Principal Product Manager, UI Platform | Washington - Seattle Campus | Posted Yesterday | **2026-11-17** | [link](https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Principal-Product-Manager--UI-Platform_R-111284) |
-| Senior Strategic Initiatives Manager, Brand Expedia | Washington - Seattle Campus | Posted 4 Days Ago | 2026-11-14 | [link](https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Senior-Strategic-Initiatives-Manager--Brand-Expedia_R-111280) |
-| Creative Director - Creative Integration | USA - California - West Hollywood | Posted 6 Days Ago | 2026-11-12 | [link](https://expedia.wd108.myworkdayjobs.com/search/job/USA---California---West-Hollywood/Creative-Director---Creative-Integration_R-111044) |
-| Senior Content Designer | 3 Locations | Posted 12 Days Ago | 2026-11-10 | [link](https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Senior-Content-Designer_R-111024) |
-| Director / Principal of Product Design – Servicing | 5 Locations | Posted 14 Days Ago | 2026-11-10 | [link](https://expedia.wd108.myworkdayjobs.com/search/job/USA---California---San-Francisco/Director---Principal-of-Product-Design---Servicing_R-111068) |
-| UX Designer III, ProServe – Strategic Partners | USA - Illinois - Chicago | Posted 15 Days Ago | 2026-11-10 | [link](https://expedia.wd108.myworkdayjobs.com/search/job/USA---Illinois---Chicago/UX-Designer-III--ProServe---Strategic-Partners_R-110515-2) |
-| Lead Product Designer – Personalization & AI Experiences | 3 Locations | Posted 15 Days Ago | 2026-11-10 | [link](https://expedia.wd108.myworkdayjobs.com/search/job/USA---California---San-Jose/Lead-Product-Designer---Personalization---AI-Experiences_R-110486-1) |
-| Senior Product Designer, Ads Team - Measurement & Insights (Data Visualization / Information Design) | Washington - Seattle Campus | Posted 15 Days Ago | 2026-11-10 | [link](https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Senior-Product-Designer--Ads-Team---Measurement---Insights--Data-Visualization---Information-Design-_R-110517) |
-| Senior Product Designer - Vrbo | 4 Locations | Posted 20 Days Ago | 2026-11-10 | [link](https://expedia.wd108.myworkdayjobs.com/search/job/USA---California---West-Hollywood/Senior-Product-Designer---Vrbo_R-110581-2) |
+| Product Manager III, UI Platform | UK - London | Posted 2 Days Ago | 2026-11-17 | [link](https://expedia.wd108.myworkdayjobs.com/search/job/UK---London/Product-Manager-III--UI-Platform_R-111286) |
+| Principal Product Manager, UI Platform | Washington - Seattle Campus | Posted 2 Days Ago | 2026-11-17 | [link](https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Principal-Product-Manager--UI-Platform_R-111284) |
+| Senior Strategic Initiatives Manager, Brand Expedia | Washington - Seattle Campus | Posted 5 Days Ago | 2026-11-14 | [link](https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Senior-Strategic-Initiatives-Manager--Brand-Expedia_R-111280) |
+| Creative Director - Creative Integration | USA - California - West Hollywood | Posted 7 Days Ago | 2026-11-12 | [link](https://expedia.wd108.myworkdayjobs.com/search/job/USA---California---West-Hollywood/Creative-Director---Creative-Integration_R-111044) |
+| Senior Content Designer | 3 Locations | Posted 13 Days Ago | 2026-11-10 | [link](https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Senior-Content-Designer_R-111024) |
+| Director / Principal of Product Design – Servicing | 5 Locations | Posted 15 Days Ago | 2026-11-10 | [link](https://expedia.wd108.myworkdayjobs.com/search/job/USA---California---San-Francisco/Director---Principal-of-Product-Design---Servicing_R-111068) |
+| Lead Product Designer – Personalization & AI Experiences | 3 Locations | Posted 16 Days Ago | 2026-11-10 | [link](https://expedia.wd108.myworkdayjobs.com/search/job/USA---California---San-Jose/Lead-Product-Designer---Personalization---AI-Experiences_R-110486-1) |
+| Senior Product Designer, Ads Team - Measurement & Insights (Data Visualization / Information Design) | Washington - Seattle Campus | Posted 16 Days Ago | 2026-11-10 | [link](https://expedia.wd108.myworkdayjobs.com/search/job/Washington---Seattle-Campus/Senior-Product-Designer--Ads-Team---Measurement---Insights--Data-Visualization---Information-Design-_R-110517) |
+| Senior Product Designer - Vrbo | 4 Locations | Posted 21 Days Ago | 2026-11-10 | [link](https://expedia.wd108.myworkdayjobs.com/search/job/USA---California---West-Hollywood/Senior-Product-Designer---Vrbo_R-110581-2) |
 
 ## Huron (huron)
 
 | Title | Location | Posted | First listed | Link |
 |---|---|---|---|---|
-| Instructional Design Associate | Bangalore India - South 3rd Floor | Posted Today | **2026-11-17** | [link](https://huron.wd1.myworkdayjobs.com/huroncareers/job/Bangalore-India---South-3rd-Floor/Instructional-Design-Associate_JR-0017160) |
-| Instructional Designer - Healthcare Consulting | 50 Locations | Posted 11 Days Ago | 2026-11-10 | [link](https://huron.wd1.myworkdayjobs.com/huroncareers/job/Chicago---550-Van-Buren/Instructional-Designer---Healthcare-Consulting_JR-0017156-1) |
+| Instructional Designer - Healthcare Consulting | 50 Locations | Posted 12 Days Ago | 2026-11-10 | [link](https://huron.wd1.myworkdayjobs.com/huroncareers/job/Chicago---550-Van-Buren/Instructional-Designer---Healthcare-Consulting_JR-0017156-1) |
 
 ## Salesforce (salesforce)
 
 | Title | Location | Posted | First listed | Link |
 |---|---|---|---|---|
-| Associate Brand Designer for Slack | Mexico - Mexico City | Posted Today | **2026-11-17** | [link](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Associate-Brand-Designer-for-Slack_JR367992-1) |
-| Web Designer for Slack | Mexico - Mexico City | Posted Today | **2026-11-17** | [link](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Web-Designer-for-Slack_JR367942) |
+| Vice President, Workplace Experience, Design, and Delivery | California - San Francisco | Posted Yesterday | **2026-11-18** | [link](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Vice-President--Workplace-Experience--Design--and-Delivery_JR368653) |
+| Principal Product Designer, Experience Strategy & Studio | California - San Francisco | Posted Yesterday | **2026-11-18** | [link](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Principal-Product-Designer--Experience-Strategy---Studio_JR368684) |
+| Principal Product Designer, Experience Strategy & Studio | California - San Francisco | Posted Yesterday | **2026-11-18** | [link](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Principal-Product-Designer--Experience-Strategy---Studio_JR368680) |
+| Associate Brand Designer for Slack | Mexico - Mexico City | Posted Yesterday | 2026-11-17 | [link](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Associate-Brand-Designer-for-Slack_JR367992-1) |
+| Web Designer for Slack | Mexico - Mexico City | Posted Yesterday | 2026-11-17 | [link](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Mexico---Mexico-City/Web-Designer-for-Slack_JR367942) |
 
 ## ServiceNow (servicenow)
 
 | Title | Location | Posted | First listed | Link |
 |---|---|---|---|---|
-| Senior Staff UX Researcher | Hyderabad, Telangana, in | 2026-11-17 | **2026-11-17** | [link](https://jobs.smartrecruiters.com/ServiceNow/744000162002110) |
+| Senior Staff UX Researcher | Hyderabad, Telangana, in | 2026-11-17 | 2026-11-17 | [link](https://jobs.smartrecruiters.com/ServiceNow/744000162002110) |
 | Director, Packaging & Monetization Strategy - Employee Experience Group | Mountain View, California, us | 2026-11-13 | 2026-11-13 | [link](https://jobs.smartrecruiters.com/ServiceNow/744000161399151) |
 | Staff UX Researcher, Tx Workflow | Bangalore, in | 2026-11-12 | 2026-11-12 | [link](https://jobs.smartrecruiters.com/ServiceNow/744000161251900) |
 | Staff Product Designer, AI Control Tower | San Diego, CALIFORNIA, us | 2026-11-04 | 2026-11-10 | [link](https://jobs.smartrecruiters.com/ServiceNow/744000159531913) |

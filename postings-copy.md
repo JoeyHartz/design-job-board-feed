@@ -1,10 +1,10 @@
 # Copy-and-paste job list
 
-**251 open jobs** · updated Nov 17, 2026 · [readable version](postings.md)
+**246 open jobs** · updated Nov 18, 2026 · [readable version](postings.md)
 
 Each job is in its own box as four lines: company, role title, location, link. On GitHub, hover over a box and click its copy button (top right) to copy that job.
 
-Jump to: [New this week](#new-this-week) (72) · [Industrial Design](#industrial-design) (166) · [Graphic Design](#graphic-design) (39) · [UI/UX & Digital Product](#uiux--digital-product) (37) · [ID + GD](#id--gd) (9)
+Jump to: [New this week](#new-this-week) (43) · [Industrial Design](#industrial-design) (163) · [Graphic Design](#graphic-design) (39) · [UI/UX & Digital Product](#uiux--digital-product) (36) · [ID + GD](#id--gd) (8)
 
 ## New this week
 
@@ -309,209 +309,6 @@ VANMOKUM
 Internship: Industrial Product Design (February–June 2027)
 Amsterdam / Almere, Netherlands · on-site
 https://vanmokum.homerun.co/internship-industrial-product-design-february-2027-june-2027
-````
-
-````text
-Apparatus
-Assistant Product Designer
-New York, NY · on-site
-https://job-boards.greenhouse.io/apparatus/jobs/5597963004
-````
-
-````text
-Arteriors Home
-Junior Product Designer
-Lewisville, TX · on-site
-https://careers-arteriorshome.icims.com/jobs/2105/junior-product-designer/job
-````
-
-````text
-Centric Brands
-Assistant Designer – Jewelry
-New York, NY
-https://careers-centricbrands.icims.com/jobs/23641/assistant%2c-designer---jewelry/job
-````
-
-````text
-Chanel
-UI/UX Designer Intern (Stage – UI/UX Designer, Fashion)
-Paris, France · on-site
-https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/Paris/Stage---UI-UX-Designer--H-F-X----Mode---Janvier-2026_JOBREQ00117395
-````
-
-````text
-Chaumet
-Assistant Designer Intern, Studio Création (Stage)
-Paris, France · on-site
-https://www.lvmh.com/en/join-us/our-job-offers/CHAU01834
-````
-
-````text
-Crown Equipment
-Design Model Maker Co-op – Summer 2027
-New Bremen, OH · on-site
-https://us-careers.crown.com/job/New-Bremen-Design-Model-Maker-Co-op-Summer-2027-OH-45869/1443184100/
-````
-
-````text
-Crown Equipment
-Graphic Digital Design Co-Op – Summer 2027
-New Bremen, OH · on-site
-https://us-careers.crown.com/job/New-Bremen-Graphic-Digital-Design-Co-Op-Summer-2027-OH-45869/1436983300/
-````
-
-````text
-Crown Equipment
-Industrial Design Co-op – Summer 2027
-New Bremen, OH · on-site
-https://us-careers.crown.com/job/New-Bremen-Industrial-Design-Co-op-Summer-2027-OH-45869/1443169200/
-````
-
-````text
-Crown Equipment
-Marketing Digital UX Co-Op – Summer 2027
-New Bremen, OH · on-site
-https://us-careers.crown.com/job/New-Bremen-Marketing-Digital-UX-Co-Op-Summer-2027-OH-45869/1430744200/
-````
-
-````text
-Crown Equipment
-UX Interaction Design Co-op – Summer 2027
-New Bremen, OH · on-site
-https://us-careers.crown.com/job/New-Bremen-UX-Interaction-Design-Co-op-Summer-2027-OH-45869/1443633900/
-````
-
-````text
-Ford
-Industrial Designer – Components
-Dearborn, MI · hybrid
-https://www.careers.ford.com/en/job/dearborn/industrial-designer-components/48560/95066978448
-````
-
-````text
-Fossil
-Industrial Design Intern
-Richardson, TX · on-site (Fridays remote)
-https://builtin.com/job/industrial-design-intern/11658761
-````
-
-````text
-Fossil Group
-Graphic Design Intern (Summer 2027)
-Richardson, TX · on-site Mon–Thu, remote Fri
-https://builtin.com/job/graphic-design-intern/11658786
-````
-
-````text
-International Paper
-Structural Designer I
-Fond du Lac, WI · on-site
-https://wellfound.com/jobs/5020044-structural-designer-i
-````
-
-````text
-Italdesign
-Industrial Design Internship
-Moncalieri (Turin), Italy · on-site
-https://inrecruiting.intervieweb.it/italdesign/jobs/industrial-design-internship-726449/en/
-````
-
-````text
-Key Tech
-Industrial Design Intern (Spring 2027)
-Baltimore, MD · on-site
-https://keytechinc.hire.trakstar.com/jobs/fk0hb45/
-````
-
-````text
-Naked Wolfe
-Junior Footwear Designer & Product Developer
-Los Angeles (West Hollywood), CA · on-site
-https://apply.workable.com/naked-wolfe/jobs/view/A50EE1AB83
-````
-
-````text
-PA Consulting (Essential Design)
-2027 Graduate Industrial Designer
-Bray, Co. Wicklow, Ireland · on-site
-https://jobs.smartrecruiters.com/PAConsulting/744000157847011
-````
-
-````text
-Pattern
-UX Design Intern – Summer 2027
-Lehi, UT · hybrid
-https://jobs.lever.co/pattern/c125d285-71d1-4af5-9ed2-b1f8884f2a2d
-````
-
-````text
-PUMA
-Junior Designer Color & Materials – CORE Footwear (14-month contract)
-Herzogenaurach, Germany · on-site (PUMA Way HQ)
-https://puma.wd502.myworkdayjobs.com/Jobs_at_Puma/job/PUMA-Way-Headquarters/Junior-Designer-Color---Materials--CORE-Footwear--limited-for-14-months-_R43332-1
-````
-
-````text
-PUMA
-Junior Designer Color & Materials, Kids Footwear
-Herzogenaurach, Germany (PUMA Way HQ)
-https://puma.wd502.myworkdayjobs.com/Jobs_at_Puma/job/PUMA-Way-Headquarters/Junior-Designer-Color---Materials-Kids-Footwear_R44011
-````
-
-````text
-PUMA
-Junior Designer Training Footwear
-Herzogenaurach, Germany · on-site (PUMA Way HQ)
-https://puma.wd502.myworkdayjobs.com/Jobs_at_Puma/job/PUMA-Way-Headquarters/Junior-Designer-Training-Footwear_R43784
-````
-
-````text
-Radio Flyer
-Graphic Design and Marketing Intern – Summer 2027
-Chicago, IL · on-site
-https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=8f7904d5-afa2-4f7b-994a-d4aaec6c669f&ccId=19000101_000001&jobId=539522&lang=en_US&source=CC2
-````
-
-````text
-SpaceX
-Industrial Designer (Starlink)
-Bastrop, TX · on-site
-https://boards.greenhouse.io/spacex/jobs/8570369002?gh_jid=8570369002
-````
-
-````text
-TEAMS Design
-Interaction Design Internship
-Amsterdam, Netherlands · on-site
-https://www.teamsdesign.com/en/careers/amsterdam-internship-interaction-design
-````
-
-````text
-Tecovas
-Assistant Designer, Accessories
-Austin, TX · on-site
-https://job-boards.greenhouse.io/tecovas/jobs/8932467002
-````
-
-````text
-The Toro Company (Ditch Witch)
-Industrial Designer I – Ditch Witch
-Perry, OK · on-site
-https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Perry-OK/Industrial-Designer---Ditch-Witch_JR17347
-````
-
-````text
-W.C. Bradley Co. (Char-Broil)
-Industrial Designer
-Columbus, GA · on-site
-https://jobs.wcbradley.com/job/Columbus-Industrial-Designer-GA-31829/1435019000/
-````
-
-````text
-Weber Blackstone
-Technical Communications Designer
-Palatine, IL · hybrid
-https://weber.wd115.myworkdayjobs.com/WB/job/Palatine-Illinois/Technical-Communications-Designer_JR145
 ````
 
 [Back to top](#copy-and-paste-job-list)
@@ -1200,13 +997,6 @@ https://zweigrad.de/job/industrial-design-intern-ab-01-09-2025/
 ````
 
 ````text
-Menasha
-Structural Design Co-Op (Spring 2027)
-Lyndhurst, NJ · on-site
-https://menasha.wd12.myworkdayjobs.com/MenashaCorp/job/Lyndhurst-New-Jersey/Structural-Design-Co-Op--Spring-2027-_R16445
-````
-
-````text
 Now Studio
 Industrial Design Internship
 San Francisco, CA
@@ -1242,24 +1032,10 @@ https://lemanoosh.com/jobs/industrial-design-intern-33/
 ````
 
 ````text
-MillerKnoll (Colebrook Bosson Saunders)
-Junior Industrial / Product Designer
-London, UK
-https://millerknoll.wd1.myworkdayjobs.com/MillerKnoll/job/UK---London/Junior-Industrial---Product-Designer_JR109626
-````
-
-````text
 Milwaukee Tool
 Fall 2027: Industrial Design Co-Op
 Brookfield / Milwaukee, WI (on-site)
 https://tti.yello.co/external/requisitions/ZofQFlp_xjvkUUdBh91gdQ
-````
-
-````text
-New Balance
-Numeric Footwear Design Apprentice
-Long Beach, CA (hybrid)
-https://jobs.newbalance.com/global/en/apply?jobSeqNo=NEBAGLOBALR39666EXTERNALENGLOBAL&utm_medium=phenom-feeds&step=1&stepname=personalInformation
 ````
 
 ````text
@@ -2115,13 +1891,6 @@ https://www.builtinchicago.org/job/ux-designer-trainee/10816187
 ````
 
 ````text
-Duke Energy
-UX Design Internship – Summer 2027
-Charlotte, NC (hybrid)
-https://dukeenergy.wd1.myworkdayjobs.com/Search/job/Charlotte-NC/UX-Design-Internship---Summer-2027_R41850
-````
-
-````text
 Target
 UX Design Internship – Minneapolis, MN (Summer 2027)
 Minneapolis, MN (hybrid/flex)
@@ -2265,13 +2034,6 @@ Procter & Gamble
 Design Co-op, Summer 2027 (Graphic, Industrial or Digital)
 Cincinnati, OH
 https://www.wayup.com/i-Pharmaceuticals-j-Design-Co-op-Summer-2027-Proctor-Gamble-26806816433071/
-````
-
-````text
-PUMA
-Internship Design Innovation Footwear
-Herzogenaurach, Germany
-https://puma.wd502.myworkdayjobs.com/en-US/Jobs_at_Puma/job/PUMA-Way-Headquarters/Internship-Design-Innovation-Footwear_R42705
 ````
 
 ````text
