@@ -1,6 +1,6 @@
-# Link check: 2026-11-18
+# Link check: 2026-11-19
 
-Generated 2026-11-18T13:36-06:00 by the daily maintenance Action. 248 open postings: 230 ok, **9 look gone**, 9 couldn't be checked, 0 skipped (LinkedIn). Nothing is closed automatically: the routine opens each "look gone" posting and closes it only if it's really gone.
+Generated 2026-11-19T13:39-06:00 by the daily maintenance Action. 247 open postings: 229 ok, **9 look gone**, 9 couldn't be checked, 0 skipped (LinkedIn). Nothing is closed automatically: the routine opens each "look gone" posting and closes it only if it's really gone.
 
 ## Look gone (routine: confirm and close)
 
@@ -8,7 +8,7 @@ Generated 2026-11-18T13:36-06:00 by the daily maintenance Action. 248 open posti
 |---|---|---|---|---|
 | athena-summer-2027-designer-intern-creative | Athena Global Advisors | Summer 2027 Intern, Designer, Creative Department | redirected to a general page: https://ats.rippling.com/athena-careers/jobs?rr_message=job_not_found | [link](https://ats.rippling.com/athena-careers/jobs/6caed124-e1e5-45a8-a485-87bd9811c699) |
 | bisco-creative-designer-junior | BISCO Inc. | Creative Designer, Junior | HTTP 410 | [link](https://biscodentalproducts.applytojob.com/apply/8p8gcuDEGY/Creative-Designer-Junior) |
-| pernod-ricard-stage-graphic-designer-march-2027 | Pernod Ricard | Stage Graphic Designer – Mars 2027 | HTTP 410 | [link](https://designproject.io/jobs/stage-graphic-designer-mars-2027-6-mois-at-pernod-ricard-q8sfxc) |
+| mortenson-graphic-design-intern-summer-2027 | Mortenson | Graphic Design Intern | HTTP 404 | [link](https://www.mortenson.com/careers/hq-business-support/graphic-design-intern-23351) |
 | garmin-industrial-designer-1-olathe | Garmin | Industrial Designer 1 | HTTP 404 | [link](https://careers.garmin.com/jobs/18646?lang=en-us) |
 | garmin-industrial-designer-1-portland | Garmin | Industrial Designer 1 | HTTP 404 | [link](https://careers.garmin.com/jobs/18738?lang=en-us) |
 | keen-footwear-design-intern-summer-2027 | KEEN Footwear | Footwear Design Intern (Summer 2027) | redirected to a general page: https://www.keenfootwear.com/pages/careers-listings?4751551005&gh_jid=4751551005 | [link](https://job-boards.greenhouse.io/keenfootwear/jobs/4751551005) |

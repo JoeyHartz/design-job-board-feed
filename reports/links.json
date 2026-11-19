@@ -1,6 +1,6 @@
 {
- "date": "2026-11-18",
- "generated": "2026-11-18T13:36-06:00",
+ "date": "2026-11-19",
+ "generated": "2026-11-19T13:39-06:00",
  "postings": [
   {
    "id": "3m-brand-design-intern-sibg-2027",
@@ -106,7 +106,7 @@
    "company": "Cotton Citizen",
    "title": "Junior Graphic Designer",
    "url": "https://www.mediabistro.com/jobs/3542756355-junior-graphic-designer",
-   "lastVerified": "2026-11-04",
+   "lastVerified": "2026-11-19",
    "result": "ok",
    "detail": "HTTP 200"
   },
@@ -233,8 +233,8 @@
    "title": "Graphic Design Intern",
    "url": "https://www.mortenson.com/careers/hq-business-support/graphic-design-intern-23351",
    "lastVerified": "2026-11-12",
-   "result": "ok",
-   "detail": "HTTP 200"
+   "result": "gone",
+   "detail": "HTTP 404"
   },
   {
    "id": "nbc-news-creative-digital-design-intern-summer-2027",
@@ -264,15 +264,6 @@
    "detail": "Workday lists this job"
   },
   {
-   "id": "pernod-ricard-stage-graphic-designer-march-2027",
-   "company": "Pernod Ricard",
-   "title": "Stage Graphic Designer – Mars 2027",
-   "url": "https://designproject.io/jobs/stage-graphic-designer-mars-2027-6-mois-at-pernod-ricard-q8sfxc",
-   "lastVerified": "2026-11-04",
-   "result": "gone",
-   "detail": "HTTP 410"
-  },
-  {
    "id": "polaris-digital-animation-intern",
    "company": "Polaris",
    "title": "Digital Animation Intern",
@@ -286,7 +277,7 @@
    "company": "Qualtrics",
    "title": "Graphic Designer",
    "url": "https://builtin.com/job/graphic-designer/11469404",
-   "lastVerified": "2026-11-03",
+   "lastVerified": "2026-11-19",
    "result": "ok",
    "detail": "HTTP 200"
   },
@@ -567,14 +558,14 @@
    "url": "https://davidyurman.wd1.myworkdayjobs.com/DavidYurmanCareers/job/New-York-NY/XMLNAME-3D-Design-Intern_R-101152-1",
    "lastVerified": "2026-11-10",
    "result": "ok",
-   "detail": "Workday lists this job"
+   "detail": "HTTP 200"
   },
   {
    "id": "david-yurman-mens-design-intern",
    "company": "David Yurman",
    "title": "Men's Design Intern",
    "url": "https://davidyurman.wd1.myworkdayjobs.com/DavidYurmanCareers/job/New-York-NY/Men-s-Design-Intern-_R-101171",
-   "lastVerified": "2026-11-04",
+   "lastVerified": "2026-11-19",
    "result": "ok",
    "detail": "Workday lists this job"
   },
@@ -583,7 +574,7 @@
    "company": "David Yurman",
    "title": "Women's Design, High Jewelry Intern",
    "url": "https://davidyurman.wd1.myworkdayjobs.com/DavidYurmanCareers/job/New-York-NY/Women-s-Design-Intern--High-Jewelry_R-101128",
-   "lastVerified": "2026-11-04",
+   "lastVerified": "2026-11-19",
    "result": "ok",
    "detail": "Workday lists this job"
   },
@@ -592,9 +583,9 @@
    "company": "David Yurman",
    "title": "Women's Design, Design Projects Intern",
    "url": "https://davidyurman.wd1.myworkdayjobs.com/DavidYurmanCareers/job/New-York-NY/Women-s-Design-Intern_R-101149",
-   "lastVerified": "2026-11-04",
+   "lastVerified": "2026-11-19",
    "result": "ok",
-   "detail": "Workday lists this job"
+   "detail": "HTTP 200"
   },
   {
    "id": "deckel-moneypenny-exhibit-design-intern",
@@ -1222,7 +1213,7 @@
    "company": "Noto",
    "title": "Product Design Internship",
    "url": "https://lemanoosh.com/jobs/product-design-internship-f-m-d-near-cologne/",
-   "lastVerified": "2026-11-04",
+   "lastVerified": "2026-11-19",
    "result": "ok",
    "detail": "HTTP 200"
   },
@@ -1449,14 +1440,14 @@
    "url": "https://roguefitness.wd1.myworkdayjobs.com/RogueFitness_External_Careers/job/Columbus-Ohio/Product-Designer-Intern_R-102996",
    "lastVerified": "2026-11-10",
    "result": "ok",
-   "detail": "Workday lists this job"
+   "detail": "HTTP 200"
   },
   {
    "id": "salomon-internship-cmf-designer",
    "company": "Salomon",
    "title": "Internship – CMF Designer",
    "url": "https://lemanoosh.com/jobs/internship-cmf-designer-m-f-x/",
-   "lastVerified": "2026-11-04",
+   "lastVerified": "2026-11-19",
    "result": "ok",
    "detail": "HTTP 200"
   },
@@ -1474,7 +1465,7 @@
    "company": "SharkNinja",
    "title": "Spring 2027: Industrial Design Co-op (January through June)",
    "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4720208006",
-   "lastVerified": "2026-11-03",
+   "lastVerified": "2026-11-19",
    "result": "ok",
    "detail": "HTTP 200"
   },
@@ -1492,7 +1483,7 @@
    "company": "Shure",
    "title": "Design Research Intern",
    "url": "https://www.builtinchicago.org/job/design-research-intern/11007329",
-   "lastVerified": "2026-11-04",
+   "lastVerified": "2026-11-19",
    "result": "ok",
    "detail": "HTTP 200"
   },
@@ -1933,7 +1924,7 @@
    "company": "Accuknox",
    "title": "UX Designer Trainee",
    "url": "https://www.builtinchicago.org/job/ux-designer-trainee/10816187",
-   "lastVerified": "2026-11-02",
+   "lastVerified": "2026-11-19",
    "result": "ok",
    "detail": "HTTP 200"
   },
@@ -2068,7 +2059,7 @@
    "company": "LeadVenture",
    "title": "UX/UI Designer (Conversion Optimization)",
    "url": "https://builtin.com/job/ux-ui-designer-conversion-optimization/11471332",
-   "lastVerified": "2026-11-03",
+   "lastVerified": "2026-11-19",
    "result": "ok",
    "detail": "HTTP 200"
   },
@@ -2086,7 +2077,7 @@
    "company": "Nebo Agency",
    "title": "User Experience (UX) Designer",
    "url": "https://builtin.com/job/user-experience-ux-designer/76396",
-   "lastVerified": "2026-11-03",
+   "lastVerified": "2026-11-19",
    "result": "ok",
    "detail": "HTTP 200"
   },
