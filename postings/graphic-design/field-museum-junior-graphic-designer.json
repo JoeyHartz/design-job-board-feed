@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "field-museum-junior-graphic-designer",
+  "title": "Junior Graphic Designer",
+  "company": "Field Museum",
+  "programs": [
+    "GD"
+  ],
+  "level": "Entry-level",
+  "term": "Part-time (19 hours/week)",
+  "location": "Chicago, IL (on-site)",
+  "region": "Chicago area",
+  "pay": "$23.50/hr",
+  "deadline": "",
+  "url": "https://www.builtinchicago.org/job/junior-graphic-designer/12327494",
+  "source": "Watchlist · Field Museum",
+  "note": "Part-time union role in the Exhibitions department designing exhibition graphics and signage.",
+  "status": "pending",
+  "firstSeen": "2026-11-19",
+  "lastUpdated": "2026-11-19",
+  "lastVerified": "2026-11-19",
+  "closedAt": "",
+  "closedReason": "",
+  "statusHistory": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "reason": "added, waiting for approval"
+    }
+  ],
+  "facts": {
+    "duties": "Assist the lead designer on exhibition graphics, signage and branded materials; prepare concepts, layouts and production-ready files.",
+    "requirements": "Bachelor's degree in graphic design, visual communication or similar; InDesign, Illustrator and Photoshop; some fabrication and print experience.",
+    "apply": "Apply through the Built In Chicago job page."
+  },
+  "previousStatus": "",
+  "errorDetail": ""
+}

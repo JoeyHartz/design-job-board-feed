@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "nex-ui-motion-artist-intern-summer-2027",
+  "title": "Summer 2027 | UI Motion Artist Intern",
+  "company": "Nex",
+  "programs": [
+    "GD"
+  ],
+  "level": "Internship",
+  "term": "Summer 2027",
+  "location": "San Jose, CA",
+  "region": "Elsewhere in US",
+  "pay": "Paid (rate not listed)",
+  "deadline": "",
+  "url": "https://job-boards.greenhouse.io/nex/jobs/5461373008",
+  "source": "Web search",
+  "note": "UI motion and VFX for Nex Playground motion games, built in Unity; portfolio or demo reel required.",
+  "status": "pending",
+  "firstSeen": "2026-11-19",
+  "lastUpdated": "2026-11-19",
+  "lastVerified": "2026-11-19",
+  "closedAt": "",
+  "closedReason": "",
+  "statusHistory": [
+    {
+      "date": "2026-11-19",
+      "status": "pending",
+      "reason": "added, waiting for approval"
+    }
+  ],
+  "facts": {
+    "duties": "Create UI animations, screen transitions, button interactions and VFX for games and fitness experiences; prototype and implement motion in Unity; work with UI/UX designers and artists.",
+    "requirements": "Current undergraduate or graduate student; strong motion fundamentals (timing, easing); After Effects, Photoshop and Illustrator a plus; basic Unity familiarity; portfolio or reel.",
+    "apply": "Apply on Nex's Greenhouse job board."
+  },
+  "previousStatus": "",
+  "errorDetail": ""
+}

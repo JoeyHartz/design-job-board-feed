@@ -2,16 +2,16 @@
 
 Open internships, co-ops and entry-level jobs for Industrial Design, Graphic Design and UI/UX students in the School of Art & Design at the University of Illinois Urbana-Champaign.
 
-**246 open jobs** · updated Nov 18, 2026 · download as [CSV](postings.csv) or [JSON](postings.json)
+**245 open jobs** · updated Nov 19, 2026 · download as [CSV](postings.csv) or [JSON](postings.json)
 
 > Every job here was checked against our criteria and approved by a person before it was listed, but jobs can close without notice. Always confirm the details on the employer's site before you apply.
 
 ## Contents
 
 - [Closing soon](#closing-soon) (15)
-- [New this week](#new-this-week) (43)
+- [New this week](#new-this-week) (32)
 - **[Industrial Design](#industrial-design)** (163): [Chicago area](#industrial-design--chicago-area) (3) · [Midwest](#industrial-design--midwest) (43) · [Remote](#industrial-design--remote) (1) · [Elsewhere in US](#industrial-design--elsewhere-in-us) (75) · [International](#industrial-design--international) (41)
-- **[Graphic Design](#graphic-design)** (39): [Chicago area](#graphic-design--chicago-area) (7) · [Midwest](#graphic-design--midwest) (7) · [Remote](#graphic-design--remote) (2) · [Elsewhere in US](#graphic-design--elsewhere-in-us) (19) · [International](#graphic-design--international) (4)
+- **[Graphic Design](#graphic-design)** (38): [Chicago area](#graphic-design--chicago-area) (7) · [Midwest](#graphic-design--midwest) (7) · [Remote](#graphic-design--remote) (2) · [Elsewhere in US](#graphic-design--elsewhere-in-us) (19) · [International](#graphic-design--international) (3)
 - **[UI/UX & Digital Product](#uiux--digital-product)** (36): [Chicago area](#uiux--digital-product--chicago-area) (1) · [Midwest](#uiux--digital-product--midwest) (11) · [Remote](#uiux--digital-product--remote) (4) · [Elsewhere in US](#uiux--digital-product--elsewhere-in-us) (18) · [International](#uiux--digital-product--international) (2)
 - **[ID + GD](#id--gd)** (8): [Midwest](#id--gd--midwest) (6) · [Elsewhere in US](#id--gd--elsewhere-in-us) (1) · [International](#id--gd--international) (1)
 - [About this list](#about-this-list)
@@ -203,61 +203,6 @@ _Only for students whose program requires an internship; English required, Germa
 TEAMS Design · Industrial Design · Internship · Six months from March 2027  
 Hamburg, Germany · on-site · Pay: not listed · Found Nov 13  
 _One transportation design spot per semester; only for students who need a compulsory internship._
-
-**[UI/UX Design Intern (Summer 2027)](https://www.paycomonline.net/v4/ats/web.php/portal/51FD92324C8B2195D32BD3DB9EACCD81/jobs/222486)**  
-Dimensional Innovations · ID + GD · Internship · Jun 7 – Aug 6, 2027  
-Overland Park, KS · on-site · Pay: Paid (rate not listed) · **Apply by Dec 31, 2026** · Found Nov 12  
-_UX for interactive installations in museums, venues and branded spaces; open to UI/UX, interaction, graphic and industrial design students; portfolio required._
-
-**[Industrial Designer](https://hatchduo.com/careers#Career-ID)**  
-Hatch Duo · Industrial Design · Entry-level · Full-time (contract with path to permanent)  
-United States · remote/hybrid (primarily remote) · Pay: not listed · Found Nov 12  
-_Open to recent grads with internship experience (or 1-3 years); apply by email with portfolio, cover letter and resume; US work authorization required._
-
-**[Eyewear Designer](https://ats.rippling.com/krewe/jobs/0dde8a06-ac8e-4307-87c7-6c2fc44978bb)**  
-KREWE · Industrial Design · Entry-level · Full-time  
-New Orleans, LA · on-site · Pay: Paid (rate not listed) · Found Nov 12  
-_On-site eyewear design role at a New Orleans eyewear brand; eyewear design experience from school or an internship counts, with about four NYC trips a year._
-
-**[Assistant Designer, Footwear](https://jcrew.wd1.myworkdayjobs.com/MadewellCareers/job/New-York-NY-USA-Headquarters/Associate-Designer--Footwear_128830)**  
-Madewell · Industrial Design · Entry-level · Full-time  
-New York, NY · hybrid · Pay: $57,500–$71,250 per year · Found Nov 12  
-_Footwear design role at Madewell's NYC headquarters asking for 0–2 years of footwear design experience._
-
-**[Associate Industrial Designer (Fastening)](https://tti.wd1.myworkdayjobs.com/Milwaukee/job/Brookfield-WI/Associate-Industrial-Designer_R79384)**  
-Milwaukee Tool · Industrial Design · Entry-level · Full-time  
-Brookfield, WI · on-site · Pay: not listed · Found Nov 12  
-_Entry-level ID role on the Fastening tools category, separate from Milwaukee's 2027 new-grad associate program; portfolio required._
-
-**[Franchise, Products & Partnerships: Creative and Product Design & Development Internships – Summer 2027](https://jobs.smartrecruiters.com/NBCUniversal3/744000161161787)**  
-NBCUniversal · ID + GD · Internship · Summer 2027 (Jun 7 – Aug 13, 2027)  
-Universal City, CA · on-site · Pay: $19.00/hour · **Apply by Dec 4, 2026** · Found Nov 12  
-_Tracks include Franchise Creative (character illustration), Toys & Hardlines (toy and plush design) and Toys Packaging; applications open Nov 9 – Dec 4 and may close early._
-
-**[Industrial Design Internship (Power Tools, REF300501D)](https://jobs.smartrecruiters.com/BoschGroup/744000160611614)**  
-Robert Bosch Power Tools GmbH · Industrial Design · Internship · Six months from March 2027  
-Leinfelden-Echterdingen, Germany · on-site · Pay: not listed · Found Nov 12  
-_Power-tool design internship; posting is in German and asks for fluent German, very good English and current university enrollment._
-
-**[Communication Design Intern](https://www.teamsdesign.com/en/careers/shanghai-intern-communiation-designer)**  
-TEAMS Design · Graphic Design · Internship  
-Shanghai, China · on-site · Pay: not listed · Found Nov 12  
-_For current design students; apply by email with portfolio, resume in English and Chinese, and cover letter; Chinese is a plus, not required._
-
-**[2027 Summer Internship, Store Design/Development](https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Store-DesignDevelopment-MD-21230/1434347200/)**  
-Under Armour · Industrial Design · Internship · Summer 2027  
-Baltimore, MD · hybrid or in-office · Pay: not listed · Found Nov 12  
-_Retail store design internship open to industrial, environmental, experiential, retail and interior design majors graduating Dec 2027–Aug 2028; relocation assistance offered; rolling review._
-
-**[Apparel Designer I, Design Exploration](https://careers.underarmour.com/job/Baltimore-Apparel-Designer-I%2C-Design-Exploration-MD-21230/1444015200/)**  
-Under Armour · Industrial Design · Entry-level · Full-time  
-Baltimore, MD · hybrid (4 days in office) · Pay: $60,000–$80,000 USD per year · Found Nov 12  
-_Entry apparel design role (bachelor's plus about 2 years typical); must live within commuting distance, no relocation or visa sponsorship._
-
-**[Internship: Industrial Product Design (February–June 2027)](https://vanmokum.homerun.co/internship-industrial-product-design-february-2027-june-2027)**  
-VANMOKUM · Industrial Design · Internship · Feb–Jun 2027 (5 months; other periods negotiable)  
-Amsterdam / Almere, Netherlands · on-site · Pay: Paid (rate not listed) · Found Nov 12  
-_Full-time, 40-hour internship at a Dutch lighting and furniture design house; open to industrial product design students (not a graduation internship), English required._
 
 [Back to top](#id--gd-job-board)
 
@@ -1095,7 +1040,7 @@ _Power tools and outdoor equipment; posting is in German._
 
 ## Graphic Design
 
-39 jobs: [Chicago area](#graphic-design--chicago-area) (7) · [Midwest](#graphic-design--midwest) (7) · [Remote](#graphic-design--remote) (2) · [Elsewhere in US](#graphic-design--elsewhere-in-us) (19) · [International](#graphic-design--international) (4)
+38 jobs: [Chicago area](#graphic-design--chicago-area) (7) · [Midwest](#graphic-design--midwest) (7) · [Remote](#graphic-design--remote) (2) · [Elsewhere in US](#graphic-design--elsewhere-in-us) (19) · [International](#graphic-design--international) (3)
 
 ### Graphic Design · Chicago area
 
@@ -1299,11 +1244,6 @@ _Illustration-focused junior role turning Moomin characters into products for Fi
 TEAMS Design · Internship  
 Shanghai, China · on-site · Pay: not listed · Found Nov 12  
 _For current design students; apply by email with portfolio, resume in English and Chinese, and cover letter; Chinese is a plus, not required._
-
-**[Stage Graphic Designer – Mars 2027](https://designproject.io/jobs/stage-graphic-designer-mars-2027-6-mois-at-pernod-ricard-q8sfxc)**  
-Pernod Ricard · Internship · Six months from March 2027  
-Paris, France (hybrid, 2 remote days a week) · Pay: not listed · Found Nov 4  
-_Brand, packaging and layout design for spirits brands; must be enrolled in graphic design or fine arts, with a school internship agreement._
 
 **[Junior Graphic Designer](https://jobs.lever.co/moo/f4614e24-4e9b-4c76-9373-39bbe2c9b34a)**  
 MOO · Entry-level · Full-time  

@@ -1,10 +1,10 @@
 # Copy-and-paste job list
 
-**246 open jobs** · updated Nov 18, 2026 · [readable version](postings.md)
+**245 open jobs** · updated Nov 19, 2026 · [readable version](postings.md)
 
 Each job is in its own box as four lines: company, role title, location, link. On GitHub, hover over a box and click its copy button (top right) to copy that job.
 
-Jump to: [New this week](#new-this-week) (43) · [Industrial Design](#industrial-design) (163) · [Graphic Design](#graphic-design) (39) · [UI/UX & Digital Product](#uiux--digital-product) (36) · [ID + GD](#id--gd) (8)
+Jump to: [New this week](#new-this-week) (32) · [Industrial Design](#industrial-design) (163) · [Graphic Design](#graphic-design) (38) · [UI/UX & Digital Product](#uiux--digital-product) (36) · [ID + GD](#id--gd) (8)
 
 ## New this week
 
@@ -232,83 +232,6 @@ TEAMS Design
 6-Month Transportation Design Internship (Hamburg)
 Hamburg, Germany · on-site
 https://www.teamsdesign.com/en/careers/hamburg-6-month-transportation-design-internship
-````
-
-````text
-Dimensional Innovations
-UI/UX Design Intern (Summer 2027)
-Overland Park, KS · on-site
-https://www.paycomonline.net/v4/ats/web.php/portal/51FD92324C8B2195D32BD3DB9EACCD81/jobs/222486
-````
-
-````text
-Hatch Duo
-Industrial Designer
-United States · remote/hybrid (primarily remote)
-https://hatchduo.com/careers#Career-ID
-````
-
-````text
-KREWE
-Eyewear Designer
-New Orleans, LA · on-site
-https://ats.rippling.com/krewe/jobs/0dde8a06-ac8e-4307-87c7-6c2fc44978bb
-````
-
-````text
-Madewell
-Assistant Designer, Footwear
-New York, NY · hybrid
-https://jcrew.wd1.myworkdayjobs.com/MadewellCareers/job/New-York-NY-USA-Headquarters/Associate-Designer--Footwear_128830
-````
-
-````text
-Milwaukee Tool
-Associate Industrial Designer (Fastening)
-Brookfield, WI · on-site
-https://tti.wd1.myworkdayjobs.com/Milwaukee/job/Brookfield-WI/Associate-Industrial-Designer_R79384
-````
-
-````text
-NBCUniversal
-Franchise, Products & Partnerships: Creative and Product Design & Development Internships – Summer 2027
-Universal City, CA · on-site
-https://jobs.smartrecruiters.com/NBCUniversal3/744000161161787
-````
-
-````text
-Robert Bosch Power Tools GmbH
-Industrial Design Internship (Power Tools, REF300501D)
-Leinfelden-Echterdingen, Germany · on-site
-https://jobs.smartrecruiters.com/BoschGroup/744000160611614
-````
-
-````text
-TEAMS Design
-Communication Design Intern
-Shanghai, China · on-site
-https://www.teamsdesign.com/en/careers/shanghai-intern-communiation-designer
-````
-
-````text
-Under Armour
-2027 Summer Internship, Store Design/Development
-Baltimore, MD · hybrid or in-office
-https://careers.underarmour.com/job/Baltimore-2027-Summer-Internship%2C-Store-DesignDevelopment-MD-21230/1434347200/
-````
-
-````text
-Under Armour
-Apparel Designer I, Design Exploration
-Baltimore, MD · hybrid (4 days in office)
-https://careers.underarmour.com/job/Baltimore-Apparel-Designer-I%2C-Design-Exploration-MD-21230/1444015200/
-````
-
-````text
-VANMOKUM
-Internship: Industrial Product Design (February–June 2027)
-Amsterdam / Almere, Netherlands · on-site
-https://vanmokum.homerun.co/internship-industrial-product-design-february-2027-june-2027
 ````
 
 [Back to top](#copy-and-paste-job-list)
@@ -1630,13 +1553,6 @@ Cotton Citizen
 Junior Graphic Designer
 Los Angeles, CA
 https://www.mediabistro.com/jobs/3542756355-junior-graphic-designer
-````
-
-````text
-Pernod Ricard
-Stage Graphic Designer – Mars 2027
-Paris, France (hybrid, 2 remote days a week)
-https://designproject.io/jobs/stage-graphic-designer-mars-2027-6-mois-at-pernod-ricard-q8sfxc
 ````
 
 ````text
