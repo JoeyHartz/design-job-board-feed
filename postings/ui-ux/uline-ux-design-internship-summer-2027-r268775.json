@@ -15,9 +15,9 @@
   "url": "https://www.uline.jobs/JobDetails?culture=en&jobid=R268775",
   "source": "Watchlist · Uline",
   "note": "For junior-status bachelor's students in UX, experiential design, human factors or related fields; housing provided for out-of-town interns.",
-  "status": "pending",
+  "status": "open",
   "firstSeen": "2026-11-18",
-  "lastUpdated": "2026-11-18",
+  "lastUpdated": "2026-11-19",
   "lastVerified": "2026-11-18",
   "closedAt": "",
   "closedReason": "",
@@ -26,6 +26,11 @@
       "date": "2026-11-18",
       "status": "pending",
       "reason": "added, waiting for approval"
+    },
+    {
+      "date": "2026-11-19",
+      "status": "open",
+      "reason": "approved by JoeyHartz"
     }
   ],
   "facts": {

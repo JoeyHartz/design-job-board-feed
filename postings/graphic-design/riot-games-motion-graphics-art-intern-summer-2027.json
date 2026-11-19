@@ -15,7 +15,7 @@
   "url": "https://www.riotgames.com/en/j/8356815",
   "source": "Web search",
   "note": "For art or design students graduating in 2028; must be authorized to work in the US (no sponsorship).",
-  "status": "pending",
+  "status": "open",
   "firstSeen": "2026-11-19",
   "lastUpdated": "2026-11-19",
   "lastVerified": "2026-11-19",
@@ -26,6 +26,11 @@
       "date": "2026-11-19",
       "status": "pending",
       "reason": "added, waiting for approval"
+    },
+    {
+      "date": "2026-11-19",
+      "status": "open",
+      "reason": "approved by JoeyHartz"
     }
   ],
   "facts": {

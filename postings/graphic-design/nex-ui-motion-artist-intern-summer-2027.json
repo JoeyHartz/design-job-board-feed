@@ -15,7 +15,7 @@
   "url": "https://job-boards.greenhouse.io/nex/jobs/5461373008",
   "source": "Web search",
   "note": "UI motion and VFX for Nex Playground motion games, built in Unity; portfolio or demo reel required.",
-  "status": "pending",
+  "status": "open",
   "firstSeen": "2026-11-19",
   "lastUpdated": "2026-11-19",
   "lastVerified": "2026-11-19",
@@ -26,6 +26,11 @@
       "date": "2026-11-19",
       "status": "pending",
       "reason": "added, waiting for approval"
+    },
+    {
+      "date": "2026-11-19",
+      "status": "open",
+      "reason": "approved by JoeyHartz"
     }
   ],
   "facts": {

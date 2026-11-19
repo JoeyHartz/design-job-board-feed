@@ -15,9 +15,9 @@
   "url": "https://www.uline.jobs/JobDetails?culture=en&jobid=R268436",
   "source": "Watchlist · Uline",
   "note": "3D product-rendering intern on Uline's Imaging team; open to junior-status students, and housing is provided for out-of-town interns.",
-  "status": "pending",
+  "status": "open",
   "firstSeen": "2026-11-18",
-  "lastUpdated": "2026-11-18",
+  "lastUpdated": "2026-11-19",
   "lastVerified": "2026-11-18",
   "closedAt": "",
   "closedReason": "",
@@ -26,6 +26,11 @@
       "date": "2026-11-18",
       "status": "pending",
       "reason": "added, waiting for approval"
+    },
+    {
+      "date": "2026-11-19",
+      "status": "open",
+      "reason": "approved by JoeyHartz"
     }
   ],
   "facts": {

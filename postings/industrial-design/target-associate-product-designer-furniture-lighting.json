@@ -15,7 +15,7 @@
   "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Associate-Product-Designer--Furniture-and-Lighting_R0000480769",
   "source": "Watchlist · Just ID Jobs",
   "note": "Owned-brand furniture, lighting and outdoor living for Target, with a Back-to-College focus; asks for 2+ years of product design experience.",
-  "status": "pending",
+  "status": "open",
   "firstSeen": "2026-11-19",
   "lastUpdated": "2026-11-19",
   "lastVerified": "2026-11-19",
@@ -26,6 +26,11 @@
       "date": "2026-11-19",
       "status": "pending",
       "reason": "added, waiting for approval"
+    },
+    {
+      "date": "2026-11-19",
+      "status": "open",
+      "reason": "approved by JoeyHartz"
     }
   ],
   "facts": {

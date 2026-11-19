@@ -15,7 +15,7 @@
   "url": "https://www.builtinchicago.org/job/junior-graphic-designer/12327494",
   "source": "Watchlist · Field Museum",
   "note": "Part-time union role in the Exhibitions department designing exhibition graphics and signage.",
-  "status": "pending",
+  "status": "open",
   "firstSeen": "2026-11-19",
   "lastUpdated": "2026-11-19",
   "lastVerified": "2026-11-19",
@@ -26,6 +26,11 @@
       "date": "2026-11-19",
       "status": "pending",
       "reason": "added, waiting for approval"
+    },
+    {
+      "date": "2026-11-19",
+      "status": "open",
+      "reason": "approved by JoeyHartz"
     }
   ],
   "facts": {
