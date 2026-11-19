@@ -1,14 +1,126 @@
 # Copy-and-paste job list
 
-**245 open jobs** · updated Nov 19, 2026 · [readable version](postings.md)
+**261 open jobs** · updated Nov 19, 2026 · [readable version](postings.md)
 
 Each job is in its own box as four lines: company, role title, location, link. On GitHub, hover over a box and click its copy button (top right) to copy that job.
 
-Jump to: [New this week](#new-this-week) (32) · [Industrial Design](#industrial-design) (163) · [Graphic Design](#graphic-design) (38) · [UI/UX & Digital Product](#uiux--digital-product) (36) · [ID + GD](#id--gd) (8)
+Jump to: [New this week](#new-this-week) (48) · [Industrial Design](#industrial-design) (166) · [Graphic Design](#graphic-design) (48) · [UI/UX & Digital Product](#uiux--digital-product) (38) · [ID + GD](#id--gd) (9)
 
 ## New this week
 
 Added in the last 7 days, newest first.
+
+````text
+Field Museum
+Junior Graphic Designer
+Chicago, IL (on-site)
+https://www.builtinchicago.org/job/junior-graphic-designer/12327494
+````
+
+````text
+JLL
+Graphic Designer I
+Columbus, OH
+https://jll.wd1.myworkdayjobs.com/jllcareers/job/Columbus-OH/Graphic-Designer-I_REQ548890
+````
+
+````text
+Menasha
+Graphic Prepress Technician Intern/Co-op (Fall Jun–Dec 2027)
+Neenah, WI (on-site)
+https://menasha.wd12.myworkdayjobs.com/MenashaCorp/job/Neenah-Wisconsin/Graphic-Prepress-Technician-Intern-Co-op--Fall-Jun-Dec-2027-_R16494
+````
+
+````text
+Menasha
+Graphic Prepress Technician Intern/Co-op (Spring Jan–Jun 2027)
+Neenah, WI (on-site)
+https://menasha.wd12.myworkdayjobs.com/MenashaCorp/job/Neenah-Wisconsin/Graphic-Prepress-Technician-Intern-Co-op--Spring-Jan-Jun-2027-_R16490
+````
+
+````text
+Menasha
+Graphic Prepress Technician Intern/Co-op (Summer May–Aug 2027)
+Neenah, WI (on-site)
+https://menasha.wd12.myworkdayjobs.com/MenashaCorp/job/Neenah-Wisconsin/Graphic-Prepress-Technician-Intern-Co-op--Summer-May-Aug-2027-_R16493
+````
+
+````text
+Nex
+Summer 2027 | 2D Character Artist Intern
+San Jose, CA
+https://job-boards.greenhouse.io/nex/jobs/5461348008
+````
+
+````text
+Nex
+Summer 2027 | UI Motion Artist Intern
+San Jose, CA
+https://job-boards.greenhouse.io/nex/jobs/5461373008
+````
+
+````text
+Riot Games
+Motion Graphics Art Intern - Summer 2027
+Remote (US); listed under Los Angeles, CA
+https://www.riotgames.com/en/j/8356815
+````
+
+````text
+Target
+Associate Product Designer - Furniture and Lighting
+Minneapolis, MN (on-site 4 days a week)
+https://target.wd5.myworkdayjobs.com/targetcareers/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Associate-Product-Designer--Furniture-and-Lighting_R0000480769
+````
+
+````text
+Wilson
+Team Sports Product Artwork Intern
+Chicago, IL (hybrid)
+https://careers-wilson.icims.com/jobs/5231/team-sports-product-artwork-intern/job
+````
+
+````text
+Wilson (EvoShield)
+EvoShield Design Intern
+Chicago, IL (hybrid)
+https://careers-wilson.icims.com/jobs/5232/evoshield-design-intern/job
+````
+
+````text
+Electrolux Group
+Jr Industrial Designer
+Curitiba, PR, Brazil (Guabirotuba plant; flexible/hybrid 4x1)
+https://electrolux.wd3.myworkdayjobs.com/ElectroluxCareerSite/job/Curitiba/Jr-Industrial-Designer_JR82494
+````
+
+````text
+Stanley Black & Decker
+UX/UI Designer
+Towson, MD (hybrid, 3 days a week on site)
+https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/UX-UI-Designer_REQ-1000053714-1
+````
+
+````text
+Tesla
+Internship, Graphic Design (Winter/Spring 2027)
+Austin, TX or Palo Alto, CA (on-site)
+https://ev.careers/jobs/725679492-internship-graphic-design-winter-spring-2027
+````
+
+````text
+Uline
+CGI Imaging Internship - Summer 2027
+Pleasant Prairie, WI (on-site)
+https://www.uline.jobs/JobDetails?culture=en&jobid=R268436
+````
+
+````text
+Uline
+UX Design Internship - Summer 2027
+Pleasant Prairie, WI (on-site)
+https://www.uline.jobs/JobDetails?culture=en&jobid=R268775
+````
 
 ````text
 Chicago Fire FC
@@ -239,6 +351,27 @@ https://www.teamsdesign.com/en/careers/hamburg-6-month-transportation-design-int
 ## Industrial Design
 
 Newest first.
+
+````text
+Target
+Associate Product Designer - Furniture and Lighting
+Minneapolis, MN (on-site 4 days a week)
+https://target.wd5.myworkdayjobs.com/targetcareers/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Associate-Product-Designer--Furniture-and-Lighting_R0000480769
+````
+
+````text
+Wilson (EvoShield)
+EvoShield Design Intern
+Chicago, IL (hybrid)
+https://careers-wilson.icims.com/jobs/5232/evoshield-design-intern/job
+````
+
+````text
+Electrolux Group
+Jr Industrial Designer
+Curitiba, PR, Brazil (Guabirotuba plant; flexible/hybrid 4x1)
+https://electrolux.wd3.myworkdayjobs.com/ElectroluxCareerSite/job/Curitiba/Jr-Industrial-Designer_JR82494
+````
 
 ````text
 Kia (Hyundai America Technical Center)
@@ -1388,6 +1521,76 @@ https://www.trig.com/careers/industrial-design-internship-design-development-tea
 Newest first.
 
 ````text
+Field Museum
+Junior Graphic Designer
+Chicago, IL (on-site)
+https://www.builtinchicago.org/job/junior-graphic-designer/12327494
+````
+
+````text
+JLL
+Graphic Designer I
+Columbus, OH
+https://jll.wd1.myworkdayjobs.com/jllcareers/job/Columbus-OH/Graphic-Designer-I_REQ548890
+````
+
+````text
+Menasha
+Graphic Prepress Technician Intern/Co-op (Fall Jun–Dec 2027)
+Neenah, WI (on-site)
+https://menasha.wd12.myworkdayjobs.com/MenashaCorp/job/Neenah-Wisconsin/Graphic-Prepress-Technician-Intern-Co-op--Fall-Jun-Dec-2027-_R16494
+````
+
+````text
+Menasha
+Graphic Prepress Technician Intern/Co-op (Spring Jan–Jun 2027)
+Neenah, WI (on-site)
+https://menasha.wd12.myworkdayjobs.com/MenashaCorp/job/Neenah-Wisconsin/Graphic-Prepress-Technician-Intern-Co-op--Spring-Jan-Jun-2027-_R16490
+````
+
+````text
+Menasha
+Graphic Prepress Technician Intern/Co-op (Summer May–Aug 2027)
+Neenah, WI (on-site)
+https://menasha.wd12.myworkdayjobs.com/MenashaCorp/job/Neenah-Wisconsin/Graphic-Prepress-Technician-Intern-Co-op--Summer-May-Aug-2027-_R16493
+````
+
+````text
+Nex
+Summer 2027 | 2D Character Artist Intern
+San Jose, CA
+https://job-boards.greenhouse.io/nex/jobs/5461348008
+````
+
+````text
+Nex
+Summer 2027 | UI Motion Artist Intern
+San Jose, CA
+https://job-boards.greenhouse.io/nex/jobs/5461373008
+````
+
+````text
+Riot Games
+Motion Graphics Art Intern - Summer 2027
+Remote (US); listed under Los Angeles, CA
+https://www.riotgames.com/en/j/8356815
+````
+
+````text
+Tesla
+Internship, Graphic Design (Winter/Spring 2027)
+Austin, TX or Palo Alto, CA (on-site)
+https://ev.careers/jobs/725679492-internship-graphic-design-winter-spring-2027
+````
+
+````text
+Uline
+CGI Imaging Internship - Summer 2027
+Pleasant Prairie, WI (on-site)
+https://www.uline.jobs/JobDetails?culture=en&jobid=R268436
+````
+
+````text
 Chicago Fire FC
 Creative Presentation Designer
 Chicago, IL
@@ -1660,6 +1863,20 @@ https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid
 Newest first.
 
 ````text
+Stanley Black & Decker
+UX/UI Designer
+Towson, MD (hybrid, 3 days a week on site)
+https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/UX-UI-Designer_REQ-1000053714-1
+````
+
+````text
+Uline
+UX Design Internship - Summer 2027
+Pleasant Prairie, WI (on-site)
+https://www.uline.jobs/JobDetails?culture=en&jobid=R268775
+````
+
+````text
 Amplify
 Summer 2027: Product Design Intern
 Remote, US (includes 2-day in-person visit to Brooklyn, NY)
@@ -1916,6 +2133,13 @@ https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Produc
 ## ID + GD
 
 Newest first.
+
+````text
+Wilson
+Team Sports Product Artwork Intern
+Chicago, IL (hybrid)
+https://careers-wilson.icims.com/jobs/5231/team-sports-product-artwork-intern/job
+````
 
 ````text
 Haworth
