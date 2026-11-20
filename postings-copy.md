@@ -1,10 +1,10 @@
 # Copy-and-paste job list
 
-**261 open jobs** · updated Nov 19, 2026 · [readable version](postings.md)
+**255 open jobs** · updated Nov 20, 2026 · [readable version](postings.md)
 
 Each job is in its own box as four lines: company, role title, location, link. On GitHub, hover over a box and click its copy button (top right) to copy that job.
 
-Jump to: [New this week](#new-this-week) (48) · [Industrial Design](#industrial-design) (166) · [Graphic Design](#graphic-design) (48) · [UI/UX & Digital Product](#uiux--digital-product) (38) · [ID + GD](#id--gd) (9)
+Jump to: [New this week](#new-this-week) (38) · [Industrial Design](#industrial-design) (162) · [Graphic Design](#graphic-design) (47) · [UI/UX & Digital Product](#uiux--digital-product) (37) · [ID + GD](#id--gd) (9)
 
 ## New this week
 
@@ -274,76 +274,6 @@ Zoox
 Industrial Design Intern [Summer 2027]
 Foster City, CA · hybrid
 https://jobs.lever.co/zoox/23867c45-d2df-4f87-86ff-244c864614cd
-````
-
-````text
-Chanel
-Assistant Creative Designer Intern, Events & Visual Merchandising – Watches & Fine Jewelry (Stage)
-Neuilly-sur-Seine (Paris area), France · on-site
-https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/Paris/STAGE--Assistant-e--Creative-Designer-vnementiel-et-VM---Horlogerie-Joaillerie--F-H-X----Mars-2027_JOBREQ00118893-3
-````
-
-````text
-Criador Labs
-Industrial Design Intern
-Bangalore, India · on-site
-https://lemanoosh.com/jobs/industrial-design-intern-37/
-````
-
-````text
-Excel Sports Management
-Spring 2027 - Intern, Social Media Graphic Design
-New York, NY · hybrid (about 3 office days a week)
-https://job-boards.greenhouse.io/excelsportsmanagement/jobs/4747595005
-````
-
-````text
-Haworth
-Graphic Design Intern (Washington, DC)
-Washington, DC · hybrid (about 3 days in showroom)
-https://careers.haworth.com/job/Washington%2C-DC-Graphic-Design-Intern-DC-20007/1441964100/
-````
-
-````text
-Haworth
-Technical Graphic Design Intern
-Holland, MI · on-site
-https://careers.haworth.com/job/Holland-Technical-Graphic-Design-Intern-MI-49423/1438345200/
-````
-
-````text
-Italdesign
-Interior Designer Internship
-Moncalieri (Turin), Italy · on-site
-https://inrecruiting.intervieweb.it/italdesign/jobs/interior-designer-internship-690472/en/
-````
-
-````text
-TEAMS Design
-6-Month CGI Internship (Hamburg)
-Hamburg, Germany · on-site
-https://www.teamsdesign.com/en/careers/hamburg-6-month-cgi-internship
-````
-
-````text
-TEAMS Design
-Industrial Design Internship (Stuttgart)
-Stuttgart-Esslingen, Germany · on-site
-https://www.teamsdesign.com/en/careers/stuttgart-internship-industrial-design
-````
-
-````text
-TEAMS Design
-6-Month Product Design Internship (Hamburg)
-Hamburg, Germany · on-site
-https://www.teamsdesign.com/en/careers/hamburg-6-month-product-design-internship
-````
-
-````text
-TEAMS Design
-6-Month Transportation Design Internship (Hamburg)
-Hamburg, Germany · on-site
-https://www.teamsdesign.com/en/careers/hamburg-6-month-transportation-design-internship
 ````
 
 [Back to top](#copy-and-paste-job-list)
@@ -913,24 +843,10 @@ https://careers.haworth.com/job/Holland-Colors-Materials-Finishes-%28CMF%29-Indu
 ````
 
 ````text
-Munchkin
-Industrial Designer
-Van Nuys, Los Angeles, CA
-https://www.builtinsf.com/job/industrial-designer/10737910
-````
-
-````text
 Muuto
 Design Intern
 Copenhagen, Denmark
 https://lemanoosh.com/jobs/design-intern-4/
-````
-
-````text
-Toshiba Global Commerce Solutions
-Industrial Design Intern (Spring 2027)
-Durham, NC (on-site 1+ days/week)
-https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5274347007
 ````
 
 ````text
@@ -1022,20 +938,6 @@ Tandem Design
 Industrial Designer (Part-Time, Entry-Level)
 Irvine area, CA (hybrid; must be local to Orange County/LA)
 https://www.tandem-design.com/jobs
-````
-
-````text
-Airbus
-STAGE 2027 Design Studio – Creative Designer
-Blagnac (Toulouse), France (on-site)
-https://ag.wd3.myworkdayjobs.com/Airbus/job/Toulouse-Area/STAGE-2027-Design-Studio---Creative-Designer_JR10445392
-````
-
-````text
-RE:LAB
-Industrial Design Intern
-Reggio nell'Emilia, Italy (on-site)
-https://zinrec.intervieweb.it/relab/jobs/industrial-design-intern-158084/en/
 ````
 
 ````text
@@ -1849,13 +1751,6 @@ Minnesota (HQ)
 https://www.mortenson.com/careers/hq-business-support/graphic-design-intern-23351
 ````
 
-````text
-Samyang America
-Junior Graphic Designer
-Brea, CA
-https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=723571cd-4aa4-4769-a3e2-42f97e7e1047&jobId=954981
-````
-
 [Back to top](#copy-and-paste-job-list)
 
 ## UI/UX & Digital Product
@@ -1993,13 +1888,6 @@ Sonos
 User Experience Intern
 Seattle, WA (in office at least 4 days a week)
 https://www.builtinseattle.com/job/user-experience-intern/11947251
-````
-
-````text
-Tuniform
-UI / UX Designer
-Remote or hybrid (US)
-https://www.builtinchicago.org/job/ui-ux-designer/11204529
 ````
 
 ````text

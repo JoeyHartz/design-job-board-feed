@@ -15,17 +15,22 @@
   "url": "https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5274347007",
   "source": "Watchlist · Physical Design Internships",
   "note": "Part-time (20–30 hrs/week); no visa sponsorship; SolidWorks/CAD required.",
-  "status": "open",
+  "status": "closed",
   "firstSeen": "2026-11-05",
-  "lastUpdated": "2026-11-05",
+  "lastUpdated": "2026-11-20",
   "lastVerified": "2026-11-05",
-  "closedAt": "",
-  "closedReason": "",
+  "closedAt": "2026-11-20",
+  "closedReason": "no longer listed (re-checked 2026-11-20)",
   "statusHistory": [
     {
       "date": "2026-11-05",
       "status": "open",
       "reason": "added"
+    },
+    {
+      "date": "2026-11-20",
+      "status": "closed",
+      "reason": "no longer listed (re-checked 2026-11-20)"
     }
   ],
   "facts": {
