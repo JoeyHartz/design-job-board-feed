@@ -1,6 +1,6 @@
-# Link check: 2026-11-19
+# Link check: 2026-11-20
 
-Generated 2026-11-19T13:39-06:00 by the daily maintenance Action. 247 open postings: 229 ok, **9 look gone**, 9 couldn't be checked, 0 skipped (LinkedIn). Nothing is closed automatically: the routine opens each "look gone" posting and closes it only if it's really gone.
+Generated 2026-11-20T13:17-06:00 by the daily maintenance Action. 257 open postings: 238 ok, **10 look gone**, 9 couldn't be checked, 0 skipped (LinkedIn). Nothing is closed automatically: the routine opens each "look gone" posting and closes it only if it's really gone.
 
 ## Look gone (routine: confirm and close)
 
@@ -8,13 +8,14 @@ Generated 2026-11-19T13:39-06:00 by the daily maintenance Action. 247 open posti
 |---|---|---|---|---|
 | athena-summer-2027-designer-intern-creative | Athena Global Advisors | Summer 2027 Intern, Designer, Creative Department | redirected to a general page: https://ats.rippling.com/athena-careers/jobs?rr_message=job_not_found | [link](https://ats.rippling.com/athena-careers/jobs/6caed124-e1e5-45a8-a485-87bd9811c699) |
 | bisco-creative-designer-junior | BISCO Inc. | Creative Designer, Junior | HTTP 410 | [link](https://biscodentalproducts.applytojob.com/apply/8p8gcuDEGY/Creative-Designer-Junior) |
+| excel-sports-social-media-graphic-design-intern-spring-2027 | Excel Sports Management | Spring 2027 - Intern, Social Media Graphic Design | redirected to https://job-boards.greenhouse.io/excelsportsmanagement?error=true | [link](https://job-boards.greenhouse.io/excelsportsmanagement/jobs/4747595005) |
 | mortenson-graphic-design-intern-summer-2027 | Mortenson | Graphic Design Intern | HTTP 404 | [link](https://www.mortenson.com/careers/hq-business-support/graphic-design-intern-23351) |
 | garmin-industrial-designer-1-olathe | Garmin | Industrial Designer 1 | HTTP 404 | [link](https://careers.garmin.com/jobs/18646?lang=en-us) |
 | garmin-industrial-designer-1-portland | Garmin | Industrial Designer 1 | HTTP 404 | [link](https://careers.garmin.com/jobs/18738?lang=en-us) |
 | keen-footwear-design-intern-summer-2027 | KEEN Footwear | Footwear Design Intern (Summer 2027) | redirected to a general page: https://www.keenfootwear.com/pages/careers-listings?4751551005&gh_jid=4751551005 | [link](https://job-boards.greenhouse.io/keenfootwear/jobs/4751551005) |
 | key-tech-id-early-career | Key Tech | Industrial Designer (early career) | redirected to a general page: https://lemanoosh.com/jobs/?query=Industrial%20Designer | [link](https://lemanoosh.com/jobs/industrial-designer-baltimore-maryland/) |
 | stellantis-pdo-cad-design-engineer-internship-2027 | Stellantis | 2027 Product Design Office (PDO) – CAD Design Engineer Internship | HTTP 404 | [link](https://careers.stellantis.com/job/23787234/2027-product-design-office-pdo-cad-design-engineer-internship-auburn-hills-mi/) |
-| toshiba-gcs-id-intern-spring-2027 | Toshiba Global Commerce Solutions | Industrial Design Intern (Spring 2027) | redirected to https://job-boards.greenhouse.io/toshibaglobalcommercesolutions?error=true | [link](https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5274347007) |
+| stryker-id-intern-summer-2027 | Stryker | Summer 2027 Industrial Design Intern | HTTP 404 | [link](https://careers.stryker.com/summer-2027-internship-industrial-design-intern-michigan/job/3C649FE37894FD709387079C73D8FE5C) |
 
 ## Couldn't be checked (no action needed)
 
