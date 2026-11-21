@@ -2,16 +2,16 @@
 
 Open internships, co-ops and entry-level jobs for Industrial Design, Graphic Design and UI/UX students in the School of Art & Design at the University of Illinois Urbana-Champaign.
 
-**255 open jobs** · updated Nov 20, 2026 · download as [CSV](postings.csv) or [JSON](postings.json)
+**253 open jobs** · updated Nov 21, 2026 · download as [CSV](postings.csv) or [JSON](postings.json)
 
 > Every job here was checked against our criteria and approved by a person before it was listed, but jobs can close without notice. Always confirm the details on the employer's site before you apply.
 
 ## Contents
 
-- [Closing soon](#closing-soon) (18)
+- [Closing soon](#closing-soon) (16)
 - [New this week](#new-this-week) (38)
-- **[Industrial Design](#industrial-design)** (162): [Chicago area](#industrial-design--chicago-area) (4) · [Midwest](#industrial-design--midwest) (44) · [Remote](#industrial-design--remote) (1) · [Elsewhere in US](#industrial-design--elsewhere-in-us) (73) · [International](#industrial-design--international) (40)
-- **[Graphic Design](#graphic-design)** (47): [Chicago area](#graphic-design--chicago-area) (8) · [Midwest](#graphic-design--midwest) (12) · [Remote](#graphic-design--remote) (3) · [Elsewhere in US](#graphic-design--elsewhere-in-us) (21) · [International](#graphic-design--international) (3)
+- **[Industrial Design](#industrial-design)** (161): [Chicago area](#industrial-design--chicago-area) (4) · [Midwest](#industrial-design--midwest) (44) · [Remote](#industrial-design--remote) (1) · [Elsewhere in US](#industrial-design--elsewhere-in-us) (73) · [International](#industrial-design--international) (39)
+- **[Graphic Design](#graphic-design)** (46): [Chicago area](#graphic-design--chicago-area) (8) · [Midwest](#graphic-design--midwest) (12) · [Remote](#graphic-design--remote) (3) · [Elsewhere in US](#graphic-design--elsewhere-in-us) (20) · [International](#graphic-design--international) (3)
 - **[UI/UX & Digital Product](#uiux--digital-product)** (37): [Chicago area](#uiux--digital-product--chicago-area) (1) · [Midwest](#uiux--digital-product--midwest) (12) · [Remote](#uiux--digital-product--remote) (3) · [Elsewhere in US](#uiux--digital-product--elsewhere-in-us) (19) · [International](#uiux--digital-product--international) (2)
 - **[ID + GD](#id--gd)** (9): [Chicago area](#id--gd--chicago-area) (1) · [Midwest](#id--gd--midwest) (6) · [Elsewhere in US](#id--gd--elsewhere-in-us) (1) · [International](#id--gd--international) (1)
 - [About this list](#about-this-list)
@@ -22,8 +22,6 @@ Jobs with an apply-by date in the next 14 days, soonest first.
 
 | Apply by | Job | Company | Program |
 |---|---|---|---|
-| Nov 20 | [Industrial Design Intern – Product Design Cabin](https://ag.wd3.myworkdayjobs.com/Airbus/job/Hamburg-Area/Industrial-Design-Intern---Product-Design-Cabin-Hamburg--d-f-m-_JR10454867) | Airbus | Industrial Design |
-| Nov 20 | [Spring 2027 - Intern, Social Media Graphic Design](https://job-boards.greenhouse.io/excelsportsmanagement/jobs/4747595005) | Excel Sports Management | Graphic Design |
 | Nov 22 | [FOX News Media Internship – Graphic Design (Spring 2027)](https://www.wayup.com/i-Broadcast-Media-j-Spring-2027-FOX-News-Media-Internship-Program-Graphic-Design-New-York-FOX-Corporation-837858992313442/) | FOX Corporation | Graphic Design |
 | Nov 23 | [Exhibit Design Intern, Winter/Spring 2027](https://deckelmoneypenny.com/job/exhibit-design-intern-winter-spring-2027/) | Deckel & Moneypenny | Industrial Design |
 | Nov 23 | [Scientific Illustrator (16-week internship)](https://www.builtinchicago.org/job/scientific-illustrator/11756726) | Field Museum | Graphic Design |
@@ -241,7 +239,7 @@ _Needs at least two years of transportation/product design coursework and one pr
 
 ## Industrial Design
 
-162 jobs: [Chicago area](#industrial-design--chicago-area) (4) · [Midwest](#industrial-design--midwest) (44) · [Remote](#industrial-design--remote) (1) · [Elsewhere in US](#industrial-design--elsewhere-in-us) (73) · [International](#industrial-design--international) (40)
+161 jobs: [Chicago area](#industrial-design--chicago-area) (4) · [Midwest](#industrial-design--midwest) (44) · [Remote](#industrial-design--remote) (1) · [Elsewhere in US](#industrial-design--elsewhere-in-us) (73) · [International](#industrial-design--international) (39)
 
 ### Industrial Design · Chicago area
 
@@ -959,11 +957,6 @@ PUMA · Entry-level · Full-time (or part-time)
 Herzogenaurach, Germany · on-site (PUMA Way HQ) · Pay: not listed · Found Nov 11  
 _Junior footwear design role on PUMA's Training category at global HQ; portfolio and CV required._
 
-**[Industrial Design Intern – Product Design Cabin](https://ag.wd3.myworkdayjobs.com/Airbus/job/Hamburg-Area/Industrial-Design-Intern---Product-Design-Cabin-Hamburg--d-f-m-_JR10454867)**  
-Airbus · Internship · Six months from March 2027  
-Hamburg, Germany · Pay: €750 a month · **Apply by Nov 20, 2026** · Found Nov 10  
-_Aircraft cabin design; needs current enrollment, apply by Nov 20._
-
 **[Design Intern](https://lemanoosh.com/jobs/design-intern-4/)**  
 Muuto · Internship · At least 4 months from February 1, 2027  
 Copenhagen, Denmark · Pay: not listed · Found Nov 5  
@@ -1068,7 +1061,7 @@ _Power tools and outdoor equipment; posting is in German._
 
 ## Graphic Design
 
-47 jobs: [Chicago area](#graphic-design--chicago-area) (8) · [Midwest](#graphic-design--midwest) (12) · [Remote](#graphic-design--remote) (3) · [Elsewhere in US](#graphic-design--elsewhere-in-us) (21) · [International](#graphic-design--international) (3)
+46 jobs: [Chicago area](#graphic-design--chicago-area) (8) · [Midwest](#graphic-design--midwest) (12) · [Remote](#graphic-design--remote) (3) · [Elsewhere in US](#graphic-design--elsewhere-in-us) (20) · [International](#graphic-design--international) (3)
 
 ### Graphic Design · Chicago area
 
@@ -1228,11 +1221,6 @@ _Packaging and digital brand graphics in Newell's 12-week CAMP intern program; n
 Nike · Internship · 10 weeks (2027)  
 Beaverton, OR · on-site · Pay: Paid (rate not listed) · Found Nov 16  
 _Apparel graphics internship for final-year Graphic Design, Apparel Design or Product Design students graduating in 2027; includes relocation assistance._
-
-**[Spring 2027 - Intern, Social Media Graphic Design](https://job-boards.greenhouse.io/excelsportsmanagement/jobs/4747595005)**  
-Excel Sports Management · Internship · Spring 2027 (Jan 11 – May 6, 2027), part-time  
-New York, NY · hybrid (about 3 office days a week) · Pay: $17/hr · **Apply by Nov 20, 2026** · Found Nov 13  
-_Part-time social graphics internship at a sports agency; senior standing or degree required, no visa sponsorship; applications close Nov 20._
 
 **[Graphic Design Intern (Washington, DC)](https://careers.haworth.com/job/Washington%2C-DC-Graphic-Design-Intern-DC-20007/1441964100/)**  
 Haworth · Internship · Summer 2027 (12 weeks, May–Aug)  

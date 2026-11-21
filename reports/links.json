@@ -1,6 +1,6 @@
 {
- "date": "2026-11-20",
- "generated": "2026-11-20T13:17-06:00",
+ "date": "2026-11-21",
+ "generated": "2026-11-21T12:13-06:00",
  "postings": [
   {
    "id": "3m-brand-design-intern-sibg-2027",
@@ -136,15 +136,6 @@
    "lastVerified": "2026-11-10",
    "result": "ok",
    "detail": "HTTP 200"
-  },
-  {
-   "id": "excel-sports-social-media-graphic-design-intern-spring-2027",
-   "company": "Excel Sports Management",
-   "title": "Spring 2027 - Intern, Social Media Graphic Design",
-   "url": "https://job-boards.greenhouse.io/excelsportsmanagement/jobs/4747595005",
-   "lastVerified": "2026-11-13",
-   "result": "gone",
-   "detail": "redirected to https://job-boards.greenhouse.io/excelsportsmanagement?error=true"
   },
   {
    "id": "field-museum-junior-graphic-designer",
@@ -404,8 +395,8 @@
    "title": "Entry-Level Graphic Designer – Marketing & Print",
    "url": "https://www.mediabistro.com/jobs/3539867741-trope-publishing-co-is-hiring-entry-level-graphic-designer-marketing-print",
    "lastVerified": "2026-11-20",
-   "result": "ok",
-   "detail": "HTTP 200"
+   "result": "gone",
+   "detail": "HTTP 410"
   },
   {
    "id": "uline-cgi-imaging-internship-summer-2027",
@@ -442,15 +433,6 @@
    "lastVerified": "2026-10-23",
    "result": "ok",
    "detail": "HTTP 200"
-  },
-  {
-   "id": "airbus-industrial-design-intern-product-design-cabin-2027",
-   "company": "Airbus",
-   "title": "Industrial Design Intern – Product Design Cabin",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Hamburg-Area/Industrial-Design-Intern---Product-Design-Cabin-Hamburg--d-f-m-_JR10454867",
-   "lastVerified": "2026-11-10",
-   "result": "ok",
-   "detail": "Workday lists this job"
   },
   {
    "id": "alskar-design-industrial-product-design-internship",
@@ -746,8 +728,8 @@
    "title": "Junior Footwear Product Designer – Licensed Sports Gear",
    "url": "https://www.mediabistro.com/jobs/3539638799-junior-footwear-product-designer-licensed-sports-gear",
    "lastVerified": "2026-11-20",
-   "result": "ok",
-   "detail": "HTTP 200"
+   "result": "gone",
+   "detail": "HTTP 410"
   },
   {
    "id": "ford-industrial-designer-components-2",
@@ -1565,8 +1547,8 @@
    "title": "Assoc Dsgn, Graphic Design",
    "url": "https://www.mediabistro.com/jobs/3539132189-assoc-dsgngraphic-design",
    "lastVerified": "2026-11-17",
-   "result": "ok",
-   "detail": "HTTP 200"
+   "result": "gone",
+   "detail": "HTTP 410"
   },
   {
    "id": "spacex-industrial-designer-starlink",

@@ -1,10 +1,10 @@
 # Copy-and-paste job list
 
-**255 open jobs** · updated Nov 20, 2026 · [readable version](postings.md)
+**253 open jobs** · updated Nov 21, 2026 · [readable version](postings.md)
 
 Each job is in its own box as four lines: company, role title, location, link. On GitHub, hover over a box and click its copy button (top right) to copy that job.
 
-Jump to: [New this week](#new-this-week) (38) · [Industrial Design](#industrial-design) (162) · [Graphic Design](#graphic-design) (47) · [UI/UX & Digital Product](#uiux--digital-product) (37) · [ID + GD](#id--gd) (9)
+Jump to: [New this week](#new-this-week) (38) · [Industrial Design](#industrial-design) (161) · [Graphic Design](#graphic-design) (46) · [UI/UX & Digital Product](#uiux--digital-product) (37) · [ID + GD](#id--gd) (9)
 
 ## New this week
 
@@ -651,13 +651,6 @@ W.C. Bradley Co. (Char-Broil)
 Industrial Designer
 Columbus, GA · on-site
 https://jobs.wcbradley.com/job/Columbus-Industrial-Designer-GA-31829/1435019000/
-````
-
-````text
-Airbus
-Industrial Design Intern – Product Design Cabin
-Hamburg, Germany
-https://ag.wd3.myworkdayjobs.com/Airbus/job/Hamburg-Area/Industrial-Design-Intern---Product-Design-Cabin-Hamburg--d-f-m-_JR10454867
 ````
 
 ````text
@@ -1525,13 +1518,6 @@ Nike
 NIKE, Inc. Product Graphics Design Internship
 Beaverton, OR · on-site
 https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/NIKE--Inc-Product-Graphics-Design-Internship_R-97437
-````
-
-````text
-Excel Sports Management
-Spring 2027 - Intern, Social Media Graphic Design
-New York, NY · hybrid (about 3 office days a week)
-https://job-boards.greenhouse.io/excelsportsmanagement/jobs/4747595005
 ````
 
 ````text
