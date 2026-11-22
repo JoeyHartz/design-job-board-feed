@@ -1,6 +1,6 @@
 {
- "date": "2026-11-21",
- "generated": "2026-11-21T12:13-06:00",
+ "date": "2026-11-22",
+ "generated": "2026-11-22T12:40-06:00",
  "postings": [
   {
    "id": "3m-brand-design-intern-sibg-2027",
@@ -98,8 +98,8 @@
    "title": "Creative Presentation Designer",
    "url": "https://www.mediabistro.com/jobs/3542579729-creative-presentation-designer-job-at-chicago-fire-fc-in-chicago",
    "lastVerified": "2026-11-17",
-   "result": "ok",
-   "detail": "HTTP 200"
+   "result": "gone",
+   "detail": "HTTP 410"
   },
   {
    "id": "cotton-citizen-junior-graphic-designer",
@@ -107,8 +107,8 @@
    "title": "Junior Graphic Designer",
    "url": "https://www.mediabistro.com/jobs/3542756355-junior-graphic-designer",
    "lastVerified": "2026-11-19",
-   "result": "ok",
-   "detail": "HTTP 200"
+   "result": "gone",
+   "detail": "HTTP 410"
   },
   {
    "id": "crown-equipment-graphic-digital-design-coop-summer-2027",
@@ -125,8 +125,8 @@
    "title": "FX Design & VFX Intern, Spring 2027",
    "url": "https://www.mediabistro.com/jobs/3543011965-fx-design-vfx-intern-spring-2027",
    "lastVerified": "2026-11-17",
-   "result": "ok",
-   "detail": "HTTP 200"
+   "result": "gone",
+   "detail": "HTTP 410"
   },
   {
    "id": "disney-graphic-design-communications-intern-spring-2027",

@@ -1,6 +1,6 @@
 # Copy-and-paste job list
 
-**253 open jobs** · updated Nov 21, 2026 · [readable version](postings.md)
+**253 open jobs** · updated Nov 22, 2026 · [readable version](postings.md)
 
 Each job is in its own box as four lines: company, role title, location, link. On GitHub, hover over a box and click its copy button (top right) to copy that job.
 

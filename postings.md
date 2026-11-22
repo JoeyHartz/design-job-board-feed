@@ -2,7 +2,7 @@
 
 Open internships, co-ops and entry-level jobs for Industrial Design, Graphic Design and UI/UX students in the School of Art & Design at the University of Illinois Urbana-Champaign.
 
-**253 open jobs** · updated Nov 21, 2026 · download as [CSV](postings.csv) or [JSON](postings.json)
+**253 open jobs** · updated Nov 22, 2026 · download as [CSV](postings.csv) or [JSON](postings.json)
 
 > Every job here was checked against our criteria and approved by a person before it was listed, but jobs can close without notice. Always confirm the details on the employer's site before you apply.
 
