@@ -1,6 +1,6 @@
 {
- "date": "2026-11-22",
- "generated": "2026-11-22T12:40-06:00",
+ "date": "2026-11-23",
+ "generated": "2026-11-23T16:56-06:00",
  "postings": [
   {
    "id": "3m-brand-design-intern-sibg-2027",
@@ -79,7 +79,7 @@
    "company": "Bubba's LA",
    "title": "Spring Paid Intern – Motion Design",
    "url": "https://www.entertainmentcareers.net/bubba-s-la/spring-paid-intern-motion-design/job/535359/",
-   "lastVerified": "2026-11-05",
+   "lastVerified": "2026-11-23",
    "result": "ok",
    "detail": "HTTP 200"
   },
@@ -179,15 +179,6 @@
    "title": "FOX News Media Internship – Graphic Design (Summer 2027)",
    "url": "https://www.wayup.com/i-Broadcast-Media-j-Summer-2027-FOX-News-Media-Internship-Program-Graphic-Design-New-York-FOX-Corporation-117265980895138/",
    "lastVerified": "2026-11-11",
-   "result": "ok",
-   "detail": "HTTP 200"
-  },
-  {
-   "id": "fox-news-media-graphic-design-intern-spring-2027",
-   "company": "FOX Corporation",
-   "title": "FOX News Media Internship – Graphic Design (Spring 2027)",
-   "url": "https://www.wayup.com/i-Broadcast-Media-j-Spring-2027-FOX-News-Media-Internship-Program-Graphic-Design-New-York-FOX-Corporation-837858992313442/",
-   "lastVerified": "2026-11-16",
    "result": "ok",
    "detail": "HTTP 200"
   },
@@ -421,7 +412,7 @@
    "company": "3M",
    "title": "2027 Undergraduate Industrial Design Intern (SIBG)",
    "url": "https://lemanoosh.com/jobs/internship-2027-undergraduate-3m-industrial-design-intern/",
-   "lastVerified": "2026-11-06",
+   "lastVerified": "2026-11-23",
    "result": "ok",
    "detail": "HTTP 200"
   },
@@ -439,7 +430,7 @@
    "company": "ALSKAR DESIGN",
    "title": "Industrial Product Design Internship",
    "url": "https://www.alskar.com/internship-product-design/",
-   "lastVerified": "2026-11-06",
+   "lastVerified": "2026-11-23",
    "result": "ok",
    "detail": "HTTP 200"
   },
@@ -448,7 +439,7 @@
    "company": "Andersen",
    "title": "Product Design Intern",
    "url": "https://andersen.wd12.myworkdayjobs.com/Andersen_External_Career_Site/job/Bayport-MN/Product-Design-Intern_R-8220",
-   "lastVerified": "2026-11-09",
+   "lastVerified": "2026-11-23",
    "result": "ok",
    "detail": "Workday lists this job"
   },
@@ -475,7 +466,7 @@
    "company": "ART-KON-TOR",
    "title": "Industrial / Product Design Internship",
    "url": "https://product.art-kon-tor.de/karriere/praktikum-industriedesign-produktdesign",
-   "lastVerified": "2026-11-06",
+   "lastVerified": "2026-11-23",
    "result": "ok",
    "detail": "HTTP 200"
   },
@@ -511,7 +502,7 @@
    "company": "bould design",
    "title": "Industrial Design Intern",
    "url": "https://www.bould.com/careers",
-   "lastVerified": "2026-11-06",
+   "lastVerified": "2026-11-23",
    "result": "ok",
    "detail": "HTTP 200"
   },
@@ -520,16 +511,16 @@
    "company": "Box Clever",
    "title": "Industrial Design 3D CAD Modeler Internship",
    "url": "https://lemanoosh.com/jobs/box-clever-industrial-design-3d-cad-modeler-internship-san-francisco/",
-   "lastVerified": "2026-11-06",
+   "lastVerified": "2026-11-23",
    "result": "ok",
    "detail": "HTTP 200"
   },
   {
    "id": "cambridge-consultants-product-design-internship-6-or-12-months-2027-start",
    "company": "Cambridge Consultants",
-   "title": "Product Design Internship (6 or 12 months, 2027 start)",
+   "title": "Product Design Engineering Internship - 6 or 12 months (2027 start)",
    "url": "https://job-boards.eu.greenhouse.io/cambridgeconsultantslimited/jobs/4981173101",
-   "lastVerified": "2026-11-06",
+   "lastVerified": "2026-11-23",
    "result": "ok",
    "detail": "HTTP 200"
   },
@@ -647,8 +638,8 @@
    "title": "Exhibit Design Intern, Winter/Spring 2027",
    "url": "https://deckelmoneypenny.com/job/exhibit-design-intern-winter-spring-2027/",
    "lastVerified": "2026-11-16",
-   "result": "unreachable",
-   "detail": "RemoteDisconnected: Remote end closed connection without response"
+   "result": "ok",
+   "detail": "HTTP 202"
   },
   {
    "id": "design-central-product-industrial-designer",
@@ -754,7 +745,7 @@
    "company": "Formlabs",
    "title": "Industrial Design Fellowship",
    "url": "https://careers.formlabs.com/job/8028577/apply/?gh_jid=8028577",
-   "lastVerified": "2026-11-06",
+   "lastVerified": "2026-11-23",
    "result": "ok",
    "detail": "HTTP 200"
   },
@@ -763,7 +754,7 @@
    "company": "Formlabs",
    "title": "Industrial Design Intern (Winter/Spring 2027)",
    "url": "https://careers.formlabs.com/job/8172232/apply/",
-   "lastVerified": "2026-11-06",
+   "lastVerified": "2026-11-23",
    "result": "ok",
    "detail": "HTTP 200"
   },
@@ -826,7 +817,7 @@
    "company": "General Motors",
    "title": "2027 Summer Intern – Creative Design (Interior/Exterior)",
    "url": "https://search-careers.gm.com/en/jobs/jr-202619314/2027-summer-intern-creative-design-interior-exterior/",
-   "lastVerified": "2026-11-06",
+   "lastVerified": "2026-11-23",
    "result": "ok",
    "detail": "HTTP 200"
   },
@@ -854,8 +845,8 @@
    "title": "Design Intern",
    "url": "https://www.kering.com/en/talent/job-offers/europe/ginori-1735-design-intern/",
    "lastVerified": "2026-11-09",
-   "result": "ok",
-   "detail": "HTTP 200"
+   "result": "gone",
+   "detail": "redirected to a general page: https://www.kering.com/en/talent/job-offers/europe/"
   },
   {
    "id": "groupe-seb-product-designer-intern-rumilly",
@@ -1312,7 +1303,7 @@
    "company": "PACCAR",
    "title": "2027 Summer Internship: Industrial Designer",
    "url": "https://jobs.paccar.com/job/Denton-2027-Summer-Internship-Industrial-Designer-TX-76205-7864/1454438233/",
-   "lastVerified": "2026-11-06",
+   "lastVerified": "2026-11-23",
    "result": "ok",
    "detail": "HTTP 200"
   },
@@ -2293,7 +2284,7 @@
    "company": "Viget",
    "title": "Product & Web Designer Intern (2027)",
    "url": "https://jobs.lever.co/viget/938c3301-b358-42e3-afff-123b97b6d290",
-   "lastVerified": "2026-11-05",
+   "lastVerified": "2026-11-23",
    "result": "ok",
    "detail": "HTTP 200"
   }

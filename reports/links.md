@@ -1,6 +1,6 @@
-# Link check: 2026-11-22
+# Link check: 2026-11-23
 
-Generated 2026-11-22T12:40-06:00 by the daily maintenance Action. 255 open postings: 231 ok, **15 look gone**, 9 couldn't be checked, 0 skipped (LinkedIn). Nothing is closed automatically: the routine opens each "look gone" posting and closes it only if it's really gone.
+Generated 2026-11-23T16:56-06:00 by the daily maintenance Action. 254 open postings: 230 ok, **16 look gone**, 8 couldn't be checked, 0 skipped (LinkedIn). Nothing is closed automatically: the routine opens each "look gone" posting and closes it only if it's really gone.
 
 ## Look gone (routine: confirm and close)
 
@@ -16,6 +16,7 @@ Generated 2026-11-22T12:40-06:00 by the daily maintenance Action. 255 open posti
 | foco-junior-footwear-product-designer | FOCO | Junior Footwear Product Designer – Licensed Sports Gear | HTTP 410 | [link](https://www.mediabistro.com/jobs/3539638799-junior-footwear-product-designer-licensed-sports-gear) |
 | garmin-industrial-designer-1-olathe | Garmin | Industrial Designer 1 | HTTP 404 | [link](https://careers.garmin.com/jobs/18646?lang=en-us) |
 | garmin-industrial-designer-1-portland | Garmin | Industrial Designer 1 | HTTP 404 | [link](https://careers.garmin.com/jobs/18738?lang=en-us) |
+| ginori-1735-kering-design-intern | Ginori 1735 (Kering) | Design Intern | redirected to a general page: https://www.kering.com/en/talent/job-offers/europe/ | [link](https://www.kering.com/en/talent/job-offers/europe/ginori-1735-design-intern/) |
 | keen-footwear-design-intern-summer-2027 | KEEN Footwear | Footwear Design Intern (Summer 2027) | redirected to a general page: https://www.keenfootwear.com/pages/careers-listings?4751551005&gh_jid=4751551005 | [link](https://job-boards.greenhouse.io/keenfootwear/jobs/4751551005) |
 | key-tech-id-early-career | Key Tech | Industrial Designer (early career) | redirected to a general page: https://lemanoosh.com/jobs/?query=Industrial%20Designer | [link](https://lemanoosh.com/jobs/industrial-designer-baltimore-maryland/) |
 | smurfit-westrock-assoc-designer-california-mo | Smurfit Westrock | Assoc Dsgn, Graphic Design | HTTP 410 | [link](https://www.mediabistro.com/jobs/3539132189-assoc-dsgngraphic-design) |
@@ -26,7 +27,6 @@ Generated 2026-11-22T12:40-06:00 by the daily maintenance Action. 255 open posti
 
 | Posting | Company | Title | Detail | Link |
 |---|---|---|---|---|
-| deckel-moneypenny-exhibit-design-intern | Deckel & Moneypenny | Exhibit Design Intern, Winter/Spring 2027 | RemoteDisconnected: Remote end closed connection without response | [link](https://deckelmoneypenny.com/job/exhibit-design-intern-winter-spring-2027/) |
 | ford-junior-designer-vehicle-design-long-beach | Ford | Junior Designer | URLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1011) | [link](https://apply.ford.com/en/sites/CX_1/job/70670/apply/email) |
 | polaris-cmf-graphics-intern | Polaris | CMF & Graphics Intern - Advanced Digital & Material Focus | HTTP 403, blocked by the site's bot protection | [link](https://www.careerbuilder.com/job-details/cmf-graphics-intern-advanced-digital-material-focus-medina-mn--19a324c4-9ab9-4ece-8427-8b65f51143b4) |
 | priority-designs-spring-semester-2027-industrial-design-co-op | Priority Designs | Spring Semester 2027 Industrial Design Co-op | HTTP 403 | [link](https://www.simplyhired.com/job/s8irLeJ_7UJNunvcZPVKqY_tfCuOTWG2BG-g-ORAv_BF0ITPR8TFfg) |
