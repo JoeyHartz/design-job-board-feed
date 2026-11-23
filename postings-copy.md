@@ -1,10 +1,10 @@
 # Copy-and-paste job list
 
-**253 open jobs** · updated Nov 22, 2026 · [readable version](postings.md)
+**252 open jobs** · updated Nov 23, 2026 · [readable version](postings.md)
 
 Each job is in its own box as four lines: company, role title, location, link. On GitHub, hover over a box and click its copy button (top right) to copy that job.
 
-Jump to: [New this week](#new-this-week) (38) · [Industrial Design](#industrial-design) (161) · [Graphic Design](#graphic-design) (46) · [UI/UX & Digital Product](#uiux--digital-product) (37) · [ID + GD](#id--gd) (9)
+Jump to: [New this week](#new-this-week) (22) · [Industrial Design](#industrial-design) (161) · [Graphic Design](#graphic-design) (45) · [UI/UX & Digital Product](#uiux--digital-product) (37) · [ID + GD](#id--gd) (9)
 
 ## New this week
 
@@ -162,118 +162,6 @@ West Elm (Williams-Sonoma, Inc.)
 Associate Designer, Furniture - West Elm Kids
 Brooklyn, NY · on-site
 https://ehac.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20245
-````
-
-````text
-Amplify
-Summer 2027: Product Design Intern
-Remote, US (includes 2-day in-person visit to Brooklyn, NY)
-https://jobs.ashbyhq.com/amplify/0b593144-07c5-45be-b979-6c37879e6300
-````
-
-````text
-Cinmar / Grandin Road (QVC Group)
-Associate Product Designer (Cinmar) – Color, Print & Pattern
-West Chester, OH
-https://qvc.wd5.myworkdayjobs.com/QRG/job/USA-OH-West-Chester/Associate-Product-Designer--Cinmar-_R84084
-````
-
-````text
-DNAM Brands
-Associate Handbag Designer
-Beverly Hills, CA · on-site
-https://jobs.lever.co/silhouette/0c48df45-0e93-48f5-9601-c67310939f6b
-````
-
-````text
-Groupe SEB
-Product Designer Intern (Stage Designer Produit F/H)
-Rumilly (Annecy area), France · hybrid
-https://groupeseb.referrals.selectminds.com/jobs/stage-designer-produit-f-h-7873
-````
-
-````text
-LF Studios (LifeFormations)
-Animatronic Intern (Spring 2027) – Surface/Integration Designer
-Cincinnati, OH · on-site
-https://lifeformations.betterteam.com/animatronic-intern-%28spring-2027%29-surface-integration-designer
-````
-
-````text
-Longchamp
-Designer Maroquinerie Junior (Junior Leather Goods Designer)
-Paris, France
-https://longchamp.wd116.myworkdayjobs.com/Longchamp_Careers/job/PARIS/Designer-Maroquinerie-Junior_JR100321
-````
-
-````text
-Lowe's
-Industrial Design (Global Merchandising) – Undergrad Internship – Summer 2027
-Mooresville, NC · on-site (headquarters)
-https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Mooresville-NC-SSC-1999/Industrial-Design--Global-Merchandising----Undergrad-Internship---Summer-2027_JR-02700515
-````
-
-````text
-Mulberry
-Junior Leather Goods Designer
-London, UK · hybrid
-https://jobs.lever.co/mulberry/cebe5fba-8ebc-4756-b170-ac0cc0693948
-````
-
-````text
-Nike
-NIKE, Inc. Apparel Design Internship
-Beaverton, OR · on-site
-https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/NIKE--Inc-Apparel-Design-Internship_R-97433
-````
-
-````text
-Nike
-NIKE, Inc. Footwear Design Internship
-Beaverton, OR · on-site
-https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/NIKE--Inc-Footwear-Design-Internship_R-97436
-````
-
-````text
-Nike
-NIKE, Inc. Product Graphics Design Internship
-Beaverton, OR · on-site
-https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/NIKE--Inc-Product-Graphics-Design-Internship_R-97437
-````
-
-````text
-Oura
-Hardware Interaction Designer
-San Francisco, CA · hybrid
-https://job-boards.greenhouse.io/oura/jobs/4484525009
-````
-
-````text
-Stellantis
-2027 Product Design Office (PDO) – CAD Design Engineer Internship
-Auburn Hills, MI · on-site
-https://careers.stellantis.com/job/23787234/2027-product-design-office-pdo-cad-design-engineer-internship-auburn-hills-mi/
-````
-
-````text
-Steve Madden
-Assistant Handbag Designer – NYC
-New York, NY · on-site 4 days/week
-https://myjobs.adp.com/stevemaddencareers/cx/job-details?reqId=5001232887206
-````
-
-````text
-Under Armour
-Professional, Innovation Prototyping
-Baltimore, MD · on-site
-https://careers.underarmour.com/job/Baltimore-Professional%2C-Innovation-Prototyping-MD-21230/1430764400/
-````
-
-````text
-Zoox
-Industrial Design Intern [Summer 2027]
-Foster City, CA · hybrid
-https://jobs.lever.co/zoox/23867c45-d2df-4f87-86ff-244c864614cd
 ````
 
 [Back to top](#copy-and-paste-job-list)
@@ -1068,7 +956,7 @@ https://lemanoosh.com/jobs/box-clever-industrial-design-3d-cad-modeler-internshi
 
 ````text
 Cambridge Consultants
-Product Design Internship (6 or 12 months, 2027 start)
+Product Design Engineering Internship - 6 or 12 months (2027 start)
 Cambridge, United Kingdom
 https://job-boards.eu.greenhouse.io/cambridgeconsultantslimited/jobs/4981173101
 ````
@@ -1672,13 +1560,6 @@ Abercrombie & Fitch Co.
 Assistant Graphic Designer, Creative Marketing – A&F Co. (Remote)
 Remote (US)
 https://abercrombie.wd108.myworkdayjobs.com/anf/job/Columbus-Ohio/Assistant-Graphic-Designer--Creative-Marketing---A-F-Co--Remote-_JR103385
-````
-
-````text
-FOX Corporation
-FOX News Media Internship – Graphic Design (Spring 2027)
-New York, NY · on-site
-https://www.wayup.com/i-Broadcast-Media-j-Spring-2027-FOX-News-Media-Internship-Program-Graphic-Design-New-York-FOX-Corporation-837858992313442/
 ````
 
 ````text
