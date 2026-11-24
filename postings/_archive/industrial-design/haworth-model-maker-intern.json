@@ -15,17 +15,22 @@
   "url": "https://careers.haworth.com/job/Holland-Model-Maker-Intern-MI-49423/1431360400/",
   "source": "Watchlist · Physical Design Internships",
   "note": "Office furniture; prototyping and model shop.",
-  "status": "open",
+  "status": "closed",
   "firstSeen": "2026-10-22",
-  "lastUpdated": "2026-10-22",
+  "lastUpdated": "2026-11-24",
   "lastVerified": "2026-11-09",
-  "closedAt": "",
-  "closedReason": "",
+  "closedAt": "2026-11-24",
+  "closedReason": "no longer listed (re-checked 2026-11-24)",
   "statusHistory": [
     {
       "date": "2026-11-05",
       "status": "open",
       "reason": "imported from artifact"
+    },
+    {
+      "date": "2026-11-24",
+      "status": "closed",
+      "reason": "no longer listed (re-checked 2026-11-24)"
     }
   ],
   "facts": {},

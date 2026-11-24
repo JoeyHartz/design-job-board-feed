@@ -15,17 +15,22 @@
   "url": "https://deckelmoneypenny.com/job/exhibit-design-intern-winter-spring-2027/",
   "source": "Watchlist · Physical Design Internships",
   "note": "Exhibit and museum design firm; Vectorworks training and housing support; apply by emailing CV and portfolio to JChang@deckelmoneypenny.com.",
-  "status": "open",
+  "status": "closed",
   "firstSeen": "2026-10-28",
-  "lastUpdated": "2026-10-28",
+  "lastUpdated": "2026-11-24",
   "lastVerified": "2026-11-16",
-  "closedAt": "",
-  "closedReason": "",
+  "closedAt": "2026-11-24",
+  "closedReason": "deadline passed (2026-11-23)",
   "statusHistory": [
     {
       "date": "2026-11-05",
       "status": "open",
       "reason": "imported from artifact"
+    },
+    {
+      "date": "2026-11-24",
+      "status": "closed",
+      "reason": "deadline passed (2026-11-23)"
     }
   ],
   "facts": {},

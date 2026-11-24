@@ -1,10 +1,10 @@
 # Copy-and-paste job list
 
-**252 open jobs** · updated Nov 23, 2026 · [readable version](postings.md)
+**248 open jobs** · updated Nov 24, 2026 · [readable version](postings.md)
 
 Each job is in its own box as four lines: company, role title, location, link. On GitHub, hover over a box and click its copy button (top right) to copy that job.
 
-Jump to: [New this week](#new-this-week) (22) · [Industrial Design](#industrial-design) (161) · [Graphic Design](#graphic-design) (45) · [UI/UX & Digital Product](#uiux--digital-product) (37) · [ID + GD](#id--gd) (9)
+Jump to: [New this week](#new-this-week) (16) · [Industrial Design](#industrial-design) (158) · [Graphic Design](#graphic-design) (44) · [UI/UX & Digital Product](#uiux--digital-product) (37) · [ID + GD](#id--gd) (9)
 
 ## New this week
 
@@ -120,48 +120,6 @@ Uline
 UX Design Internship - Summer 2027
 Pleasant Prairie, WI (on-site)
 https://www.uline.jobs/JobDetails?culture=en&jobid=R268775
-````
-
-````text
-Chicago Fire FC
-Creative Presentation Designer
-Chicago, IL
-https://www.mediabistro.com/jobs/3542579729-creative-presentation-designer-job-at-chicago-fire-fc-in-chicago
-````
-
-````text
-Fiskars Group (Vita Brands)
-Junior Designer
-Espoo, Finland · hybrid
-https://fiskars.wd3.myworkdayjobs.com/FiskarsGroup/job/Espoo/Junior-Designer_JR-009581
-````
-
-````text
-Kia (Hyundai America Technical Center)
-Kia Design - Designer
-Irvine, CA · on-site
-https://careers-americas.hyundai.com/hatci/job/Irvine-Kia-Design-Designer-CA-92606/1391889000/
-````
-
-````text
-NBCUniversal (NBC News)
-NBC News Creative & Digital Design Internships – Summer 2027
-New York, NY · on-site
-https://jobs.smartrecruiters.com/NBCUniversal3/744000161096049
-````
-
-````text
-Newell Brands
-2027 Newell Brands Intern – Brand Design
-Sandy Springs (Atlanta), GA (on-site)
-https://jobs.newellbrands.com/job/Sandy-Springs-2027-Newell-Brands-Intern-Brand-Design-Geor/1440159600/
-````
-
-````text
-West Elm (Williams-Sonoma, Inc.)
-Associate Designer, Furniture - West Elm Kids
-Brooklyn, NY · on-site
-https://ehac.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20245
 ````
 
 [Back to top](#copy-and-paste-job-list)
@@ -822,13 +780,6 @@ https://www.tandem-design.com/jobs
 ````
 
 ````text
-Deckel & Moneypenny
-Exhibit Design Intern, Winter/Spring 2027
-Louisville, KY (on-site)
-https://deckelmoneypenny.com/job/exhibit-design-intern-winter-spring-2027/
-````
-
-````text
 zweigrad
 Industrial Design Intern
 Hamburg, Germany (on-site)
@@ -1039,13 +990,6 @@ https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-Unite
 ````
 
 ````text
-Ginori 1735 (Kering)
-Design Intern
-Sesto Fiorentino, Italy
-https://www.kering.com/en/talent/job-offers/europe/ginori-1735-design-intern/
-````
-
-````text
 HARMAN
 Intern, Industrial Design
 Shenzhen, China
@@ -1057,13 +1001,6 @@ HARMAN
 Intern, Product Design
 Shenzhen, China
 https://harman.wd3.myworkdayjobs.com/HARMAN/job/Shenzhen---Guangdong-China/Intern--Product-Design_R-55923-2026
-````
-
-````text
-Haworth
-Model Maker Intern
-Holland, MI
-https://careers.haworth.com/job/Holland-Model-Maker-Intern-MI-49423/1431360400/
 ````
 
 ````text
@@ -1581,13 +1518,6 @@ Athena Global Advisors
 Summer 2027 Intern, Designer, Creative Department
 Philadelphia, PA (on-site)
 https://ats.rippling.com/athena-careers/jobs/6caed124-e1e5-45a8-a485-87bd9811c699
-````
-
-````text
-Field Museum
-Scientific Illustrator (16-week internship)
-Chicago, IL
-https://www.builtinchicago.org/job/scientific-illustrator/11756726
 ````
 
 ````text
