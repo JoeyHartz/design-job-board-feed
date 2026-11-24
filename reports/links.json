@@ -1,13 +1,13 @@
 {
- "date": "2026-11-23",
- "generated": "2026-11-23T16:56-06:00",
+ "date": "2026-11-24",
+ "generated": "2026-11-24T15:31-06:00",
  "postings": [
   {
    "id": "3m-brand-design-intern-sibg-2027",
    "company": "3M",
    "title": "Internship - 2027 Undergraduate 3M Brand Design Intern (SIBG)",
    "url": "https://3m.wd1.myworkdayjobs.com/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-3M-Brand-Design-Intern---Safety---Industrial-Business-Group--SIBG-_R01172458",
-   "lastVerified": "2026-11-09",
+   "lastVerified": "2026-11-24",
    "result": "ok",
    "detail": "Workday lists this job"
   },
@@ -80,8 +80,8 @@
    "title": "Spring Paid Intern – Motion Design",
    "url": "https://www.entertainmentcareers.net/bubba-s-la/spring-paid-intern-motion-design/job/535359/",
    "lastVerified": "2026-11-23",
-   "result": "ok",
-   "detail": "HTTP 200"
+   "result": "unreachable",
+   "detail": "HTTP 403, blocked by the site's bot protection"
   },
   {
    "id": "champro-sports-creative-graphic-designer",
@@ -143,15 +143,6 @@
    "title": "Junior Graphic Designer",
    "url": "https://www.builtinchicago.org/job/junior-graphic-designer/12327494",
    "lastVerified": "2026-11-19",
-   "result": "ok",
-   "detail": "HTTP 200"
-  },
-  {
-   "id": "field-museum-scientific-illustrator-intern",
-   "company": "Field Museum",
-   "title": "Scientific Illustrator (16-week internship)",
-   "url": "https://www.builtinchicago.org/job/scientific-illustrator/11756726",
-   "lastVerified": "2026-11-11",
    "result": "ok",
    "detail": "HTTP 200"
   },
@@ -530,15 +521,15 @@
    "title": "Assistant Designer – Jewelry",
    "url": "https://careers-centricbrands.icims.com/jobs/23641/assistant%2c-designer---jewelry/job",
    "lastVerified": "2026-11-11",
-   "result": "ok",
-   "detail": "HTTP 200"
+   "result": "gone",
+   "detail": "HTTP 410"
   },
   {
    "id": "chanel-assistant-jewelry-designer-intern-stage-designer-bijoux",
    "company": "Chanel",
    "title": "Assistant Jewelry Designer Intern (Stage – Designer Bijoux)",
    "url": "https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/Paris/Stage---Assistant-e--Designer-Bijoux--H-F-X----Mode--Mars-2027_JOBREQ00118088-2",
-   "lastVerified": "2026-11-09",
+   "lastVerified": "2026-11-24",
    "result": "ok",
    "detail": "Workday lists this job"
   },
@@ -633,15 +624,6 @@
    "detail": "HTTP 200"
   },
   {
-   "id": "deckel-moneypenny-exhibit-design-intern",
-   "company": "Deckel & Moneypenny",
-   "title": "Exhibit Design Intern, Winter/Spring 2027",
-   "url": "https://deckelmoneypenny.com/job/exhibit-design-intern-winter-spring-2027/",
-   "lastVerified": "2026-11-16",
-   "result": "ok",
-   "detail": "HTTP 202"
-  },
-  {
    "id": "design-central-product-industrial-designer",
    "company": "Design Central",
    "title": "Product/Industrial Designer",
@@ -673,7 +655,7 @@
    "company": "Disney Consumer Products",
    "title": "Product Design (Toys) Intern – Spring 2027",
    "url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Kissimmee-FL-USA/Product-Design--Toys--Intern--Spring-2027_10160487-1",
-   "lastVerified": "2026-11-09",
+   "lastVerified": "2026-11-24",
    "result": "ok",
    "detail": "Workday lists this job"
   },
@@ -808,7 +790,7 @@
    "company": "General Motors",
    "title": "2027 Summer Intern – Clay Sculpting",
    "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Clay-Sculpting_JR-202619287",
-   "lastVerified": "2026-11-09",
+   "lastVerified": "2026-11-24",
    "result": "ok",
    "detail": "Workday lists this job"
   },
@@ -826,7 +808,7 @@
    "company": "General Motors",
    "title": "2027 Summer Intern – Digital Sculpting",
    "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Sculpting_JR-202619286",
-   "lastVerified": "2026-11-09",
+   "lastVerified": "2026-11-24",
    "result": "ok",
    "detail": "Workday lists this job"
   },
@@ -835,18 +817,9 @@
    "company": "General Motors",
    "title": "Summer 2027 Intern – Computational Design",
    "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Summer-2027-Intern---Computational-Design-Intern_JR-202621454",
-   "lastVerified": "2026-11-09",
+   "lastVerified": "2026-11-24",
    "result": "ok",
    "detail": "Workday lists this job"
-  },
-  {
-   "id": "ginori-1735-kering-design-intern",
-   "company": "Ginori 1735 (Kering)",
-   "title": "Design Intern",
-   "url": "https://www.kering.com/en/talent/job-offers/europe/ginori-1735-design-intern/",
-   "lastVerified": "2026-11-09",
-   "result": "gone",
-   "detail": "redirected to a general page: https://www.kering.com/en/talent/job-offers/europe/"
   },
   {
    "id": "groupe-seb-product-designer-intern-rumilly",
@@ -862,7 +835,7 @@
    "company": "HARMAN",
    "title": "Intern, Industrial Design",
    "url": "https://harman.wd3.myworkdayjobs.com/HARMAN/job/Shenzhen---Guangdong-China/Intern--Industrial-Design_R-54021-2026",
-   "lastVerified": "2026-11-09",
+   "lastVerified": "2026-11-24",
    "result": "ok",
    "detail": "Workday lists this job"
   },
@@ -871,7 +844,7 @@
    "company": "HARMAN",
    "title": "Intern, Product Design",
    "url": "https://harman.wd3.myworkdayjobs.com/HARMAN/job/Shenzhen---Guangdong-China/Intern--Product-Design_R-55923-2026",
-   "lastVerified": "2026-11-09",
+   "lastVerified": "2026-11-24",
    "result": "ok",
    "detail": "Workday lists this job"
   },
@@ -894,20 +867,11 @@
    "detail": "HTTP 200"
   },
   {
-   "id": "haworth-model-maker-intern",
-   "company": "Haworth",
-   "title": "Model Maker Intern",
-   "url": "https://careers.haworth.com/job/Holland-Model-Maker-Intern-MI-49423/1431360400/",
-   "lastVerified": "2026-11-09",
-   "result": "ok",
-   "detail": "HTTP 200"
-  },
-  {
    "id": "henkel-industrial-design-intern-jan-aug-2027",
    "company": "Henkel",
    "title": "Industrial Design Intern (Jan–Aug 2027)",
    "url": "https://www.henkel-northamerica.com/careers/jobs-and-application/2239482-2239482",
-   "lastVerified": "2026-11-09",
+   "lastVerified": "2026-11-24",
    "result": "ok",
    "detail": "HTTP 200"
   },
@@ -916,7 +880,7 @@
    "company": "Henkel",
    "title": "Industrial Design Intern (May–Dec 2027)",
    "url": "https://www.henkel-northamerica.com/careers/jobs-and-application/2239486-2239486",
-   "lastVerified": "2026-11-09",
+   "lastVerified": "2026-11-24",
    "result": "ok",
    "detail": "HTTP 200"
   },
@@ -1277,8 +1241,8 @@
    "title": "Junior Industrial Designer",
    "url": "https://lemanoosh.com/jobs/junior-industrial-designer-16/",
    "lastVerified": "2026-11-13",
-   "result": "ok",
-   "detail": "HTTP 200"
+   "result": "gone",
+   "detail": "redirected to a general page: https://lemanoosh.com/jobs/?query=Junior%20Industrial%20Designer"
   },
   {
    "id": "oshkosh-id-intern",
@@ -1583,8 +1547,8 @@
    "title": "2027 Product Design Office (PDO) – Auto Design Internship",
    "url": "https://careers.stellantis.com/job/23787233/2027-product-design-office-pdo-auto-design-internship-auburn-hills-mi/",
    "lastVerified": "2026-11-10",
-   "result": "ok",
-   "detail": "HTTP 200"
+   "result": "unreachable",
+   "detail": "HTTP 403"
   },
   {
    "id": "stellantis-pdo-cad-design-engineer-internship-2027",
@@ -1592,8 +1556,8 @@
    "title": "2027 Product Design Office (PDO) – CAD Design Engineer Internship",
    "url": "https://careers.stellantis.com/job/23787234/2027-product-design-office-pdo-cad-design-engineer-internship-auburn-hills-mi/",
    "lastVerified": "2026-11-16",
-   "result": "gone",
-   "detail": "HTTP 404"
+   "result": "unreachable",
+   "detail": "HTTP 403"
   },
   {
    "id": "steve-madden-assistant-handbag-designer-nyc",
@@ -1637,8 +1601,8 @@
    "title": "Industrial Designer (Part-Time, Entry-Level)",
    "url": "https://www.tandem-design.com/jobs",
    "lastVerified": "2026-11-17",
-   "result": "ok",
-   "detail": "HTTP 200"
+   "result": "gone",
+   "detail": "HTTP 404"
   },
   {
    "id": "target-associate-product-designer-furniture-lighting",
@@ -1897,7 +1861,7 @@
    "company": "General Motors",
    "title": "Summer 2027 Intern – Industrial Design (Brand ID + Product, CMF)",
    "url": "https://search-careers.gm.com/en/jobs/jr-202621626/summer-2027-intern-industrial-design/",
-   "lastVerified": "2026-11-09",
+   "lastVerified": "2026-11-24",
    "result": "ok",
    "detail": "HTTP 200"
   },
@@ -1934,8 +1898,8 @@
    "title": "2027 Product Design Office (PDO) – Design Visual Communication Internship",
    "url": "https://careers.stellantis.com/job/23787236/2027-product-design-office-pdo-design-visual-communication-internship",
    "lastVerified": "2026-11-13",
-   "result": "ok",
-   "detail": "HTTP 200"
+   "result": "unreachable",
+   "detail": "HTTP 403"
   },
   {
    "id": "target-designer-intern-owned-brands-2027",
