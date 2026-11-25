@@ -1,10 +1,10 @@
 # Copy-and-paste job list
 
-**248 open jobs** · updated Nov 24, 2026 · [readable version](postings.md)
+**247 open jobs** · updated Nov 25, 2026 · [readable version](postings.md)
 
 Each job is in its own box as four lines: company, role title, location, link. On GitHub, hover over a box and click its copy button (top right) to copy that job.
 
-Jump to: [New this week](#new-this-week) (16) · [Industrial Design](#industrial-design) (158) · [Graphic Design](#graphic-design) (44) · [UI/UX & Digital Product](#uiux--digital-product) (37) · [ID + GD](#id--gd) (9)
+Jump to: [New this week](#new-this-week) (11) · [Industrial Design](#industrial-design) (157) · [Graphic Design](#graphic-design) (44) · [UI/UX & Digital Product](#uiux--digital-product) (37) · [ID + GD](#id--gd) (9)
 
 ## New this week
 
@@ -85,41 +85,6 @@ Wilson (EvoShield)
 EvoShield Design Intern
 Chicago, IL (hybrid)
 https://careers-wilson.icims.com/jobs/5232/evoshield-design-intern/job
-````
-
-````text
-Electrolux Group
-Jr Industrial Designer
-Curitiba, PR, Brazil (Guabirotuba plant; flexible/hybrid 4x1)
-https://electrolux.wd3.myworkdayjobs.com/ElectroluxCareerSite/job/Curitiba/Jr-Industrial-Designer_JR82494
-````
-
-````text
-Stanley Black & Decker
-UX/UI Designer
-Towson, MD (hybrid, 3 days a week on site)
-https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/UX-UI-Designer_REQ-1000053714-1
-````
-
-````text
-Tesla
-Internship, Graphic Design (Winter/Spring 2027)
-Austin, TX or Palo Alto, CA (on-site)
-https://ev.careers/jobs/725679492-internship-graphic-design-winter-spring-2027
-````
-
-````text
-Uline
-CGI Imaging Internship - Summer 2027
-Pleasant Prairie, WI (on-site)
-https://www.uline.jobs/JobDetails?culture=en&jobid=R268436
-````
-
-````text
-Uline
-UX Design Internship - Summer 2027
-Pleasant Prairie, WI (on-site)
-https://www.uline.jobs/JobDetails?culture=en&jobid=R268775
 ````
 
 [Back to top](#copy-and-paste-job-list)
@@ -1022,13 +987,6 @@ industrialpartners
 Product Design / Product Development Internship
 Frankfurt, Germany
 https://industrialpartners.de/en/jobs/
-````
-
-````text
-Key Tech
-Industrial Designer (early career)
-Baltimore, MD
-https://lemanoosh.com/jobs/industrial-designer-baltimore-maryland/
 ````
 
 ````text

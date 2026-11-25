@@ -2,15 +2,15 @@
 
 Open internships, co-ops and entry-level jobs for Industrial Design, Graphic Design and UI/UX students in the School of Art & Design at the University of Illinois Urbana-Champaign.
 
-**248 open jobs** · updated Nov 24, 2026 · download as [CSV](postings.csv) or [JSON](postings.json)
+**247 open jobs** · updated Nov 25, 2026 · download as [CSV](postings.csv) or [JSON](postings.json)
 
 > Every job here was checked against our criteria and approved by a person before it was listed, but jobs can close without notice. Always confirm the details on the employer's site before you apply.
 
 ## Contents
 
 - [Closing soon](#closing-soon) (13)
-- [New this week](#new-this-week) (16)
-- **[Industrial Design](#industrial-design)** (158): [Chicago area](#industrial-design--chicago-area) (4) · [Midwest](#industrial-design--midwest) (43) · [Remote](#industrial-design--remote) (1) · [Elsewhere in US](#industrial-design--elsewhere-in-us) (72) · [International](#industrial-design--international) (38)
+- [New this week](#new-this-week) (11)
+- **[Industrial Design](#industrial-design)** (157): [Chicago area](#industrial-design--chicago-area) (4) · [Midwest](#industrial-design--midwest) (43) · [Remote](#industrial-design--remote) (1) · [Elsewhere in US](#industrial-design--elsewhere-in-us) (71) · [International](#industrial-design--international) (38)
 - **[Graphic Design](#graphic-design)** (44): [Chicago area](#graphic-design--chicago-area) (7) · [Midwest](#graphic-design--midwest) (12) · [Remote](#graphic-design--remote) (3) · [Elsewhere in US](#graphic-design--elsewhere-in-us) (19) · [International](#graphic-design--international) (3)
 - **[UI/UX & Digital Product](#uiux--digital-product)** (37): [Chicago area](#uiux--digital-product--chicago-area) (1) · [Midwest](#uiux--digital-product--midwest) (12) · [Remote](#uiux--digital-product--remote) (3) · [Elsewhere in US](#uiux--digital-product--elsewhere-in-us) (19) · [International](#uiux--digital-product--international) (2)
 - **[ID + GD](#id--gd)** (9): [Chicago area](#id--gd--chicago-area) (1) · [Midwest](#id--gd--midwest) (6) · [Elsewhere in US](#id--gd--elsewhere-in-us) (1) · [International](#id--gd--international) (1)
@@ -97,36 +97,11 @@ Wilson (EvoShield) · Industrial Design · Internship · Summer 2027, about 12 w
 Chicago, IL (hybrid) · Pay: $23–$24/hr · Found Nov 19  
 _Protective gear design for youth baseball and softball players; interest in the sports is a plus._
 
-**[Jr Industrial Designer](https://electrolux.wd3.myworkdayjobs.com/ElectroluxCareerSite/job/Curitiba/Jr-Industrial-Designer_JR82494)**  
-Electrolux Group · Industrial Design · Entry-level · Full-time  
-Curitiba, PR, Brazil (Guabirotuba plant; flexible/hybrid 4x1) · Pay: not listed · **Apply by Nov 30, 2026** · Found Nov 18  
-_Junior appliance industrial design role in Brazil. It asks for intermediate English and a portfolio, and applications close November 30._
-
-**[UX/UI Designer](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/UX-UI-Designer_REQ-1000053714-1)**  
-Stanley Black & Decker · UI/UX & Digital Product · Entry-level · Full-time  
-Towson, MD (hybrid, 3 days a week on site) · Pay: $72,000–$115,900 per year · Found Nov 18  
-_Designs on-tool displays and interfaces for power tools and connected devices, and is open to industrial design and interaction design grads with 0–3 years._
-
-**[Internship, Graphic Design (Winter/Spring 2027)](https://ev.careers/jobs/725679492-internship-graphic-design-winter-spring-2027)**  
-Tesla · Graphic Design · Internship · Winter/Spring 2027 (from about Jan 2027, at least 12 weeks)  
-Austin, TX or Palo Alto, CA (on-site) · Pay: not listed · Found Nov 18  
-_Graphic design intern on Tesla's People Content creative team making HR and recruiting visuals; portfolio required._
-
-**[CGI Imaging Internship - Summer 2027](https://www.uline.jobs/JobDetails?culture=en&jobid=R268436)**  
-Uline · Graphic Design · Internship · Summer 2027, 12 weeks full-time  
-Pleasant Prairie, WI (on-site) · Pay: Paid (rate not listed) · Found Nov 18  
-_3D product-rendering intern on Uline's Imaging team; open to junior-status students, and housing is provided for out-of-town interns._
-
-**[UX Design Internship - Summer 2027](https://www.uline.jobs/JobDetails?culture=en&jobid=R268775)**  
-Uline · UI/UX & Digital Product · Internship · Summer 2027, 12 weeks full-time  
-Pleasant Prairie, WI (on-site) · Pay: Paid (rate not listed) · Found Nov 18  
-_For junior-status bachelor's students in UX, experiential design, human factors or related fields; housing provided for out-of-town interns._
-
 [Back to top](#id--gd-job-board)
 
 ## Industrial Design
 
-158 jobs: [Chicago area](#industrial-design--chicago-area) (4) · [Midwest](#industrial-design--midwest) (43) · [Remote](#industrial-design--remote) (1) · [Elsewhere in US](#industrial-design--elsewhere-in-us) (72) · [International](#industrial-design--international) (38)
+157 jobs: [Chicago area](#industrial-design--chicago-area) (4) · [Midwest](#industrial-design--midwest) (43) · [Remote](#industrial-design--remote) (1) · [Elsewhere in US](#industrial-design--elsewhere-in-us) (71) · [International](#industrial-design--international) (38)
 
 ### Industrial Design · Chicago area
 
@@ -691,11 +666,6 @@ _Consumer brands; housing stipend or relocation support._
 Henkel · Internship · May 24 – mid-Dec 2027  
 Trumbull, CT · Pay: $22–27/hr · Found Oct 22  
 _Consumer brands; housing stipend or relocation support._
-
-**[Industrial Designer (early career)](https://lemanoosh.com/jobs/industrial-designer-baltimore-maryland/)**  
-Key Tech · Entry-level · Full-time  
-Baltimore, MD · Pay: Interns $24–$28/hour; full-time $65,000–$95,000 a year · Found Oct 22  
-_Product development consultancy, medical and consumer devices._
 
 **[Industrial Design Intern](https://lemanoosh.com/jobs/industrial-design-intern-35/)**  
 Munchkin · Internship  
