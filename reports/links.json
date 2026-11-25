@@ -1,6 +1,6 @@
 {
- "date": "2026-11-24",
- "generated": "2026-11-24T15:31-06:00",
+ "date": "2026-11-25",
+ "generated": "2026-11-25T14:40-06:00",
  "postings": [
   {
    "id": "3m-brand-design-intern-sibg-2027",
@@ -25,7 +25,7 @@
    "company": "Adobe",
    "title": "2027 Intern - Brand Creative",
    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/XMLNAME-2027-Intern---Brand-Creative_R173411",
-   "lastVerified": "2026-11-09",
+   "lastVerified": "2026-11-25",
    "result": "ok",
    "detail": "Workday lists this job"
   },
@@ -80,8 +80,8 @@
    "title": "Spring Paid Intern – Motion Design",
    "url": "https://www.entertainmentcareers.net/bubba-s-la/spring-paid-intern-motion-design/job/535359/",
    "lastVerified": "2026-11-23",
-   "result": "unreachable",
-   "detail": "HTTP 403, blocked by the site's bot protection"
+   "result": "ok",
+   "detail": "HTTP 200"
   },
   {
    "id": "champro-sports-creative-graphic-designer",
@@ -872,8 +872,8 @@
    "title": "Industrial Design Intern (Jan–Aug 2027)",
    "url": "https://www.henkel-northamerica.com/careers/jobs-and-application/2239482-2239482",
    "lastVerified": "2026-11-24",
-   "result": "ok",
-   "detail": "HTTP 200"
+   "result": "unreachable",
+   "detail": "HTTP 404, blocked by the site's bot protection"
   },
   {
    "id": "henkel-industrial-design-intern-may-dec-2027",
@@ -889,7 +889,7 @@
    "company": "industrialpartners",
    "title": "Product Design / Product Development Internship",
    "url": "https://industrialpartners.de/en/jobs/",
-   "lastVerified": "2026-11-10",
+   "lastVerified": "2026-11-25",
    "result": "ok",
    "detail": "HTTP 200"
   },
@@ -930,15 +930,6 @@
    "detail": "redirected to a general page: https://www.keenfootwear.com/pages/careers-listings?4751551005&gh_jid=4751551005"
   },
   {
-   "id": "key-tech-id-early-career",
-   "company": "Key Tech",
-   "title": "Industrial Designer (early career)",
-   "url": "https://lemanoosh.com/jobs/industrial-designer-baltimore-maryland/",
-   "lastVerified": "2026-11-10",
-   "result": "gone",
-   "detail": "redirected to a general page: https://lemanoosh.com/jobs/?query=Industrial%20Designer"
-  },
-  {
    "id": "key-tech-industrial-design-intern-spring-2027",
    "company": "Key Tech",
    "title": "Industrial Design Intern (Spring 2027)",
@@ -970,7 +961,7 @@
    "company": "Kohl's",
    "title": "Home Product Design Intern",
    "url": "https://careers.kohls.com/internships/design-art-creative",
-   "lastVerified": "2026-11-10",
+   "lastVerified": "2026-11-25",
    "result": "ok",
    "detail": "HTTP 200"
   },
@@ -1033,7 +1024,7 @@
    "company": "M3 Design",
    "title": "Design Intern",
    "url": "https://www.m3design.com/careers/",
-   "lastVerified": "2026-11-09",
+   "lastVerified": "2026-11-25",
    "result": "ok",
    "detail": "HTTP 200"
   },
@@ -1051,7 +1042,7 @@
    "company": "Menasha",
    "title": "Packaging Structural Design Intern",
    "url": "https://menasha.wd12.myworkdayjobs.com/MenashaCorp/job/Brampton-Ontario/Packaging-Structural-Design-Intern_R15680",
-   "lastVerified": "2026-11-10",
+   "lastVerified": "2026-11-25",
    "result": "ok",
    "detail": "Workday lists this job"
   },
@@ -1060,7 +1051,7 @@
    "company": "Mercury Marine",
    "title": "Industrial Design Intern",
    "url": "https://brunswick.wd1.myworkdayjobs.com/search/job/Fond-du-Lac-WI/Mercury-Marine--Industrial-Design-Intern_JR-051217",
-   "lastVerified": "2026-11-10",
+   "lastVerified": "2026-11-25",
    "result": "ok",
    "detail": "Workday lists this job"
   },
@@ -1087,7 +1078,7 @@
    "company": "Milwaukee Tool",
    "title": "Design Researcher Intern",
    "url": "https://tti.yello.co/external/requisitions/El5jv1-bGG07TZ3dKEbM9g",
-   "lastVerified": "2026-11-10",
+   "lastVerified": "2026-11-25",
    "result": "ok",
    "detail": "HTTP 200"
   },
@@ -1385,8 +1376,8 @@
    "title": "Design Specialist",
    "url": "https://www.coroflot.com/design-jobs/Design-Specialist-Ravenhill-Studio-Los-Angeles-CA-682101",
    "lastVerified": "2026-10-23",
-   "result": "ok",
-   "detail": "HTTP 200"
+   "result": "gone",
+   "detail": "HTTP 404"
   },
   {
    "id": "rawlings-industrial-design-co-op-jan-aug-2027",
@@ -1547,8 +1538,8 @@
    "title": "2027 Product Design Office (PDO) – Auto Design Internship",
    "url": "https://careers.stellantis.com/job/23787233/2027-product-design-office-pdo-auto-design-internship-auburn-hills-mi/",
    "lastVerified": "2026-11-10",
-   "result": "unreachable",
-   "detail": "HTTP 403"
+   "result": "ok",
+   "detail": "HTTP 200"
   },
   {
    "id": "stellantis-pdo-cad-design-engineer-internship-2027",
@@ -1556,8 +1547,8 @@
    "title": "2027 Product Design Office (PDO) – CAD Design Engineer Internship",
    "url": "https://careers.stellantis.com/job/23787234/2027-product-design-office-pdo-cad-design-engineer-internship-auburn-hills-mi/",
    "lastVerified": "2026-11-16",
-   "result": "unreachable",
-   "detail": "HTTP 403"
+   "result": "gone",
+   "detail": "HTTP 404"
   },
   {
    "id": "steve-madden-assistant-handbag-designer-nyc",
@@ -1601,8 +1592,8 @@
    "title": "Industrial Designer (Part-Time, Entry-Level)",
    "url": "https://www.tandem-design.com/jobs",
    "lastVerified": "2026-11-17",
-   "result": "gone",
-   "detail": "HTTP 404"
+   "result": "ok",
+   "detail": "HTTP 200"
   },
   {
    "id": "target-associate-product-designer-furniture-lighting",
@@ -1898,8 +1889,8 @@
    "title": "2027 Product Design Office (PDO) – Design Visual Communication Internship",
    "url": "https://careers.stellantis.com/job/23787236/2027-product-design-office-pdo-design-visual-communication-internship",
    "lastVerified": "2026-11-13",
-   "result": "unreachable",
-   "detail": "HTTP 403"
+   "result": "ok",
+   "detail": "HTTP 200"
   },
   {
    "id": "target-designer-intern-owned-brands-2027",
@@ -1933,7 +1924,7 @@
    "company": "3M",
    "title": "Internship - 2027 Undergraduate 3M UX/UI Design Intern (SIBG)",
    "url": "https://3m.wd1.myworkdayjobs.com/Search/job/US-Minnesota-Maplewood/Internship---2027-Undergraduate-3M-UX-UI-Design-Intern---Safety---Industrial-Business-Group--SIBG-_R01172459",
-   "lastVerified": "2026-11-09",
+   "lastVerified": "2026-11-25",
    "result": "ok",
    "detail": "Workday lists this job"
   },
@@ -2086,7 +2077,7 @@
    "company": "Mercury Marine",
    "title": "Mercury Marine: UX/UI Design Intern",
    "url": "https://brunswick.wd1.myworkdayjobs.com/search/job/Fond-du-Lac-WI/Mercury-Marine--UX-UI-Design-Intern_JR-051163",
-   "lastVerified": "2026-11-09",
+   "lastVerified": "2026-11-25",
    "result": "ok",
    "detail": "Workday lists this job"
   },
@@ -2194,7 +2185,7 @@
    "company": "Stanley Black & Decker",
    "title": "UX/UI Design Intern - Summer 2027",
    "url": "https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Valley-City-OH-United-States/UX-UI-Design-Intern---Summer-2027_REQ-1000052835",
-   "lastVerified": "2026-11-09",
+   "lastVerified": "2026-11-25",
    "result": "ok",
    "detail": "Workday lists this job"
   },
