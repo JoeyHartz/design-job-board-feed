@@ -1,6 +1,6 @@
 {
- "date": "2026-11-25",
- "generated": "2026-11-25T14:40-06:00",
+ "date": "2026-11-26",
+ "generated": "2026-11-26T14:32-06:00",
  "postings": [
   {
    "id": "3m-brand-design-intern-sibg-2027",
@@ -345,15 +345,6 @@
    "detail": "Workday lists this job"
   },
   {
-   "id": "sonos-brand-design-intern-new-york-summer-2027",
-   "company": "Sonos",
-   "title": "Brand Design Intern (New York)",
-   "url": "https://sonos.wd1.myworkdayjobs.com/Sonos/job/New-York-NY/Brand-Design-Intern--New-York-_R2877-1",
-   "lastVerified": "2026-11-09",
-   "result": "ok",
-   "detail": "HTTP 200"
-  },
-  {
    "id": "teams-design-communication-design-intern",
    "company": "TEAMS Design",
    "title": "Communication Design Intern",
@@ -467,15 +458,6 @@
    "title": "Junior Product Designer",
    "url": "https://careers-arteriorshome.icims.com/jobs/2105/junior-product-designer/job",
    "lastVerified": "2026-11-11",
-   "result": "ok",
-   "detail": "HTTP 200"
-  },
-  {
-   "id": "bass-pro-shops-industrial-design-co-op",
-   "company": "Bass Pro Shops",
-   "title": "Industrial Design Co-op",
-   "url": "https://basspro.wd1.myworkdayjobs.com/careers/job/Springfield-MO-Tracker-Marine-Base-Camp/Industrial-Design-Co-Op_R267065",
-   "lastVerified": "2026-11-09",
    "result": "ok",
    "detail": "HTTP 200"
   },
@@ -777,15 +759,6 @@
    "detail": "HTTP 404"
   },
   {
-   "id": "generac-industrial-design-intern",
-   "company": "Generac",
-   "title": "Industrial Design Intern",
-   "url": "https://generac.wd5.myworkdayjobs.com/External/job/Waukesha-WI---USA/Industrial-Design-Intern_JR15337",
-   "lastVerified": "2026-11-09",
-   "result": "ok",
-   "detail": "HTTP 200"
-  },
-  {
    "id": "general-motors-2027-summer-intern-clay-sculpting",
    "company": "General Motors",
    "title": "2027 Summer Intern – Clay Sculpting",
@@ -890,8 +863,8 @@
    "title": "Product Design / Product Development Internship",
    "url": "https://industrialpartners.de/en/jobs/",
    "lastVerified": "2026-11-25",
-   "result": "ok",
-   "detail": "HTTP 200"
+   "result": "unreachable",
+   "detail": "URLError: timed out"
   },
   {
    "id": "international-paper-structural-designer-i-fond-du-lac",
@@ -1096,7 +1069,7 @@
    "company": "Milwaukee Tool",
    "title": "Industrial Design Co-op",
    "url": "https://tti.yello.co/external/requisitions/7uH1zTYt-P3KAapkw5EH5A",
-   "lastVerified": "2026-11-10",
+   "lastVerified": "2026-11-26",
    "result": "ok",
    "detail": "HTTP 200"
   },
@@ -1105,7 +1078,7 @@
    "company": "Milwaukee Tool",
    "title": "Industrial Design Intern",
    "url": "https://tti.yello.co/external/requisitions/E6Iarspa1WmwK_kYCleqrg",
-   "lastVerified": "2026-11-10",
+   "lastVerified": "2026-11-26",
    "result": "ok",
    "detail": "HTTP 200"
   },
@@ -1114,7 +1087,7 @@
    "company": "MNML",
    "title": "Industrial Design Intern",
    "url": "https://mnml.com/careers-2026-industrial-design-intern",
-   "lastVerified": "2026-11-10",
+   "lastVerified": "2026-11-26",
    "result": "ok",
    "detail": "HTTP 200"
   },
@@ -1141,7 +1114,7 @@
    "company": "Munchkin",
    "title": "Industrial Design Intern",
    "url": "https://lemanoosh.com/jobs/industrial-design-intern-35/",
-   "lastVerified": "2026-11-10",
+   "lastVerified": "2026-11-26",
    "result": "ok",
    "detail": "HTTP 200"
   },
@@ -1186,7 +1159,7 @@
    "company": "Newell Brands",
    "title": "2027 Intern – Industrial Design",
    "url": "https://jobs.newellbrands.com/job/Sandy-Springs-2027-Newell-Brands-Intern-Industrial-Design-Geor/1440145300/",
-   "lastVerified": "2026-11-10",
+   "lastVerified": "2026-11-26",
    "result": "ok",
    "detail": "HTTP 200"
   },
@@ -1240,7 +1213,7 @@
    "company": "Oshkosh Corporation",
    "title": "Industrial Design Intern",
    "url": "https://lemanoosh.com/jobs/industrial-design-intern-34/",
-   "lastVerified": "2026-11-10",
+   "lastVerified": "2026-11-26",
    "result": "ok",
    "detail": "HTTP 200"
   },
@@ -1263,20 +1236,11 @@
    "detail": "HTTP 200"
   },
   {
-   "id": "philips-industrial-design-intern-murrysville-summer-2027",
-   "company": "Philips",
-   "title": "Intern - Industrial Design - Murrysville, PA - Summer 2027",
-   "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Murrysville-Pennsylvania-United-States/Intern---Industrial-Design---Murrysville--PA---Summer-2027_593133",
-   "lastVerified": "2026-11-09",
-   "result": "ok",
-   "detail": "HTTP 200"
-  },
-  {
    "id": "philips-industrial-design-internship-shaving-experience-design",
    "company": "Philips",
    "title": "Industrial Design Internship – Shaving Experience Design",
    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Shenzhen/Industrial-Design-Internship---Shaving-Experience-Design_592810",
-   "lastVerified": "2026-11-10",
+   "lastVerified": "2026-11-26",
    "result": "ok",
    "detail": "Workday lists this job"
   },
@@ -1285,7 +1249,7 @@
    "company": "Pilotfish",
    "title": "Industrial Design Intern",
    "url": "https://www.pilotfish.eu/career#industrial-design-intern",
-   "lastVerified": "2026-11-10",
+   "lastVerified": "2026-11-26",
    "result": "ok",
    "detail": "HTTP 200"
   },
@@ -1294,7 +1258,7 @@
    "company": "Plexus",
    "title": "Intern – User Centered Design (Summer 2027)",
    "url": "https://builtin.com/job/intern-user-centered-design-summer-2027/10969290",
-   "lastVerified": "2026-11-10",
+   "lastVerified": "2026-11-26",
    "result": "ok",
    "detail": "HTTP 200"
   },
@@ -1312,7 +1276,7 @@
    "company": "Polaris Inc.",
    "title": "Sculpting Intern",
    "url": "https://lemanoosh.com/jobs/sculpting-intern/",
-   "lastVerified": "2026-11-10",
+   "lastVerified": "2026-11-26",
    "result": "ok",
    "detail": "HTTP 200"
   },
@@ -1321,7 +1285,7 @@
    "company": "Polaris",
    "title": "Transportation Industrial Design Intern",
    "url": "https://polaris.wd5.myworkdayjobs.com/polarisjobs/job/Medina-MN-USA/Transportation-Industrial-Design-Intern_R31551",
-   "lastVerified": "2026-11-10",
+   "lastVerified": "2026-11-26",
    "result": "ok",
    "detail": "Workday lists this job"
   },

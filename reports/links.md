@@ -1,6 +1,6 @@
-# Link check: 2026-11-25
+# Link check: 2026-11-26
 
-Generated 2026-11-25T14:40-06:00 by the daily maintenance Action. 249 open postings: 223 ok, **17 look gone**, 9 couldn't be checked, 0 skipped (LinkedIn). Nothing is closed automatically: the routine opens each "look gone" posting and closes it only if it's really gone.
+Generated 2026-11-26T14:32-06:00 by the daily maintenance Action. 245 open postings: 218 ok, **17 look gone**, 10 couldn't be checked, 0 skipped (LinkedIn). Nothing is closed automatically: the routine opens each "look gone" posting and closes it only if it's really gone.
 
 ## Look gone (routine: confirm and close)
 
@@ -30,6 +30,7 @@ Generated 2026-11-25T14:40-06:00 by the daily maintenance Action. 249 open posti
 |---|---|---|---|---|
 | ford-junior-designer-vehicle-design-long-beach | Ford | Junior Designer | URLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1011) | [link](https://apply.ford.com/en/sites/CX_1/job/70670/apply/email) |
 | henkel-industrial-design-intern-jan-aug-2027 | Henkel | Industrial Design Intern (Jan–Aug 2027) | HTTP 404, blocked by the site's bot protection | [link](https://www.henkel-northamerica.com/careers/jobs-and-application/2239482-2239482) |
+| industrialpartners-product-design-product-development-internship | industrialpartners | Product Design / Product Development Internship | URLError: timed out | [link](https://industrialpartners.de/en/jobs/) |
 | polaris-cmf-graphics-intern | Polaris | CMF & Graphics Intern - Advanced Digital & Material Focus | HTTP 403, blocked by the site's bot protection | [link](https://www.careerbuilder.com/job-details/cmf-graphics-intern-advanced-digital-material-focus-medina-mn--19a324c4-9ab9-4ece-8427-8b65f51143b4) |
 | priority-designs-spring-semester-2027-industrial-design-co-op | Priority Designs | Spring Semester 2027 Industrial Design Co-op | HTTP 403 | [link](https://www.simplyhired.com/job/s8irLeJ_7UJNunvcZPVKqY_tfCuOTWG2BG-g-ORAv_BF0ITPR8TFfg) |
 | tesla-internship-cmf-design-design-studio-winter-spring-2027 | Tesla | Internship, CMF Design, Design Studio (Winter/Spring 2027) | HTTP 403, blocked by the site's bot protection | [link](https://www.tesla.com/careers/search/job/internship-cmf-design-design-studio-winter-spring-2027-279012) |
