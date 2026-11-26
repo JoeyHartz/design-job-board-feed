@@ -15,17 +15,22 @@
   "url": "https://generac.wd5.myworkdayjobs.com/External/job/Waukesha-WI---USA/Industrial-Design-Intern_JR15337",
   "source": "Watchlist · Physical Design Internships",
   "note": "Generators and power equipment.",
-  "status": "open",
+  "status": "closed",
   "firstSeen": "2026-10-22",
-  "lastUpdated": "2026-10-22",
+  "lastUpdated": "2026-11-26",
   "lastVerified": "2026-11-09",
-  "closedAt": "",
-  "closedReason": "",
+  "closedAt": "2026-11-26",
+  "closedReason": "no longer listed (re-checked 2026-11-26)",
   "statusHistory": [
     {
       "date": "2026-11-05",
       "status": "open",
       "reason": "imported from artifact"
+    },
+    {
+      "date": "2026-11-26",
+      "status": "closed",
+      "reason": "no longer listed (re-checked 2026-11-26)"
     }
   ],
   "facts": {},

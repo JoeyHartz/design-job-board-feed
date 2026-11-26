@@ -1,91 +1,16 @@
 # Copy-and-paste job list
 
-**247 open jobs** · updated Nov 25, 2026 · [readable version](postings.md)
+**243 open jobs** · updated Nov 26, 2026 · [readable version](postings.md)
 
 Each job is in its own box as four lines: company, role title, location, link. On GitHub, hover over a box and click its copy button (top right) to copy that job.
 
-Jump to: [New this week](#new-this-week) (11) · [Industrial Design](#industrial-design) (157) · [Graphic Design](#graphic-design) (44) · [UI/UX & Digital Product](#uiux--digital-product) (37) · [ID + GD](#id--gd) (9)
+Jump to: [New this week](#new-this-week) (0) · [Industrial Design](#industrial-design) (154) · [Graphic Design](#graphic-design) (43) · [UI/UX & Digital Product](#uiux--digital-product) (37) · [ID + GD](#id--gd) (9)
 
 ## New this week
 
 Added in the last 7 days, newest first.
 
-````text
-Field Museum
-Junior Graphic Designer
-Chicago, IL (on-site)
-https://www.builtinchicago.org/job/junior-graphic-designer/12327494
-````
-
-````text
-JLL
-Graphic Designer I
-Columbus, OH
-https://jll.wd1.myworkdayjobs.com/jllcareers/job/Columbus-OH/Graphic-Designer-I_REQ548890
-````
-
-````text
-Menasha
-Graphic Prepress Technician Intern/Co-op (Fall Jun–Dec 2027)
-Neenah, WI (on-site)
-https://menasha.wd12.myworkdayjobs.com/MenashaCorp/job/Neenah-Wisconsin/Graphic-Prepress-Technician-Intern-Co-op--Fall-Jun-Dec-2027-_R16494
-````
-
-````text
-Menasha
-Graphic Prepress Technician Intern/Co-op (Spring Jan–Jun 2027)
-Neenah, WI (on-site)
-https://menasha.wd12.myworkdayjobs.com/MenashaCorp/job/Neenah-Wisconsin/Graphic-Prepress-Technician-Intern-Co-op--Spring-Jan-Jun-2027-_R16490
-````
-
-````text
-Menasha
-Graphic Prepress Technician Intern/Co-op (Summer May–Aug 2027)
-Neenah, WI (on-site)
-https://menasha.wd12.myworkdayjobs.com/MenashaCorp/job/Neenah-Wisconsin/Graphic-Prepress-Technician-Intern-Co-op--Summer-May-Aug-2027-_R16493
-````
-
-````text
-Nex
-Summer 2027 | 2D Character Artist Intern
-San Jose, CA
-https://job-boards.greenhouse.io/nex/jobs/5461348008
-````
-
-````text
-Nex
-Summer 2027 | UI Motion Artist Intern
-San Jose, CA
-https://job-boards.greenhouse.io/nex/jobs/5461373008
-````
-
-````text
-Riot Games
-Motion Graphics Art Intern - Summer 2027
-Remote (US); listed under Los Angeles, CA
-https://www.riotgames.com/en/j/8356815
-````
-
-````text
-Target
-Associate Product Designer - Furniture and Lighting
-Minneapolis, MN (on-site 4 days a week)
-https://target.wd5.myworkdayjobs.com/targetcareers/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Associate-Product-Designer--Furniture-and-Lighting_R0000480769
-````
-
-````text
-Wilson
-Team Sports Product Artwork Intern
-Chicago, IL (hybrid)
-https://careers-wilson.icims.com/jobs/5231/team-sports-product-artwork-intern/job
-````
-
-````text
-Wilson (EvoShield)
-EvoShield Design Intern
-Chicago, IL (hybrid)
-https://careers-wilson.icims.com/jobs/5232/evoshield-design-intern/job
-````
+None right now.
 
 [Back to top](#copy-and-paste-job-list)
 
@@ -619,13 +544,6 @@ https://www.m3design.com/careers/
 ````
 
 ````text
-Philips
-Intern - Industrial Design - Murrysville, PA - Summer 2027
-Murrysville, PA
-https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Murrysville-Pennsylvania-United-States/Intern---Industrial-Design---Murrysville--PA---Summer-2027_593133
-````
-
-````text
 PACCAR
 2027 Summer Internship: Industrial Designer
 Denton, TX (on-site)
@@ -843,13 +761,6 @@ https://product.art-kon-tor.de/karriere/praktikum-industriedesign-produktdesign
 ````
 
 ````text
-Bass Pro Shops
-Industrial Design Co-op
-Springfield, MO (Tracker Marine)
-https://basspro.wd1.myworkdayjobs.com/careers/job/Springfield-MO-Tracker-Marine-Base-Camp/Industrial-Design-Co-Op_R267065
-````
-
-````text
 Bosch Home Comfort
 Product and Industrial Design Internship (Heating and Climate)
 Wernau, Germany
@@ -917,13 +828,6 @@ Formlabs
 Industrial Design Intern (Winter/Spring 2027)
 Somerville, MA
 https://careers.formlabs.com/job/8172232/apply/
-````
-
-````text
-Generac
-Industrial Design Intern
-Waukesha, WI
-https://generac.wd5.myworkdayjobs.com/External/job/Waukesha-WI---USA/Industrial-Design-Intern_JR15337
 ````
 
 ````text
@@ -1399,13 +1303,6 @@ Adobe
 2027 Intern - Brand Creative
 San Francisco, CA
 https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/XMLNAME-2027-Intern---Brand-Creative_R173411
-````
-
-````text
-Sonos
-Brand Design Intern (New York)
-New York, NY (in office at least 4 days a week)
-https://sonos.wd1.myworkdayjobs.com/Sonos/job/New-York-NY/Brand-Design-Intern--New-York-_R2877-1
 ````
 
 ````text

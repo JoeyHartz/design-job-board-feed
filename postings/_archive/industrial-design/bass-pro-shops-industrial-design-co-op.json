@@ -15,17 +15,22 @@
   "url": "https://basspro.wd1.myworkdayjobs.com/careers/job/Springfield-MO-Tracker-Marine-Base-Camp/Industrial-Design-Co-Op_R267065",
   "source": "Watchlist · Physical Design Internships",
   "note": "Boats and outdoor products.",
-  "status": "open",
+  "status": "closed",
   "firstSeen": "2026-10-22",
-  "lastUpdated": "2026-10-22",
+  "lastUpdated": "2026-11-26",
   "lastVerified": "2026-11-09",
-  "closedAt": "",
-  "closedReason": "",
+  "closedAt": "2026-11-26",
+  "closedReason": "no longer listed (re-checked 2026-11-26)",
   "statusHistory": [
     {
       "date": "2026-11-05",
       "status": "open",
       "reason": "imported from artifact"
+    },
+    {
+      "date": "2026-11-26",
+      "status": "closed",
+      "reason": "no longer listed (re-checked 2026-11-26)"
     }
   ],
   "facts": {},
