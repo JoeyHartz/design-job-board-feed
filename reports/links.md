@@ -1,13 +1,12 @@
-# Link check: 2026-11-26
+# Link check: 2026-11-27
 
-Generated 2026-11-26T14:32-06:00 by the daily maintenance Action. 245 open postings: 218 ok, **17 look gone**, 10 couldn't be checked, 0 skipped (LinkedIn). Nothing is closed automatically: the routine opens each "look gone" posting and closes it only if it's really gone.
+Generated 2026-11-27T14:18-06:00 by the daily maintenance Action. 242 open postings: 218 ok, **15 look gone**, 9 couldn't be checked, 0 skipped (LinkedIn). Nothing is closed automatically: the routine opens each "look gone" posting and closes it only if it's really gone.
 
 ## Look gone (routine: confirm and close)
 
 | Posting | Company | Title | Detail | Link |
 |---|---|---|---|---|
 | athena-summer-2027-designer-intern-creative | Athena Global Advisors | Summer 2027 Intern, Designer, Creative Department | redirected to a general page: https://ats.rippling.com/athena-careers/jobs?rr_message=job_not_found | [link](https://ats.rippling.com/athena-careers/jobs/6caed124-e1e5-45a8-a485-87bd9811c699) |
-| bisco-creative-designer-junior | BISCO Inc. | Creative Designer, Junior | HTTP 410 | [link](https://biscodentalproducts.applytojob.com/apply/8p8gcuDEGY/Creative-Designer-Junior) |
 | chicago-fire-fc-creative-presentation-designer | Chicago Fire FC | Creative Presentation Designer | HTTP 410 | [link](https://www.mediabistro.com/jobs/3542579729-creative-presentation-designer-job-at-chicago-fire-fc-in-chicago) |
 | cotton-citizen-junior-graphic-designer | Cotton Citizen | Junior Graphic Designer | HTTP 410 | [link](https://www.mediabistro.com/jobs/3542756355-junior-graphic-designer) |
 | disney-fx-design-and-vfx-intern-spring-2027 | Disney (FX Networks) | FX Design & VFX Intern, Spring 2027 | HTTP 410 | [link](https://www.mediabistro.com/jobs/3543011965-fx-design-vfx-intern-spring-2027) |
@@ -22,7 +21,6 @@ Generated 2026-11-26T14:32-06:00 by the daily maintenance Action. 245 open posti
 | ravenhill-studio-design-specialist | Ravenhill Studio | Design Specialist | HTTP 404 | [link](https://www.coroflot.com/design-jobs/Design-Specialist-Ravenhill-Studio-Los-Angeles-CA-682101) |
 | smurfit-westrock-assoc-designer-california-mo | Smurfit Westrock | Assoc Dsgn, Graphic Design | HTTP 410 | [link](https://www.mediabistro.com/jobs/3539132189-assoc-dsgngraphic-design) |
 | stellantis-pdo-cad-design-engineer-internship-2027 | Stellantis | 2027 Product Design Office (PDO) – CAD Design Engineer Internship | HTTP 404 | [link](https://careers.stellantis.com/job/23787234/2027-product-design-office-pdo-cad-design-engineer-internship-auburn-hills-mi/) |
-| stryker-id-intern-summer-2027 | Stryker | Summer 2027 Industrial Design Intern | HTTP 404 | [link](https://careers.stryker.com/summer-2027-internship-industrial-design-intern-michigan/job/3C649FE37894FD709387079C73D8FE5C) |
 
 ## Couldn't be checked (no action needed)
 
@@ -30,7 +28,6 @@ Generated 2026-11-26T14:32-06:00 by the daily maintenance Action. 245 open posti
 |---|---|---|---|---|
 | ford-junior-designer-vehicle-design-long-beach | Ford | Junior Designer | URLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1011) | [link](https://apply.ford.com/en/sites/CX_1/job/70670/apply/email) |
 | henkel-industrial-design-intern-jan-aug-2027 | Henkel | Industrial Design Intern (Jan–Aug 2027) | HTTP 404, blocked by the site's bot protection | [link](https://www.henkel-northamerica.com/careers/jobs-and-application/2239482-2239482) |
-| industrialpartners-product-design-product-development-internship | industrialpartners | Product Design / Product Development Internship | URLError: timed out | [link](https://industrialpartners.de/en/jobs/) |
 | polaris-cmf-graphics-intern | Polaris | CMF & Graphics Intern - Advanced Digital & Material Focus | HTTP 403, blocked by the site's bot protection | [link](https://www.careerbuilder.com/job-details/cmf-graphics-intern-advanced-digital-material-focus-medina-mn--19a324c4-9ab9-4ece-8427-8b65f51143b4) |
 | priority-designs-spring-semester-2027-industrial-design-co-op | Priority Designs | Spring Semester 2027 Industrial Design Co-op | HTTP 403 | [link](https://www.simplyhired.com/job/s8irLeJ_7UJNunvcZPVKqY_tfCuOTWG2BG-g-ORAv_BF0ITPR8TFfg) |
 | tesla-internship-cmf-design-design-studio-winter-spring-2027 | Tesla | Internship, CMF Design, Design Studio (Winter/Spring 2027) | HTTP 403, blocked by the site's bot protection | [link](https://www.tesla.com/careers/search/job/internship-cmf-design-design-studio-winter-spring-2027-279012) |

@@ -1,6 +1,6 @@
 {
- "date": "2026-11-26",
- "generated": "2026-11-26T14:32-06:00",
+ "date": "2026-11-27",
+ "generated": "2026-11-27T14:18-06:00",
  "postings": [
   {
    "id": "3m-brand-design-intern-sibg-2027",
@@ -34,7 +34,7 @@
    "company": "Alpinestars",
    "title": "Junior Graphic Designer",
    "url": "https://jobs.lever.co/alpinestars/9d277ad6-edde-4b9d-8f1b-d35f778a8f4f",
-   "lastVerified": "2026-11-10",
+   "lastVerified": "2026-11-27",
    "result": "ok",
    "detail": "HTTP 200"
   },
@@ -43,7 +43,7 @@
    "company": "Andersen",
    "title": "Graphic Design Intern",
    "url": "https://andersen.wd12.myworkdayjobs.com/Andersen_External_Career_Site/job/Bayport-MN/Graphic-Design-Intern_R-8369",
-   "lastVerified": "2026-11-10",
+   "lastVerified": "2026-11-27",
    "result": "ok",
    "detail": "Workday lists this job"
   },
@@ -52,7 +52,7 @@
    "company": "Aptiv",
    "title": "Multimedia Design Intern",
    "url": "https://www.wayup.com/i-Automotive-j-Multimedia-Design-Intern-Aptiv-782004987380242/",
-   "lastVerified": "2026-11-10",
+   "lastVerified": "2026-11-27",
    "result": "ok",
    "detail": "HTTP 200"
   },
@@ -64,15 +64,6 @@
    "lastVerified": "2026-11-11",
    "result": "gone",
    "detail": "redirected to a general page: https://ats.rippling.com/athena-careers/jobs?rr_message=job_not_found"
-  },
-  {
-   "id": "bisco-creative-designer-junior",
-   "company": "BISCO Inc.",
-   "title": "Creative Designer, Junior",
-   "url": "https://biscodentalproducts.applytojob.com/apply/8p8gcuDEGY/Creative-Designer-Junior",
-   "lastVerified": "2026-11-10",
-   "result": "gone",
-   "detail": "HTTP 410"
   },
   {
    "id": "bubbas-la-motion-design-intern-spring-2027",
@@ -88,7 +79,7 @@
    "company": "CHAMPRO Sports",
    "title": "Creative Graphic Designer",
    "url": "https://careers.jobscore.com/careers/champrosports/jobs/creative-graphic-designer-b02ZvwtfHlBPBjNaSSsh97",
-   "lastVerified": "2026-11-10",
+   "lastVerified": "2026-11-27",
    "result": "ok",
    "detail": "HTTP 200"
   },
@@ -439,7 +430,7 @@
    "company": "Arc'teryx",
    "title": "Colour Designer 1, Footwear",
    "url": "https://jobs.lever.co/arcteryx.com/d13eb8f4-c1a1-42a5-b27c-6326ac92a8a5",
-   "lastVerified": "2026-11-10",
+   "lastVerified": "2026-11-27",
    "result": "ok",
    "detail": "HTTP 200"
   },
@@ -863,8 +854,8 @@
    "title": "Product Design / Product Development Internship",
    "url": "https://industrialpartners.de/en/jobs/",
    "lastVerified": "2026-11-25",
-   "result": "unreachable",
-   "detail": "URLError: timed out"
+   "result": "ok",
+   "detail": "HTTP 200"
   },
   {
    "id": "international-paper-structural-designer-i-fond-du-lac",
@@ -898,7 +889,7 @@
    "company": "KEEN Footwear",
    "title": "Footwear Design Intern (Summer 2027)",
    "url": "https://job-boards.greenhouse.io/keenfootwear/jobs/4751551005",
-   "lastVerified": "2026-11-10",
+   "lastVerified": "2026-11-27",
    "result": "gone",
    "detail": "redirected to a general page: https://www.keenfootwear.com/pages/careers-listings?4751551005&gh_jid=4751551005"
   },
@@ -1389,15 +1380,6 @@
    "detail": "HTTP 200"
   },
   {
-   "id": "rogue-fitness-product-designer-intern",
-   "company": "Rogue Fitness",
-   "title": "Product Designer Intern",
-   "url": "https://roguefitness.wd1.myworkdayjobs.com/RogueFitness_External_Careers/job/Columbus-Ohio/Product-Designer-Intern_R-102996",
-   "lastVerified": "2026-11-10",
-   "result": "ok",
-   "detail": "HTTP 200"
-  },
-  {
    "id": "salomon-internship-cmf-designer",
    "company": "Salomon",
    "title": "Internship – CMF Designer",
@@ -1483,7 +1465,7 @@
    "company": "Stanley Black & Decker",
    "title": "Summer Intern 2027 – Industrial Design 3D Surfacing",
    "url": "https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Valley-City-OH-United-States/Summer-Intern-2027---Industrial-Design-3D-Surfacing_REQ-1000052790",
-   "lastVerified": "2026-11-10",
+   "lastVerified": "2026-11-27",
    "result": "ok",
    "detail": "Workday lists this job"
   },
@@ -1501,7 +1483,7 @@
    "company": "Stellantis",
    "title": "2027 Product Design Office (PDO) – Auto Design Internship",
    "url": "https://careers.stellantis.com/job/23787233/2027-product-design-office-pdo-auto-design-internship-auburn-hills-mi/",
-   "lastVerified": "2026-11-10",
+   "lastVerified": "2026-11-27",
    "result": "ok",
    "detail": "HTTP 200"
   },
@@ -1528,7 +1510,7 @@
    "company": "STIHL",
    "title": "Engineering and Product Design Internship (Advance Development)",
    "url": "https://jobs.stihl.com/job/Waiblingen-Praktikum-Technik-und-Produktdesign-in-der-Vorentwicklung-BW-71336/1379969833/",
-   "lastVerified": "2026-11-10",
+   "lastVerified": "2026-11-27",
    "result": "ok",
    "detail": "HTTP 200"
   },
@@ -1537,18 +1519,9 @@
    "company": "STIHL",
    "title": "Product and Industrial Design Internship",
    "url": "https://jobs.stihl.com/job/Waiblingen-Praktikum-Produkt-und-Industrie-Design-BW-71336/1421253333/",
-   "lastVerified": "2026-11-10",
+   "lastVerified": "2026-11-27",
    "result": "ok",
    "detail": "HTTP 200"
-  },
-  {
-   "id": "stryker-id-intern-summer-2027",
-   "company": "Stryker",
-   "title": "Summer 2027 Industrial Design Intern",
-   "url": "https://careers.stryker.com/summer-2027-internship-industrial-design-intern-michigan/job/3C649FE37894FD709387079C73D8FE5C",
-   "lastVerified": "2026-11-10",
-   "result": "gone",
-   "detail": "HTTP 404"
   },
   {
    "id": "tandem-design-entry-level-industrial-designer",
@@ -1672,7 +1645,7 @@
    "company": "Trig",
    "title": "Industrial Design Internship (Design + Development Team)",
    "url": "https://www.trig.com/careers/industrial-design-internship-design-development-team",
-   "lastVerified": "2026-11-10",
+   "lastVerified": "2026-11-27",
    "result": "ok",
    "detail": "HTTP 200"
   },
@@ -1906,7 +1879,7 @@
    "company": "Allegion",
    "title": "Summer Intern - User Experience (UX)",
    "url": "https://allegion.wd5.myworkdayjobs.com/careers/job/Golden-CO/Summer-Intern---User-Experience--UX-_JR37673-1",
-   "lastVerified": "2026-11-10",
+   "lastVerified": "2026-11-27",
    "result": "ok",
    "detail": "Workday lists this job"
   },
