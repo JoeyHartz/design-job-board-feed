@@ -2,7 +2,7 @@
 
 Open internships, co-ops and entry-level jobs for Industrial Design, Graphic Design and UI/UX students in the School of Art & Design at the University of Illinois Urbana-Champaign.
 
-**243 open jobs** · updated Nov 26, 2026 · download as [CSV](postings.csv) or [JSON](postings.json)
+**240 open jobs** · updated Nov 27, 2026 · download as [CSV](postings.csv) or [JSON](postings.json)
 
 > Every job here was checked against our criteria and approved by a person before it was listed, but jobs can close without notice. Always confirm the details on the employer's site before you apply.
 
@@ -10,8 +10,8 @@ Open internships, co-ops and entry-level jobs for Industrial Design, Graphic Des
 
 - [Closing soon](#closing-soon) (12)
 - [New this week](#new-this-week) (0)
-- **[Industrial Design](#industrial-design)** (154): [Chicago area](#industrial-design--chicago-area) (4) · [Midwest](#industrial-design--midwest) (41) · [Remote](#industrial-design--remote) (1) · [Elsewhere in US](#industrial-design--elsewhere-in-us) (70) · [International](#industrial-design--international) (38)
-- **[Graphic Design](#graphic-design)** (43): [Chicago area](#graphic-design--chicago-area) (7) · [Midwest](#graphic-design--midwest) (12) · [Remote](#graphic-design--remote) (3) · [Elsewhere in US](#graphic-design--elsewhere-in-us) (18) · [International](#graphic-design--international) (3)
+- **[Industrial Design](#industrial-design)** (152): [Chicago area](#industrial-design--chicago-area) (4) · [Midwest](#industrial-design--midwest) (39) · [Remote](#industrial-design--remote) (1) · [Elsewhere in US](#industrial-design--elsewhere-in-us) (70) · [International](#industrial-design--international) (38)
+- **[Graphic Design](#graphic-design)** (42): [Chicago area](#graphic-design--chicago-area) (6) · [Midwest](#graphic-design--midwest) (12) · [Remote](#graphic-design--remote) (3) · [Elsewhere in US](#graphic-design--elsewhere-in-us) (18) · [International](#graphic-design--international) (3)
 - **[UI/UX & Digital Product](#uiux--digital-product)** (37): [Chicago area](#uiux--digital-product--chicago-area) (1) · [Midwest](#uiux--digital-product--midwest) (12) · [Remote](#uiux--digital-product--remote) (3) · [Elsewhere in US](#uiux--digital-product--elsewhere-in-us) (19) · [International](#uiux--digital-product--international) (2)
 - **[ID + GD](#id--gd)** (9): [Chicago area](#id--gd--chicago-area) (1) · [Midwest](#id--gd--midwest) (6) · [Elsewhere in US](#id--gd--elsewhere-in-us) (1) · [International](#id--gd--international) (1)
 - [About this list](#about-this-list)
@@ -47,7 +47,7 @@ None this week.
 
 ## Industrial Design
 
-154 jobs: [Chicago area](#industrial-design--chicago-area) (4) · [Midwest](#industrial-design--midwest) (41) · [Remote](#industrial-design--remote) (1) · [Elsewhere in US](#industrial-design--elsewhere-in-us) (70) · [International](#industrial-design--international) (38)
+152 jobs: [Chicago area](#industrial-design--chicago-area) (4) · [Midwest](#industrial-design--midwest) (39) · [Remote](#industrial-design--remote) (1) · [Elsewhere in US](#industrial-design--elsewhere-in-us) (70) · [International](#industrial-design--international) (38)
 
 ### Industrial Design · Chicago area
 
@@ -256,11 +256,6 @@ Priority Designs · Co-op · Jan 11 – Apr 23, 2027
 Columbus, OH · Pay: $20–25/hr · Found Oct 22  
 _Product design consultancy; in person._
 
-**[Product Designer Intern](https://roguefitness.wd1.myworkdayjobs.com/RogueFitness_External_Careers/job/Columbus-Ohio/Product-Designer-Intern_R-102996)**  
-Rogue Fitness · Internship · May 17 – Jul 30, 2027  
-Columbus, OH · Pay: $30/hr · Found Oct 22  
-_Fitness equipment; leans toward design engineering._
-
 **[Summer Intern 2027 – Industrial Design 3D Surfacing](https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Valley-City-OH-United-States/Summer-Intern-2027---Industrial-Design-3D-Surfacing_REQ-1000052790)**  
 Stanley Black & Decker · Internship · Summer 2027  
 Valley City, OH · Pay: $22–27/hr · **Apply by Nov 30, 2026** · Found Oct 22  
@@ -270,11 +265,6 @@ _Tools; CAD surfacing._
 Stellantis · Internship · May – Aug 2027  
 Auburn Hills, MI · Pay: Paid · Found Oct 22  
 _For Automotive, Product or Industrial Design majors; relocation help may be available._
-
-**[Summer 2027 Industrial Design Intern](https://careers.stryker.com/summer-2027-internship-industrial-design-intern-michigan/job/3C649FE37894FD709387079C73D8FE5C)**  
-Stryker · Internship · Summer 2027  
-Portage, MI · on-site · Pay: $20–35/hr · Found Oct 22  
-_Medical devices. Sketching, prototyping, CAD and user research; must still be enrolled after the internship._
 
 [Back to top](#id--gd-job-board)
 
@@ -822,19 +812,19 @@ _Product design and innovation consultancy._
 
 **[Engineering and Product Design Internship (Advance Development)](https://jobs.stihl.com/job/Waiblingen-Praktikum-Technik-und-Produktdesign-in-der-Vorentwicklung-BW-71336/1379969833/)**  
 STIHL · Internship  
-Waiblingen, Germany · Pay: €2,117/month · Found Oct 22  
+Waiblingen, Germany · Pay: €2,223/month · Found Oct 22  
 _Requires very good German._
 
 **[Product and Industrial Design Internship](https://jobs.stihl.com/job/Waiblingen-Praktikum-Produkt-und-Industrie-Design-BW-71336/1421253333/)**  
 STIHL · Internship · From March 2027  
-Waiblingen, Germany · Pay: €2,117/month · Found Oct 22  
+Waiblingen, Germany · Pay: €2,223/month · Found Oct 22  
 _Power tools and outdoor equipment; posting is in German._
 
 [Back to top](#id--gd-job-board)
 
 ## Graphic Design
 
-43 jobs: [Chicago area](#graphic-design--chicago-area) (7) · [Midwest](#graphic-design--midwest) (12) · [Remote](#graphic-design--remote) (3) · [Elsewhere in US](#graphic-design--elsewhere-in-us) (18) · [International](#graphic-design--international) (3)
+42 jobs: [Chicago area](#graphic-design--chicago-area) (6) · [Midwest](#graphic-design--midwest) (12) · [Remote](#graphic-design--remote) (3) · [Elsewhere in US](#graphic-design--elsewhere-in-us) (18) · [International](#graphic-design--international) (3)
 
 ### Graphic Design · Chicago area
 
@@ -857,11 +847,6 @@ _Paid brand-communications internship for juniors or seniors in graphic design, 
 Weber Blackstone · Entry-level · Full-time  
 Palatine, IL · hybrid · Pay: $68,000–$80,000/year · Found Nov 11  
 _Layout of grill manuals, assembly guides and warning labels in InDesign; open to 0–3 years of experience._
-
-**[Creative Designer, Junior](https://biscodentalproducts.applytojob.com/apply/8p8gcuDEGY/Creative-Designer-Junior)**  
-BISCO Inc. · Entry-level · Full-time  
-Schaumburg, IL (hybrid) · Pay: $55,000–$64,000 a year · Found Nov 10  
-_Dental products company; marketing and packaging design._
 
 **[Creative Graphic Designer](https://careers.jobscore.com/careers/champrosports/jobs/creative-graphic-designer-b02ZvwtfHlBPBjNaSSsh97)**  
 CHAMPRO Sports · Entry-level · Full-time  

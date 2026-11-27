@@ -1,10 +1,10 @@
 # Copy-and-paste job list
 
-**243 open jobs** · updated Nov 26, 2026 · [readable version](postings.md)
+**240 open jobs** · updated Nov 27, 2026 · [readable version](postings.md)
 
 Each job is in its own box as four lines: company, role title, location, link. On GitHub, hover over a box and click its copy button (top right) to copy that job.
 
-Jump to: [New this week](#new-this-week) (0) · [Industrial Design](#industrial-design) (154) · [Graphic Design](#graphic-design) (43) · [UI/UX & Digital Product](#uiux--digital-product) (37) · [ID + GD](#id--gd) (9)
+Jump to: [New this week](#new-this-week) (0) · [Industrial Design](#industrial-design) (152) · [Graphic Design](#graphic-design) (42) · [UI/UX & Digital Product](#uiux--digital-product) (37) · [ID + GD](#id--gd) (9)
 
 ## New this week
 
@@ -1006,13 +1006,6 @@ https://www.simplyhired.com/job/s8irLeJ_7UJNunvcZPVKqY_tfCuOTWG2BG-g-ORAv_BF0ITP
 ````
 
 ````text
-Rogue Fitness
-Product Designer Intern
-Columbus, OH
-https://roguefitness.wd1.myworkdayjobs.com/RogueFitness_External_Careers/job/Columbus-Ohio/Product-Designer-Intern_R-102996
-````
-
-````text
 Shure
 Industrial Design Intern (Summer 2027)
 Niles, IL · hybrid
@@ -1045,13 +1038,6 @@ STIHL
 Product and Industrial Design Internship
 Waiblingen, Germany
 https://jobs.stihl.com/job/Waiblingen-Praktikum-Produkt-und-Industrie-Design-BW-71336/1421253333/
-````
-
-````text
-Stryker
-Summer 2027 Industrial Design Intern
-Portage, MI · on-site
-https://careers.stryker.com/summer-2027-internship-industrial-design-intern-michigan/job/3C649FE37894FD709387079C73D8FE5C
 ````
 
 ````text
@@ -1254,13 +1240,6 @@ Andersen
 Graphic Design Intern
 Bayport, MN
 https://andersen.wd12.myworkdayjobs.com/Andersen_External_Career_Site/job/Bayport-MN/Graphic-Design-Intern_R-8369
-````
-
-````text
-BISCO Inc.
-Creative Designer, Junior
-Schaumburg, IL (hybrid)
-https://biscodentalproducts.applytojob.com/apply/8p8gcuDEGY/Creative-Designer-Junior
 ````
 
 ````text
